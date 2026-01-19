@@ -2740,7 +2740,7 @@
     "relation": "Catalyst category->Catalyst"
   },
   {
-    "source": 47,
+    "source": 251,
     "target": 536,
     "relation": "Product category->Product"
   },
@@ -18636,7 +18636,7 @@
   },
   {
     "source": 1261,
-    "target": 824,
+    "target": 1125,
     "relation": "Reaction mode->Product category"
   },
   {
