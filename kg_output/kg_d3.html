@@ -1,0 +1,1774 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Knowledge Graphs for Sustainable Aviation Fuel</title>
+<style>
+
+/* 新增：密码验证界面样式 */
+#password-protection {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #ffffff 0%, #ffffff 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  font-family: Arial, sans-serif;
+}
+
+.password-container {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 40px;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(255, 255, 255, 0.3);
+  text-align: center;
+  width: 350px;
+  max-width: 90%;
+}  
+
+
+  html,body { 
+    height:100%; 
+    margin:0; 
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+  }
+  #controls {
+    position:absolute;
+    top:10px;
+    left:10px;
+    background:rgba(255,255,255,0.95);
+    border:1px solid #ccc;
+    padding:12px;
+    border-radius:8px;
+    font-size:12px;
+    max-height:90%;
+    overflow:auto;
+    z-index:10;
+    width:350px;
+    box-shadow: 0 2px 10px rgba(255, 255, 255, 0.1);
+  }
+  #graph-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #ffffff;
+  }
+  .filter-section { 
+    margin-bottom: 12px;
+    padding: 10px;
+    background: #f9f9f9;
+    border-radius: 5px;
+  }
+  .filter-section h4 { 
+    margin:0 0 8px 0; 
+    color: #333;
+    font-size: 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* 可点击的分类标签样式 */
+  .category-tag {
+    display: inline-block;
+    background: #e0e0e0;
+    padding: 4px 10px;
+    margin: 3px;
+    border-radius: 15px;
+    font-size: 11px;
+    font-weight: bold;
+    color: #555;
+    cursor: pointer;
+    transition: all 0.3s;
+    border: 2px solid transparent;
+  }
+  
+  .category-tag:hover {
+    background: #d0d0d0;
+    transform: translateY(-1px);
+  }
+  
+  .category-tag.selected {
+    background: #4CAF50;
+    color: white;
+    border-color: #388E3C;
+  }
+  
+  /* 可调整大小的选项容器 */
+  .options-container {
+    min-height: 100px;
+    max-height: 250px;
+    height: 200px; /* 默认高度 */
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    background: white;
+    margin: 8px 0;
+   /* resize: vertical; /* 允许垂直调整大小 */
+    cursor: ns-resize;
+  }
+  
+  .option-item {
+    padding: 6px;
+    margin: 3px 0;
+    font-size: 12px;
+    border-bottom: 1px solid #f0f0f0;
+    transition: background-color 0.2s;
+  }
+  
+  .option-item:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .option-item:last-child {
+    border-bottom: none;
+  }
+  
+  .option-item label {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  
+  .option-item input[type="checkbox"] {
+    margin-right: 8px;
+    transform: scale(1.1);
+  }
+  
+  /* 下拉选择框也改为可调整大小 */
+  .filter-select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: white;
+    font-size: 12px;
+   /* resize: vertical; */
+    min-height: 100px;
+    height: 120px;
+  }
+  
+  .button-group {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin: 15px 0;
+  }
+  button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: bold;
+    transition: all 0.3s;
+  }
+  button:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  }
+  #search-btn { background: #4CAF50; color: white; }
+  #reset-btn { background: #f44336; color: white; }
+  #center-btn { background: #2196F3; color: white; }
+  .select-all-none {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+    margin: 8px 0;
+  }
+  .select-all-none button { 
+    background: #666; 
+    color: white;
+    padding: 6px;
+    font-size: 11px;
+  }
+  .selected-count {
+    font-size: 12px;
+    color: #666;
+    background: #eee;
+    padding: 2px 6px;
+    border-radius: 10px;
+  }
+  #loading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 18px;
+    z-index: 100;
+  }
+  .error-message {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: rgba(255,0,0,0.8);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 100;
+    max-width: 300px;
+  }
+  
+  /* 节点选择样式 */
+  .node-selected {
+    border: 2px solid yellow;
+    box-shadow: 0 0 10px yellow;
+  }
+  
+  /* 筛选器状态指示 */
+  .filter-status {
+    font-size: 10px;
+    color: #666;
+    font-style: italic;
+    margin-top: 5px;
+  }
+  
+  /* 分类标签容器 */
+  .category-tags-container {
+    margin: 8px 0;
+    padding: 8px;
+    background: #f8f8f8;
+    border-radius: 4px;
+    border-left: 3px solid #4CAF50;
+  }
+</style>
+</head>
+<body>
+
+<!-- 新增：密码验证界面 -->
+<div id="password-protection" style="
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #ffffff 0%, #ffffff 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  font-family: Arial, sans-serif;
+">
+  <div style="
+    background: rgba(255, 255, 255, 0.95);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    width: 350px;
+    max-width: 90%;
+  ">
+    <h2 style="color: #333; margin-bottom: 10px;">🔒 Access restricted</h2>
+    <p style="color: #666; margin-bottom: 25px; font-size: 14px;">
+      Please enter a password to access the Knowledge Graphs for Sustainable Aviation Fuel
+    </p>
+    <input 
+      type="password" 
+      id="password-input" 
+      placeholder="Enter access password" 
+      style="
+        width: 100%;
+        padding: 12px;
+        border: 2px solid #ddd;
+        border-radius: 8px;
+        font-size: 16px;
+        margin-bottom: 20px;
+        box-sizing: border-box;
+        transition: border-color 0.3s;
+      "
+      onkeypress="if(event.key === 'Enter') verifyPassword()"
+    >
+    <button 
+      onclick="verifyPassword()" 
+      style="
+        width: 100%;
+        padding: 12px;
+        background: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 16px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: background 0.3s;
+      "
+      onmouseover="this.style.background='#45a049'"
+      onmouseout="this.style.background='#4CAF50'"
+    >
+      Verify password
+    </button>
+    <p id="error-message" style="color: #f44336; margin-top: 15px; font-size: 13px; display: none;">
+      Incorrect password. Please try again.
+    </p>
+  </div>
+</div>
+
+
+
+<div id="controls">
+  <h3 style="text-align: center; margin-bottom: 20px; color: #333;">Knowledge Graphs for Sustainable Aviation Fuel</h3>
+  <div id="filters-container"></div>
+  <div class="button-group">
+    <button id="search-btn">🔍 Search Nodes</button>
+    <button id="reset-btn">🔄 Reset All</button>
+    <button id="center-btn">🎯 Center View</button>
+  </div>
+</div>
+<div id="loading">Loading Graph...</div>
+<div id="graph-container"></div>
+
+<!-- 引入必要的库 -->
+<script src="https://unpkg.com/three@0.150.1/build/three.min.js"></script>
+<script src="https://unpkg.com/3d-force-graph@1.70.12/dist/3d-force-graph.min.js"></script>
+
+<!-- 在模块脚本之前添加普通脚本 -->
+<script>
+// 新增：密码验证功能
+const CORRECT_PASSWORD = "saf2025"; // 设置您的密码
+
+function verifyPassword() {
+  const passwordInput = document.getElementById('password-input');
+  const errorMessage = document.getElementById('error-message');
+  const passwordProtection = document.getElementById('password-protection');
+  
+  if (passwordInput.value === CORRECT_PASSWORD) {
+    // 密码正确，隐藏验证界面，显示主内容
+    passwordProtection.style.display = 'none';
+    document.getElementById('controls').style.display = 'block';
+    document.getElementById('graph-container').style.display = 'block';
+    document.getElementById('loading').style.display = 'block';
+    
+    // 存储验证状态
+    sessionStorage.setItem('passwordVerified', 'true');
+    
+    // 重新加载页面以确保图谱正确初始化
+    window.location.reload();
+  } else {
+    // 密码错误
+    errorMessage.style.display = 'block';
+    passwordInput.style.borderColor = '#f44336';
+    passwordInput.value = '';
+    passwordInput.focus();
+    
+    // 3秒后隐藏错误信息
+    setTimeout(() => {
+      errorMessage.style.display = 'none';
+      passwordInput.style.borderColor = '#ddd';
+    }, 3000);
+  }
+}
+
+// 检查是否已经验证过（刷新页面时）
+document.addEventListener('DOMContentLoaded', function() {
+  const isVerified = sessionStorage.getItem('passwordVerified') === 'true';
+  const passwordProtection = document.getElementById('password-protection');
+  const controls = document.getElementById('controls');
+  const graphContainer = document.getElementById('graph-container');
+  const loading = document.getElementById('loading');
+  
+  if (isVerified) {
+    // 已通过验证，显示主内容
+    passwordProtection.style.display = 'none';
+    controls.style.display = 'block';
+    graphContainer.style.display = 'block';
+    loading.style.display = 'block';
+  } else {
+    // 未通过验证，显示密码界面
+    passwordProtection.style.display = 'flex';
+    controls.style.display = 'none';
+    graphContainer.style.display = 'none';
+    loading.style.display = 'none';
+    
+    // 聚焦到密码输入框
+    setTimeout(() => {
+      const passwordInput = document.getElementById('password-input');
+      if (passwordInput) passwordInput.focus();
+    }, 100);
+  }
+});
+
+
+</script>
+
+<script type="module">
+  // 动态导入 three-spritetext
+let SpriteText;
+
+// 先检查认证状态，再决定是否加载模块
+if (sessionStorage.getItem('passwordVerified') === 'true') {
+  import('https://esm.sh/three-spritetext').then(module => {
+    SpriteText = module.default;
+    // 初始化图谱
+    initializeGraph();
+  }).catch(error => {
+    console.error('Failed to load three-spritetext:', error);
+    // 如果加载失败，使用备选方案
+    initializeGraph();
+  });
+} else {
+  // 如果没有通过验证，隐藏loading
+  document.getElementById('loading').style.display = 'none';
+}
+
+function initializeGraph() {
+  class KnowledgeGraph3D {
+    constructor() {
+      // 检查认证状态
+      this.isAuthenticated = sessionStorage.getItem('passwordVerified') === 'true';
+      
+      if (!this.isAuthenticated) {
+        console.log('未通过密码验证，跳过图谱初始化');
+        document.getElementById('loading').style.display = 'none';
+        return;
+      }
+      
+      // 原有的初始化代码
+      this.graph = null;
+      this.nodes = [];
+      this.links = [];
+      this.categories = {};
+      this.visibleNodes = new Set();
+      this.visibleLinks = new Set();
+      this.nodeColors = {};
+      this.filterOrder = [];
+      this.availableNodesByType = {};
+      this.selectedNodes = new Set();
+      this.currentlyHighlighted = new Set();
+      this.currentFilterIndex = 0;
+      this.selectedCategories = new Set();
+
+      this.pinnedTooltip = null; // 新增：固定的工具提示节点
+      this.isTooltipPinned = false; // 新增：工具提示是否固定
+      
+      this.init();
+    }
+
+    async init() {
+      if (!this.isAuthenticated) {
+        console.log('初始化中止：未通过身份验证');
+        document.getElementById('loading').style.display = 'none';
+        return;
+      }
+      
+      try {
+        await this.loadData();
+        this.setupGraph();
+        this.createCascadingFiltersWithCategories();
+        this.setupEventListeners();
+      } catch (error) {
+        this.showError('初始化失败: ' + error.message);
+        console.error('初始化错误:', error);
+        document.getElementById('loading').style.display = 'none';
+      }
+    }
+
+    async loadData() {
+      // 新增：检查认证状态
+      if (!this.isAuthenticated) {
+        throw new Error('未通过身份验证，无法加载数据');
+      }
+      
+      try {
+        let data;
+        try {
+          const response = await fetch('graph.json');
+          if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+          }
+          data = await response.json();
+          console.log('成功从 graph.json 加载数据');
+          
+        } catch (error) {
+          console.warn('无法加载 graph.json:', error.message);
+          try {
+            const [nodesResponse, linksResponse] = await Promise.all([
+              fetch('nodes.json'),
+              fetch('links.json')
+            ]);
+            
+            if (nodesResponse.ok && linksResponse.ok) {
+              const nodes = await nodesResponse.json();
+              const links = await linksResponse.json();
+              data = { nodes, links };
+              console.log('成功从 nodes.json 和 links.json 加载数据');
+            } else {
+              throw new Error('无法加载数据文件');
+            }
+          } catch (secondError) {
+            console.warn('也无法加载分开的JSON文件:', secondError.message);
+            data = this.generateCompleteTestData();
+            console.log('使用完整测试数据');
+          }
+        }
+        
+        this.nodes = data.nodes;
+        this.links = data.links;
+        
+        try {
+          const categoryResponse = await fetch('categories.json');
+          this.categories = await categoryResponse.json();
+          console.log('成功加载category数据');
+        } catch (error) {
+          console.log('无法加载categories.json，从节点数据生成category信息');
+          this.generateCategoriesFromNodes();
+        }
+        
+        this.validateData();
+
+        this.graphData = {
+        nodes: this.nodes.map(node => ({
+        id: node.id,
+        name: node.name,
+       type: node.type,
+       category: node.category,
+       // 添加这两行，复制titles和dois字段
+       titles: node.titles || [],
+       dois: node.dois || [],
+       val: 5,
+        color: this.nodeColors[node.type] || '#888888'
+     })),
+     links: this.links.map(link => ({
+    source: link.source,
+    target: link.target,
+    relation: link.relation || 'related'
+      }))
+    };
+        
+        this.setupNodeColors();
+        this.setupFilterOrder();
+        
+      } catch (error) {
+        console.error('加载数据错误:', error);
+        throw error;
+      }
+    }
+
+    // generateCategoriesFromNodes 方法保持不变
+    generateCategoriesFromNodes() {
+      this.categories = {
+        "Feedstock": { categories: [], items: {} },
+        "Catalyst": { categories: [], items: {} },
+        "Product": { categories: [], items: {} }
+      };
+      
+      this.nodes.forEach(node => {
+        if (node.type === "Feedstock" && node.category) {
+          if (!this.categories.Feedstock.items[node.category]) {
+            this.categories.Feedstock.categories.push(node.category);
+            this.categories.Feedstock.items[node.category] = [];
+          }
+          this.categories.Feedstock.items[node.category].push(node.name);
+        }
+        if (node.type === "Catalyst" && node.category) {
+          if (!this.categories.Catalyst.items[node.category]) {
+            this.categories.Catalyst.categories.push(node.category);
+            this.categories.Catalyst.items[node.category] = [];
+          }
+          this.categories.Catalyst.items[node.category].push(node.name);
+        }
+        if (node.type === "Product" && node.category) {
+          if (!this.categories.Product.items[node.category]) {
+            this.categories.Product.categories.push(node.category);
+            this.categories.Product.items[node.category] = [];
+          }
+          this.categories.Product.items[node.category].push(node.name);
+        }
+      });
+    }
+
+      getSortFunction(type) {
+        const sortRules = {
+          'Year': (a, b) => {
+            const numA = parseInt(a.name.match(/\d+/)?.[0]) || 0;
+            const numB = parseInt(b.name.match(/\d+/)?.[0]) || 0;
+            return numA - numB;
+          },
+          'Reaction temperature': (a, b) => {
+            const numA = parseInt(a.name.match(/\d+/)?.[0]) || 0;
+            const numB = parseInt(b.name.match(/\d+/)?.[0]) || 0;
+            return numA - numB;
+          },
+          'Reaction pressure': (a, b) => {
+            const numA = parseInt(a.name.match(/\d+/)?.[0]) || 0;
+            const numB = parseInt(b.name.match(/\d+/)?.[0]) || 0;
+            return numA - numB;
+          },
+          'Flow rate': (a, b) => {
+            const numA = parseInt(a.name.match(/\d+/)?.[0]) || 0;
+            const numB = parseInt(b.name.match(/\d+/)?.[0]) || 0;
+            return numA - numB;
+          },
+          'Reaction time': (a, b) => {
+            const numA = parseInt(a.name.match(/\d+/)?.[0]) || 0;
+            const numB = parseInt(b.name.match(/\d+/)?.[0]) || 0;
+            return numA - numB;
+          },
+          'Product yield': (a, b) => {
+            const getYieldValue = (name) => {
+              if (name.includes('>')) return parseInt(name.match(/\d+/)?.[0]) + 100;
+              if (name.includes('-')) {
+                const nums = name.match(/\d+/g);
+                return nums ? parseInt(nums[0]) : 0;
+              }
+              return parseInt(name.match(/\d+/)?.[0]) || 0;
+            };
+            return getYieldValue(a.name) - getYieldValue(b.name);
+          },
+         'Conversion rate': (a, b) => {
+        const getConversionValue = (name) => {
+        if (name.includes('>')) return parseInt(name.match(/\d+/)?.[0]) + 100;
+        if (name.includes('-')) {
+        const nums = name.match(/\d+/g);
+        return nums ? parseInt(nums[0]) : 0;
+        }
+        return parseInt(name.match(/\d+/)?.[0]) || 0;
+        };
+        return getConversionValue(a.name) - getConversionValue(b.name);
+      },
+          'Product selectivity': (a, b) => {
+            const order = { 'High': 3, 'Medium': 2, 'Low': 1 };
+            return (order[b.name] || 0) - (order[a.name] || 0);
+          }
+        };
+        
+        return sortRules[type] || ((a, b) => a.name.localeCompare(b.name));
+      }
+
+      setupFilterOrder() {
+        const allTypes = [
+          "Reaction mode",
+          "Year",
+          "Feedstock",
+          "Catalyst",
+          "Product",
+          "Product selectivity",
+          "Product yield",
+          "Atmosphere", 
+          "Reactant molar ratio",
+          "Flow rate",
+          "Reaction time",
+          "Reaction temperature",
+          "Reaction pressure", 
+          "Solvent", 
+          "Conversion rate",
+          "Feedstock category",
+          "Catalyst category",
+          "Product category"
+        ];
+        
+        const existingTypes = new Set(this.nodes.map(n => n.type));
+        this.filterOrder = allTypes.filter(type => existingTypes.has(type));
+        
+        console.log('筛选顺序:', this.filterOrder);
+      }
+
+      updateAvailableNodes() {
+        this.filterOrder.forEach(type => {
+          const nodesOfType = this.nodes.filter(n => n.type === type);
+          const sortFunction = this.getSortFunction(type);
+          const sortedNodes = nodesOfType.sort(sortFunction);
+          this.availableNodesByType[type] = new Set(sortedNodes.map(n => n.id));
+        });
+
+        const selectedIds = this.getSelectedNodeIds();
+        
+        if (selectedIds.size > 0) {
+          const connectedNodeIds = new Set();
+          
+          selectedIds.forEach(nodeId => {
+            this.links.forEach(link => {
+              if (link.source === nodeId) {
+                connectedNodeIds.add(link.target);
+              }
+              if (link.target === nodeId) {
+                connectedNodeIds.add(link.source);
+              }
+            });
+          });
+
+          let lastSelectedIndex = -1;
+          for (let i = 0; i < this.filterOrder.length; i++) {
+            const type = this.filterOrder[i];
+            const hasSelection = Array.from(selectedIds).some(id => {
+              const node = this.nodes.find(n => n.id === id);
+              return node && node.type === type;
+            });
+            
+            if (hasSelection) {
+              lastSelectedIndex = i;
+            }
+          }
+          
+          this.currentFilterIndex = Math.max(0, lastSelectedIndex);
+
+        
+
+          
+          for (let i = this.currentFilterIndex + 1; i < this.filterOrder.length; i++) {
+            const type = this.filterOrder[i];
+            const currentAvailable = this.availableNodesByType[type];
+            const filteredAvailable = new Set();
+            
+            connectedNodeIds.forEach(nodeId => {
+              const node = this.nodes.find(n => n.id === nodeId);
+              if (node && node.type === type && currentAvailable.has(nodeId)) {
+                filteredAvailable.add(nodeId);
+              }
+            });
+            
+            this.availableNodesByType[type] = filteredAvailable;
+          }
+        } else {
+          this.currentFilterIndex = 0;
+        }
+        
+        this.createCascadingFiltersWithCategories();
+      }
+
+      validateData() {
+        this.nodes.forEach((node, index) => {
+          if (node.id === undefined) {
+            node.id = index;
+          }
+        });
+        
+        this.links = this.links.filter(link => {
+          const sourceExists = this.nodes.some(node => node.id === link.source);
+          const targetExists = this.nodes.some(node => node.id === link.target);
+          return sourceExists && targetExists;
+        });
+      }
+
+      generateCompleteTestData() {
+        const nodes = [];
+        const links = [];
+        let id = 0;
+
+        const typeExamples = {
+          "Reaction mode": ["Hydrogenation", "Oxidation", "Cracking", "Polymerization", "Esterification"],
+          "Year": ["2018", "2019", "2020", "2021", "2022", "2023", "2024"],
+          "Feedstock": [
+            {name: "Methane", category: "Gaseous"},
+            {name: "Ethylene", category: "Gaseous"}, 
+            {name: "Propane", category: "Gaseous"},
+            {name: "Butane", category: "Liquid"},
+            {name: "Benzene", category: "Liquid"},
+            {name: "Toluene", category: "Liquid"}
+          ],
+          "Catalyst": [
+            {name: "Ni Catalyst", category: "Metal"},
+            {name: "Pd Catalyst", category: "Metal"},
+            {name: "Pt Catalyst", category: "Metal"}, 
+            {name: "Zeolite", category: "Mineral"},
+            {name: "Enzyme", category: "Biological"},
+            {name: "Acid Catalyst", category: "Chemical"}
+          ],
+          "Product": [
+            {name: "Ethanol", category: "Alcohol"},
+            {name: "Methanol", category: "Alcohol"}, 
+            {name: "Propylene", category: "Olefin"},
+            {name: "Butadiene", category: "Diene"},
+            {name: "Styrene", category: "Aromatic"},
+            {name: "Ethylene", category: "Olefin"}
+          ],
+          "Product selectivity": ["Low", "Medium", "High", ">90%", "80-90%", "70-80%"],
+          "Product yield": ["50-60%", "60-70%", "70-80%", "80-90%", ">90%"],
+          "Atmosphere": ["Air", "N2", "H2", "O2", "Argon", "Vacuum"],
+          "Reactant molar ratio": ["1:1", "1:2", "1:3", "2:1", "3:1", "10:1"],
+          "Flow rate": ["5 mL/min", "10 mL/min", "20 mL/min", "50 mL/min", "100 mL/min", "200 mL/min"],
+          "Reaction time": ["30 min", "1 h", "2 h", "4 h", "8 h", "24 h"],
+          "Reaction temperature": ["50°C", "100°C", "150°C", "200°C", "250°C", "300°C", "400°C", "500°C"],
+          "Reaction pressure": ["0.5 atm", "1 atm", "5 atm", "10 atm", "20 atm", "50 atm", "100 atm"],
+          "Solvent": ["Water", "Ethanol", "Methanol", "Acetone", "Hexane", "Toluene"],
+          "Conversion rate": ["50-60%", "60-70%", "70-80%", "80-90%", ">90%"]
+        };
+
+        Object.entries(typeExamples).forEach(([type, examples]) => {
+          examples.forEach(example => {
+            if (typeof example === 'object') {
+              nodes.push({ 
+                id: id++, 
+                name: example.name, 
+                type: type,
+                category: example.category 
+              });
+            } else {
+              nodes.push({ id: id++, name: example, type: type });
+            }
+          });
+        });
+
+        const reactionTypeNodes = nodes.filter(n => n.type === "Reaction mode");
+        
+        reactionTypeNodes.forEach(reactionNode => {
+          const reactionName = reactionNode.name.toLowerCase();
+          
+          let years = ["2018", "2019", "2020"];
+          let feedstocks = ["Methane", "Ethylene"];
+          let catalysts = ["Ni Catalyst", "Pd Catalyst"];
+          let products = ["Ethanol", "Methanol"];
+          
+          if (reactionName.includes("oxidation")) {
+            years = ["2020", "2021", "2022"];
+            feedstocks = ["Propane", "Butane"];
+            catalysts = ["Pt Catalyst", "Zeolite"];
+            products = ["Propylene", "Butadiene"];
+          } else if (reactionName.includes("cracking")) {
+            years = ["2019", "2020", "2021"];
+            feedstocks = ["Benzene", "Toluene"];
+            catalysts = ["Acid Catalyst", "Zeolite"];
+            products = ["Styrene", "Ethylene"];
+          }
+          
+          years.forEach(year => {
+            const yearNode = nodes.find(n => n.type === "Year" && n.name === year);
+            if (yearNode) links.push({ source: reactionNode.id, target: yearNode.id, relation: "has-year" });
+          });
+          
+          feedstocks.forEach(feedstock => {
+            const feedstockNode = nodes.find(n => n.type === "Feedstock" && n.name === feedstock);
+            if (feedstockNode) links.push({ source: reactionNode.id, target: feedstockNode.id, relation: "has-feedstock" });
+          });
+          
+          catalysts.forEach(catalyst => {
+            const catalystNode = nodes.find(n => n.type === "Catalyst" && n.name === catalyst);
+            if (catalystNode) links.push({ source: reactionNode.id, target: catalystNode.id, relation: "has-catalyst" });
+          });
+          
+          products.forEach(product => {
+            const productNode = nodes.find(n => n.type === "Product" && n.name === product);
+            if (productNode) links.push({ source: reactionNode.id, target: productNode.id, relation: "has-product" });
+          });
+        });
+
+        return { nodes, links };
+      }
+
+      setupNodeColors() {
+        const typeColorMap = {
+          'Reaction mode': '#ff4444',
+          'Year': '#44ff44', 
+          'Feedstock': '#1f77b4',
+          'Feedstock category': '#1f77b4',
+          'Catalyst': '#ff7f0e',
+          'Catalyst category': '#ff7f0e',
+          'Product': '#e377c2',
+          'Product category': '#e377c2',
+          'Product selectivity': '#2ca02c',
+          'Product yield': '#8844ff',
+          'Atmosphere': '#88ff44',
+          'Reactant molar ratio': '#ff4488',
+          'Flow rate': '#4488ff',
+          'Reaction time': '#88ff88',
+          'Reaction temperature': '#ff8888',
+          'Reaction pressure': '#8888ff',
+          'Solvent': '#ffff88',
+          'Conversion rate': '#88ffff'
+        };
+
+        this.nodeColors = typeColorMap;
+      }
+
+
+
+
+
+
+
+  setupGraph() {
+  document.getElementById('loading').style.display = 'none';
+  
+  if (this.nodes.length === 0) {
+    this.showError('没有可用的数据');
+    return;
+  }
+  
+  try {
+    this.graph = ForceGraph3D()
+      (document.getElementById('graph-container'))
+      .width(window.innerWidth)
+      .height(window.innerHeight)
+      .graphData(this.graphData)
+      .backgroundColor('#ffffff') // 添加这一行，设置背景色为白色
+
+      .nodeColor(node => this.nodeColors[node.type] || '#888888')
+      .nodeRelSize(4)
+      .nodeResolution(20)
+      .nodeOpacity(0.9)
+      
+      .nodeThreeObject(node => {
+        if (typeof SpriteText === 'undefined') {
+          // 如果 SpriteText 不可用，使用默认的球体节点
+          const nodeEl = new THREE.Mesh(
+            new THREE.SphereGeometry(5),
+            new THREE.MeshBasicMaterial({ 
+              color: this.nodeColors[node.type] || '#888888',
+              depthWrite: true
+            })
+          );
+          return nodeEl;
+        }
+
+          // 智能换行处理
+  const processName = (name) => {
+    const maxCharsPerLine = 18; // 每行最多18个字符
+    
+    if (name.length <= maxCharsPerLine) {
+      return name;
+    }
+    
+    const words = name.split(' ');
+    let lines = [];
+    let currentLine = '';
+    
+    for (let i = 0; i < words.length; i++) {
+      const word = words[i];
+      
+      if (currentLine === '') {
+        currentLine = word;
+      } else if (currentLine.length + word.length + 1 <= maxCharsPerLine) {
+        currentLine += ' ' + word;
+      } else {
+        lines.push(currentLine);
+        currentLine = word;
+      }
+    }
+    
+    if (currentLine !== '') {
+      lines.push(currentLine);
+    }
+    
+    // 防止单行过长
+    if (lines.length === 1 && lines[0].length > maxCharsPerLine) {
+      const firstLine = lines[0].substring(0, maxCharsPerLine);
+      const secondLine = lines[0].substring(maxCharsPerLine);
+      lines = [firstLine, secondLine];
+    }
+    
+    return lines.join('\n');
+  };
+
+  const displayName = processName(node.name);
+  const sprite = new SpriteText(displayName);
+  sprite.material.depthWrite = false;
+  sprite.color = this.nodeColors[node.type] || '#888888';
+  
+  // 所有标签字体大小一致
+  sprite.textHeight = 10; // 固定字体大小
+  
+  sprite.backgroundColor = 'transparent';
+  sprite.backgroundOpacity = 0;
+  sprite.padding = 3;
+  sprite.borderRadius = 2;
+  sprite.maxWidth = 90; // 更宽的显示区域
+  sprite.textAlign = 'center';
+  
+  // 根据行数调整垂直位置，但字体大小不变
+  const lineCount = displayName.split('\n').length;
+  if (lineCount === 1) {
+    sprite.position.y = 18;
+  } else if (lineCount === 2) {
+    sprite.position.y = 22;
+  } else {
+    sprite.position.y = 26;
+  }
+  
+  return sprite;
+})
+      .nodeThreeObjectExtend(true)
+      
+      .nodeLabel(node => {
+        const tooltipId = `tooltip-${node.id}`;
+        
+        return `
+          <div style="background: rgba(0,0,0,0.95); color: white; padding: 12px; border-radius: 6px; font-size: 12px; max-width: 450px; border: 2px solid ${this.nodeColors[node.type] || '#888888'}">
+            <strong style="font-size: 14px; color: ${this.nodeColors[node.type] || '#888888'}">${node.name}</strong><br/>
+            <span style="color: #ccc">Type: ${node.type}</span>
+            ${node.category ? `<br/><span style="color: #aaa">Category: ${node.category}</span>` : ''}
+            
+            ${node.titles && node.titles.length > 0 ? `
+              <div style="margin-top: 8px;">
+                <strong style="color: #ffcc00; display: block; margin-bottom: 4px;">📚 Related Literature</strong>
+                <div id="${tooltipId}-titles">
+                  ${node.titles.slice(0, 2).map(title => `
+                    <div style="color: #ffdd99; margin: 2px 0; font-size: 11px;">• ${this.truncateText(title, 60)}</div>
+                  `).join('')}
+                  ${node.titles.length > 2 ? `
+                    <div style="color: #ccc; cursor: pointer; font-size: 11px; margin-top: 4px;" 
+                         onclick="kg.toggleMoreContent('${tooltipId}-titles', ${node.titles.length})">
+                      📖 and ${node.titles.length - 2} more titles...
+                    </div>
+                  ` : ''}
+                </div>
+              </div>
+            ` : ''}
+            
+            ${node.dois && node.dois.length > 0 ? `
+              <div style="margin-top: 8px;">
+                <strong style="color: #99ccff; display: block; margin-bottom: 4px;">🔗 Related DOIs</strong>
+                <div id="${tooltipId}-dois">
+                  ${node.dois.slice(0, 2).map(doi => `
+                    <div style="color: #99ccff; margin: 2px 0; font-size: 10px; font-family: monospace;">• ${this.truncateText(doi, 50)}</div>
+                  `).join('')}
+                  ${node.dois.length > 2 ? `
+                    <div style="color: #ccc; cursor: pointer; font-size: 11px; margin-top: 4px;" 
+                         onclick="kg.toggleMoreContent('${tooltipId}-dois', ${node.dois.length})">
+                      📄 and ${node.dois.length - 2} more DOIs...
+                    </div>
+                  ` : ''}
+                </div>
+              </div>
+            ` : ''}
+          </div>
+        `;
+      })
+      
+      // 使用链接标签替代 Three.js 精灵文字
+      .linkLabel(link => {
+        const relationText = link.relation || 'related';
+        return `
+          <div style="background: transparent; color: #333; padding: 4px 8px; border-radius: 3px; font-size: 11px;">
+            ${relationText}
+          </div>
+        `;
+      })
+      
+      // 其他链接配置
+      .linkColor(() => 'rgba(80,80,80,0.8)') // 改为深灰色
+      .linkWidth(2.0) // 增加链接宽度
+      .linkDirectionalParticles(2) // 增加粒子数量
+      .linkDirectionalParticleSpeed(0.005) // 增加粒子速度
+      .linkDirectionalParticleWidth(1.5) // 增加粒子宽度
+      .onNodeHover(node => {
+
+        // 如果有固定工具提示，不处理悬停事件
+        if (this.isTooltipPinned) {
+        return;
+        }
+
+
+        if (node) {
+          this.highlightRelatedNodes(node.id);
+        } else {
+          this.resetHighlight();
+          this.resetTooltipContent();
+        }
+      })
+      .onNodeClick(node => {
+        // 切换固定工具提示
+        this.togglePinnedTooltip(node);
+        this.toggleNodeSelection(node);
+      })
+
+      // 新增：右键拖拽固定节点
+      .onNodeDragEnd(node => {
+        // 当用户拖拽节点后，固定节点位置
+        node.fx = node.x;
+        node.fy = node.y;
+        node.fz = node.z;
+        console.log(`节点 "${node.name}" 已被固定在位置 (${node.x.toFixed(2)}, ${node.y.toFixed(2)}, ${node.z.toFixed(2)})`);
+      })
+      
+      // 新增：右键点击释放节点
+      .onNodeRightClick(node => {
+        // 释放节点
+        node.fx = undefined;
+        node.fy = undefined;
+        node.fz = undefined;
+        console.log(`节点 "${node.name}" 已被释放`);
+// 刷新图谱
+        this.graph.refresh();
+      });
+
+
+    this.graph
+      .d3Force('charge')
+      .strength(-200)
+      .distanceMax(1000);
+
+    this.graph
+      .d3Force('link')
+      .distance(300)
+      .strength(0.15);
+
+    console.log('图谱初始化完成，节点数量:', this.nodes.length);
+
+  } catch (error) {
+    this.showError('3D图形初始化失败: ' + error.message);
+    console.error('图形初始化错误:', error);
+  }
+}
+
+
+// 在这里添加辅助方法
+truncateText(text, maxLength) {
+  if (text.length <= maxLength) return text;
+  return text.substring(0, maxLength) + '...';
+}
+
+
+// === 新增的固定工具提示方法 ===
+
+// 新增：切换固定工具提示
+togglePinnedTooltip(node) {
+  if (this.pinnedTooltip && this.pinnedTooltip.id === node.id) {
+    // 如果点击的是已固定的节点，取消固定
+    this.unpinTooltip();
+  } else {
+    // 固定新的工具提示
+    this.pinTooltip(node);
+  }
+}
+
+// 修改：固定工具提示
+pinTooltip(node) {
+  this.pinnedTooltip = node;
+  this.isTooltipPinned = true;
+  
+  // 创建固定的工具提示元素
+  this.createPinnedTooltipElement(node);
+  
+  // 高亮相关节点
+  this.highlightRelatedNodes(node.id);
+}
+
+// 修改：取消固定工具提示
+unpinTooltip() {
+  this.pinnedTooltip = null;
+  this.isTooltipPinned = false;
+  
+  // 移除固定的工具提示元素
+  this.removePinnedTooltipElement();
+  
+  // 重置图谱状态
+  this.resetGraphState();
+}
+
+
+// 新增：重置图谱状态
+resetGraphState() {
+  if (this.graph) {
+    // 重置悬停状态
+    this.graph.onNodeHover(null);
+    // 重置高亮
+    this.resetHighlight();
+    // 重置节点颜色
+    this.graph.nodeColor(node => this.nodeColors[node.type] || '#888888');
+    // 重置链接颜色
+    this.graph.linkColor(() => 'rgba(200,200,200,0.6)');
+  }
+}
+
+
+// 新增：创建固定的工具提示元素
+createPinnedTooltipElement(node) {
+  // 先移除可能已存在的固定工具提示
+  this.removePinnedTooltipElement();
+  
+  // 创建固定工具提示容器
+  const pinnedTooltip = document.createElement('div');
+  pinnedTooltip.id = 'pinned-tooltip';
+  pinnedTooltip.style.cssText = `
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(0,0,0,0.95);
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 14px;
+    max-width: 500px;
+    max-height: 80vh;
+    overflow-y: auto;
+    border: 3px solid ${this.nodeColors[node.type] || '#888888'};
+    z-index: 1000;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  `;
+  
+  // 添加关闭按钮
+  pinnedTooltip.innerHTML = `
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+      <strong style="font-size: 16px; color: ${this.nodeColors[node.type] || '#888888'}">📌 Pinned: ${node.name}</strong>
+      <button onclick="kg.unpinTooltip()" style="
+        background: #f44336;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        padding: 4px 8px;
+        cursor: pointer;
+        font-size: 12px;
+      ">✕ Close</button>
+    </div>
+    <div style="color: #ccc; margin-bottom: 8px;">Type: ${node.type}</div>
+    ${node.category ? `<div style="color: #aaa; margin-bottom: 8px;">Category: ${node.category}</div>` : ''}
+    
+    ${node.titles && node.titles.length > 0 ? `
+      <div style="margin-top: 12px;">
+        <strong style="color: #ffcc00; display: block; margin-bottom: 6px;">📚 Related Literature</strong>
+        <div>
+          ${node.titles.map(title => `
+            <div style="color: #ffdd99; margin: 4px 0; font-size: 12px; padding: 4px; background: rgba(255,204,0,0.1); border-radius: 3px;">• ${this.truncateText(title, 80)}</div>
+          `).join('')}
+        </div>
+      </div>
+    ` : ''}
+    
+    ${node.dois && node.dois.length > 0 ? `
+      <div style="margin-top: 12px;">
+        <strong style="color: #99ccff; display: block; margin-bottom: 6px;">🔗 Related DOIs</strong>
+        <div>
+          ${node.dois.map(doi => `
+            <div style="color: #99ccff; margin: 4px 0; font-size: 11px; font-family: monospace; padding: 4px; background: rgba(153,204,255,0.1); border-radius: 3px;">• ${this.truncateText(doi, 60)}</div>
+          `).join('')}
+        </div>
+      </div>
+    ` : ''}
+  `;
+  
+  document.body.appendChild(pinnedTooltip);
+}
+
+// 新增：移除固定的工具提示元素
+removePinnedTooltipElement() {
+  const existingTooltip = document.getElementById('pinned-tooltip');
+  if (existingTooltip) {
+    existingTooltip.remove();
+  }
+}
+
+
+// 切换显示更多内容
+toggleMoreContent(elementId, totalCount) {
+  const shortElement = document.getElementById(elementId);
+  const fullElement = document.getElementById(elementId + '-full');
+  const moreLink = shortElement.querySelector('div[onclick]');
+  
+  if (fullElement.style.display === 'none') {
+    // 显示全部内容
+    fullElement.style.display = 'block';
+    moreLink.innerHTML = `📕 Show less`;
+    moreLink.setAttribute('onclick', `kg.toggleMoreContent('${elementId}', ${totalCount})`);
+  } else {
+    // 显示部分内容
+    fullElement.style.display = 'none';
+    moreLink.innerHTML = `📖 and ${totalCount - 2} more...`;
+    moreLink.setAttribute('onclick', `kg.toggleMoreContent('${elementId}', ${totalCount})`);
+  }
+}
+
+// 点击节点外部时关闭所有展开的内容
+resetTooltipContent() {
+    // 如果工具提示是固定的，不要重置
+  if (this.isTooltipPinned) {
+    return;
+  }
+  
+
+
+  // 隐藏所有展开的内容
+  document.querySelectorAll('[id$="-full"]').forEach(element => {
+    element.style.display = 'none';
+  });
+  
+  // 重置所有"and more"链接
+  document.querySelectorAll('div[onclick*="toggleMoreContent"]').forEach(link => {
+    const elementId = link.getAttribute('onclick').match(/'([^']+)'/)[1];
+    const totalCount = parseInt(link.getAttribute('onclick').match(/(\d+)\)/)[1]);
+    link.innerHTML = `📖 and ${totalCount - 2} more...`;
+  });
+}
+
+
+
+      // 新增：点击分类标签选择所有该分类下的选项
+      toggleCategorySelection(type, category) {
+        const categoryKey = `${type}-${category}`;
+        
+        if (this.selectedCategories.has(categoryKey)) {
+          // 取消选择该分类
+          this.selectedCategories.delete(categoryKey);
+          const items = this.categories[type].items[category] || [];
+          items.forEach(item => {
+            const nodeId = this.findNodeId(item, type);
+            if (nodeId !== -1) {
+              this.selectedNodes.delete(nodeId);
+            }
+          });
+        } else {
+          // 选择该分类
+          this.selectedCategories.add(categoryKey);
+          const items = this.categories[type].items[category] || [];
+          items.forEach(item => {
+            const nodeId = this.findNodeId(item, type);
+            if (nodeId !== -1 && this.availableNodesByType[type].has(nodeId)) {
+              this.selectedNodes.add(nodeId);
+            }
+          });
+        }
+        
+        this.updateFilterSelections();
+        this.updateAvailableNodes();
+      }
+
+      // 检查分类是否被完全选中
+      isCategorySelected(type, category) {
+        const items = this.categories[type].items[category] || [];
+        const availableItems = items.filter(item => {
+          const nodeId = this.findNodeId(item, type);
+          return this.availableNodesByType[type].has(nodeId);
+        });
+        
+        if (availableItems.length === 0) return false;
+        
+        return availableItems.every(item => {
+          const nodeId = this.findNodeId(item, type);
+          return this.selectedNodes.has(nodeId);
+        });
+      }
+
+      toggleNodeSelection(node) {
+        if (this.selectedNodes.has(node.id)) {
+          this.selectedNodes.delete(node.id);
+        } else {
+          this.selectedNodes.add(node.id);
+        }
+        
+        this.updateFilterSelections();
+        this.updateAvailableNodes();
+      }
+
+      updateFilterSelections() {
+        document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+          const nodeId = parseInt(checkbox.value);
+          checkbox.checked = this.selectedNodes.has(nodeId);
+        });
+        
+        document.querySelectorAll('select.cascading-select').forEach(select => {
+          Array.from(select.options).forEach(option => {
+            const nodeId = parseInt(option.value);
+            option.selected = this.selectedNodes.has(nodeId);
+          });
+        });
+      }
+
+      createCascadingFiltersWithCategories() {
+        const container = document.getElementById('filters-container');
+        container.innerHTML = '';
+        
+        if (this.nodes.length === 0) {
+          container.innerHTML = '<p>没有可用的数据</p>';
+          return;
+        }
+        
+        if (Object.keys(this.availableNodesByType).length === 0) {
+          this.filterOrder.forEach(type => {
+            const nodesOfType = this.nodes.filter(n => n.type === type);
+            const sortFunction = this.getSortFunction(type);
+            const sortedNodes = nodesOfType.sort(sortFunction);
+            this.availableNodesByType[type] = new Set(sortedNodes.map(n => n.id));
+          });
+        }
+        
+        this.filterOrder.forEach((type, index) => {
+          const section = document.createElement('div');
+          section.className = 'filter-section';
+          section.id = `filter-${type.replace(/\s+/g, '-')}`;
+          
+          if (['Feedstock', 'Catalyst', 'Product'].includes(type) && 
+              this.categories[type] && this.categories[type].categories.length > 0) {
+            section.innerHTML = this.createDirectCategorySection(type, index);
+          } else {
+            const nodesOfType = this.getAvailableNodesByType(type);
+            section.innerHTML = this.createSimpleSection(type, nodesOfType, index);
+          }
+          
+          container.appendChild(section);
+        });
+        
+        this.updateAllSelectionCounts();
+      }
+
+      createDirectCategorySection(type, index) {
+        const typeData = this.categories[type];
+        const availableNodes = this.getAvailableNodesByType(type);
+        const totalNodes = this.nodes.filter(n => n.type === type).length;
+        
+        let html = `
+          <h4>
+            ${type} 
+            <span class="selected-count" id="count-${type.replace(/\s+/g, '-')}">0/${availableNodes.length} selected</span>
+          </h4>
+        `;
+        
+        if (index > this.currentFilterIndex && availableNodes.length < totalNodes) {
+          html += `<div class="filter-status">Show related options (${availableNodes.length}/${totalNodes})</div>`;
+        }
+        
+        // 分类标签区域
+        html += `<div class="category-tags-container">`;
+        typeData.categories.forEach(category => {
+          const items = typeData.items[category] || [];
+          const availableItems = items.filter(item => {
+            const nodeId = this.findNodeId(item, type);
+            return this.availableNodesByType[type].has(nodeId);
+          });
+          
+          if (availableItems.length > 0) {
+            const isSelected = this.isCategorySelected(type, category);
+            html += `<span class="category-tag ${isSelected ? 'selected' : ''}" 
+                     onclick="kg.toggleCategorySelection('${type}', '${category}')">${category}</span> `;
+          }
+        });
+        html += `</div>`;
+        
+        // 选项容器（可调整大小）
+        html += `<div class="options-container">`;
+        
+        typeData.categories.forEach(category => {
+          const items = typeData.items[category] || [];
+          const availableItems = items.filter(item => {
+            const nodeId = this.findNodeId(item, type);
+            return this.availableNodesByType[type].has(nodeId);
+          });
+          
+          if (availableItems.length > 0) {
+            availableItems.forEach(item => {
+              const nodeId = this.findNodeId(item, type);
+              const isSelected = this.selectedNodes.has(nodeId);
+              html += `
+                <div class="option-item">
+                  <label>
+                    <input type="checkbox" value="${nodeId}" data-type="${type}" 
+                           ${isSelected ? 'checked' : ''}
+                           onchange="kg.updateSelection()">
+                    ${item}
+                  </label>
+                </div>
+              `;
+            });
+          }
+        });
+        
+        html += `</div>`;
+        
+        html += `
+          <div class="select-all-none">
+            <button onclick="kg.selectAllCategory('${type}')">Select All ${type}</button>
+            <button onclick="kg.clearAllCategory('${type}')">Clear All ${type}</button>
+          </div>
+        `;
+        
+        return html;
+      }
+
+      createSimpleSection(type, nodesOfType, index) {
+        const availableNodes = this.getAvailableNodesByType(type);
+        const totalNodes = this.nodes.filter(n => n.type === type).length;
+        
+        let html = `
+          <h4>
+            ${type} 
+            <span class="selected-count" id="count-${type.replace(/\s+/g, '-')}">0/${availableNodes.length} selected</span>
+          </h4>
+        `;
+        
+        if (index > this.currentFilterIndex && availableNodes.length < totalNodes) {
+          html += `<div class="filter-status">Show related options (${availableNodes.length}/${totalNodes})</div>`;
+        }
+        
+        html += `
+          <select class="filter-select cascading-select" multiple data-type="${type}" data-index="${index}">
+            ${availableNodes.map(n => {
+              const isSelected = this.selectedNodes.has(n.id);
+              return `<option value="${n.id}" ${isSelected ? 'selected' : ''}>${n.name}</option>`;
+            }).join('')}
+          </select>
+          <div class="select-all-none">
+            <button onclick="kg.selectAllType('${type}')">Select All</button>
+            <button onclick="kg.clearAllType('${type}')">Clear All</button>
+          </div>
+        `;
+        
+        return html;
+      }
+
+      findNodeId(name, type) {
+        const node = this.nodes.find(n => n.name === name && n.type === type);
+        return node ? node.id : -1;
+      }
+
+      getAvailableNodesByType(type) {
+        const availableNodeIds = this.availableNodesByType[type] || new Set();
+        const nodesOfType = this.nodes.filter(node => 
+          node.type === type && availableNodeIds.has(node.id)
+        );
+        const sortFunction = this.getSortFunction(type);
+        return nodesOfType.sort(sortFunction);
+      }
+
+      updateSelection() {
+        this.selectedNodes.clear();
+        
+        document.querySelectorAll('input[type="checkbox"]:checked').forEach(checkbox => {
+          this.selectedNodes.add(parseInt(checkbox.value));
+        });
+        
+        document.querySelectorAll('select.cascading-select').forEach(select => {
+          Array.from(select.selectedOptions).forEach(option => {
+            this.selectedNodes.add(parseInt(option.value));
+          });
+        });
+        
+        this.updateAvailableNodes();
+      }
+
+      selectAllCategory(type) {
+        const typeData = this.categories[type];
+        typeData.categories.forEach(category => {
+          const items = typeData.items[category] || [];
+          items.forEach(item => {
+            const nodeId = this.findNodeId(item, type);
+            if (nodeId !== -1 && this.availableNodesByType[type].has(nodeId)) {
+              this.selectedNodes.add(nodeId);
+            }
+          });
+        });
+        this.updateFilterSelections();
+        this.updateAvailableNodes();
+      }
+
+      clearAllCategory(type) {
+        const typeData = this.categories[type];
+        typeData.categories.forEach(category => {
+          const items = typeData.items[category] || [];
+          items.forEach(item => {
+            const nodeId = this.findNodeId(item, type);
+            if (nodeId !== -1) {
+              this.selectedNodes.delete(nodeId);
+            }
+          });
+        });
+        this.updateFilterSelections();
+        this.updateAvailableNodes();
+      }
+
+      selectAllType(type) {
+        const select = document.querySelector(`select[data-type="${type}"]`);
+        if (select) {
+          Array.from(select.options).forEach(option => {
+            this.selectedNodes.add(parseInt(option.value));
+          });
+          this.updateFilterSelections();
+          this.updateAvailableNodes();
+        }
+      }
+
+      clearAllType(type) {
+        const select = document.querySelector(`select[data-type="${type}"]`);
+        if (select) {
+          Array.from(select.options).forEach(option => {
+            this.selectedNodes.delete(parseInt(option.value));
+          });
+          this.updateFilterSelections();
+          this.updateAvailableNodes();
+        }
+      }
+
+      updateAllSelectionCounts() {
+        this.filterOrder.forEach(type => {
+          let count = 0;
+          let total = 0;
+          
+          if (['Feedstock', 'Catalyst', 'Product'].includes(type)) {
+            const typeData = this.categories[type];
+            if (typeData) {
+              typeData.categories.forEach(category => {
+                const items = typeData.items[category] || [];
+                items.forEach(item => {
+                  const nodeId = this.findNodeId(item, type);
+                  if (this.selectedNodes.has(nodeId) && this.availableNodesByType[type].has(nodeId)) {
+                    count++;
+                  }
+                });
+                total += items.filter(item => {
+                  const nodeId = this.findNodeId(item, type);
+                  return this.availableNodesByType[type].has(nodeId);
+                }).length;
+              });
+            }
+          } else {
+            const select = document.querySelector(`select[data-type="${type}"]`);
+            if (select) {
+              count = Array.from(select.selectedOptions).length;
+              total = select.options.length;
+            }
+          }
+          
+          const countElement = document.getElementById(`count-${type.replace(/\s+/g, '-')}`);
+          if (countElement) {
+            countElement.textContent = `${count}/${total} selected`;
+          }
+        });
+      }
+
+      getSelectedNodeIds() {
+        return this.selectedNodes;
+      }
+
+      search() {
+        const selectedIds = this.getSelectedNodeIds();
+        
+        if (selectedIds.size === 0) {
+          alert('请选择至少一个节点！');
+          return;
+        }
+        
+        this.showSelectedNodes(selectedIds);
+      }
+
+      showSelectedNodes(selectedIds) {
+        const visibleNodeIds = new Set(selectedIds);
+        const visibleLinkIndices = new Set();
+        
+        selectedIds.forEach(nodeId => {
+          this.links.forEach((link, index) => {
+            if (link.source === nodeId || link.target === nodeId) {
+              if (link.source === nodeId) visibleNodeIds.add(link.target);
+              if (link.target === nodeId) visibleNodeIds.add(link.source);
+              visibleLinkIndices.add(index);
+            }
+          });
+        });
+        
+        const filteredData = {
+          nodes: this.graphData.nodes.filter(node => visibleNodeIds.has(node.id)),
+          links: this.graphData.links.filter((link, index) => visibleLinkIndices.has(index))
+        };
+        
+        this.graph.graphData(filteredData);
+        
+        setTimeout(() => this.centerView(), 100);
+      }
+
+      showAllNodes() {
+        this.graph.graphData(this.graphData);
+        this.centerView();
+      }
+
+      reset() {
+      this.selectedNodes.clear();
+      this.selectedCategories.clear();
+      this.availableNodesByType = {};
+      this.currentFilterIndex = 0;
+  
+  // 取消固定工具提示
+  this.unpinTooltip();
+        
+        this.filterOrder.forEach(type => {
+          const nodesOfType = this.nodes.filter(n => n.type === type);
+          const sortFunction = this.getSortFunction(type);
+          const sortedNodes = nodesOfType.sort(sortFunction);
+          this.availableNodesByType[type] = new Set(sortedNodes.map(n => n.id));
+        });
+        
+        this.createCascadingFiltersWithCategories();
+        this.showAllNodes();
+
+        // 确保图谱状态完全重置
+        this.resetGraphState();
+      }
+
+      centerView() {
+        this.graph.cameraPosition({ x: 0, y: 0, z: 400 });
+      }
+
+      highlightRelatedNodes(nodeId) {
+        const relatedNodeIds = new Set([nodeId]);
+        const relatedLinkIndices = new Set();
+        
+        this.links.forEach((link, index) => {
+          if (link.source === nodeId || link.target === nodeId) {
+            relatedNodeIds.add(link.source);
+            relatedNodeIds.add(link.target);
+            relatedLinkIndices.add(index);
+          }
+        });
+        
+        this.currentlyHighlighted = relatedNodeIds;
+        
+        this.graph
+          .nodeColor(node => relatedNodeIds.has(node.id) 
+            ? (this.nodeColors[node.type] || '#888888')
+            : 'rgba(200,200,200,0.2)')
+          .linkColor(() => 'rgba(200,200,200,0.6)');
+      }
+
+      resetHighlight() {
+        this.currentlyHighlighted.clear();
+        this.graph
+          .nodeColor(node => this.nodeColors[node.type] || '#888888')
+          .linkColor(() => 'rgba(200,200,200,0.6)');
+      }
+
+      focusOnNode(node) {
+        const distance = 100;
+        this.graph.cameraPosition(
+          { x: node.x * 2, y: node.y * 2, z: node.z * 2 + distance },
+          { x: node.x, y: node.y, z: node.z },
+          1000
+        );
+      }
+
+      showError(message) {
+        const existingError = document.querySelector('.error-message');
+        if (existingError) {
+          existingError.remove();
+        }
+        
+        const errorDiv = document.createElement('div');
+        errorDiv.className = 'error-message';
+        errorDiv.textContent = message;
+        document.body.appendChild(errorDiv);
+        
+        setTimeout(() => {
+          if (errorDiv.parentNode) {
+            errorDiv.remove();
+          }
+        }, 5000);
+      }
+
+      setupEventListeners() {
+        document.getElementById('search-btn').addEventListener('click', () => this.search());
+        document.getElementById('reset-btn').addEventListener('click', () => this.reset());
+        document.getElementById('center-btn').addEventListener('click', () => this.centerView());
+        
+        document.addEventListener('change', (event) => {
+          if (event.target.classList.contains('cascading-select') || 
+              event.target.type === 'checkbox') {
+            this.updateSelection();
+          }
+        });
+        
+        window.addEventListener('resize', () => {
+          if (this.graph) {
+            this.graph.width(window.innerWidth).height(window.innerHeight);
+          }
+        });
+      }
+    }
+
+    window.kg = new KnowledgeGraph3D();
+  }
+</script>
+</body>
+</html>

@@ -1,0 +1,293 @@
+{
+  "Hydrogenation reaction": {
+    "Feedstock category": [
+      "Waste Oils",
+      "Alcohols",
+      "Lignocellulosic Biomass",
+      "Algal Materials",
+      "Terpenes",
+      "Aromatics",
+      "Bio-crude Oils",
+      "Ketones",
+      "Lignin & Cellulose",
+      "Aldehydes",
+      "Petroleum Fractions",
+      "Furanics",
+      "Vegetable Oils",
+      "Heavy Olefins",
+      "Diesel Fuels",
+      "Carbon dioxide",
+      "Plastic Waste",
+      "Phenols",
+      "Light Olefins",
+      "Sugars & Carbohydrates",
+      "Organic Waste",
+      "Fatty Acids & Esters",
+      "Alkanes",
+      "Synthesis Gas"
+    ],
+    "Catalyst category": [
+      "Ni-Ag-related",
+      "Fe-related",
+      "Ru-related",
+      "Nb-related",
+      "Cu-Zn-related",
+      "P-Al-related",
+      "Zn-Cr-related",
+      "Co-related",
+      "Carbon-related",
+      "Pt-La-related",
+      "Rh-related",
+      "Ni-related",
+      "Pt-Sn-related",
+      "Ru-Zn-related",
+      "Zr-related",
+      "Ni-W-related",
+      "Sulfonic-Acid-Resin-related",
+      "Ru-Re-related",
+      "Ti-related",
+      "Mo-related",
+      "Ni-Mo-related",
+      "Al-related",
+      "Pd-related",
+      "Pd-Ni-related",
+      "Ni-La-related",
+      "Cu-Ni-related",
+      "W-Zr-related",
+      "Cu-related",
+      "Pt-related",
+      "Co-Mo-related",
+      "Ru-Ni-related"
+    ],
+    "Product category": [
+      "C₆-C₉ Hydrocarbons",
+      "Perhydroacenaphthene",
+      "C₉-C₁₅ n-Alkanes",
+      "Bicyclic/Tricyclic Oxygenates",
+      "C₈-C₁₆ Hydrocarbons",
+      "Ethylcyclohexane",
+      "Gasoline Range Hydrocarbon",
+      "Furanic Platform Molecules",
+      "C₉-C₁₅ Hydrocarbons",
+      "C₁-C₈ Hydrocarbons",
+      "Hydroprocessed Oils",
+      "C₁₅ Biofuel Precursor",
+      "Light Naphtha / Light Hydrocarbons",
+      "n-Alkanes",
+      "Decalin",
+      "C₁₂+ Dimeric Naphthenes",
+      "C₁-C₁₈ Hydrocarbons",
+      "Bio-jet fuel",
+      "Monocyclic Aromatic Hydrocarbons",
+      "Jet Fuel Range Hydrocarbon",
+      "Hydrocarbon Dimers/Oligomers",
+      "C₅-C₁₈ n-Alkanes",
+      "Propylcyclohexane",
+      "Cyclohexylcyclohexane",
+      "C₁₅-C₁₈ n-Alkanes",
+      "Perhydrofluorene",
+      "C₇-C₁₈ Hydrocarbons",
+      "Polycyclic Aromatics / Hydrogenated PAHs",
+      "C₁₁-C₂₉ n-Alkanes",
+      "C₁₂-C₁₈ Alkylcyclohexanes",
+      "C₈-C₁₄ Branched Cycloalkanes",
+      "C₈-C₁₅ Hydrocarbons",
+      "Cycloalkanes",
+      "iso-Alkanes",
+      "Bio-jet Fuel",
+      "Terpenoid Alkanes",
+      "C₉-C₁₆ Hydrocarbons",
+      "Carboxylic Acids",
+      "Dicyclohexylmethane",
+      "C₁-C₄ Hydrocarbons",
+      "C₇-C₁₆ Hydrocarbons",
+      "C₈-C₁₈ Hydrocarbons",
+      "C₅-C₂₀ n-Alkanes",
+      "Ketones/Aldehydes/Enones",
+      "C₁₁-C₂₉ Alkanes",
+      "C₉+ Hydrocarbons",
+      "Bio-oil",
+      "Cyclohexane",
+      "Broad-Cut/Mixed Hydrocarbons",
+      "Fuel Precursors & Condensation Products",
+      "Diesel Fraction",
+      "Esters",
+      "Furanic Dimers"
+    ]
+  },
+  "Rearrangement reaction": {
+    "Feedstock category": [
+      "Alcohols",
+      "Heavy Olefins",
+      "Vegetable Oils",
+      "Alkanes",
+      "Light Olefins"
+    ],
+    "Catalyst category": [
+      "In-V-related",
+      "W-related",
+      "Ni-related",
+      "Al-related",
+      "Pt-related",
+      "Zr-related",
+      "Ni-F-related"
+    ],
+    "Product category": [
+      "Light Naphtha / Light Hydrocarbons",
+      "3-Methyl-2-heptene",
+      "n-Alkanes",
+      "C₈-C₁₆ Hydrocarbons",
+      "Monocyclic Aromatic Hydrocarbons",
+      "iso-Alkanes",
+      "Hydrocarbon Dimers/Oligomers",
+      "Gasoline Range Hydrocarbon",
+      "Jet Fuel Range Hydrocarbon",
+      "exo-THDCPD",
+      "Olefins"
+    ]
+  },
+  "Pyrolysis reaction": {
+    "Feedstock category": [
+      "Vegetable Oils",
+      "Plastic Waste",
+      "Lignocellulosic Biomass",
+      "Alkanes",
+      "Lignin & Cellulose",
+      "Fatty Acids & Esters"
+    ],
+    "Catalyst category": [
+      "Fe-related",
+      "La-related",
+      "Ni-related",
+      "Al-related",
+      "P-Al-related",
+      "Pd-related",
+      "Pt-related",
+      "Ni-Cu-related",
+      "Carbon-related"
+    ],
+    "Product category": [
+      "Bio-oil",
+      "n-Alkanes",
+      "Broad-Cut/Mixed Hydrocarbons",
+      "C₅-C₁₄ Hydrocarbons",
+      "Bicyclic/Tricyclic Oxygenates",
+      "CFP Oil",
+      "Monocyclic Aromatic Hydrocarbons",
+      "Jet Fuel Range Hydrocarbon",
+      "Gasoline Range Hydrocarbon",
+      "Furanic Platform Molecules",
+      "Olefins",
+      "C₈-C₁₂ Hydrocarbons"
+    ]
+  },
+  "Cracking reaction": {
+    "Feedstock category": [
+      "Waste Oils",
+      "Vegetable Oils",
+      "Plastic Waste",
+      "Alkanes",
+      "Petroleum Fractions",
+      "Bio-crude Oils",
+      "Fatty Acids & Esters"
+    ],
+    "Catalyst category": [
+      "Fe-related",
+      "Zn-related",
+      "Mn-related",
+      "Ru-related",
+      "Co-related",
+      "Ni-related",
+      "Al-related",
+      "Pd-related",
+      "Pt-related",
+      "Zr-related",
+      "Ce-related",
+      "Carbon-related"
+    ],
+    "Product category": [
+      "Light Naphtha / Light Hydrocarbons",
+      "Bio-oil",
+      "n-Alkanes",
+      "Broad-Cut/Mixed Hydrocarbons",
+      "C₁₂-C₁₈ Hydrocarbons",
+      "C₅-C₁₄ Hydrocarbons",
+      "C₉-C₁₅ n-Alkanes",
+      "C₈-C₁₆ Hydrocarbons",
+      "Jet Fuel Range Hydrocarbon",
+      "Sunflower Oils",
+      "Gasoline Range Hydrocarbon",
+      "Olefins",
+      "C₈-C₁₁ Hydrocarbons",
+      "C₁-C₄ Hydrocarbons",
+      "Ethylene",
+      "Hydroprocessed Oils"
+    ]
+  },
+  "Alkylation reaction": {
+    "Feedstock category": [
+      "Carbon dioxide",
+      "Aromatics",
+      "Phenols",
+      "Lignin & Cellulose"
+    ],
+    "Catalyst category": [
+      "Al-related",
+      "Cu-Zn-Zr-related",
+      "Pd-related",
+      "Zn-Zr-related"
+    ],
+    "Product category": [
+      "Alkylnaphthalenes",
+      "C₁₂+ Dimeric Naphthenes",
+      "Bicyclic/Tricyclic Oxygenates",
+      "Monocyclic Aromatic Hydrocarbons",
+      "Polycyclic Aromatics / Hydrogenated PAHs"
+    ]
+  },
+  "Diels-Alder reaction": {
+    "Feedstock category": [
+      "Aldehydes",
+      "Aromatics",
+      "Fatty Acids & Esters",
+      "Furanics"
+    ],
+    "Catalyst category": [
+      "Al-related",
+      "Ni-related"
+    ],
+    "Product category": [
+      "Bicyclic/Tricyclic Oxygenates",
+      "Monocyclic Aromatic Hydrocarbons",
+      "Hydrocarbon Dimers/Oligomers",
+      "Furanic Dimers",
+      "Polycyclic Aromatics / Hydrogenated PAHs"
+    ]
+  },
+  "Aldol condensation reaction": {
+    "Feedstock category": [
+      "Aldehydes",
+      "Ketones",
+      "Fatty Acids & Esters"
+    ],
+    "Catalyst category": [
+      "Mg-Al-related",
+      "Fe-related",
+      "Al-related",
+      "Nb-related",
+      "Hf-related",
+      "ZrAPO-5-related",
+      "Cu-related",
+      "Sn-related",
+      "Zr-related"
+    ],
+    "Product category": [
+      "Ketones/Aldehydes/Enones",
+      "Aromatic Hydrocarbons",
+      "Broad-Cut/Mixed Hydrocarbons",
+      "Phenolic Compounds",
+      "Monocyclic Aromatic Hydrocarbons",
+      "Polycyclic Aromatics / Hydrogenated PAHs"
+    ]
+  }
+}
