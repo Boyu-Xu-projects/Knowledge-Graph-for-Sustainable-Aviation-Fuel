@@ -638,14 +638,14 @@
   },
   {
     "id": 57,
-    "name": "C₈-C₁₈ n-Alkanes",
+    "name": "Alkanes",
     "type": "Product Category"
   },
   {
     "id": 58,
     "name": "C₈-C₁₇ alkanes",
     "type": "Product",
-    "category": "C₈-C₁₈ n-Alkanes",
+    "category": "Alkanes",
     "titles": [
       "Utilization of illumination and thermal field in the preparation of jet–fuel components: The photothermic catalysis of Jatropha oil over the M/TiO2–HZSM–5",
       "Catalytic cracking of oleic acid to generate aviation kerosene using platinum–modified <span style=\"font-variant:small-caps;\">ZSM</span> –5 nanosheets"
@@ -1036,16 +1036,16 @@
   },
   {
     "id": 93,
-    "name": "Alkanes",
+    "name": "C₈-C₁₅ alkanes",
     "type": "Product",
-    "category": "n-Alkanes",
+    "category": "Alkanes",
     "titles": [
       "Ion Impregnation Effect of Fe, Cu, Cr-attributed Mordenite on Stearic Acid Cracking",
-      "Continuous hydroprocessing of microalgae biodiesel to jet fuel range hydrocarbons promoted by Ni/hierarchical mesoporous Y zeolite catalyst"
+      "Highly selective production of bio-jet fuel grade alkanes over an Fe/SiO<sub>2</sub> –Al<sub>2</sub> O<sub>3</sub> solid acid catalyst under solvent-free conditions"
     ],
     "dois": [
       "10.22146/ijc.71126",
-      "10.1016/j.ijhydene.2019.03.073"
+      "10.1039/D3SE00144J"
     ]
   },
   {
@@ -1062,7 +1062,7 @@
   },
   {
     "id": 95,
-    "name": "H-ZSM-5 zeolite (Si/Al molar ratio of 15)",
+    "name": "HZSM-5 zeolite (Si/Al molar ratio of 15)",
     "type": "Catalyst",
     "category": "Al-related",
     "titles": [
@@ -1286,7 +1286,7 @@
   },
   {
     "id": 115,
-    "name": "HZSM-5 with Si/Al ratio of 50",
+    "name": "HZSM-5 zeolite (Si/Al ratio of 50)",
     "type": "Catalyst",
     "category": "Al-related",
     "titles": [
@@ -1481,11 +1481,6 @@
   },
   {
     "id": 132,
-    "name": "C₈-C₁₈ Hydrocarbons",
-    "type": "Product Category"
-  },
-  {
-    "id": 133,
     "name": "Non-edible sunflower oil",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -1497,7 +1492,7 @@
     ]
   },
   {
-    "id": 134,
+    "id": 133,
     "name": "ZSM-5 zeolite",
     "type": "Catalyst",
     "category": "Al-related",
@@ -1511,12 +1506,12 @@
     ]
   },
   {
-    "id": 135,
+    "id": 134,
     "name": "Sunflower Oils",
     "type": "Product Category"
   },
   {
-    "id": 136,
+    "id": 135,
     "name": "Upgraded sunflower oils",
     "type": "Product",
     "category": "Sunflower Oils",
@@ -1528,17 +1523,17 @@
     ]
   },
   {
-    "id": 137,
+    "id": 136,
     "name": "Sugars & Carbohydrates",
     "type": "Feedstock Category"
   },
   {
-    "id": 138,
+    "id": 137,
     "name": "Gasoline Range Hydrocarbon",
     "type": "Product Category"
   },
   {
-    "id": 139,
+    "id": 138,
     "name": "Linear hydrocarbons (CₙH₂ₙ₊₂/CₙH₂ₙ)",
     "type": "Product",
     "category": "Gasoline Range Hydrocarbon",
@@ -1550,12 +1545,12 @@
     ]
   },
   {
-    "id": 140,
+    "id": 139,
     "name": "Algal Materials",
     "type": "Feedstock Category"
   },
   {
-    "id": 141,
+    "id": 140,
     "name": "AC-3Na-N",
     "type": "Catalyst",
     "category": "Carbon-related",
@@ -1567,12 +1562,12 @@
     ]
   },
   {
-    "id": 142,
+    "id": 141,
     "name": "Ethylcyclohexane",
     "type": "Product Category"
   },
   {
-    "id": 143,
+    "id": 142,
     "name": "Methane (CH₄)",
     "type": "Product",
     "category": "Ethylcyclohexane",
@@ -1586,7 +1581,7 @@
     ]
   },
   {
-    "id": 144,
+    "id": 143,
     "name": "Saw dust",
     "type": "Feedstock",
     "category": "Lignocellulosic Biomass",
@@ -1598,7 +1593,7 @@
     ]
   },
   {
-    "id": 145,
+    "id": 144,
     "name": "HZSM-5(38)",
     "type": "Catalyst",
     "category": "Al-related",
@@ -1610,12 +1605,12 @@
     ]
   },
   {
-    "id": 146,
+    "id": 145,
     "name": "C₈-C₁₂ Hydrocarbons",
     "type": "Product Category"
   },
   {
-    "id": 147,
+    "id": 146,
     "name": "C₈-C₁₂ hydrocarbons (jet fuel-range)",
     "type": "Product",
     "category": "C₈-C₁₂ Hydrocarbons",
@@ -1627,7 +1622,7 @@
     ]
   },
   {
-    "id": 148,
+    "id": 147,
     "name": "Kerosene-gas oil fraction",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -1639,7 +1634,7 @@
     ]
   },
   {
-    "id": 149,
+    "id": 148,
     "name": "about 16% U type zeolite, 2.3% rare-earth elements, 0.34% sodium oxide, and 0.15% ferric oxide",
     "type": "Catalyst",
     "category": "Al-related",
@@ -1651,7 +1646,7 @@
     ]
   },
   {
-    "id": 150,
+    "id": 149,
     "name": "Motor gasoline (fraction boiling up to 240°C)",
     "type": "Product",
     "category": "Gasoline Range Hydrocarbon",
@@ -1663,8 +1658,8 @@
     ]
   },
   {
-    "id": 151,
-    "name": "ZSM-5 (SiO₂/Al₂O₃=36)",
+    "id": 150,
+    "name": "ZSM-5 zeolite (SiO₂/Al₂O₃=36)",
     "type": "Catalyst",
     "category": "Al-related",
     "titles": [
@@ -1675,7 +1670,7 @@
     ]
   },
   {
-    "id": 152,
+    "id": 151,
     "name": "Ethylene (C₂H₄)",
     "type": "Product",
     "category": "Ethylcyclohexane",
@@ -1687,7 +1682,7 @@
     ]
   },
   {
-    "id": 153,
+    "id": 152,
     "name": "n-Hexane",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -1699,8 +1694,8 @@
     ]
   },
   {
-    "id": 154,
-    "name": "H-ZSM-5 (Si/Al₂=60)",
+    "id": 153,
+    "name": "HZSM-5 zeolite (Si/Al₂=60)",
     "type": "Catalyst",
     "category": "Al-related",
     "titles": [
@@ -1711,12 +1706,12 @@
     ]
   },
   {
-    "id": 155,
+    "id": 154,
     "name": "Furanics",
     "type": "Feedstock Category"
   },
   {
-    "id": 156,
+    "id": 155,
     "name": "2-Methylfuran",
     "type": "Feedstock",
     "category": "Furanics",
@@ -1748,7 +1743,7 @@
     ]
   },
   {
-    "id": 157,
+    "id": 156,
     "name": "MCM-22 (SiO₂/Al₂O₃ = 25)",
     "type": "Catalyst",
     "category": "Al-related",
@@ -1760,12 +1755,12 @@
     ]
   },
   {
-    "id": 158,
+    "id": 157,
     "name": "Polycyclic Aromatics / Hydrogenated PAHs",
     "type": "Product Category"
   },
   {
-    "id": 159,
+    "id": 158,
     "name": "1-methyl-1,4,4a,9b-tetrahydro-1H-1,4-epoxy-fluorene (C₁₄H₁₄O)",
     "type": "Product",
     "category": "Polycyclic Aromatics / Hydrogenated PAHs",
@@ -1777,7 +1772,7 @@
     ]
   },
   {
-    "id": 160,
+    "id": 159,
     "name": "High molecular weight Fischer-Tropsch paraffin mixture",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -1786,7 +1781,7 @@
     ]
   },
   {
-    "id": 161,
+    "id": 160,
     "name": "Pt/H-ZSM₅: Pt 0.5 wt%, Al 0.025 mmol/g, Na 0.584 mmol/g, Si/Al 27.6",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -1795,12 +1790,12 @@
     ]
   },
   {
-    "id": 162,
+    "id": 161,
     "name": "C₁-C₄ Hydrocarbons",
     "type": "Product Category"
   },
   {
-    "id": 163,
+    "id": 162,
     "name": "C₁-C₄ gases",
     "type": "Product",
     "category": "C₁-C₄ Hydrocarbons",
@@ -1813,7 +1808,7 @@
     ]
   },
   {
-    "id": 164,
+    "id": 163,
     "name": "Bio-n-hexadecane",
     "type": "Feedstock",
     "category": "Alkanes",
@@ -1825,7 +1820,7 @@
     ]
   },
   {
-    "id": 165,
+    "id": 164,
     "name": "0.5 wt% Pt/SAPO-11",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -1837,12 +1832,12 @@
     ]
   },
   {
-    "id": 166,
+    "id": 165,
     "name": "iso-Alkanes",
     "type": "Product Category"
   },
   {
-    "id": 167,
+    "id": 166,
     "name": "iso-Hexadecane (C₁₆H₃₄)",
     "type": "Product",
     "category": "iso-Alkanes",
@@ -1856,12 +1851,12 @@
     ]
   },
   {
-    "id": 168,
+    "id": 167,
     "name": "Light Olefins",
     "type": "Feedstock Category"
   },
   {
-    "id": 169,
+    "id": 168,
     "name": "Ethylene",
     "type": "Feedstock",
     "category": "Light Olefins",
@@ -1873,24 +1868,24 @@
     ]
   },
   {
-    "id": 170,
+    "id": 169,
     "name": "W-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 171,
+    "id": 170,
     "name": "W-SBA-15 with Si/W molar ratios of 44, 30, 20",
     "type": "Catalyst",
     "category": "W-related"
   },
   {
-    "id": 172,
+    "id": 171,
     "name": "Propylene (C₃H₆)",
     "type": "Product",
     "category": "Olefins"
   },
   {
-    "id": 173,
+    "id": 172,
     "name": "Pt/ZSM-22 (0.5 wt% Pt loading)",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -1902,7 +1897,7 @@
     ]
   },
   {
-    "id": 174,
+    "id": 173,
     "name": "Isomers of n-decane (C₁₀H₂₂)",
     "type": "Product",
     "category": "iso-Alkanes",
@@ -1914,7 +1909,7 @@
     ]
   },
   {
-    "id": 175,
+    "id": 174,
     "name": "Pt",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -1933,7 +1928,7 @@
     ]
   },
   {
-    "id": 176,
+    "id": 175,
     "name": "iso-Dodecane (C₁₂H₂₆)",
     "type": "Product",
     "category": "iso-Alkanes",
@@ -1947,7 +1942,7 @@
     ]
   },
   {
-    "id": 177,
+    "id": 176,
     "name": "C6 to C15 n-alkanes",
     "type": "Feedstock",
     "category": "Alkanes",
@@ -1959,7 +1954,7 @@
     ]
   },
   {
-    "id": 178,
+    "id": 177,
     "name": "Pt/CaY (Pt 0.5 wt%, Si/Al molar ratio 2.50, Ca₂+/(Ca₂+ + Na+) exchange level 86%)",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -1971,7 +1966,7 @@
     ]
   },
   {
-    "id": 179,
+    "id": 178,
     "name": "Monobranched isomers",
     "type": "Product",
     "category": "iso-Alkanes",
@@ -1983,7 +1978,7 @@
     ]
   },
   {
-    "id": 180,
+    "id": 179,
     "name": "endo-Tetrahydrodicyclopentadiene",
     "type": "Feedstock",
     "category": "Alkanes",
@@ -1992,7 +1987,7 @@
     ]
   },
   {
-    "id": 181,
+    "id": 180,
     "name": "6.6% F/HSSY",
     "type": "Catalyst",
     "category": "Al-related",
@@ -2001,12 +1996,12 @@
     ]
   },
   {
-    "id": 182,
+    "id": 181,
     "name": "exo-THDCPD",
     "type": "Product Category"
   },
   {
-    "id": 183,
+    "id": 182,
     "name": "exo-THDCPD",
     "type": "Product",
     "category": "exo-THDCPD",
@@ -2015,7 +2010,7 @@
     ]
   },
   {
-    "id": 184,
+    "id": 183,
     "name": "n-Butanol",
     "type": "Feedstock",
     "category": "Alcohols",
@@ -2027,7 +2022,7 @@
     ]
   },
   {
-    "id": 185,
+    "id": 184,
     "name": "Hierarchically porous plate-like HZSM-5 (P₄₀(0.2))",
     "type": "Catalyst",
     "category": "Al-related",
@@ -2039,12 +2034,12 @@
     ]
   },
   {
-    "id": 186,
+    "id": 185,
     "name": "Fuel Precursors & Condensation Products",
     "type": "Product Category"
   },
   {
-    "id": 187,
+    "id": 186,
     "name": "C₈-C₁₆ jet fuel precursors",
     "type": "Product",
     "category": "Fuel Precursors & Condensation Products",
@@ -2056,7 +2051,7 @@
     ]
   },
   {
-    "id": 188,
+    "id": 187,
     "name": "C3 to C7 olefins",
     "type": "Feedstock",
     "category": "Alcohols",
@@ -2068,7 +2063,7 @@
     ]
   },
   {
-    "id": 189,
+    "id": 188,
     "name": "Si/Al ratio of 50 (ASA-50)",
     "type": "Catalyst",
     "category": "Al-related",
@@ -2080,7 +2075,7 @@
     ]
   },
   {
-    "id": 190,
+    "id": 189,
     "name": "C₈-C₁₆ olefins",
     "type": "Product",
     "category": "Olefins",
@@ -2092,7 +2087,7 @@
     ]
   },
   {
-    "id": 191,
+    "id": 190,
     "name": "C3+C4 olefins",
     "type": "Feedstock",
     "category": "Light Olefins",
@@ -2104,7 +2099,7 @@
     ]
   },
   {
-    "id": 192,
+    "id": 191,
     "name": "SIRALOX 40 (40% silicon oxide, 60% aluminum oxide)",
     "type": "Catalyst",
     "category": "Al-related",
@@ -2116,7 +2111,7 @@
     ]
   },
   {
-    "id": 193,
+    "id": 192,
     "name": "Gasoline (C₅-C₁₀)",
     "type": "Product",
     "category": "Gasoline Range Hydrocarbon",
@@ -2128,7 +2123,7 @@
     ]
   },
   {
-    "id": 194,
+    "id": 193,
     "name": "1-Butene",
     "type": "Feedstock",
     "category": "Light Olefins",
@@ -2140,7 +2135,7 @@
     ]
   },
   {
-    "id": 195,
+    "id": 194,
     "name": "H-ZSM-5",
     "type": "Catalyst",
     "category": "Al-related",
@@ -2154,7 +2149,7 @@
     ]
   },
   {
-    "id": 196,
+    "id": 195,
     "name": "2-Ethyl-1-hexene",
     "type": "Feedstock",
     "category": "Light Olefins",
@@ -2166,12 +2161,12 @@
     ]
   },
   {
-    "id": 197,
+    "id": 196,
     "name": "Zr-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 198,
+    "id": 197,
     "name": "ZrO₂/SO₄²⁻",
     "type": "Catalyst",
     "category": "Zr-related",
@@ -2183,12 +2178,12 @@
     ]
   },
   {
-    "id": 199,
+    "id": 198,
     "name": "3-Methyl-2-heptene",
     "type": "Product Category"
   },
   {
-    "id": 200,
+    "id": 199,
     "name": "cis-3-Methyl-2-heptene (C₈H₁₆)",
     "type": "Product",
     "category": "3-Methyl-2-heptene",
@@ -2200,7 +2195,7 @@
     ]
   },
   {
-    "id": 201,
+    "id": 200,
     "name": "1-Hexene",
     "type": "Feedstock",
     "category": "Light Olefins",
@@ -2214,7 +2209,7 @@
     ]
   },
   {
-    "id": 202,
+    "id": 201,
     "name": "ZSM-5-M₁ (Si/Al=116)",
     "type": "Catalyst",
     "category": "Al-related",
@@ -2226,7 +2221,7 @@
     ]
   },
   {
-    "id": 203,
+    "id": 202,
     "name": "C₁₀-C₁₆ dimers",
     "type": "Product",
     "category": "Hydrocarbon Dimers/Oligomers",
@@ -2238,7 +2233,7 @@
     ]
   },
   {
-    "id": 204,
+    "id": 203,
     "name": "HZ (ZSM-5, Si/Al=30), HY (Si/Al=5), HB (BEA, Si/Al=25)",
     "type": "Catalyst",
     "category": "Al-related",
@@ -2250,7 +2245,7 @@
     ]
   },
   {
-    "id": 205,
+    "id": 204,
     "name": "C₅-C₈ hydrocarbons (gasoline range)",
     "type": "Product",
     "category": "C₁-C₈ Hydrocarbons",
@@ -2262,7 +2257,7 @@
     ]
   },
   {
-    "id": 206,
+    "id": 205,
     "name": "Isobutyl alcohol",
     "type": "Feedstock",
     "category": "Alcohols",
@@ -2276,7 +2271,7 @@
     ]
   },
   {
-    "id": 207,
+    "id": 206,
     "name": "H-Beta zeolite treated with HCl or EDTA",
     "type": "Catalyst",
     "category": "Al-related",
@@ -2288,7 +2283,7 @@
     ]
   },
   {
-    "id": 208,
+    "id": 207,
     "name": "HMCM-22 (Si/Al=15), HY (Si/Al=2.5)",
     "type": "Catalyst",
     "category": "Al-related",
@@ -2300,7 +2295,7 @@
     ]
   },
   {
-    "id": 209,
+    "id": 208,
     "name": "C₉-C₁₂ dimers",
     "type": "Product",
     "category": "Hydrocarbon Dimers/Oligomers",
@@ -2312,7 +2307,7 @@
     ]
   },
   {
-    "id": 210,
+    "id": 209,
     "name": "Guaiacol",
     "type": "Feedstock",
     "category": "Phenols",
@@ -2332,7 +2327,7 @@
     ]
   },
   {
-    "id": 211,
+    "id": 210,
     "name": "HUSY",
     "type": "Catalyst",
     "category": "Al-related",
@@ -2344,12 +2339,12 @@
     ]
   },
   {
-    "id": 212,
+    "id": 211,
     "name": "Cyclic Jet Fuel",
     "type": "Product Category"
   },
   {
-    "id": 213,
+    "id": 212,
     "name": "Bi- and tricyclic jet fuel precursors",
     "type": "Product",
     "category": "Cyclic Jet Fuel",
@@ -2361,7 +2356,7 @@
     ]
   },
   {
-    "id": 214,
+    "id": 213,
     "name": "Pd and HUSY",
     "type": "Catalyst",
     "category": "Pd-related",
@@ -2373,7 +2368,7 @@
     ]
   },
   {
-    "id": 215,
+    "id": 214,
     "name": "Pentene",
     "type": "Feedstock",
     "category": "Light Olefins",
@@ -2385,7 +2380,7 @@
     ]
   },
   {
-    "id": 216,
+    "id": 215,
     "name": "Si/Al≈30",
     "type": "Catalyst",
     "category": "Al-related",
@@ -2397,7 +2392,7 @@
     ]
   },
   {
-    "id": 217,
+    "id": 216,
     "name": "C₁₀-C₁₂ dimers",
     "type": "Product",
     "category": "Hydrocarbon Dimers/Oligomers",
@@ -2409,7 +2404,7 @@
     ]
   },
   {
-    "id": 218,
+    "id": 217,
     "name": "H-Y",
     "type": "Catalyst",
     "category": "Al-related",
@@ -2421,7 +2416,7 @@
     ]
   },
   {
-    "id": 219,
+    "id": 218,
     "name": "C₄ olefins (C₄H₈)",
     "type": "Product",
     "category": "Olefins",
@@ -2433,7 +2428,7 @@
     ]
   },
   {
-    "id": 220,
+    "id": 219,
     "name": "FCC butane-butene",
     "type": "Feedstock",
     "category": "Light Olefins",
@@ -2445,12 +2440,12 @@
     ]
   },
   {
-    "id": 221,
+    "id": 220,
     "name": "Ni-F-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 222,
+    "id": 221,
     "name": "13.8 wt % nickel and 3.6 wt % fluoride",
     "type": "Catalyst",
     "category": "Ni-F-related",
@@ -2462,7 +2457,7 @@
     ]
   },
   {
-    "id": 223,
+    "id": 222,
     "name": "C₆⁺ oligomers",
     "type": "Product",
     "category": "Hydrocarbon Dimers/Oligomers",
@@ -2474,7 +2469,7 @@
     ]
   },
   {
-    "id": 224,
+    "id": 223,
     "name": "Light FCC gasoline",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -2486,7 +2481,7 @@
     ]
   },
   {
-    "id": 225,
+    "id": 224,
     "name": "C₈-C₁₁ oligomers",
     "type": "Product",
     "category": "Hydrocarbon Dimers/Oligomers",
@@ -2498,7 +2493,7 @@
     ]
   },
   {
-    "id": 226,
+    "id": 225,
     "name": "Butene mixture",
     "type": "Feedstock",
     "category": "Light Olefins",
@@ -2510,7 +2505,7 @@
     ]
   },
   {
-    "id": 227,
+    "id": 226,
     "name": "NiO/MMZ ZSM-5 (3 wt% Ni)",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -2522,7 +2517,7 @@
     ]
   },
   {
-    "id": 228,
+    "id": 227,
     "name": "C₈–C₁₆ hydrocarbons",
     "type": "Product",
     "category": "C₈-C₁₆ Hydrocarbons",
@@ -2534,12 +2529,12 @@
     ]
   },
   {
-    "id": 229,
+    "id": 228,
     "name": "Heavy Olefins",
     "type": "Feedstock Category"
   },
   {
-    "id": 230,
+    "id": 229,
     "name": "Isobutene/propene mixture",
     "type": "Feedstock",
     "category": "Heavy Olefins",
@@ -2551,7 +2546,7 @@
     ]
   },
   {
-    "id": 231,
+    "id": 230,
     "name": "H-beta",
     "type": "Catalyst",
     "category": "Al-related",
@@ -2563,12 +2558,12 @@
     ]
   },
   {
-    "id": 232,
+    "id": 231,
     "name": "Petroleum Fractions",
     "type": "Feedstock Category"
   },
   {
-    "id": 233,
+    "id": 232,
     "name": "Straight-run naphtha",
     "type": "Feedstock",
     "category": "Petroleum Fractions",
@@ -2580,7 +2575,7 @@
     ]
   },
   {
-    "id": 234,
+    "id": 233,
     "name": "Metal zeolite catalyst",
     "type": "Catalyst",
     "category": "Ru-related",
@@ -2592,7 +2587,7 @@
     ]
   },
   {
-    "id": 235,
+    "id": 234,
     "name": "Stabilized reformate",
     "type": "Product",
     "category": "Broad-Cut/Mixed Hydrocarbons",
@@ -2604,7 +2599,7 @@
     ]
   },
   {
-    "id": 236,
+    "id": 235,
     "name": "Propane",
     "type": "Feedstock",
     "category": "Alkanes",
@@ -2616,7 +2611,7 @@
     ]
   },
   {
-    "id": 237,
+    "id": 236,
     "name": "BTX (benzene C₆H₆, toluene C₇H₈, xylene C₈H₁₀)",
     "type": "Product",
     "category": "Aromatic Hydrocarbons",
@@ -2628,7 +2623,7 @@
     ]
   },
   {
-    "id": 238,
+    "id": 237,
     "name": "Loblolly pine",
     "type": "Feedstock",
     "category": "Lignocellulosic Biomass",
@@ -2640,12 +2635,12 @@
     ]
   },
   {
-    "id": 239,
+    "id": 238,
     "name": "Pt-related, Al-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 240,
+    "id": 239,
     "name": "0.5 wt% Pt on 85% anatase/15% rutile TiO₂, SiO₂/Al₂O₃ ratio approximately 30 mol/mol",
     "type": "Catalyst",
     "category": "Pt-related, Al-related",
@@ -2657,7 +2652,7 @@
     ]
   },
   {
-    "id": 241,
+    "id": 240,
     "name": "Gasoline (C₈-C₁₂)",
     "type": "Product",
     "category": "Gasoline Range Hydrocarbon",
@@ -2669,12 +2664,12 @@
     ]
   },
   {
-    "id": 242,
+    "id": 241,
     "name": "Bio-crude Oils",
     "type": "Feedstock Category"
   },
   {
-    "id": 243,
+    "id": 242,
     "name": "Bio-crude",
     "type": "Feedstock",
     "category": "Bio-crude Oils",
@@ -2686,7 +2681,7 @@
     ]
   },
   {
-    "id": 244,
+    "id": 243,
     "name": "HY",
     "type": "Catalyst",
     "category": "Al-related",
@@ -2698,7 +2693,7 @@
     ]
   },
   {
-    "id": 245,
+    "id": 244,
     "name": "C₁₂⁺ dimeric cycloalkanes",
     "type": "Product",
     "category": "Cyclic Jet Fuel",
@@ -2710,7 +2705,7 @@
     ]
   },
   {
-    "id": 246,
+    "id": 245,
     "name": "5 wt% Pd on activated carbon",
     "type": "Catalyst",
     "category": "Pd-related",
@@ -2722,7 +2717,7 @@
     ]
   },
   {
-    "id": 247,
+    "id": 246,
     "name": "Fatty acid methyl ester",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -2734,12 +2729,12 @@
     ]
   },
   {
-    "id": 248,
+    "id": 247,
     "name": "Mn-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 249,
+    "id": 248,
     "name": "Mn",
     "type": "Catalyst",
     "category": "Mn-related",
@@ -2751,12 +2746,7 @@
     ]
   },
   {
-    "id": 250,
-    "name": "C₈-C₁₆ n-Alkanes",
-    "type": "Product Category"
-  },
-  {
-    "id": 251,
+    "id": 249,
     "name": "Algae oil",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -2769,12 +2759,12 @@
     ]
   },
   {
-    "id": 252,
+    "id": 250,
     "name": "Ce-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 253,
+    "id": 251,
     "name": "Ce exchanged zeolite b",
     "type": "Catalyst",
     "category": "Ce-related",
@@ -2786,10 +2776,10 @@
     ]
   },
   {
-    "id": 254,
+    "id": 252,
     "name": "C₁₀-C₁₄ alkanes",
     "type": "Product",
-    "category": "C₈-C₁₆ Hydrocarbons",
+    "category": "Alkanes",
     "titles": [
       "Production of renewable aviation fuel range alkanes from algae oil"
     ],
@@ -2798,7 +2788,7 @@
     ]
   },
   {
-    "id": 255,
+    "id": 253,
     "name": "Methyl oleate",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -2810,7 +2800,7 @@
     ]
   },
   {
-    "id": 256,
+    "id": 254,
     "name": "Fe/SiO₂–Al₂O₃",
     "type": "Catalyst",
     "category": "Fe-related",
@@ -2822,24 +2812,7 @@
     ]
   },
   {
-    "id": 257,
-    "name": "C₅-C₁₈ n-Alkanes",
-    "type": "Product Category"
-  },
-  {
-    "id": 258,
-    "name": "C₈ to C₁₅ alkanes (bio-jet fuel grade)",
-    "type": "Product",
-    "category": "C₅-C₁₈ n-Alkanes",
-    "titles": [
-      "Highly selective production of bio-jet fuel grade alkanes over an Fe/SiO<sub>2</sub> –Al<sub>2</sub> O<sub>3</sub> solid acid catalyst under solvent-free conditions"
-    ],
-    "dois": [
-      "10.1039/D3SE00144J"
-    ]
-  },
-  {
-    "id": 259,
+    "id": 255,
     "name": "5 wt.% Pd on beta-zeolite (Si/Al=300)",
     "type": "Catalyst",
     "category": "Pd-related",
@@ -2851,12 +2824,12 @@
     ]
   },
   {
-    "id": 260,
+    "id": 256,
     "name": "C₈-C₁₁ Hydrocarbons",
     "type": "Product Category"
   },
   {
-    "id": 261,
+    "id": 257,
     "name": "C₈-C₁₁ hydrocarbons (cracking products)",
     "type": "Product",
     "category": "C₈-C₁₁ Hydrocarbons",
@@ -2868,12 +2841,12 @@
     ]
   },
   {
-    "id": 262,
+    "id": 258,
     "name": "La-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 263,
+    "id": 259,
     "name": "La/Al-MCM-41",
     "type": "Catalyst",
     "category": "La-related",
@@ -2885,12 +2858,12 @@
     ]
   },
   {
-    "id": 264,
+    "id": 260,
     "name": "Furanic Platform Molecules",
     "type": "Product Category"
   },
   {
-    "id": 265,
+    "id": 261,
     "name": "Organic liquid product (OLP)",
     "type": "Product",
     "category": "Furanic Platform Molecules",
@@ -2902,12 +2875,12 @@
     ]
   },
   {
-    "id": 266,
+    "id": 262,
     "name": "Ni-Cu-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 267,
+    "id": 263,
     "name": "Ni-Cu/MCM-41",
     "type": "Catalyst",
     "category": "Ni-Cu-related",
@@ -2919,12 +2892,12 @@
     ]
   },
   {
-    "id": 268,
+    "id": 264,
     "name": "C₉+ Hydrocarbons",
     "type": "Product Category"
   },
   {
-    "id": 269,
+    "id": 265,
     "name": "Hydrocarbons",
     "type": "Product",
     "category": "C₉+ Hydrocarbons",
@@ -2938,7 +2911,7 @@
     ]
   },
   {
-    "id": 270,
+    "id": 266,
     "name": "Ni/Meso-Y",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -2950,10 +2923,10 @@
     ]
   },
   {
-    "id": 271,
+    "id": 267,
     "name": "C₈-C₁₄ alkanes",
     "type": "Product",
-    "category": "C₈-C₁₆ Hydrocarbons",
+    "category": "Alkanes",
     "titles": [
       "Conversion pathways of palm oil into jet biofuel catalyzed by mesoporous zeolites"
     ],
@@ -2962,7 +2935,7 @@
     ]
   },
   {
-    "id": 272,
+    "id": 268,
     "name": "Ni/Meso-Hbeta",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -2974,7 +2947,7 @@
     ]
   },
   {
-    "id": 273,
+    "id": 269,
     "name": "Ni/Meso-HZSM-5",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -2988,7 +2961,7 @@
     ]
   },
   {
-    "id": 274,
+    "id": 270,
     "name": "Waste cooking oil",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -3008,12 +2981,12 @@
     ]
   },
   {
-    "id": 275,
+    "id": 271,
     "name": "Co-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 276,
+    "id": 272,
     "name": "CoAl₂O₄",
     "type": "Catalyst",
     "category": "Co-related",
@@ -3025,7 +2998,7 @@
     ]
   },
   {
-    "id": 277,
+    "id": 273,
     "name": "Biogasoline (C₅-C₁₂)",
     "type": "Product",
     "category": "Gasoline Range Hydrocarbon",
@@ -3037,7 +3010,7 @@
     ]
   },
   {
-    "id": 278,
+    "id": 274,
     "name": "SiO₂-ZrN",
     "type": "Catalyst",
     "category": "Zr-related",
@@ -3049,7 +3022,7 @@
     ]
   },
   {
-    "id": 279,
+    "id": 275,
     "name": "Biofuel",
     "type": "Product",
     "category": "Bio-jet Fuel",
@@ -3061,7 +3034,7 @@
     ]
   },
   {
-    "id": 280,
+    "id": 276,
     "name": "Glucose",
     "type": "Feedstock",
     "category": "Alkanes",
@@ -3073,7 +3046,7 @@
     ]
   },
   {
-    "id": 281,
+    "id": 277,
     "name": "10%Ni@HZSM-5/MCM-41",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -3085,7 +3058,7 @@
     ]
   },
   {
-    "id": 282,
+    "id": 278,
     "name": "Liquid fuels",
     "type": "Product",
     "category": "Bio-jet Fuel",
@@ -3097,7 +3070,7 @@
     ]
   },
   {
-    "id": 283,
+    "id": 279,
     "name": "Methyl palmitate",
     "type": "Feedstock",
     "category": "Petroleum Fractions",
@@ -3115,7 +3088,7 @@
     ]
   },
   {
-    "id": 284,
+    "id": 280,
     "name": "Ni-based metal–organic frameworks (Ni-MOFs)",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -3127,7 +3100,7 @@
     ]
   },
   {
-    "id": 285,
+    "id": 281,
     "name": "Microalgal biodiesel",
     "type": "Feedstock",
     "category": "Alkanes",
@@ -3139,12 +3112,12 @@
     ]
   },
   {
-    "id": 286,
+    "id": 282,
     "name": "Aldehydes",
     "type": "Feedstock Category"
   },
   {
-    "id": 287,
+    "id": 283,
     "name": "Furfural",
     "type": "Feedstock",
     "category": "Aldehydes",
@@ -3164,12 +3137,12 @@
     ]
   },
   {
-    "id": 288,
+    "id": 284,
     "name": "Mg-Al-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 289,
+    "id": 285,
     "name": "MgAl-LDH-derived mixed oxides",
     "type": "Catalyst",
     "category": "Mg-Al-related",
@@ -3181,7 +3154,7 @@
     ]
   },
   {
-    "id": 290,
+    "id": 286,
     "name": "Branched-chain C9 α,β-unsaturated carbonyl compounds (C9B-OH and C9B)",
     "type": "Product",
     "category": "Broad-Cut/Mixed Hydrocarbons",
@@ -3193,7 +3166,7 @@
     ]
   },
   {
-    "id": 291,
+    "id": 287,
     "name": "n-ZSM-5 (Si/Al=42)",
     "type": "Catalyst",
     "category": "Al-related",
@@ -3205,12 +3178,12 @@
     ]
   },
   {
-    "id": 292,
+    "id": 288,
     "name": "Ketones/Aldehydes/Enones",
     "type": "Product Category"
   },
   {
-    "id": 293,
+    "id": 289,
     "name": "FC (first condensation adduct)",
     "type": "Product",
     "category": "Ketones/Aldehydes/Enones",
@@ -3222,7 +3195,7 @@
     ]
   },
   {
-    "id": 294,
+    "id": 290,
     "name": "ZrAPO-5 (Zr/Al = 0.20)",
     "type": "Catalyst",
     "category": "Zr-related",
@@ -3234,12 +3207,12 @@
     ]
   },
   {
-    "id": 295,
+    "id": 291,
     "name": "Furanic Dimers",
     "type": "Product Category"
   },
   {
-    "id": 296,
+    "id": 292,
     "name": "(E)-2-(furan-2-ylmethylene)cyclohexan-1-one (C₁₁H₁₂O₂)",
     "type": "Product",
     "category": "Furanic Dimers",
@@ -3251,7 +3224,7 @@
     ]
   },
   {
-    "id": 297,
+    "id": 293,
     "name": "Cyclohexanone",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -3265,7 +3238,7 @@
     ]
   },
   {
-    "id": 298,
+    "id": 294,
     "name": "C12 fuel precursors ([1,1'-bi(cyclohexylidene)]-2-one C₁₂H₁₈O and [1,1'-bi(cyclohexan)]-1'-en-2-one C₁₂H₁₈O)",
     "type": "Product",
     "category": "Ketones/Aldehydes/Enones",
@@ -3277,12 +3250,12 @@
     ]
   },
   {
-    "id": 299,
+    "id": 295,
     "name": "Nb-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 300,
+    "id": 296,
     "name": "NbOPO₄ (niobium phosphate)",
     "type": "Catalyst",
     "category": "Nb-related",
@@ -3294,7 +3267,7 @@
     ]
   },
   {
-    "id": 301,
+    "id": 297,
     "name": "2-Cyclohexylidenecyclohexanone (C₁₂H₁₈O)",
     "type": "Product",
     "category": "Cyclohexylcyclohexane",
@@ -3306,7 +3279,7 @@
     ]
   },
   {
-    "id": 302,
+    "id": 298,
     "name": "Acetovanillone",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -3318,7 +3291,7 @@
     ]
   },
   {
-    "id": 303,
+    "id": 299,
     "name": "H-β",
     "type": "Catalyst",
     "category": "Al-related",
@@ -3330,12 +3303,12 @@
     ]
   },
   {
-    "id": 304,
+    "id": 300,
     "name": "Monocyclic Aromatic Hydrocarbons",
     "type": "Product Category"
   },
   {
-    "id": 305,
+    "id": 301,
     "name": "1-(2-Hydroxy-4-methoxyphenyl)-3-(4-hydroxyphenyl) prop-2-en-1-one (C₁₆H₁₄O₄)",
     "type": "Product",
     "category": "Monocyclic Aromatic Hydrocarbons",
@@ -3347,7 +3320,7 @@
     ]
   },
   {
-    "id": 306,
+    "id": 302,
     "name": "Cyclopentanone",
     "type": "Feedstock",
     "category": "Aldehydes",
@@ -3361,12 +3334,12 @@
     ]
   },
   {
-    "id": 307,
+    "id": 303,
     "name": "Hf-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 308,
+    "id": 304,
     "name": "80% Hf₁.5TPA/MCM-41",
     "type": "Catalyst",
     "category": "Hf-related",
@@ -3378,7 +3351,7 @@
     ]
   },
   {
-    "id": 309,
+    "id": 305,
     "name": "Monocyclic compounds",
     "type": "Product",
     "category": "Monocyclic Aromatic Hydrocarbons",
@@ -3390,7 +3363,7 @@
     ]
   },
   {
-    "id": 310,
+    "id": 306,
     "name": "Acetic acid",
     "type": "Feedstock",
     "category": "Aldehydes",
@@ -3402,12 +3375,12 @@
     ]
   },
   {
-    "id": 311,
+    "id": 307,
     "name": "Cu-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 312,
+    "id": 308,
     "name": "2 wt% Cu/ZrO₂",
     "type": "Catalyst",
     "category": "Cu-related",
@@ -3419,12 +3392,12 @@
     ]
   },
   {
-    "id": 313,
+    "id": 309,
     "name": "Sn-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 314,
+    "id": 310,
     "name": "Sn-MFI",
     "type": "Catalyst",
     "category": "Sn-related",
@@ -3436,7 +3409,7 @@
     ]
   },
   {
-    "id": 315,
+    "id": 311,
     "name": "4-(2-Furyl)-3-buten-2-one (C₈H₈O₂)",
     "type": "Product",
     "category": "Ketones/Aldehydes/Enones",
@@ -3450,12 +3423,12 @@
     ]
   },
   {
-    "id": 316,
+    "id": 312,
     "name": "Ketones",
     "type": "Feedstock Category"
   },
   {
-    "id": 317,
+    "id": 313,
     "name": "Fe-MCM-41, Fe(acac)₃/MCM-41",
     "type": "Catalyst",
     "category": "Fe-related",
@@ -3467,7 +3440,7 @@
     ]
   },
   {
-    "id": 318,
+    "id": 314,
     "name": "Levulinic acid",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -3481,7 +3454,7 @@
     ]
   },
   {
-    "id": 319,
+    "id": 315,
     "name": "Zr-modified USY zeolite (specifically Zr-USY-2 with 10.9 wt% Zr and Si/Al ratio of 61.1)",
     "type": "Catalyst",
     "category": "Zr-related",
@@ -3493,12 +3466,12 @@
     ]
   },
   {
-    "id": 320,
+    "id": 316,
     "name": "Carboxylic Acids",
     "type": "Product Category"
   },
   {
-    "id": 321,
+    "id": 317,
     "name": "β-Furfurylidenelevulinic acid (C₁₀H₁₂O₄)",
     "type": "Product",
     "category": "Carboxylic Acids",
@@ -3510,7 +3483,7 @@
     ]
   },
   {
-    "id": 322,
+    "id": 318,
     "name": "HZSM-5 (Si/Al = 130)",
     "type": "Catalyst",
     "category": "Al-related",
@@ -3522,12 +3495,12 @@
     ]
   },
   {
-    "id": 323,
+    "id": 319,
     "name": "Propylcyclohexane",
     "type": "Product Category"
   },
   {
-    "id": 324,
+    "id": 320,
     "name": "Spiro adduct A (5-norbornen-2-spiro-10-cyclopentan-2-one)",
     "type": "Product",
     "category": "Propylcyclohexane",
@@ -3539,7 +3512,7 @@
     ]
   },
   {
-    "id": 325,
+    "id": 321,
     "name": "HY zeolite (SiO₂/Al₂O₃ = 5.4)",
     "type": "Catalyst",
     "category": "Al-related",
@@ -3551,7 +3524,7 @@
     ]
   },
   {
-    "id": 326,
+    "id": 322,
     "name": "Mixture of Diels-Alder adducts: DCMF, CPMF, TCPD",
     "type": "Product",
     "category": "Furanic Dimers",
@@ -3563,7 +3536,7 @@
     ]
   },
   {
-    "id": 327,
+    "id": 323,
     "name": "Hβ zeolite (Si/Al = 25)",
     "type": "Catalyst",
     "category": "Al-related",
@@ -3575,7 +3548,7 @@
     ]
   },
   {
-    "id": 328,
+    "id": 324,
     "name": "Diels-Alder adduct A (endo/exo 1-methyl-1,4,4a,5,6,7,8,8a-octahydro-1,4-epoxy-5,8-methanonaphthalene)",
     "type": "Product",
     "category": "Hydrocarbon Dimers/Oligomers",
@@ -3587,7 +3560,7 @@
     ]
   },
   {
-    "id": 329,
+    "id": 325,
     "name": "Mixture of fatty acids (mainly oleic acid, linoleic acid, palmitic acid, stearic acid, etc.) – 10 g per run",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -3599,7 +3572,7 @@
     ]
   },
   {
-    "id": 330,
+    "id": 326,
     "name": "10 wt% Ni on HZSM-5 (Si/Al = 25)",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -3611,7 +3584,7 @@
     ]
   },
   {
-    "id": 331,
+    "id": 327,
     "name": "Aromatic hydrocarbons (toluene, ethylbenzene, o-xylene, p-xylene, propylbenzene, 1-ethyl-2-methylbenzene, etc.)",
     "type": "Product",
     "category": "Aromatic Hydrocarbons",
@@ -3623,7 +3596,7 @@
     ]
   },
   {
-    "id": 332,
+    "id": 328,
     "name": "Benzene",
     "type": "Feedstock",
     "category": "Aromatics",
@@ -3635,7 +3608,7 @@
     ]
   },
   {
-    "id": 333,
+    "id": 329,
     "name": "MCM-22",
     "type": "Catalyst",
     "category": "Al-related",
@@ -3647,7 +3620,7 @@
     ]
   },
   {
-    "id": 334,
+    "id": 330,
     "name": "High-energy-density fuel intermediates (polycyclic norbornyl-substituted aromatics) which are further hydrogenated to give high-energy-density fuel",
     "type": "Product",
     "category": "Polycyclic Aromatics / Hydrogenated PAHs",
@@ -3659,7 +3632,7 @@
     ]
   },
   {
-    "id": 335,
+    "id": 331,
     "name": "Curcas oil",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -3671,7 +3644,7 @@
     ]
   },
   {
-    "id": 336,
+    "id": 332,
     "name": "Pt/ZSM-22",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -3685,7 +3658,7 @@
     ]
   },
   {
-    "id": 337,
+    "id": 333,
     "name": "Long-chain normal bio-paraffins",
     "type": "Product",
     "category": "n-Alkanes",
@@ -3697,7 +3670,7 @@
     ]
   },
   {
-    "id": 338,
+    "id": 334,
     "name": "bio-jet fuel",
     "type": "Product",
     "category": "Bio-jet Fuel",
@@ -3711,7 +3684,7 @@
     ]
   },
   {
-    "id": 339,
+    "id": 335,
     "name": "Biological deoxygenated oil",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -3723,7 +3696,7 @@
     ]
   },
   {
-    "id": 340,
+    "id": 336,
     "name": "1-hexene",
     "type": "Feedstock",
     "category": "Heavy Olefins",
@@ -3732,7 +3705,7 @@
     ]
   },
   {
-    "id": 341,
+    "id": 337,
     "name": "ZSM-5 (Si/Al ratio of 102)",
     "type": "Catalyst",
     "category": "Al-related",
@@ -3741,12 +3714,12 @@
     ]
   },
   {
-    "id": 342,
+    "id": 338,
     "name": "Heavy Olefins",
     "type": "Product Category"
   },
   {
-    "id": 343,
+    "id": 339,
     "name": "Dimers",
     "type": "Product",
     "category": "Heavy Olefins",
@@ -3755,12 +3728,12 @@
     ]
   },
   {
-    "id": 344,
+    "id": 340,
     "name": "Diesel Fuels",
     "type": "Feedstock Category"
   },
   {
-    "id": 345,
+    "id": 341,
     "name": "JP-10",
     "type": "Feedstock",
     "category": "Diesel Fuels",
@@ -3769,7 +3742,7 @@
     ]
   },
   {
-    "id": 346,
+    "id": 342,
     "name": "HZSM-5/stainless-steel-grid film",
     "type": "Catalyst",
     "category": "Al-related",
@@ -3778,7 +3751,7 @@
     ]
   },
   {
-    "id": 347,
+    "id": 343,
     "name": "C₁-C₄ Hydrocarbons",
     "type": "Product",
     "category": "C₁-C₄ Hydrocarbons",
@@ -3787,7 +3760,7 @@
     ]
   },
   {
-    "id": 348,
+    "id": 344,
     "name": "Methyl stearate",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -3799,7 +3772,7 @@
     ]
   },
   {
-    "id": 349,
+    "id": 345,
     "name": "Pt (1.0 wt%)",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -3811,12 +3784,12 @@
     ]
   },
   {
-    "id": 350,
+    "id": 346,
     "name": "C₉-C₁₅ n-Alkanes",
     "type": "Product Category"
   },
   {
-    "id": 351,
+    "id": 347,
     "name": "C₉-C₁₅ alkanes (aviation fuel)",
     "type": "Product",
     "category": "C₉-C₁₅ n-Alkanes",
@@ -3832,7 +3805,7 @@
     ]
   },
   {
-    "id": 352,
+    "id": 348,
     "name": "Ni/ZSM-5 nanosheet catalysts",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -3844,7 +3817,7 @@
     ]
   },
   {
-    "id": 353,
+    "id": 349,
     "name": "Lignin pyrolysis oil",
     "type": "Feedstock",
     "category": "Lignin & Cellulose",
@@ -3856,12 +3829,12 @@
     ]
   },
   {
-    "id": 354,
+    "id": 350,
     "name": "Ru-related, Ru-Re-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 355,
+    "id": 351,
     "name": "5 wt% Ru/C, 4 wt% Ru and 3.64 wt% Re/C",
     "type": "Catalyst",
     "category": "Ru-related, Ru-Re-related",
@@ -3873,12 +3846,12 @@
     ]
   },
   {
-    "id": 356,
+    "id": 352,
     "name": "C₈-C₁₄ Branched Cycloalkanes",
     "type": "Product Category"
   },
   {
-    "id": 357,
+    "id": 353,
     "name": "Deoxygenated hydrocarbon mixtures (branched C₆-C₂₀ cycloalkanes)",
     "type": "Product",
     "category": "C₈-C₁₄ Branched Cycloalkanes",
@@ -3890,7 +3863,7 @@
     ]
   },
   {
-    "id": 358,
+    "id": 354,
     "name": "Co",
     "type": "Catalyst",
     "category": "Co-related",
@@ -3902,7 +3875,7 @@
     ]
   },
   {
-    "id": 359,
+    "id": 355,
     "name": "2-Phenoxy-1-phenylethanol",
     "type": "Feedstock",
     "category": "Alcohols",
@@ -3916,12 +3889,12 @@
     ]
   },
   {
-    "id": 360,
+    "id": 356,
     "name": "Ni-La-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 361,
+    "id": 357,
     "name": "NiLa/CNT (15+5 wt%)",
     "type": "Catalyst",
     "category": "Ni-La-related",
@@ -3933,7 +3906,7 @@
     ]
   },
   {
-    "id": 362,
+    "id": 358,
     "name": "Ethylcyclohexane (C₈H₁₆)",
     "type": "Product",
     "category": "Ethylcyclohexane",
@@ -3947,7 +3920,7 @@
     ]
   },
   {
-    "id": 363,
+    "id": 359,
     "name": "γ-valerolactone",
     "type": "Feedstock",
     "category": "Ketones",
@@ -3959,7 +3932,7 @@
     ]
   },
   {
-    "id": 364,
+    "id": 360,
     "name": "5% Pd/HY",
     "type": "Catalyst",
     "category": "Pd-related",
@@ -3971,12 +3944,12 @@
     ]
   },
   {
-    "id": 365,
+    "id": 361,
     "name": "Esters, n-Alkanes, Carboxylic Acids",
     "type": "Product Category"
   },
   {
-    "id": 366,
+    "id": 362,
     "name": "Pentyl valerate (C₁₀H₂₀O₂), Pentane (C₅H₁₂),Pentanoic acid (C₅H₁₀O₂)",
     "type": "Product",
     "category": "Esters, n-Alkanes, Carboxylic Acids",
@@ -3988,7 +3961,7 @@
     ]
   },
   {
-    "id": 367,
+    "id": 363,
     "name": "Castor oil",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -4002,12 +3975,12 @@
     ]
   },
   {
-    "id": 368,
+    "id": 364,
     "name": "Ni-related, Ni-Ag-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 369,
+    "id": 365,
     "name": "Ni/SAPO-11, NiAg/SAPO-11",
     "type": "Catalyst",
     "category": "Ni-related, Ni-Ag-related",
@@ -4019,7 +3992,7 @@
     ]
   },
   {
-    "id": 370,
+    "id": 366,
     "name": "C₈-C₁₅ alkanes (aviation fuel)",
     "type": "Product",
     "category": "C₈-C₁₅ Hydrocarbons",
@@ -4031,7 +4004,7 @@
     ]
   },
   {
-    "id": 371,
+    "id": 367,
     "name": "Isoeugenol",
     "type": "Feedstock",
     "category": "Phenols",
@@ -4045,7 +4018,7 @@
     ]
   },
   {
-    "id": 372,
+    "id": 368,
     "name": "Pt-Beta-25",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -4057,7 +4030,7 @@
     ]
   },
   {
-    "id": 373,
+    "id": 369,
     "name": "Propylcyclohexane (C₉H₁₈)",
     "type": "Product",
     "category": "Propylcyclohexane",
@@ -4071,7 +4044,7 @@
     ]
   },
   {
-    "id": 374,
+    "id": 370,
     "name": "Pt-Beta-300",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -4083,12 +4056,12 @@
     ]
   },
   {
-    "id": 375,
+    "id": 371,
     "name": "Mo-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 376,
+    "id": 372,
     "name": "MoS₂/Al₂O₃-ZSM-5",
     "type": "Catalyst",
     "category": "Mo-related",
@@ -4100,7 +4073,7 @@
     ]
   },
   {
-    "id": 377,
+    "id": 373,
     "name": "n-Hexadecane (C₁₆H₃₄)",
     "type": "Product",
     "category": "n-Alkanes",
@@ -4114,12 +4087,12 @@
     ]
   },
   {
-    "id": 378,
+    "id": 374,
     "name": "Ni-Mo-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 379,
+    "id": 375,
     "name": "Ni (4.0 wt %), Mo (12 wt %) on modified USY",
     "type": "Catalyst",
     "category": "Ni-Mo-related",
@@ -4131,7 +4104,7 @@
     ]
   },
   {
-    "id": 380,
+    "id": 376,
     "name": "Mixed fatty acids",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -4143,7 +4116,7 @@
     ]
   },
   {
-    "id": 381,
+    "id": 377,
     "name": "Ni-ZSM-5 (with different Ni loading or Si/Al ratio)",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -4167,7 +4140,7 @@
     ]
   },
   {
-    "id": 382,
+    "id": 378,
     "name": "Aromatic hydrocarbons (toluene C₇H₈, ethylbenzene C₈H₁₀, xylenes C₈H₁₀, propylbenzene C₉H₁₂, 1-ethyl-2-methylbenzene C₉H₁₂), alkanes, olefins, cyclic hydrocarbons",
     "type": "Product",
     "category": "Broad-Cut/Mixed Hydrocarbons",
@@ -4179,7 +4152,7 @@
     ]
   },
   {
-    "id": 383,
+    "id": 379,
     "name": "n-Hexadecane",
     "type": "Feedstock",
     "category": "Alkanes",
@@ -4203,7 +4176,7 @@
     ]
   },
   {
-    "id": 384,
+    "id": 380,
     "name": "Pt, HPW, amorphous SiO₂",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -4215,7 +4188,7 @@
     ]
   },
   {
-    "id": 385,
+    "id": 381,
     "name": "C₉-C₁₄ alkanes (bio-jet fuel components)",
     "type": "Product",
     "category": "C₉-C₁₅ n-Alkanes",
@@ -4227,7 +4200,7 @@
     ]
   },
   {
-    "id": 386,
+    "id": 382,
     "name": "1 wt% Pt on γ-Al₂O₃",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -4239,7 +4212,7 @@
     ]
   },
   {
-    "id": 387,
+    "id": 383,
     "name": "n-Paraffins (mainly C₁₅H₃₂ and C₁₇H₃₆)",
     "type": "Product",
     "category": "n-Alkanes",
@@ -4251,7 +4224,7 @@
     ]
   },
   {
-    "id": 388,
+    "id": 384,
     "name": "n-Paraffins",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -4263,7 +4236,7 @@
     ]
   },
   {
-    "id": 389,
+    "id": 385,
     "name": "Pt/Nano-Beta",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -4275,7 +4248,7 @@
     ]
   },
   {
-    "id": 390,
+    "id": 386,
     "name": "C₈-C₁₆ iso-rich hydrocarbons",
     "type": "Product",
     "category": "C₈-C₁₆ Hydrocarbons",
@@ -4287,7 +4260,7 @@
     ]
   },
   {
-    "id": 391,
+    "id": 387,
     "name": "Ni/SAPO-11",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -4301,7 +4274,7 @@
     ]
   },
   {
-    "id": 392,
+    "id": 388,
     "name": "Hydro-processed renewable jet fuel (HRJ)",
     "type": "Product",
     "category": "Bio-jet Fuel",
@@ -4313,12 +4286,12 @@
     ]
   },
   {
-    "id": 393,
+    "id": 389,
     "name": "Terpenes",
     "type": "Feedstock Category"
   },
   {
-    "id": 394,
+    "id": 390,
     "name": "Squalene",
     "type": "Feedstock",
     "category": "Terpenes",
@@ -4330,7 +4303,7 @@
     ]
   },
   {
-    "id": 395,
+    "id": 391,
     "name": "NiMo/SiO₂",
     "type": "Catalyst",
     "category": "Ni-Mo-related",
@@ -4342,7 +4315,7 @@
     ]
   },
   {
-    "id": 396,
+    "id": 392,
     "name": "Squalane (C₃₀H₆₂)",
     "type": "Product",
     "category": "iso-Alkanes",
@@ -4354,7 +4327,7 @@
     ]
   },
   {
-    "id": 397,
+    "id": 393,
     "name": "Botryococcus braunii algae oil",
     "type": "Feedstock",
     "category": "Algal Materials",
@@ -4366,7 +4339,7 @@
     ]
   },
   {
-    "id": 398,
+    "id": 394,
     "name": "NiMo/Al₁₃-Mont",
     "type": "Catalyst",
     "category": "Ni-Mo-related",
@@ -4378,7 +4351,7 @@
     ]
   },
   {
-    "id": 399,
+    "id": 395,
     "name": "C₁–C₄ gas hydrocarbons",
     "type": "Product",
     "category": "C₁-C₄ Hydrocarbons",
@@ -4390,7 +4363,7 @@
     ]
   },
   {
-    "id": 400,
+    "id": 396,
     "name": "Soy methyl ester",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -4402,7 +4375,7 @@
     ]
   },
   {
-    "id": 401,
+    "id": 397,
     "name": "Ni/γ-Al₂O₃, Ni/Beta",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -4414,7 +4387,7 @@
     ]
   },
   {
-    "id": 402,
+    "id": 398,
     "name": "Palm oil derived hydroalkanes",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -4426,12 +4399,12 @@
     ]
   },
   {
-    "id": 403,
+    "id": 399,
     "name": "Ni-Ag-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 404,
+    "id": 400,
     "name": "NiAg/SAPO-11",
     "type": "Catalyst",
     "category": "Ni-Ag-related",
@@ -4443,7 +4416,7 @@
     ]
   },
   {
-    "id": 405,
+    "id": 401,
     "name": "2 wt% Pt/USY",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -4455,7 +4428,7 @@
     ]
   },
   {
-    "id": 406,
+    "id": 402,
     "name": "0.5 wt% Pt on 15 wt% WO₃/ZrO₂",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -4467,7 +4440,7 @@
     ]
   },
   {
-    "id": 407,
+    "id": 403,
     "name": "C₅-C₁₂ hydrocarbons (gasoline-range)",
     "type": "Product",
     "category": "C₈-C₁₂ Hydrocarbons",
@@ -4481,7 +4454,7 @@
     ]
   },
   {
-    "id": 408,
+    "id": 404,
     "name": "Oil sludge extractable portion",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -4493,7 +4466,7 @@
     ]
   },
   {
-    "id": 409,
+    "id": 405,
     "name": "Ni₁₀%/MPYZ",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -4505,7 +4478,7 @@
     ]
   },
   {
-    "id": 410,
+    "id": 406,
     "name": "Chain alkanes",
     "type": "Product",
     "category": "n-Alkanes",
@@ -4517,7 +4490,7 @@
     ]
   },
   {
-    "id": 411,
+    "id": 407,
     "name": "SiO₂/Zr",
     "type": "Catalyst",
     "category": "Zr-related",
@@ -4529,7 +4502,7 @@
     ]
   },
   {
-    "id": 412,
+    "id": 408,
     "name": "Bio-jet fuel",
     "type": "Product",
     "category": "Bio-jet Fuel",
@@ -4547,7 +4520,7 @@
     ]
   },
   {
-    "id": 413,
+    "id": 409,
     "name": "Isomer alkanes (iso-C₁₇H₃₆, iso-C₁₈H₃₈), n-C₁₇H₃₆, n-C₁₈H₃₈, C₂–C₁₆ hydrocarbons, gaseous products (CH₄, CO, CO₂, C₂–C₆ hydrocarbons)",
     "type": "Product",
     "category": "Broad-Cut/Mixed Hydrocarbons",
@@ -4559,7 +4532,7 @@
     ]
   },
   {
-    "id": 414,
+    "id": 410,
     "name": "Soybean oil",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -4571,7 +4544,7 @@
     ]
   },
   {
-    "id": 415,
+    "id": 411,
     "name": "Pt/ZSM-5 (Si/Al₂=30)",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -4583,12 +4556,12 @@
     ]
   },
   {
-    "id": 416,
+    "id": 412,
     "name": "Pt-La-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 417,
+    "id": 413,
     "name": "Pt-La/SAPO-11",
     "type": "Catalyst",
     "category": "Pt-La-related",
@@ -4600,12 +4573,17 @@
     ]
   },
   {
-    "id": 418,
+    "id": 414,
+    "name": "C₈-C₁₆ n-Alkanes",
+    "type": "Product Category"
+  },
+  {
+    "id": 415,
     "name": "Carbon dioxide",
     "type": "Feedstock Category"
   },
   {
-    "id": 419,
+    "id": 416,
     "name": "Carbon dioxide",
     "type": "Feedstock",
     "category": "Carbon dioxide",
@@ -4617,12 +4595,12 @@
     ]
   },
   {
-    "id": 420,
+    "id": 417,
     "name": "Cu-Zn-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 421,
+    "id": 418,
     "name": "Cu-ZnO",
     "type": "Catalyst",
     "category": "Cu-Zn-related",
@@ -4634,12 +4612,12 @@
     ]
   },
   {
-    "id": 422,
+    "id": 419,
     "name": "C₆-C₉ Hydrocarbons",
     "type": "Product Category"
   },
   {
-    "id": 423,
+    "id": 420,
     "name": "C₅-C₉ hydrocarbons (gasoline fraction)",
     "type": "Product",
     "category": "C₆-C₉ Hydrocarbons",
@@ -4651,7 +4629,7 @@
     ]
   },
   {
-    "id": 424,
+    "id": 421,
     "name": "Pd/HY-a",
     "type": "Catalyst",
     "category": "Pd-related",
@@ -4663,12 +4641,12 @@
     ]
   },
   {
-    "id": 425,
+    "id": 422,
     "name": "Decalin",
     "type": "Product Category"
   },
   {
-    "id": 426,
+    "id": 423,
     "name": "Tetralin (C₁₀H₁₂)",
     "type": "Product",
     "category": "Decalin",
@@ -4680,7 +4658,7 @@
     ]
   },
   {
-    "id": 427,
+    "id": 424,
     "name": "C19-C38 n-paraffins",
     "type": "Feedstock",
     "category": "Alkanes",
@@ -4692,7 +4670,7 @@
     ]
   },
   {
-    "id": 428,
+    "id": 425,
     "name": "0.5%Pt/Al–Si/30",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -4704,12 +4682,12 @@
     ]
   },
   {
-    "id": 429,
+    "id": 426,
     "name": "Diesel Fraction",
     "type": "Product Category"
   },
   {
-    "id": 430,
+    "id": 427,
     "name": "Diesel fraction",
     "type": "Product",
     "category": "Diesel Fraction",
@@ -4721,7 +4699,7 @@
     ]
   },
   {
-    "id": 431,
+    "id": 428,
     "name": "MgO/Pt-MFI",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -4733,7 +4711,7 @@
     ]
   },
   {
-    "id": 432,
+    "id": 429,
     "name": "i-C₇-C₉ isomers",
     "type": "Product",
     "category": "Furanic Dimers",
@@ -4745,7 +4723,7 @@
     ]
   },
   {
-    "id": 433,
+    "id": 430,
     "name": "MgO/Pt-Beta",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -4757,7 +4735,7 @@
     ]
   },
   {
-    "id": 434,
+    "id": 431,
     "name": "MgO/Pt-FAU",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -4769,7 +4747,7 @@
     ]
   },
   {
-    "id": 435,
+    "id": 432,
     "name": "1-Naphthol",
     "type": "Feedstock",
     "category": "Alcohols",
@@ -4781,7 +4759,7 @@
     ]
   },
   {
-    "id": 436,
+    "id": 433,
     "name": "1,2,3,4-Tetrahydronaphthol (C₁₀H₁₂O)",
     "type": "Product",
     "category": "Jet Fuel Range Hydrocarbon",
@@ -4793,7 +4771,7 @@
     ]
   },
   {
-    "id": 437,
+    "id": 434,
     "name": "Benzyloxybenzene",
     "type": "Feedstock",
     "category": "Heavy Olefins",
@@ -4807,7 +4785,7 @@
     ]
   },
   {
-    "id": 438,
+    "id": 435,
     "name": "Ni₁₀%@β/M",
     "type": "Catalyst",
     "category": "Al-related",
@@ -4819,12 +4797,12 @@
     ]
   },
   {
-    "id": 439,
+    "id": 436,
     "name": "Cycloalkanes",
     "type": "Product Category"
   },
   {
-    "id": 440,
+    "id": 437,
     "name": "Cycloalkanes",
     "type": "Product",
     "category": "Cycloalkanes",
@@ -4838,7 +4816,7 @@
     ]
   },
   {
-    "id": 441,
+    "id": 438,
     "name": "Lignin bio-oil derived from softwood biomass",
     "type": "Feedstock",
     "category": "Lignin & Cellulose",
@@ -4850,7 +4828,7 @@
     ]
   },
   {
-    "id": 442,
+    "id": 439,
     "name": "Ru(2%)/CePO₄−H",
     "type": "Catalyst",
     "category": "Ru-related",
@@ -4862,7 +4840,7 @@
     ]
   },
   {
-    "id": 443,
+    "id": 440,
     "name": "Fully saturated C₆–C₉ cyclic hydrocarbons",
     "type": "Product",
     "category": "C₆-C₉ Hydrocarbons",
@@ -4874,7 +4852,7 @@
     ]
   },
   {
-    "id": 444,
+    "id": 441,
     "name": "Ni species immobilized on hierarchical porous ZSM-22 (HZ-x)",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -4886,7 +4864,7 @@
     ]
   },
   {
-    "id": 445,
+    "id": 442,
     "name": "Ni₂P",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -4898,7 +4876,7 @@
     ]
   },
   {
-    "id": 446,
+    "id": 443,
     "name": "n-Alkanes",
     "type": "Product",
     "category": "n-Alkanes",
@@ -4910,7 +4888,7 @@
     ]
   },
   {
-    "id": 447,
+    "id": 444,
     "name": "Straight-run diesel",
     "type": "Feedstock",
     "category": "Diesel Fuels",
@@ -4922,12 +4900,12 @@
     ]
   },
   {
-    "id": 448,
+    "id": 445,
     "name": "Ni-W-related",
     "type": "Catalyst Category"
   },
   {
-    "id": 449,
+    "id": 446,
     "name": "NiW/AY-15",
     "type": "Catalyst",
     "category": "Ni-W-related",
@@ -4939,7 +4917,7 @@
     ]
   },
   {
-    "id": 450,
+    "id": 447,
     "name": "Light naphtha",
     "type": "Product",
     "category": "Light Naphtha / Light Hydrocarbons",
@@ -4951,7 +4929,7 @@
     ]
   },
   {
-    "id": 451,
+    "id": 448,
     "name": "Fatty acid methyl esters",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -4967,7 +4945,7 @@
     ]
   },
   {
-    "id": 452,
+    "id": 449,
     "name": "Pt/TS-1",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -4979,12 +4957,12 @@
     ]
   },
   {
-    "id": 453,
+    "id": 450,
     "name": "C₁₅-C₁₈ n-Alkanes",
     "type": "Product Category"
   },
   {
-    "id": 454,
+    "id": 451,
     "name": "C₁₅-C₁₈ alkanes",
     "type": "Product",
     "category": "C₁₅-C₁₈ n-Alkanes",
@@ -4998,7 +4976,7 @@
     ]
   },
   {
-    "id": 455,
+    "id": 452,
     "name": "Aromatic-rich oil",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -5010,7 +4988,7 @@
     ]
   },
   {
-    "id": 456,
+    "id": 453,
     "name": "Ni nanoparticles on M-Beta zeolite support (10.3 wt% Ni)",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -5022,7 +5000,7 @@
     ]
   },
   {
-    "id": 457,
+    "id": 454,
     "name": "C₈-C₁₄ branched cycloalkanes mixture",
     "type": "Product",
     "category": "C₈-C₁₄ Branched Cycloalkanes",
@@ -5034,7 +5012,7 @@
     ]
   },
   {
-    "id": 458,
+    "id": 455,
     "name": "Hexadecane",
     "type": "Feedstock",
     "category": "Alkanes",
@@ -5046,7 +5024,7 @@
     ]
   },
   {
-    "id": 459,
+    "id": 456,
     "name": "Ru",
     "type": "Catalyst",
     "category": "Ru-related",
@@ -5058,7 +5036,7 @@
     ]
   },
   {
-    "id": 460,
+    "id": 457,
     "name": "C₉-C₁₅ hydrocarbons",
     "type": "Product",
     "category": "C₉-C₁₅ Hydrocarbons",
@@ -5070,7 +5048,7 @@
     ]
   },
   {
-    "id": 461,
+    "id": 458,
     "name": "Pt/HZ-SEA",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -5082,7 +5060,7 @@
     ]
   },
   {
-    "id": 462,
+    "id": 459,
     "name": "Decalin (C₁₀H₁₈)",
     "type": "Product",
     "category": "Decalin",
@@ -5094,7 +5072,7 @@
     ]
   },
   {
-    "id": 463,
+    "id": 460,
     "name": "Ni-Mo/HY",
     "type": "Catalyst",
     "category": "Ni-Mo-related",
@@ -5106,7 +5084,7 @@
     ]
   },
   {
-    "id": 464,
+    "id": 461,
     "name": "Jet fuel",
     "type": "Product",
     "category": "Bio-jet Fuel",
@@ -5120,7 +5098,7 @@
     ]
   },
   {
-    "id": 465,
+    "id": 462,
     "name": "Lignin-based jet fuel",
     "type": "Feedstock",
     "category": "Lignin & Cellulose",
@@ -5132,7 +5110,7 @@
     ]
   },
   {
-    "id": 466,
+    "id": 463,
     "name": "1.0 wt% Pt/Zeolite",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -5144,7 +5122,7 @@
     ]
   },
   {
-    "id": 467,
+    "id": 464,
     "name": "Alkylbenzenes",
     "type": "Product",
     "category": "Aromatic Hydrocarbons",
@@ -5156,7 +5134,7 @@
     ]
   },
   {
-    "id": 468,
+    "id": 465,
     "name": "C₉-C₁₅ alkanes (aviation-fuel-range)",
     "type": "Product",
     "category": "C₉-C₁₅ n-Alkanes",
@@ -5170,7 +5148,7 @@
     ]
   },
   {
-    "id": 469,
+    "id": 466,
     "name": "2-Benzylphenol",
     "type": "Feedstock",
     "category": "Phenols",
@@ -5182,7 +5160,7 @@
     ]
   },
   {
-    "id": 470,
+    "id": 467,
     "name": "5 wt% Pd/C",
     "type": "Catalyst",
     "category": "Pd-related",
@@ -5194,7 +5172,7 @@
     ]
   },
   {
-    "id": 471,
+    "id": 468,
     "name": "Dicyclohexylmethane (C₁₃H₂₄), Perhydrofluorene (C₁₃H₂₄), Dicyclohexylmethane (C₁₃H₂₄), Cyclohexylmethyl)benzene (C₁₃H₁₈)",
     "type": "Product",
     "category": "Cycloalkanes",
@@ -5206,7 +5184,7 @@
     ]
   },
   {
-    "id": 472,
+    "id": 469,
     "name": "Fe(3)-Cu(13)/SiO₂-Al₂O₃",
     "type": "Catalyst",
     "category": "Cu-related",
@@ -5218,7 +5196,7 @@
     ]
   },
   {
-    "id": 473,
+    "id": 470,
     "name": "Nannochloropsis oceanica microalgae biodiesel",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -5230,7 +5208,7 @@
     ]
   },
   {
-    "id": 474,
+    "id": 471,
     "name": "10 wt% Ni/meso-Y zeolite (Si/Al molar ratio = 9.0)",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -5242,7 +5220,19 @@
     ]
   },
   {
-    "id": 475,
+    "id": 472,
+    "name": "Alkanes",
+    "type": "Product",
+    "category": "n-Alkanes",
+    "titles": [
+      "Continuous hydroprocessing of microalgae biodiesel to jet fuel range hydrocarbons promoted by Ni/hierarchical mesoporous Y zeolite catalyst"
+    ],
+    "dois": [
+      "10.1016/j.ijhydene.2019.03.073"
+    ]
+  },
+  {
+    "id": 473,
     "name": "7 wt% Ni/SAPO-11",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -5254,7 +5244,7 @@
     ]
   },
   {
-    "id": 476,
+    "id": 474,
     "name": "n-Heptadecane (C₁₇H₃₆)",
     "type": "Product",
     "category": "n-Alkanes",
@@ -5266,7 +5256,7 @@
     ]
   },
   {
-    "id": 477,
+    "id": 475,
     "name": "10 wt% Ni",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -5278,7 +5268,7 @@
     ]
   },
   {
-    "id": 478,
+    "id": 476,
     "name": "Long-chain unsaturated fatty acid methyl esters",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -5290,7 +5280,12 @@
     ]
   },
   {
-    "id": 479,
+    "id": 477,
+    "name": "C₅-C₁₈ n-Alkanes",
+    "type": "Product Category"
+  },
+  {
+    "id": 478,
     "name": "C₅-C₁₈ liquid alkanes",
     "type": "Product",
     "category": "C₅-C₁₈ n-Alkanes",
@@ -5302,7 +5297,7 @@
     ]
   },
   {
-    "id": 480,
+    "id": 479,
     "name": "Ru/MY-O",
     "type": "Catalyst",
     "category": "Ru-related",
@@ -5314,12 +5309,12 @@
     ]
   },
   {
-    "id": 481,
+    "id": 480,
     "name": "Cyclohexane",
     "type": "Product Category"
   },
   {
-    "id": 482,
+    "id": 481,
     "name": "Cyclohexane (C₆H₁₂)",
     "type": "Product",
     "category": "Cyclohexane",
@@ -5339,7 +5334,7 @@
     ]
   },
   {
-    "id": 483,
+    "id": 482,
     "name": "n-Octadecane",
     "type": "Feedstock",
     "category": "Alkanes",
@@ -5351,7 +5346,7 @@
     ]
   },
   {
-    "id": 484,
+    "id": 483,
     "name": "Pt 0.5 wt%",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -5363,6 +5358,11 @@
       "10.9713/KCER.2016.54.5.712",
       "10.1016/j.cscee.2024.100789"
     ]
+  },
+  {
+    "id": 484,
+    "name": "C₈-C₁₈ Hydrocarbons",
+    "type": "Product Category"
   },
   {
     "id": 485,
@@ -6081,7 +6081,7 @@
     "id": 547,
     "name": "C₈-C₁₆ aviation kerosene components",
     "type": "Product",
-    "category": "C₈-C₁₆ Hydrocarbons",
+    "category": "Jet Fuel Range Hydrocarbon",
     "titles": [
       "Preparation of Hierarchical Co/Beta Catalyst and Its Application in Hydrogenation of CO to Aviation Kerosene"
     ],
@@ -7973,6 +7973,11 @@
   },
   {
     "id": 713,
+    "name": "C₈-C₁₈ n-Alkanes",
+    "type": "Product Category"
+  },
+  {
+    "id": 714,
     "name": "Carbon monoxide, Carbon dioxide",
     "type": "Feedstock",
     "category": "Synthesis Gas",
@@ -7984,7 +7989,7 @@
     ]
   },
   {
-    "id": 714,
+    "id": 715,
     "name": "ZnCr₂O₄/Sbx-H-ZSM-5",
     "type": "Catalyst",
     "category": "Zn-Cr-related",
@@ -7996,7 +8001,7 @@
     ]
   },
   {
-    "id": 715,
+    "id": 716,
     "name": "C₈-C₁₂ single-ring aromatics",
     "type": "Product",
     "category": "Monocyclic Aromatic Hydrocarbons",
@@ -8008,7 +8013,7 @@
     ]
   },
   {
-    "id": 716,
+    "id": 717,
     "name": "Biological oil",
     "type": "Feedstock",
     "category": "Fatty Acids & Esters",
@@ -8020,7 +8025,7 @@
     ]
   },
   {
-    "id": 717,
+    "id": 718,
     "name": "3Ni/SAPO-11",
     "type": "Catalyst",
     "category": "Ni-related",
@@ -8032,7 +8037,7 @@
     ]
   },
   {
-    "id": 718,
+    "id": 719,
     "name": "C₉-C₁₆ hydrocarbons",
     "type": "Product",
     "category": "C₉-C₁₆ Hydrocarbons",
@@ -8044,7 +8049,7 @@
     ]
   },
   {
-    "id": 719,
+    "id": 720,
     "name": "Co/H-Y (mesoporous)",
     "type": "Catalyst",
     "category": "Co-related",
@@ -8056,7 +8061,7 @@
     ]
   },
   {
-    "id": 720,
+    "id": 721,
     "name": "0.5Pt/HY",
     "type": "Catalyst",
     "category": "Pt-related",
@@ -8068,7 +8073,7 @@
     ]
   },
   {
-    "id": 721,
+    "id": 722,
     "name": "Decalin",
     "type": "Product",
     "category": "Decalin",
@@ -8080,7 +8085,7 @@
     ]
   },
   {
-    "id": 722,
+    "id": 723,
     "name": "meso-Y zeolite",
     "type": "Catalyst",
     "category": "Al-related",
@@ -8093,15 +8098,10 @@
     ]
   },
   {
-    "id": 723,
-    "name": "Jet fuel",
-    "type": "Product Category"
-  },
-  {
     "id": 724,
     "name": "Jet fuel (alkanes)",
     "type": "Product",
-    "category": "Jet fuel",
+    "category": "Bio-jet Fuel",
     "titles": [
       "Catalytic hydroprocessing of microalgae biodiesel to renewable jet fuels over Ni/meso-y difunctional catalyst; 镍基介孔Y催化微藻生物柴油制航空燃油"
     ]
@@ -8150,11 +8150,6 @@
   },
   {
     "id": 729,
-    "name": "Alkanes",
-    "type": "Product Category"
-  },
-  {
-    "id": 730,
     "name": "Iso-paraffins",
     "type": "Product",
     "category": "Alkanes",
@@ -8163,10 +8158,15 @@
     ]
   },
   {
+    "id": 730,
+    "name": "C₈-C₁₈ hydrocarbons",
+    "type": "Product Category"
+  },
+  {
     "id": 731,
     "name": "C₈-C₁₈ hydrocarbons",
     "type": "Product",
-    "category": "Jet fuel",
+    "category": "C₈-C₁₈ hydrocarbons",
     "titles": [
       "Ru modified Co/SiO2/HZSM-5 catalysts for jet fuel-range hydrocarbons synthesis"
     ]
@@ -9951,7 +9951,6 @@
     "type": "Product category",
     "titles": [
       "Hydro‐conversion of oleic acid in bio‐oil to liquid hydrocarbons: an experimental and modeling investigation",
-      "Ion Impregnation Effect of Fe, Cu, Cr-attributed Mordenite on Stearic Acid Cracking",
       "Morphology Controlled Synthesis of ZSM-22 Molecular Sieves and Their Catalytic Performance on Long-chain Bioalkane to Aviation Kerosene; ZSM-22 分子筛的形貌控制合成及催化长链正构烷烃制生物航空煤油性能",
       "Bifunctional MoS2/Al2O3-Zeolite Catalysts in the Hydroprocessing of Methyl Palmitate",
       "Maximizing Biojet Fuel Production from Triglyceride: Importance of the Hydrocracking Catalyst and Separate Deoxygenation/Hydrocracking Steps",
@@ -9969,7 +9968,6 @@
     ],
     "dois": [
       "10.1002/jctb.4618",
-      "10.22146/ijc.71126",
       "10.7503/cjcu20230208",
       "10.3390/ijms241914863",
       "10.1021/acscatal.7b01326",
@@ -11957,8 +11955,6 @@
       "Catalytic oligomerization of isobutyl alcohol to jet fuels over dealuminated zeolite Beta",
       "Oligomerization of Butene Mixture over NiO/Mesoporous Aluminosilicate Catalyst",
       "Oligomerization of ethanol-derived propene and isobutene mixtures to transportation fuels: catalyst and process considerations",
-      "Production of renewable aviation fuel range alkanes from algae oil",
-      "Conversion pathways of palm oil into jet biofuel catalyzed by mesoporous zeolites",
       "Ni-based metal–organic frameworks prepared with terephthalic acid hydroxylation converted methyl palmitate into jet-fuel range hydrocarbons in CO2 atmosphere",
       "Compositional dependence of Co- and Mo-supported beta zeolite for selective one-step hydrotreatment of methyl palmitate to produce bio jet fuel range hydrocarbons",
       "Maximizing Biojet Fuel Production from Triglyceride: Importance of the Hydrocracking Catalyst and Separate Deoxygenation/Hydrocracking Steps",
@@ -11967,7 +11963,6 @@
       "Hydroprocessing of Oleic Acid for Production of Jet-Fuel Range Hydrocarbons over Cu and FeCu Catalysts",
       "Catalytic hydrotreating of palm oil for bio-jet fuel production over Ni supported on mesoporous zeolite",
       "Direct Jet Fuel Synthesis Over Co/M-TUD-1 Catalysts by the Integration of Mesopore Confinement Effects and Acid Hydrocracking",
-      "Preparation of Hierarchical Co/Beta Catalyst and Its Application in Hydrogenation of CO to Aviation Kerosene",
       "Biojet Production from Hydroisomerization of Palm Olein Catalyzed by Ni/Micromesoporous Zeolite Composite Supports",
       "Bio-jet fuel range in biofuels derived from hydroconversion of palm olein over Ni/zeolite catalysts and freezing point of biofuels/Jet A-1 blends",
       "Aromatization-free strategy for sustainable aviation fuel: Co-upcycling waste oils and polystyrene plastics into alkanes and aromatics",
@@ -11984,8 +11979,6 @@
       "10.1016/j.cattod.2020.04.047",
       "10.3390/catal8100456",
       "10.1039/C8CY02297F",
-      "10.1039/C5RA23145K",
-      "10.1039/C6RA22500D",
       "10.1016/j.fuel.2022.123679",
       "10.1039/D2RA06938E",
       "10.1021/acscatal.7b01326",
@@ -11994,7 +11987,6 @@
       "10.3390/catal9121051",
       "10.1016/j.matpr.2021.09.385",
       "10.1021/acs.iecr.5c00574",
-      "10.3390/cryst13071053",
       "10.1021/acsomega.5c02800",
       "10.1016/j.fuel.2021.120472",
       "10.1016/j.ces.2024.121100",
@@ -12290,15 +12282,28 @@
   },
   {
     "id": 837,
-    "name": "C₈-C₁₈ n-Alkanes",
+    "name": "Alkanes",
     "type": "Product category",
     "titles": [
       "Utilization of illumination and thermal field in the preparation of jet–fuel components: The photothermic catalysis of Jatropha oil over the M/TiO2–HZSM–5",
-      "Hydrodeoxygenation of lignocellulose-derived oxygenates to diesel or jet fuel range alkanes under mild conditions"
+      "Ion Impregnation Effect of Fe, Cu, Cr-attributed Mordenite on Stearic Acid Cracking",
+      "Catalytic cracking of oleic acid to generate aviation kerosene using platinum–modified <span style=\"font-variant:small-caps;\">ZSM</span> –5 nanosheets",
+      "In-situ preparation of MnFeCoNiCu/C for the sustainable co-production of bio-jet fuel and green diesel under solvent-free and low hydrogen pressure conditions",
+      "Production of renewable aviation fuel range alkanes from algae oil",
+      "Highly selective production of bio-jet fuel grade alkanes over an Fe/SiO<sub>2</sub> –Al<sub>2</sub> O<sub>3</sub> solid acid catalyst under solvent-free conditions",
+      "Conversion pathways of palm oil into jet biofuel catalyzed by mesoporous zeolites",
+      "Jet range hydrocarbons converted from microalgal biodiesel over mesoporous zeolite-based catalysts",
+      "Ru modified Co/SiO2/HZSM-5 catalysts for jet fuel-range hydrocarbons synthesis"
     ],
     "dois": [
       "10.1016/j.energy.2021.122209",
-      "10.1039/C9CY02367D"
+      "10.22146/ijc.71126",
+      "10.1002/jctb.7714",
+      "10.1016/j.enconman.2024.118875",
+      "10.1039/C5RA23145K",
+      "10.1039/D3SE00144J",
+      "10.1039/C6RA22500D",
+      "10.1016/j.ijhydene.2018.04.078"
     ]
   },
   {
@@ -12827,6 +12832,7 @@
       "Toward Efficient Bio-jet Fuel Production via Atmospheric Hydrotreating: Insight into the Effect of Co/HZSM-5, Mo/HZSM-5, and CoMo/HZSM-5 Catalyst Arrangements",
       "Conversion of volcano mud and marble waste to Ni/Ca/ZSM-5 catalyst for bio-jet fuel production from waste cooking oil and the effect of Ni loading",
       "Green hydrocarbons fuel production from agricultural waste biomass in the presence of a novel heterogeneous catalyst",
+      "Catalytic hydroprocessing of microalgae biodiesel to renewable jet fuels over Ni/meso-y difunctional catalyst; 镍基介孔Y催化微藻生物柴油制航空燃油",
       "Hydrodeoxygenation and hydrocracking to produce jet biofuel catalyzed by mesoporous zeolite desilicated with NaOH treatment; 碱处理脱硅介孔分子筛催化脱氧断键制生物航油研究"
     ],
     "dois": [
@@ -13717,11 +13723,13 @@
       "Catalytic fast pyrolysis of cellulose to produce furan compounds with SAPO type catalysts",
       "Regioselective hydrogenation of 1-naphthol over supported Pt and Pd catalysts for producing high-temperature jet fuel stabilizer",
       "SiO2 Catalysts for Fischer-Tropsch Synthesis of Jet Fuel-range Hydrocarbons.pdf",
+      "Preparation of Hierarchical Co/Beta Catalyst and Its Application in Hydrogenation of CO to Aviation Kerosene",
       "Protonated titanate nanotubes as a highly active catalyst for the synthesis of renewable diesel and jet fuel range alkanes"
     ],
     "dois": [
       "10.1016/j.jaap.2017.12.004",
       "10.1016/S0920-5861(00)00545-9",
+      "10.3390/cryst13071053",
       "10.1016/j.apcatb.2015.01.022"
     ]
   },
@@ -13873,19 +13881,6 @@
   },
   {
     "id": 940,
-    "name": "C₈-C₁₈ Hydrocarbons",
-    "type": "Product category",
-    "titles": [
-      "Catalytic cracking of oleic acid to generate aviation kerosene using platinum–modified <span style=\"font-variant:small-caps;\">ZSM</span> –5 nanosheets",
-      "A Study of Pt-Mg/Mesoporous Aluminosilicate Catalysts for Synthesis of Jet-fuel from n-Octadecane"
-    ],
-    "dois": [
-      "10.1002/jctb.7714",
-      "10.9713/KCER.2016.54.5.712"
-    ]
-  },
-  {
-    "id": 941,
     "name": "yield: 83.8% (C8-C17 alkanes)",
     "type": "Product yield",
     "titles": [
@@ -13896,7 +13891,7 @@
     ]
   },
   {
-    "id": 942,
+    "id": 941,
     "name": "CO₂",
     "type": "Atmosphere",
     "titles": [
@@ -13909,7 +13904,7 @@
     ]
   },
   {
-    "id": 943,
+    "id": 942,
     "name": "5h",
     "type": "Reaction time",
     "titles": [
@@ -13930,7 +13925,7 @@
     ]
   },
   {
-    "id": 944,
+    "id": 943,
     "name": "18 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -13941,7 +13936,7 @@
     ]
   },
   {
-    "id": 945,
+    "id": 944,
     "name": "Sunflower Oils",
     "type": "Product category",
     "titles": [
@@ -13952,7 +13947,7 @@
     ]
   },
   {
-    "id": 946,
+    "id": 945,
     "name": "yield: Upgraded sunflower oils: [41.1 wt% at 450°C, 33.2 wt% at 500°C, 40.7 wt% at 550°C], Hydrocarbon fuels: [59.4 wt% at 450°C, 63.0 wt% at 500°C, 73.9 wt% at 550°C], Distillation residues: [37.6 wt% at 450°C, 34.0 wt% at 500°C, 23.1 wt% at 550°C]",
     "type": "Product yield",
     "titles": [
@@ -13963,7 +13958,7 @@
     ]
   },
   {
-    "id": 947,
+    "id": 946,
     "name": "LHSV 3 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -13974,7 +13969,7 @@
     ]
   },
   {
-    "id": 948,
+    "id": 947,
     "name": "1.38 × 10^5 Pa (20 psi)",
     "type": "Reaction pressure",
     "titles": [
@@ -13985,7 +13980,7 @@
     ]
   },
   {
-    "id": 949,
+    "id": 948,
     "name": "Gasoline Range Hydrocarbon",
     "type": "Product category",
     "titles": [
@@ -14006,7 +14001,7 @@
     ]
   },
   {
-    "id": 950,
+    "id": 949,
     "name": "selectivity: Linear hydrocarbons: decreased over time",
     "type": "Product selectivity",
     "titles": [
@@ -14017,7 +14012,7 @@
     ]
   },
   {
-    "id": 951,
+    "id": 950,
     "name": "yield: Gas products: HZ (21.6%), AT-HZ (30.8%), Zn1-AT-HZ (35.0%), Zn3-AT-HZ (35.9%), Zn5-AT-HZ (35.0%) at t=0",
     "type": "Product yield",
     "titles": [
@@ -14028,7 +14023,7 @@
     ]
   },
   {
-    "id": 952,
+    "id": 951,
     "name": "conversion: HZ: 84% to 41% in 30 min",
     "type": "Conversion rate",
     "titles": [
@@ -14039,7 +14034,7 @@
     ]
   },
   {
-    "id": 953,
+    "id": 952,
     "name": "Ethylcyclohexane",
     "type": "Product category",
     "titles": [
@@ -14062,7 +14057,7 @@
     ]
   },
   {
-    "id": 954,
+    "id": 953,
     "name": "selectivity: AC-3Na-N showed the highest gaseous olefin product selectivity of 32.7%",
     "type": "Product selectivity",
     "titles": [
@@ -14073,7 +14068,7 @@
     ]
   },
   {
-    "id": 955,
+    "id": 954,
     "name": "yield: Gas production yield: AC-3Na-N (61.1%)",
     "type": "Product yield",
     "titles": [
@@ -14084,7 +14079,7 @@
     ]
   },
   {
-    "id": 956,
+    "id": 955,
     "name": "0.2 mL/min",
     "type": "Flow rate",
     "titles": [
@@ -14099,7 +14094,7 @@
     ]
   },
   {
-    "id": 957,
+    "id": 956,
     "name": "conversion: AC-3Na-N (77.4%)",
     "type": "Conversion rate",
     "titles": [
@@ -14110,7 +14105,7 @@
     ]
   },
   {
-    "id": 958,
+    "id": 957,
     "name": "C₈-C₁₂ Hydrocarbons",
     "type": "Product category",
     "titles": [
@@ -14125,7 +14120,7 @@
     ]
   },
   {
-    "id": 959,
+    "id": 958,
     "name": "selectivity: H2: 1.83-4.89 vol%, CO: 28.30-31.60 vol%, CO2: 41.30-52.01 vol%, CH4: 9.18-10.83 vol%, C2-C4: 5.15-12.75 vol%",
     "type": "Product selectivity",
     "titles": [
@@ -14136,7 +14131,7 @@
     ]
   },
   {
-    "id": 960,
+    "id": 959,
     "name": "yield: Bio-oil: 39.64-48.87 wt%, Char: 27.67-28.53 wt%, Gas: 23.71-31.43 wt%, Coke: 0.40-1.27 wt%, Aqueous-phase bio-oil: 17.89-30.07 wt%, Organic-phase bio-oil: 9.57-20.74 wt%",
     "type": "Product yield",
     "titles": [
@@ -14147,7 +14142,7 @@
     ]
   },
   {
-    "id": 961,
+    "id": 960,
     "name": "1972",
     "type": "Year",
     "titles": [
@@ -14158,7 +14153,7 @@
     ]
   },
   {
-    "id": 962,
+    "id": 961,
     "name": "selectivity: motor gasoline to gas ratio: [3.4 (amorphous), 5.8 (Tseokar-2)], motor gasoline to coke ratio: [19.7 (amorphous), 23.7 (Tseokar-2)]",
     "type": "Product selectivity",
     "titles": [
@@ -14169,7 +14164,7 @@
     ]
   },
   {
-    "id": 963,
+    "id": 962,
     "name": "yield: motor gasoline: [43.80 wt% (amorphous), 61.8 wt% (Tseokar-2)], aviation gasoline: [58.30 wt% (amorphous), 70.3 wt% (Tseokar-2)], gas: [21.4-24.9 wt%, 19.0 wt%], coke: [2.5-4.3 wt%]",
     "type": "Product yield",
     "titles": [
@@ -14180,7 +14175,7 @@
     ]
   },
   {
-    "id": 964,
+    "id": 963,
     "name": "0.68 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -14191,7 +14186,7 @@
     ]
   },
   {
-    "id": 965,
+    "id": 964,
     "name": "2010",
     "type": "Year",
     "titles": [
@@ -14206,7 +14201,7 @@
     ]
   },
   {
-    "id": 966,
+    "id": 965,
     "name": "yield: Ethylene: 4.6 wt.%",
     "type": "Product yield",
     "titles": [
@@ -14217,7 +14212,7 @@
     ]
   },
   {
-    "id": 967,
+    "id": 966,
     "name": "60s",
     "type": "Reaction time",
     "titles": [
@@ -14228,7 +14223,7 @@
     ]
   },
   {
-    "id": 968,
+    "id": 967,
     "name": "625°C",
     "type": "Reaction temperature",
     "titles": [
@@ -14239,7 +14234,7 @@
     ]
   },
   {
-    "id": 969,
+    "id": 968,
     "name": "conversion: 54.0% (isopropylbenzene over Fe-Ti/ZSM-5 at 240°C)",
     "type": "Conversion rate",
     "titles": [
@@ -14250,7 +14245,7 @@
     ]
   },
   {
-    "id": 970,
+    "id": 969,
     "name": "selectivity: See Table 2 and Table 3 for detailed molar selectivities",
     "type": "Product selectivity",
     "titles": [
@@ -14261,7 +14256,7 @@
     ]
   },
   {
-    "id": 971,
+    "id": 970,
     "name": "0.3 mL/min",
     "type": "Flow rate",
     "titles": [
@@ -14272,7 +14267,7 @@
     ]
   },
   {
-    "id": 972,
+    "id": 971,
     "name": "573-673K",
     "type": "Reaction temperature",
     "titles": [
@@ -14283,7 +14278,7 @@
     ]
   },
   {
-    "id": 973,
+    "id": 972,
     "name": "1-137 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -14294,7 +14289,7 @@
     ]
   },
   {
-    "id": 974,
+    "id": 973,
     "name": "conversion: 6.1-9.2% at 1 bar",
     "type": "Conversion rate",
     "titles": [
@@ -14305,7 +14300,7 @@
     ]
   },
   {
-    "id": 975,
+    "id": 974,
     "name": "Diels-Alder reaction",
     "type": "Reaction mode",
     "titles": [
@@ -14326,7 +14321,7 @@
     ]
   },
   {
-    "id": 976,
+    "id": 975,
     "name": "Polycyclic Aromatics / Hydrogenated PAHs",
     "type": "Product category",
     "titles": [
@@ -14341,7 +14336,7 @@
     ]
   },
   {
-    "id": 977,
+    "id": 976,
     "name": "selectivity: 73.6%",
     "type": "Product selectivity",
     "titles": [
@@ -14352,7 +14347,7 @@
     ]
   },
   {
-    "id": 978,
+    "id": 977,
     "name": "yield: 70.0%",
     "type": "Product yield",
     "titles": [
@@ -14363,7 +14358,7 @@
     ]
   },
   {
-    "id": 979,
+    "id": 978,
     "name": "2-MF:Indene = 1:1 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -14374,7 +14369,7 @@
     ]
   },
   {
-    "id": 980,
+    "id": 979,
     "name": "5-7h",
     "type": "Reaction time",
     "titles": [
@@ -14385,7 +14380,7 @@
     ]
   },
   {
-    "id": 981,
+    "id": 980,
     "name": "180°C",
     "type": "Reaction temperature",
     "titles": [
@@ -14398,7 +14393,7 @@
     ]
   },
   {
-    "id": 982,
+    "id": 981,
     "name": "conversion: 94.7% (2-methylfuran)",
     "type": "Conversion rate",
     "titles": [
@@ -14409,7 +14404,7 @@
     ]
   },
   {
-    "id": 983,
+    "id": 982,
     "name": "C₁-C₄ Hydrocarbons",
     "type": "Product category",
     "titles": [
@@ -14431,7 +14426,7 @@
     ]
   },
   {
-    "id": 984,
+    "id": 983,
     "name": "selectivity: Pt/H-Beta: iso/n-paraffin ratio 6-7",
     "type": "Product selectivity",
     "titles": [
@@ -14439,7 +14434,7 @@
     ]
   },
   {
-    "id": 985,
+    "id": 984,
     "name": "yield: Gases: 10-48%",
     "type": "Product yield",
     "titles": [
@@ -14447,7 +14442,7 @@
     ]
   },
   {
-    "id": 986,
+    "id": 985,
     "name": "H₂:Hydrocarbon = 600 Nm³/m³",
     "type": "Reactant molar ratio",
     "titles": [
@@ -14455,7 +14450,7 @@
     ]
   },
   {
-    "id": 987,
+    "id": 986,
     "name": "LHSV 1.0 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -14469,7 +14464,7 @@
     ]
   },
   {
-    "id": 988,
+    "id": 987,
     "name": "250-350°C",
     "type": "Reaction temperature",
     "titles": [
@@ -14481,7 +14476,7 @@
     ]
   },
   {
-    "id": 989,
+    "id": 988,
     "name": "40 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -14495,7 +14490,7 @@
     ]
   },
   {
-    "id": 990,
+    "id": 989,
     "name": "conversion: 20.1-95.5% (C21+ conversion depending on catalyst and temperature)",
     "type": "Conversion rate",
     "titles": [
@@ -14503,7 +14498,7 @@
     ]
   },
   {
-    "id": 991,
+    "id": 990,
     "name": "iso-Alkanes",
     "type": "Product category",
     "titles": [
@@ -14533,7 +14528,7 @@
     ]
   },
   {
-    "id": 992,
+    "id": 991,
     "name": "selectivity: 86.5%",
     "type": "Product selectivity",
     "titles": [
@@ -14544,7 +14539,7 @@
     ]
   },
   {
-    "id": 993,
+    "id": 992,
     "name": "H₂:n-Hexadecane = 1000:1 (v/v)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -14555,7 +14550,7 @@
     ]
   },
   {
-    "id": 994,
+    "id": 993,
     "name": "WHSV 1.0 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -14566,7 +14561,7 @@
     ]
   },
   {
-    "id": 995,
+    "id": 994,
     "name": "340°C",
     "type": "Reaction temperature",
     "titles": [
@@ -14585,7 +14580,7 @@
     ]
   },
   {
-    "id": 996,
+    "id": 995,
     "name": "1.5 MPa",
     "type": "Reaction pressure",
     "titles": [
@@ -14600,7 +14595,7 @@
     ]
   },
   {
-    "id": 997,
+    "id": 996,
     "name": "conversion: 81.8%",
     "type": "Conversion rate",
     "titles": [
@@ -14611,7 +14606,7 @@
     ]
   },
   {
-    "id": 998,
+    "id": 997,
     "name": "2009",
     "type": "Year",
     "titles": [
@@ -14619,27 +14614,27 @@
     ]
   },
   {
-    "id": 999,
+    "id": 998,
     "name": "selectivity: >96% (propylene selectivity after 24 h)",
     "type": "Product selectivity"
   },
   {
-    "id": 1000,
+    "id": 999,
     "name": "CH₄/N₂",
     "type": "Atmosphere"
   },
   {
-    "id": 1001,
+    "id": 1000,
     "name": "Ethylene:2-Butene = 3:1 (mol/mol)",
     "type": "Reactant molar ratio"
   },
   {
-    "id": 1002,
+    "id": 1001,
     "name": "WHSV 6.4 h⁻¹",
     "type": "Flow rate"
   },
   {
-    "id": 1003,
+    "id": 1002,
     "name": "24h",
     "type": "Reaction time",
     "titles": [
@@ -14658,7 +14653,7 @@
     ]
   },
   {
-    "id": 1004,
+    "id": 1003,
     "name": "300°C",
     "type": "Reaction temperature",
     "titles": [
@@ -14683,12 +14678,12 @@
     ]
   },
   {
-    "id": 1005,
+    "id": 1004,
     "name": "conversion: >50% (butene conversion after 24 h)",
     "type": "Conversion rate"
   },
   {
-    "id": 1006,
+    "id": 1005,
     "name": "selectivity: Mono-branched isomers",
     "type": "Product selectivity",
     "titles": [
@@ -14699,7 +14694,7 @@
     ]
   },
   {
-    "id": 1007,
+    "id": 1006,
     "name": "yield: Isomer yield up to 82.1% (highest achieved)",
     "type": "Product yield",
     "titles": [
@@ -14710,7 +14705,7 @@
     ]
   },
   {
-    "id": 1008,
+    "id": 1007,
     "name": "H₂:n-Decane = 800:1 (v/v)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -14721,7 +14716,7 @@
     ]
   },
   {
-    "id": 1009,
+    "id": 1008,
     "name": "LHSV 2 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -14732,7 +14727,7 @@
     ]
   },
   {
-    "id": 1010,
+    "id": 1009,
     "name": "Variable",
     "type": "Reaction temperature",
     "titles": [
@@ -14743,7 +14738,7 @@
     ]
   },
   {
-    "id": 1011,
+    "id": 1010,
     "name": "conversion: Up to 91.4% (highest achieved)",
     "type": "Conversion rate",
     "titles": [
@@ -14754,7 +14749,7 @@
     ]
   },
   {
-    "id": 1012,
+    "id": 1011,
     "name": "selectivity: High selectivity to iso-C12 in range of 200-250°C",
     "type": "Product selectivity",
     "titles": [
@@ -14765,7 +14760,7 @@
     ]
   },
   {
-    "id": 1013,
+    "id": 1012,
     "name": "yield: 59.2-56.2% (iso-C12 yield)",
     "type": "Product yield",
     "titles": [
@@ -14776,7 +14771,7 @@
     ]
   },
   {
-    "id": 1014,
+    "id": 1013,
     "name": "WHSV 5.85 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -14787,7 +14782,7 @@
     ]
   },
   {
-    "id": 1015,
+    "id": 1014,
     "name": "160-340°C",
     "type": "Reaction temperature",
     "titles": [
@@ -14798,7 +14793,7 @@
     ]
   },
   {
-    "id": 1016,
+    "id": 1015,
     "name": "conversion: Up to 100%",
     "type": "Conversion rate",
     "titles": [
@@ -14809,7 +14804,7 @@
     ]
   },
   {
-    "id": 1017,
+    "id": 1016,
     "name": "1982",
     "type": "Year",
     "titles": [
@@ -14820,7 +14815,7 @@
     ]
   },
   {
-    "id": 1018,
+    "id": 1017,
     "name": "selectivity: >95% monobranched isomers at low conversion",
     "type": "Product selectivity",
     "titles": [
@@ -14831,7 +14826,7 @@
     ]
   },
   {
-    "id": 1019,
+    "id": 1018,
     "name": "7 kPa",
     "type": "Reaction pressure",
     "titles": [
@@ -14842,7 +14837,7 @@
     ]
   },
   {
-    "id": 1020,
+    "id": 1019,
     "name": "conversion: 1.1%",
     "type": "Conversion rate",
     "titles": [
@@ -14853,7 +14848,7 @@
     ]
   },
   {
-    "id": 1021,
+    "id": 1020,
     "name": "2007",
     "type": "Year",
     "titles": [
@@ -14862,7 +14857,7 @@
     ]
   },
   {
-    "id": 1022,
+    "id": 1021,
     "name": "exo-THDCPD",
     "type": "Product category",
     "titles": [
@@ -14870,7 +14865,7 @@
     ]
   },
   {
-    "id": 1023,
+    "id": 1022,
     "name": "selectivity: 98.4%",
     "type": "Product selectivity",
     "titles": [
@@ -14878,7 +14873,7 @@
     ]
   },
   {
-    "id": 1024,
+    "id": 1023,
     "name": "yield: 92.5%",
     "type": "Product yield",
     "titles": [
@@ -14886,7 +14881,7 @@
     ]
   },
   {
-    "id": 1025,
+    "id": 1024,
     "name": "Air",
     "type": "Atmosphere",
     "titles": [
@@ -14894,7 +14889,7 @@
     ]
   },
   {
-    "id": 1026,
+    "id": 1025,
     "name": "195℃",
     "type": "Reaction temperature",
     "titles": [
@@ -14902,7 +14897,7 @@
     ]
   },
   {
-    "id": 1027,
+    "id": 1026,
     "name": "conversion: 94.0%",
     "type": "Conversion rate",
     "titles": [
@@ -14910,7 +14905,7 @@
     ]
   },
   {
-    "id": 1028,
+    "id": 1027,
     "name": "Fuel Precursors & Condensation Products",
     "type": "Product category",
     "titles": [
@@ -14923,7 +14918,7 @@
     ]
   },
   {
-    "id": 1029,
+    "id": 1028,
     "name": "selectivity: 66.4% (C8-C16 products selectivity for n-butanol)",
     "type": "Product selectivity",
     "titles": [
@@ -14934,7 +14929,7 @@
     ]
   },
   {
-    "id": 1030,
+    "id": 1029,
     "name": "LHSV 0.2 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -14945,7 +14940,7 @@
     ]
   },
   {
-    "id": 1031,
+    "id": 1030,
     "name": "260°C",
     "type": "Reaction temperature",
     "titles": [
@@ -14970,7 +14965,7 @@
     ]
   },
   {
-    "id": 1032,
+    "id": 1031,
     "name": "conversion: >95% (for various alcohols)",
     "type": "Conversion rate",
     "titles": [
@@ -14981,7 +14976,7 @@
     ]
   },
   {
-    "id": 1033,
+    "id": 1032,
     "name": "selectivity: Controlled by feed composition and temperature",
     "type": "Product selectivity",
     "titles": [
@@ -14992,7 +14987,7 @@
     ]
   },
   {
-    "id": 1034,
+    "id": 1033,
     "name": "yield: SAF-range yield up to 68%",
     "type": "Product yield",
     "titles": [
@@ -15003,7 +14998,7 @@
     ]
   },
   {
-    "id": 1035,
+    "id": 1034,
     "name": "423-603K",
     "type": "Reaction temperature",
     "titles": [
@@ -15014,7 +15009,7 @@
     ]
   },
   {
-    "id": 1036,
+    "id": 1035,
     "name": "n-Heptane",
     "type": "Solvent",
     "titles": [
@@ -15031,7 +15026,7 @@
     ]
   },
   {
-    "id": 1037,
+    "id": 1036,
     "name": "conversion: 20-80%",
     "type": "Conversion rate",
     "titles": [
@@ -15042,7 +15037,7 @@
     ]
   },
   {
-    "id": 1038,
+    "id": 1037,
     "name": "selectivity: Propylene oligomerization: Gasoline 27.5-48.8%, Kerosene 92.5-93.5%",
     "type": "Product selectivity",
     "titles": [
@@ -15053,7 +15048,7 @@
     ]
   },
   {
-    "id": 1039,
+    "id": 1038,
     "name": "Propylene:1-Butene = 1:1 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -15064,7 +15059,7 @@
     ]
   },
   {
-    "id": 1040,
+    "id": 1039,
     "name": "WHSV 2 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -15077,7 +15072,7 @@
     ]
   },
   {
-    "id": 1041,
+    "id": 1040,
     "name": "conversion: Propylene: 97.8% (WHSV 2 h⁻¹), 69.7% (WHSV 4 h⁻¹), 32.5% (WHSV 8 h⁻¹)",
     "type": "Conversion rate",
     "titles": [
@@ -15088,7 +15083,7 @@
     ]
   },
   {
-    "id": 1042,
+    "id": 1041,
     "name": "selectivity: High selectivity to jet-fuel-range hydrocarbon (HZSM-5)",
     "type": "Product selectivity",
     "titles": [
@@ -15099,7 +15094,7 @@
     ]
   },
   {
-    "id": 1043,
+    "id": 1042,
     "name": "yield: High yield (HZSM-5)",
     "type": "Product yield",
     "titles": [
@@ -15110,7 +15105,7 @@
     ]
   },
   {
-    "id": 1044,
+    "id": 1043,
     "name": "1-Butene:2-Butene = 1.0:1.3 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -15121,7 +15116,7 @@
     ]
   },
   {
-    "id": 1045,
+    "id": 1044,
     "name": "6h",
     "type": "Reaction time",
     "titles": [
@@ -15144,7 +15139,7 @@
     ]
   },
   {
-    "id": 1046,
+    "id": 1045,
     "name": "15 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -15157,7 +15152,7 @@
     ]
   },
   {
-    "id": 1047,
+    "id": 1046,
     "name": "conversion: Very stable butene conversion rate (HZSM-5)",
     "type": "Conversion rate",
     "titles": [
@@ -15168,7 +15163,7 @@
     ]
   },
   {
-    "id": 1048,
+    "id": 1047,
     "name": "3-Methyl-2-heptene",
     "type": "Product category",
     "titles": [
@@ -15179,7 +15174,7 @@
     ]
   },
   {
-    "id": 1049,
+    "id": 1048,
     "name": "116°C",
     "type": "Reaction temperature",
     "titles": [
@@ -15190,7 +15185,7 @@
     ]
   },
   {
-    "id": 1050,
+    "id": 1049,
     "name": "conversion: 96%",
     "type": "Conversion rate",
     "titles": [
@@ -15201,7 +15196,7 @@
     ]
   },
   {
-    "id": 1051,
+    "id": 1050,
     "name": "selectivity: Dimers selectivity: up to 73% for ZSM-5-M2",
     "type": "Product selectivity",
     "titles": [
@@ -15212,7 +15207,7 @@
     ]
   },
   {
-    "id": 1052,
+    "id": 1051,
     "name": "yield: Space-time yield: 344-557 mg⋅gcat⁻¹⋅h⁻¹",
     "type": "Product yield",
     "titles": [
@@ -15223,7 +15218,7 @@
     ]
   },
   {
-    "id": 1053,
+    "id": 1052,
     "name": "WHSV 2.42 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -15234,7 +15229,7 @@
     ]
   },
   {
-    "id": 1054,
+    "id": 1053,
     "name": "240°C",
     "type": "Reaction temperature",
     "titles": [
@@ -15259,7 +15254,7 @@
     ]
   },
   {
-    "id": 1055,
+    "id": 1054,
     "name": "conversion: ZSM-5-M1: 35.37% (240°C) to 49.32% (260°C)",
     "type": "Conversion rate",
     "titles": [
@@ -15270,7 +15265,7 @@
     ]
   },
   {
-    "id": 1056,
+    "id": 1055,
     "name": "selectivity: Catalyst-dependent: HZ for aromatics, HY for olefins, HB for jet fuel range hydrocarbons",
     "type": "Product selectivity",
     "titles": [
@@ -15281,7 +15276,7 @@
     ]
   },
   {
-    "id": 1057,
+    "id": 1056,
     "name": "yield: HB: >40 wt% jet fuel hydrocarbons at 400°C and 50 bar",
     "type": "Product yield",
     "titles": [
@@ -15292,7 +15287,7 @@
     ]
   },
   {
-    "id": 1058,
+    "id": 1057,
     "name": "WHSV 3.0 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -15303,7 +15298,7 @@
     ]
   },
   {
-    "id": 1059,
+    "id": 1058,
     "name": "300-500°C",
     "type": "Reaction temperature",
     "titles": [
@@ -15314,7 +15309,7 @@
     ]
   },
   {
-    "id": 1060,
+    "id": 1059,
     "name": "25-60 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -15325,7 +15320,7 @@
     ]
   },
   {
-    "id": 1061,
+    "id": 1060,
     "name": "selectivity: C₈-C₁₆ selectivity: 59%",
     "type": "Product selectivity",
     "titles": [
@@ -15336,7 +15331,7 @@
     ]
   },
   {
-    "id": 1062,
+    "id": 1061,
     "name": "1.0 MPa N₂",
     "type": "Reaction pressure",
     "titles": [
@@ -15347,7 +15342,7 @@
     ]
   },
   {
-    "id": 1063,
+    "id": 1062,
     "name": "conversion: 98%",
     "type": "Conversion rate",
     "titles": [
@@ -15372,7 +15367,7 @@
     ]
   },
   {
-    "id": 1064,
+    "id": 1063,
     "name": "selectivity: HMCM-22: [57% dimer selectivity at 0.5 MPa, 76% C9-C12 at steady state, 17% C7-C8], HY: Higher selectivity to trimers (C13+)",
     "type": "Product selectivity",
     "titles": [
@@ -15383,7 +15378,7 @@
     ]
   },
   {
-    "id": 1065,
+    "id": 1064,
     "name": "yield: Dimer yield: 28% for HMCM-22, 2.7% for HY at initial stage",
     "type": "Product yield",
     "titles": [
@@ -15394,7 +15389,7 @@
     ]
   },
   {
-    "id": 1066,
+    "id": 1065,
     "name": "0.03 mL/min",
     "type": "Flow rate",
     "titles": [
@@ -15405,7 +15400,7 @@
     ]
   },
   {
-    "id": 1067,
+    "id": 1066,
     "name": "conversion: Higher for HMCM-22 than HY zeolite",
     "type": "Conversion rate",
     "titles": [
@@ -15416,7 +15411,7 @@
     ]
   },
   {
-    "id": 1068,
+    "id": 1067,
     "name": "Cyclic Jet Fuel",
     "type": "Product category",
     "titles": [
@@ -15429,7 +15424,7 @@
     ]
   },
   {
-    "id": 1069,
+    "id": 1068,
     "name": "yield: 91.37% (0.2Pd/Y), 91.17% (0.2Pd/Al|Y), 88.53% (0.2Pd/Al-Y)",
     "type": "Product yield",
     "titles": [
@@ -15440,7 +15435,7 @@
     ]
   },
   {
-    "id": 1070,
+    "id": 1069,
     "name": "Phenol:Cyclohexanone = 2.5:1 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -15451,7 +15446,7 @@
     ]
   },
   {
-    "id": 1071,
+    "id": 1070,
     "name": "3 mL·g⁻¹·h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -15462,7 +15457,7 @@
     ]
   },
   {
-    "id": 1072,
+    "id": 1071,
     "name": "160°C",
     "type": "Reaction temperature",
     "titles": [
@@ -15487,7 +15482,7 @@
     ]
   },
   {
-    "id": 1073,
+    "id": 1072,
     "name": "yield: guaiacol: 68.51% carbon yield, 2,6-dimethoxyphenol: 57.24% carbon yield, eugenol: 68.79% carbon yield",
     "type": "Product yield",
     "titles": [
@@ -15498,7 +15493,7 @@
     ]
   },
   {
-    "id": 1074,
+    "id": 1073,
     "name": "Phenolics:Cyclohexanone = 1:1 (wt/wt)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -15509,7 +15504,7 @@
     ]
   },
   {
-    "id": 1075,
+    "id": 1074,
     "name": "220°C",
     "type": "Reaction temperature",
     "titles": [
@@ -15530,7 +15525,7 @@
     ]
   },
   {
-    "id": 1076,
+    "id": 1075,
     "name": "conversion: guaiacol: 58.03%, 2,6-dimethoxyphenol: 53.59%, eugenol: 100%",
     "type": "Conversion rate",
     "titles": [
@@ -15541,7 +15536,7 @@
     ]
   },
   {
-    "id": 1077,
+    "id": 1076,
     "name": "selectivity: >98% at <50% conversion",
     "type": "Product selectivity",
     "titles": [
@@ -15552,7 +15547,7 @@
     ]
   },
   {
-    "id": 1078,
+    "id": 1077,
     "name": "Component A:Component B = 1:1 (v/v)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -15563,7 +15558,7 @@
     ]
   },
   {
-    "id": 1079,
+    "id": 1078,
     "name": "423-523K",
     "type": "Reaction temperature",
     "titles": [
@@ -15574,7 +15569,7 @@
     ]
   },
   {
-    "id": 1080,
+    "id": 1079,
     "name": "35-65 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -15585,7 +15580,7 @@
     ]
   },
   {
-    "id": 1081,
+    "id": 1080,
     "name": "conversion: <10% to 90%",
     "type": "Conversion rate",
     "titles": [
@@ -15596,7 +15591,7 @@
     ]
   },
   {
-    "id": 1082,
+    "id": 1081,
     "name": "selectivity: C₅⁺ liquid fuels: 63% (H-MOR)",
     "type": "Product selectivity",
     "titles": [
@@ -15607,7 +15602,7 @@
     ]
   },
   {
-    "id": 1083,
+    "id": 1082,
     "name": "conversion: 94% (H-MOR, 240°C, 10h)",
     "type": "Conversion rate",
     "titles": [
@@ -15618,7 +15613,7 @@
     ]
   },
   {
-    "id": 1084,
+    "id": 1083,
     "name": "1978",
     "type": "Year",
     "titles": [
@@ -15631,7 +15626,7 @@
     ]
   },
   {
-    "id": 1085,
+    "id": 1084,
     "name": "selectivity: dimer 63.8%, trimer 29.6%, tetramer 4.7%, pentamer 1.1%, hexamer 0.7%",
     "type": "Product selectivity",
     "titles": [
@@ -15642,7 +15637,7 @@
     ]
   },
   {
-    "id": 1086,
+    "id": 1085,
     "name": "yield: 16.7 wt% yield of C3-C4 olefins",
     "type": "Product yield",
     "titles": [
@@ -15653,7 +15648,7 @@
     ]
   },
   {
-    "id": 1087,
+    "id": 1086,
     "name": "17.5days",
     "type": "Reaction time",
     "titles": [
@@ -15664,7 +15659,7 @@
     ]
   },
   {
-    "id": 1088,
+    "id": 1087,
     "name": "220°F",
     "type": "Reaction temperature",
     "titles": [
@@ -15675,7 +15670,7 @@
     ]
   },
   {
-    "id": 1089,
+    "id": 1088,
     "name": "600-900 psig",
     "type": "Reaction pressure",
     "titles": [
@@ -15686,7 +15681,7 @@
     ]
   },
   {
-    "id": 1090,
+    "id": 1089,
     "name": "conversion: 70.9% isobutylene",
     "type": "Conversion rate",
     "titles": [
@@ -15697,7 +15692,7 @@
     ]
   },
   {
-    "id": 1091,
+    "id": 1090,
     "name": "selectivity: C₈-C₁₁ selectivity: 92.0%",
     "type": "Product selectivity",
     "titles": [
@@ -15708,7 +15703,7 @@
     ]
   },
   {
-    "id": 1092,
+    "id": 1091,
     "name": "yield: 85-100% (liquid yield)",
     "type": "Product yield",
     "titles": [
@@ -15719,7 +15714,7 @@
     ]
   },
   {
-    "id": 1093,
+    "id": 1092,
     "name": "LHSV 1.0-2.0 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -15730,7 +15725,7 @@
     ]
   },
   {
-    "id": 1094,
+    "id": 1093,
     "name": "80-260°C",
     "type": "Reaction temperature",
     "titles": [
@@ -15741,7 +15736,7 @@
     ]
   },
   {
-    "id": 1095,
+    "id": 1094,
     "name": "30-60 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -15752,7 +15747,7 @@
     ]
   },
   {
-    "id": 1096,
+    "id": 1095,
     "name": "conversion: 39.8% (optimal for catalyst A)",
     "type": "Conversion rate",
     "titles": [
@@ -15763,7 +15758,7 @@
     ]
   },
   {
-    "id": 1097,
+    "id": 1096,
     "name": "selectivity: HZSM-5: ~65%",
     "type": "Product selectivity",
     "titles": [
@@ -15774,7 +15769,7 @@
     ]
   },
   {
-    "id": 1098,
+    "id": 1097,
     "name": "yield: HZSM-5: ~40%",
     "type": "Product yield",
     "titles": [
@@ -15785,7 +15780,7 @@
     ]
   },
   {
-    "id": 1099,
+    "id": 1098,
     "name": "WHSV 10 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -15798,7 +15793,7 @@
     ]
   },
   {
-    "id": 1100,
+    "id": 1099,
     "name": "conversion: HZSM-5: ~60%",
     "type": "Conversion rate",
     "titles": [
@@ -15809,7 +15804,7 @@
     ]
   },
   {
-    "id": 1101,
+    "id": 1100,
     "name": "selectivity: Jet-distillate range: 90% (140°C), 65% (200°C)",
     "type": "Product selectivity",
     "titles": [
@@ -15820,7 +15815,7 @@
     ]
   },
   {
-    "id": 1102,
+    "id": 1101,
     "name": "yield: Jet-range: 80-85% mass yield",
     "type": "Product yield",
     "titles": [
@@ -15831,7 +15826,7 @@
     ]
   },
   {
-    "id": 1103,
+    "id": 1102,
     "name": "Isobutene:Propene = 4:1 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -15842,7 +15837,7 @@
     ]
   },
   {
-    "id": 1104,
+    "id": 1103,
     "name": "WHSV 1.1 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -15853,7 +15848,7 @@
     ]
   },
   {
-    "id": 1105,
+    "id": 1104,
     "name": "1.38 MPa",
     "type": "Reaction pressure",
     "titles": [
@@ -15864,7 +15859,7 @@
     ]
   },
   {
-    "id": 1106,
+    "id": 1105,
     "name": "conversion: Propene: 7.2% (140°C), 87.1% (200°C), 83.0% (260°C)",
     "type": "Conversion rate",
     "titles": [
@@ -15875,7 +15870,7 @@
     ]
   },
   {
-    "id": 1107,
+    "id": 1106,
     "name": "1988",
     "type": "Year",
     "titles": [
@@ -15886,7 +15881,7 @@
     ]
   },
   {
-    "id": 1108,
+    "id": 1107,
     "name": "yield: 76.8-86.5 wt% (stable gasoline yield)",
     "type": "Product yield",
     "titles": [
@@ -15897,7 +15892,7 @@
     ]
   },
   {
-    "id": 1109,
+    "id": 1108,
     "name": "H₂-rich Gas:Feed = 1000:1 (v/v)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -15908,7 +15903,7 @@
     ]
   },
   {
-    "id": 1110,
+    "id": 1109,
     "name": "2-7 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -15919,7 +15914,7 @@
     ]
   },
   {
-    "id": 1111,
+    "id": 1110,
     "name": "420-460°C",
     "type": "Reaction temperature",
     "titles": [
@@ -15930,7 +15925,7 @@
     ]
   },
   {
-    "id": 1112,
+    "id": 1111,
     "name": "yield: Benzene: 0.484 t/h",
     "type": "Product yield",
     "titles": [
@@ -15941,7 +15936,7 @@
     ]
   },
   {
-    "id": 1113,
+    "id": 1112,
     "name": "500-525°C",
     "type": "Reaction temperature",
     "titles": [
@@ -15952,7 +15947,7 @@
     ]
   },
   {
-    "id": 1114,
+    "id": 1113,
     "name": "yield: Liquid fuel: up to 80.8%",
     "type": "Product yield",
     "titles": [
@@ -15963,7 +15958,7 @@
     ]
   },
   {
-    "id": 1115,
+    "id": 1114,
     "name": "375-525°C",
     "type": "Reaction temperature",
     "titles": [
@@ -15974,7 +15969,7 @@
     ]
   },
   {
-    "id": 1116,
+    "id": 1115,
     "name": "Laboratory pressure",
     "type": "Reaction pressure",
     "titles": [
@@ -15985,7 +15980,7 @@
     ]
   },
   {
-    "id": 1117,
+    "id": 1116,
     "name": "yield: HY: 39%",
     "type": "Product yield",
     "titles": [
@@ -15996,7 +15991,7 @@
     ]
   },
   {
-    "id": 1118,
+    "id": 1117,
     "name": "2.5 g/h",
     "type": "Flow rate",
     "titles": [
@@ -16007,7 +16002,7 @@
     ]
   },
   {
-    "id": 1119,
+    "id": 1118,
     "name": "180-200°C",
     "type": "Reaction temperature",
     "titles": [
@@ -16018,7 +16013,7 @@
     ]
   },
   {
-    "id": 1120,
+    "id": 1119,
     "name": "100 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -16031,7 +16026,7 @@
     ]
   },
   {
-    "id": 1121,
+    "id": 1120,
     "name": "yield: 4.5 to 4.7%",
     "type": "Product yield",
     "titles": [
@@ -16042,28 +16037,7 @@
     ]
   },
   {
-    "id": 1122,
-    "name": "C₈-C₁₆ n-Alkanes",
-    "type": "Product category",
-    "titles": [
-      "In-situ preparation of MnFeCoNiCu/C for the sustainable co-production of bio-jet fuel and green diesel under solvent-free and low hydrogen pressure conditions",
-      "Jet range hydrocarbons converted from microalgal biodiesel over mesoporous zeolite-based catalysts",
-      "Effects of metal promoters on one-step Pt/SAPO-11 catalytic hydrotreatment of castor oil to C8-C16 alkanes",
-      "Selective Production of Jet-Fuel-Range Alkanes from Palmitic Acid over Ni/H-MCM-49 with Two Independent Pore Systems",
-      "Deconstruction of high-density polyethylene into liquid hydrocarbon fuels and lubricants by hydrogenolysis over Ru catalyst",
-      "Co–Mo Catalysts Supported on CNT/H-ZSM-5 Composites for Selective Production of Sustainable Aviation Fuel-Range Alkanes"
-    ],
-    "dois": [
-      "10.1016/j.enconman.2024.118875",
-      "10.1016/j.ijhydene.2018.04.078",
-      "10.1016/j.indcrop.2020.112182",
-      "10.1021/acs.iecr.9b04130",
-      "10.1016/j.checat.2021.04.002",
-      "10.1021/acs.energyfuels.5c02344"
-    ]
-  },
-  {
-    "id": 1123,
+    "id": 1121,
     "name": "selectivity: Bio-jet fuel: 48.35%",
     "type": "Product selectivity",
     "titles": [
@@ -16074,7 +16048,7 @@
     ]
   },
   {
-    "id": 1124,
+    "id": 1122,
     "name": "selectivity: 85% for C10-C14 hydrocarbons",
     "type": "Product selectivity",
     "titles": [
@@ -16085,7 +16059,7 @@
     ]
   },
   {
-    "id": 1125,
+    "id": 1123,
     "name": "He/H₂",
     "type": "Atmosphere",
     "titles": [
@@ -16096,7 +16070,7 @@
     ]
   },
   {
-    "id": 1126,
+    "id": 1124,
     "name": "1-6h",
     "type": "Reaction time",
     "titles": [
@@ -16107,7 +16081,7 @@
     ]
   },
   {
-    "id": 1127,
+    "id": 1125,
     "name": "200-400°C",
     "type": "Reaction temperature",
     "titles": [
@@ -16118,7 +16092,7 @@
     ]
   },
   {
-    "id": 1128,
+    "id": 1126,
     "name": "150-400 psi",
     "type": "Reaction pressure",
     "titles": [
@@ -16129,7 +16103,7 @@
     ]
   },
   {
-    "id": 1129,
+    "id": 1127,
     "name": "Tetradecane/Dodecane mixture",
     "type": "Solvent",
     "titles": [
@@ -16140,20 +16114,7 @@
     ]
   },
   {
-    "id": 1130,
-    "name": "C₅-C₁₈ n-Alkanes",
-    "type": "Product category",
-    "titles": [
-      "Highly selective production of bio-jet fuel grade alkanes over an Fe/SiO<sub>2</sub> –Al<sub>2</sub> O<sub>3</sub> solid acid catalyst under solvent-free conditions",
-      "Catalytic hydroprocessing of fatty acid methyl esters to renewable alkane fuels over Ni/HZSM-5 catalyst"
-    ],
-    "dois": [
-      "10.1039/D3SE00144J",
-      "10.1016/j.cattod.2015.08.023"
-    ]
-  },
-  {
-    "id": 1131,
+    "id": 1128,
     "name": "selectivity: >74%",
     "type": "Product selectivity",
     "titles": [
@@ -16164,7 +16125,7 @@
     ]
   },
   {
-    "id": 1132,
+    "id": 1129,
     "name": "380°C",
     "type": "Reaction temperature",
     "titles": [
@@ -16183,7 +16144,7 @@
     ]
   },
   {
-    "id": 1133,
+    "id": 1130,
     "name": "5 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -16194,7 +16155,7 @@
     ]
   },
   {
-    "id": 1134,
+    "id": 1131,
     "name": "C₈-C₁₁ Hydrocarbons",
     "type": "Product category",
     "titles": [
@@ -16205,7 +16166,7 @@
     ]
   },
   {
-    "id": 1135,
+    "id": 1132,
     "name": "selectivity: 69.3% (hydrocarbons in jet-fuel range for stearic acid at 270 °C)",
     "type": "Product selectivity",
     "titles": [
@@ -16216,7 +16177,7 @@
     ]
   },
   {
-    "id": 1136,
+    "id": 1133,
     "name": "yield: 31% (hydrocarbons in jet-fuel range for SBO and PFAD)",
     "type": "Product yield",
     "titles": [
@@ -16227,7 +16188,7 @@
     ]
   },
   {
-    "id": 1137,
+    "id": 1134,
     "name": "270-330°C",
     "type": "Reaction temperature",
     "titles": [
@@ -16238,7 +16199,7 @@
     ]
   },
   {
-    "id": 1138,
+    "id": 1135,
     "name": "conversion: 100% (for stearic acid)",
     "type": "Conversion rate",
     "titles": [
@@ -16249,7 +16210,7 @@
     ]
   },
   {
-    "id": 1139,
+    "id": 1136,
     "name": "Furanic Platform Molecules",
     "type": "Product category",
     "titles": [
@@ -16260,7 +16221,7 @@
     ]
   },
   {
-    "id": 1140,
+    "id": 1137,
     "name": "selectivity: Hydrocarbons: 73-82.30%, Alkanes: 19.98-24.23%, Aromatics: 39.06-44.94%, Oxygenated compounds: 13.56-25.67%",
     "type": "Product selectivity",
     "titles": [
@@ -16271,7 +16232,7 @@
     ]
   },
   {
-    "id": 1141,
+    "id": 1138,
     "name": "yield: OLP: 65.12-70.95 wt.%, Water: 6-8.24 wt.%, Gas: 21-24.56 wt.%, Coke: 0-4.08 wt.%",
     "type": "Product yield",
     "titles": [
@@ -16282,7 +16243,7 @@
     ]
   },
   {
-    "id": 1142,
+    "id": 1139,
     "name": "0.6 g/min",
     "type": "Flow rate",
     "titles": [
@@ -16293,7 +16254,7 @@
     ]
   },
   {
-    "id": 1143,
+    "id": 1140,
     "name": "conversion: 100% (for P/Al-MCM-41 at initial stage)",
     "type": "Conversion rate",
     "titles": [
@@ -16304,7 +16265,7 @@
     ]
   },
   {
-    "id": 1144,
+    "id": 1141,
     "name": "C₉+ Hydrocarbons",
     "type": "Product category",
     "titles": [
@@ -16324,7 +16285,7 @@
     ]
   },
   {
-    "id": 1145,
+    "id": 1142,
     "name": "selectivity: Hydrocarbons: 85.68%",
     "type": "Product selectivity",
     "titles": [
@@ -16335,7 +16296,7 @@
     ]
   },
   {
-    "id": 1146,
+    "id": 1143,
     "name": "150 mL/min",
     "type": "Flow rate",
     "titles": [
@@ -16346,7 +16307,7 @@
     ]
   },
   {
-    "id": 1147,
+    "id": 1144,
     "name": "conversion: 100% (optimal conditions)",
     "type": "Conversion rate",
     "titles": [
@@ -16357,7 +16318,7 @@
     ]
   },
   {
-    "id": 1148,
+    "id": 1145,
     "name": "selectivity: 55.32% jet range alkanes",
     "type": "Product selectivity",
     "titles": [
@@ -16368,7 +16329,7 @@
     ]
   },
   {
-    "id": 1149,
+    "id": 1146,
     "name": "yield: 30.7% jet range alkanes",
     "type": "Product yield",
     "titles": [
@@ -16379,7 +16340,7 @@
     ]
   },
   {
-    "id": 1150,
+    "id": 1147,
     "name": "selectivity: 29.95% jet range alkane (at 5 h)",
     "type": "Product selectivity",
     "titles": [
@@ -16390,7 +16351,7 @@
     ]
   },
   {
-    "id": 1151,
+    "id": 1148,
     "name": "yield: 26.9% jet range alkane",
     "type": "Product yield",
     "titles": [
@@ -16401,7 +16362,7 @@
     ]
   },
   {
-    "id": 1152,
+    "id": 1149,
     "name": "selectivity: Jet range alkane selectivity: 4.96% at 5 h",
     "type": "Product selectivity",
     "titles": [
@@ -16412,7 +16373,7 @@
     ]
   },
   {
-    "id": 1153,
+    "id": 1150,
     "name": "yield: Jet range alkane yield: 3.2%",
     "type": "Product yield",
     "titles": [
@@ -16423,7 +16384,7 @@
     ]
   },
   {
-    "id": 1154,
+    "id": 1151,
     "name": "yield: Biogasoline: 16%, Biojet: 20%, Biodiesel: 53%",
     "type": "Product yield",
     "titles": [
@@ -16434,7 +16395,7 @@
     ]
   },
   {
-    "id": 1155,
+    "id": 1152,
     "name": "H₂:WCO = 600:1 (v/v)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -16445,7 +16406,7 @@
     ]
   },
   {
-    "id": 1156,
+    "id": 1153,
     "name": "LHSV 1 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -16464,7 +16425,7 @@
     ]
   },
   {
-    "id": 1157,
+    "id": 1154,
     "name": "conversion: 93% (optimum at 400 °C, 50 bar, 1 h⁻¹)",
     "type": "Conversion rate",
     "titles": [
@@ -16475,7 +16436,7 @@
     ]
   },
   {
-    "id": 1158,
+    "id": 1155,
     "name": "selectivity: Gasoline fraction (C5-C12)",
     "type": "Product selectivity",
     "titles": [
@@ -16486,7 +16447,7 @@
     ]
   },
   {
-    "id": 1159,
+    "id": 1156,
     "name": "yield: Liquid yield",
     "type": "Product yield",
     "titles": [
@@ -16497,7 +16458,7 @@
     ]
   },
   {
-    "id": 1160,
+    "id": 1157,
     "name": "0.30 L/h",
     "type": "Flow rate",
     "titles": [
@@ -16508,7 +16469,7 @@
     ]
   },
   {
-    "id": 1161,
+    "id": 1158,
     "name": "selectivity: Gaseous products: [CH₄: 45.8-53.7%, C₂H₆: 5.0-5.9%, C₃H₈: 5.7-6.0%, C₄H₁₀: 3.4-4.7%, C₅H₁₃: 3.2-3.9%, C₆H₁₄: 1.4-1.9%, CO₂: 11.7-13.6%, C₇+ alkanes: 13.7-20.0%], Liquid products: [Substituted benzenes: 35.4-39.5%, Naphthalenes: 5.8-13.6%, Aromatic olefins: 32.6-38.1%, Oxygenates: 11.0-21.3%], Aqueous phase: [Glycol: 11.8-22.8%, 1,2-propanediol: 6.4-18.2%, 1,3-propanediol: 0-1.4%, Isopropanol: 17.8-43.2%, Isosorbide: 34.8-44.3%, Sorbitol: 1.6-4.1%]",
     "type": "Product selectivity",
     "titles": [
@@ -16519,7 +16480,7 @@
     ]
   },
   {
-    "id": 1162,
+    "id": 1159,
     "name": "yield: Sorbitol: 31.8 wt% liquid fuel yield",
     "type": "Product yield",
     "titles": [
@@ -16530,7 +16491,7 @@
     ]
   },
   {
-    "id": 1163,
+    "id": 1160,
     "name": "WHSV 1.25 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -16541,7 +16502,7 @@
     ]
   },
   {
-    "id": 1164,
+    "id": 1161,
     "name": "280°C",
     "type": "Reaction temperature",
     "titles": [
@@ -16571,7 +16532,7 @@
     ]
   },
   {
-    "id": 1165,
+    "id": 1162,
     "name": "Water",
     "type": "Solvent",
     "titles": [
@@ -16598,7 +16559,7 @@
     ]
   },
   {
-    "id": 1166,
+    "id": 1163,
     "name": "conversion: Glucose: 93%",
     "type": "Conversion rate",
     "titles": [
@@ -16609,7 +16570,7 @@
     ]
   },
   {
-    "id": 1167,
+    "id": 1164,
     "name": "selectivity: 82% jet-fuel range hydrocarbons",
     "type": "Product selectivity",
     "titles": [
@@ -16620,7 +16581,7 @@
     ]
   },
   {
-    "id": 1168,
+    "id": 1165,
     "name": "Catalyst:FAMEs = 1:40 (wt/wt)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -16631,7 +16592,7 @@
     ]
   },
   {
-    "id": 1169,
+    "id": 1166,
     "name": "430°C",
     "type": "Reaction temperature",
     "titles": [
@@ -16642,7 +16603,7 @@
     ]
   },
   {
-    "id": 1170,
+    "id": 1167,
     "name": "selectivity: Ni/Meso-Y: 44.5% jet range alkanes (C8-C16), 4.47% aromatic hydrocarbons",
     "type": "Product selectivity",
     "titles": [
@@ -16653,7 +16614,7 @@
     ]
   },
   {
-    "id": 1171,
+    "id": 1168,
     "name": "Aldol condensation reaction",
     "type": "Reaction mode",
     "titles": [
@@ -16682,7 +16643,7 @@
     ]
   },
   {
-    "id": 1172,
+    "id": 1169,
     "name": "selectivity: 77% (branched-chain C9 products)",
     "type": "Product selectivity",
     "titles": [
@@ -16693,7 +16654,7 @@
     ]
   },
   {
-    "id": 1173,
+    "id": 1170,
     "name": "Furfural:2-Butanone = 1:5 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -16704,7 +16665,7 @@
     ]
   },
   {
-    "id": 1174,
+    "id": 1171,
     "name": "10 bar N₂",
     "type": "Reaction pressure",
     "titles": [
@@ -16715,7 +16676,7 @@
     ]
   },
   {
-    "id": 1175,
+    "id": 1172,
     "name": "conversion: 63% (furfural conversion)",
     "type": "Conversion rate",
     "titles": [
@@ -16726,7 +16687,7 @@
     ]
   },
   {
-    "id": 1176,
+    "id": 1173,
     "name": "Ketones/Aldehydes/Enones",
     "type": "Product category",
     "titles": [
@@ -16745,7 +16706,7 @@
     ]
   },
   {
-    "id": 1177,
+    "id": 1174,
     "name": "selectivity: Reported as selectivity to FC, FC-OH, F2C, CCP (e.g., 90.6% FC selectivity for n-ZSM-5 at 100°C, 6h)",
     "type": "Product selectivity",
     "titles": [
@@ -16756,7 +16717,7 @@
     ]
   },
   {
-    "id": 1178,
+    "id": 1175,
     "name": "yield: FC+F2C yield: up to ~28% at 6h for TiO2/n-ZSM-5 at 100°C",
     "type": "Product yield",
     "titles": [
@@ -16767,7 +16728,7 @@
     ]
   },
   {
-    "id": 1179,
+    "id": 1176,
     "name": "CPO:FFL = 10:1 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -16778,7 +16739,7 @@
     ]
   },
   {
-    "id": 1180,
+    "id": 1177,
     "name": "80°C",
     "type": "Reaction temperature",
     "titles": [
@@ -16793,7 +16754,7 @@
     ]
   },
   {
-    "id": 1181,
+    "id": 1178,
     "name": "conversion: Reported as FFL conversion: 7.3-39.8% at 6h (depending on catalyst and temperature)",
     "type": "Conversion rate",
     "titles": [
@@ -16804,7 +16765,7 @@
     ]
   },
   {
-    "id": 1182,
+    "id": 1179,
     "name": "Furanic Dimers",
     "type": "Product category",
     "titles": [
@@ -16829,7 +16790,7 @@
     ]
   },
   {
-    "id": 1183,
+    "id": 1180,
     "name": "selectivity: High C11 selectivity at FF:CH = 1:10",
     "type": "Product selectivity",
     "titles": [
@@ -16840,7 +16801,7 @@
     ]
   },
   {
-    "id": 1184,
+    "id": 1181,
     "name": "yield: 79.3% C11 yield",
     "type": "Product yield",
     "titles": [
@@ -16851,7 +16812,7 @@
     ]
   },
   {
-    "id": 1185,
+    "id": 1182,
     "name": "FF:CH = 1:2.5 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -16862,7 +16823,7 @@
     ]
   },
   {
-    "id": 1186,
+    "id": 1183,
     "name": "conversion: 99.2% FF conversion",
     "type": "Conversion rate",
     "titles": [
@@ -16873,7 +16834,7 @@
     ]
   },
   {
-    "id": 1187,
+    "id": 1184,
     "name": "yield: 83.3%",
     "type": "Product yield",
     "titles": [
@@ -16884,7 +16845,7 @@
     ]
   },
   {
-    "id": 1188,
+    "id": 1185,
     "name": "72h",
     "type": "Reaction time",
     "titles": [
@@ -16895,7 +16856,7 @@
     ]
   },
   {
-    "id": 1189,
+    "id": 1186,
     "name": "conversion: 92.2%",
     "type": "Conversion rate",
     "titles": [
@@ -16906,7 +16867,7 @@
     ]
   },
   {
-    "id": 1190,
+    "id": 1187,
     "name": "selectivity: Nearly 90% selectivity to dimeric ketones under 5 bar H2",
     "type": "Product selectivity",
     "titles": [
@@ -16917,7 +16878,7 @@
     ]
   },
   {
-    "id": 1191,
+    "id": 1188,
     "name": "3.5 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -16928,7 +16889,7 @@
     ]
   },
   {
-    "id": 1192,
+    "id": 1189,
     "name": "conversion: 68.4% to 95.4% (depending on atmosphere and conditions)",
     "type": "Conversion rate",
     "titles": [
@@ -16939,7 +16900,7 @@
     ]
   },
   {
-    "id": 1193,
+    "id": 1190,
     "name": "Monocyclic Aromatic Hydrocarbons",
     "type": "Product category",
     "titles": [
@@ -16954,7 +16915,7 @@
     ]
   },
   {
-    "id": 1194,
+    "id": 1191,
     "name": "selectivity: 78.5% (C16 selectivity)",
     "type": "Product selectivity",
     "titles": [
@@ -16965,7 +16926,7 @@
     ]
   },
   {
-    "id": 1195,
+    "id": 1192,
     "name": "yield: 69.61% (C16 yield)",
     "type": "Product yield",
     "titles": [
@@ -16976,7 +16937,7 @@
     ]
   },
   {
-    "id": 1196,
+    "id": 1193,
     "name": "AV:PHB = 1:2 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -16987,7 +16948,7 @@
     ]
   },
   {
-    "id": 1197,
+    "id": 1194,
     "name": "120min",
     "type": "Reaction time",
     "titles": [
@@ -17002,7 +16963,7 @@
     ]
   },
   {
-    "id": 1198,
+    "id": 1195,
     "name": "100°C",
     "type": "Reaction temperature",
     "titles": [
@@ -17019,7 +16980,7 @@
     ]
   },
   {
-    "id": 1199,
+    "id": 1196,
     "name": "Choline Chloride/Formic Acid",
     "type": "Solvent",
     "titles": [
@@ -17030,7 +16991,7 @@
     ]
   },
   {
-    "id": 1200,
+    "id": 1197,
     "name": "conversion: 88.68% (AV conversion)",
     "type": "Conversion rate",
     "titles": [
@@ -17041,7 +17002,7 @@
     ]
   },
   {
-    "id": 1201,
+    "id": 1198,
     "name": "selectivity: 19.4% monocyclic",
     "type": "Product selectivity",
     "titles": [
@@ -17052,7 +17013,7 @@
     ]
   },
   {
-    "id": 1202,
+    "id": 1199,
     "name": "yield: 66.8%",
     "type": "Product yield",
     "titles": [
@@ -17063,7 +17024,7 @@
     ]
   },
   {
-    "id": 1203,
+    "id": 1200,
     "name": "10h",
     "type": "Reaction time",
     "titles": [
@@ -17080,7 +17041,7 @@
     ]
   },
   {
-    "id": 1204,
+    "id": 1201,
     "name": "150°C",
     "type": "Reaction temperature",
     "titles": [
@@ -17099,7 +17060,7 @@
     ]
   },
   {
-    "id": 1205,
+    "id": 1202,
     "name": "conversion: Almost complete conversion",
     "type": "Conversion rate",
     "titles": [
@@ -17110,7 +17071,7 @@
     ]
   },
   {
-    "id": 1206,
+    "id": 1203,
     "name": "selectivity: C₈-C₁₅ hydrocarbons",
     "type": "Product selectivity",
     "titles": [
@@ -17121,7 +17082,7 @@
     ]
   },
   {
-    "id": 1207,
+    "id": 1204,
     "name": "yield: 23.7 wt% organic oil",
     "type": "Product yield",
     "titles": [
@@ -17132,7 +17093,7 @@
     ]
   },
   {
-    "id": 1208,
+    "id": 1205,
     "name": "WHSV 0.3 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -17143,7 +17104,7 @@
     ]
   },
   {
-    "id": 1209,
+    "id": 1206,
     "name": "10 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -17154,7 +17115,7 @@
     ]
   },
   {
-    "id": 1210,
+    "id": 1207,
     "name": "conversion: Complete conversion of acetic acid",
     "type": "Conversion rate",
     "titles": [
@@ -17165,7 +17126,7 @@
     ]
   },
   {
-    "id": 1211,
+    "id": 1208,
     "name": "selectivity: 68% FAc (Sn-MFI)",
     "type": "Product selectivity",
     "titles": [
@@ -17176,7 +17137,7 @@
     ]
   },
   {
-    "id": 1212,
+    "id": 1209,
     "name": "yield: 61% FAc (Sn-MFI, 6h)",
     "type": "Product yield",
     "titles": [
@@ -17187,7 +17148,7 @@
     ]
   },
   {
-    "id": 1213,
+    "id": 1210,
     "name": "Furfural:Acetone = 1:10 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -17198,7 +17159,7 @@
     ]
   },
   {
-    "id": 1214,
+    "id": 1211,
     "name": "0-11.5h",
     "type": "Reaction time",
     "titles": [
@@ -17209,7 +17170,7 @@
     ]
   },
   {
-    "id": 1215,
+    "id": 1212,
     "name": "conversion: 80% (Sn-MFI, 6h)",
     "type": "Conversion rate",
     "titles": [
@@ -17220,7 +17181,7 @@
     ]
   },
   {
-    "id": 1216,
+    "id": 1213,
     "name": "selectivity: 69.0% (FAc)",
     "type": "Product selectivity",
     "titles": [
@@ -17231,7 +17192,7 @@
     ]
   },
   {
-    "id": 1217,
+    "id": 1214,
     "name": "yield: 60.0% (FAc)",
     "type": "Product yield",
     "titles": [
@@ -17242,7 +17203,7 @@
     ]
   },
   {
-    "id": 1218,
+    "id": 1215,
     "name": "Furfural:Acetone = 1:20 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -17253,7 +17214,7 @@
     ]
   },
   {
-    "id": 1219,
+    "id": 1216,
     "name": "conversion: 86.9% (furfural conversion)",
     "type": "Conversion rate",
     "titles": [
@@ -17264,7 +17225,7 @@
     ]
   },
   {
-    "id": 1220,
+    "id": 1217,
     "name": "Carboxylic Acids",
     "type": "Product category",
     "titles": [
@@ -17277,7 +17238,7 @@
     ]
   },
   {
-    "id": 1221,
+    "id": 1218,
     "name": "selectivity: 62.8% (to C10 adducts)",
     "type": "Product selectivity",
     "titles": [
@@ -17288,7 +17249,7 @@
     ]
   },
   {
-    "id": 1222,
+    "id": 1219,
     "name": "yield: 55% (C10 adducts yield)",
     "type": "Product yield",
     "titles": [
@@ -17299,7 +17260,7 @@
     ]
   },
   {
-    "id": 1223,
+    "id": 1220,
     "name": "LA:FAL = 9:1 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -17310,7 +17271,7 @@
     ]
   },
   {
-    "id": 1224,
+    "id": 1221,
     "name": "conversion: 88% (furfural conversion)",
     "type": "Conversion rate",
     "titles": [
@@ -17321,7 +17282,7 @@
     ]
   },
   {
-    "id": 1225,
+    "id": 1222,
     "name": "Propylcyclohexane",
     "type": "Product category",
     "titles": [
@@ -17340,7 +17301,7 @@
     ]
   },
   {
-    "id": 1226,
+    "id": 1223,
     "name": "selectivity: 81.6%",
     "type": "Product selectivity",
     "titles": [
@@ -17353,7 +17314,7 @@
     ]
   },
   {
-    "id": 1227,
+    "id": 1224,
     "name": "yield: 80.9%",
     "type": "Product yield",
     "titles": [
@@ -17364,7 +17325,7 @@
     ]
   },
   {
-    "id": 1228,
+    "id": 1225,
     "name": "Cyclopentanone : Formaldehyde : Dimethylamine·HCl : Cyclopentadiene = 1 : 1.2 : 1 : 1 (0.05 : 0.06 : 0.05 : 0.05 mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -17375,7 +17336,7 @@
     ]
   },
   {
-    "id": 1229,
+    "id": 1226,
     "name": "2h (Mannich) + 1.5 h(Diels–Alder)",
     "type": "Reaction time",
     "titles": [
@@ -17386,7 +17347,7 @@
     ]
   },
   {
-    "id": 1230,
+    "id": 1227,
     "name": "90°C (Mannich step); 100 °C(Diels–Alder step, reflux)",
     "type": "Reaction temperature",
     "titles": [
@@ -17397,7 +17358,7 @@
     ]
   },
   {
-    "id": 1231,
+    "id": 1228,
     "name": "n-Butyl alcohol (40 mL)",
     "type": "Solvent",
     "titles": [
@@ -17408,7 +17369,7 @@
     ]
   },
   {
-    "id": 1232,
+    "id": 1229,
     "name": "conversion: 99.1 % conversion of cyclopentanone",
     "type": "Conversion rate",
     "titles": [
@@ -17419,7 +17380,7 @@
     ]
   },
   {
-    "id": 1233,
+    "id": 1230,
     "name": "selectivity: DCMF 30.2 %, CPMF 30.9 %, TCPD 23.0 %, TCMF 13.5 % (optimized conditions)",
     "type": "Product selectivity",
     "titles": [
@@ -17430,7 +17391,7 @@
     ]
   },
   {
-    "id": 1234,
+    "id": 1231,
     "name": "2-MF/DCPD = 2:1 (ratios 1:1–4:1 examined)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -17441,7 +17402,7 @@
     ]
   },
   {
-    "id": 1235,
+    "id": 1232,
     "name": "150°C (range 130–170°C investigated)",
     "type": "Reaction temperature",
     "titles": [
@@ -17452,7 +17413,7 @@
     ]
   },
   {
-    "id": 1236,
+    "id": 1233,
     "name": "0.5 MPa N₂",
     "type": "Reaction pressure",
     "titles": [
@@ -17463,7 +17424,7 @@
     ]
   },
   {
-    "id": 1237,
+    "id": 1234,
     "name": "solvent-free",
     "type": "Solvent",
     "titles": [
@@ -17476,7 +17437,7 @@
     ]
   },
   {
-    "id": 1238,
+    "id": 1235,
     "name": "conversion: DCPD 88.5 %, 2-MF 56.4 % (with HY, 150 °C, 0.5 MPa N2, 5 h)",
     "type": "Conversion rate",
     "titles": [
@@ -17487,7 +17448,7 @@
     ]
   },
   {
-    "id": 1239,
+    "id": 1236,
     "name": "selectivity: 76.4 % toward adduct A",
     "type": "Product selectivity",
     "titles": [
@@ -17498,7 +17459,7 @@
     ]
   },
   {
-    "id": 1240,
+    "id": 1237,
     "name": "yield: 75.9 % (yield of adduct A)",
     "type": "Product yield",
     "titles": [
@@ -17509,7 +17470,7 @@
     ]
   },
   {
-    "id": 1241,
+    "id": 1238,
     "name": "NBE/2-MF = 1:2 (optimized); 4:1–1:8 explored",
     "type": "Reactant molar ratio",
     "titles": [
@@ -17520,7 +17481,7 @@
     ]
   },
   {
-    "id": 1242,
+    "id": 1239,
     "name": "110°C (optimized)",
     "type": "Reaction temperature",
     "titles": [
@@ -17531,7 +17492,7 @@
     ]
   },
   {
-    "id": 1243,
+    "id": 1240,
     "name": "0.2 MPa N₂ (optimized Diels-Alder)",
     "type": "Reaction pressure",
     "titles": [
@@ -17542,7 +17503,7 @@
     ]
   },
   {
-    "id": 1244,
+    "id": 1241,
     "name": "Toluene (100 mL)",
     "type": "Solvent",
     "titles": [
@@ -17553,7 +17514,7 @@
     ]
   },
   {
-    "id": 1245,
+    "id": 1242,
     "name": "conversion: 2-MF: 68.5 %, NBE: 99.4 %",
     "type": "Conversion rate",
     "titles": [
@@ -17564,7 +17525,7 @@
     ]
   },
   {
-    "id": 1246,
+    "id": 1243,
     "name": "yield: 53.96 wt% aromatics after 8 h at 360 °C; 64.61 wt% aromatics after 12 h",
     "type": "Product yield",
     "titles": [
@@ -17575,7 +17536,7 @@
     ]
   },
   {
-    "id": 1247,
+    "id": 1244,
     "name": "H2/oil molar ratio = 7.13",
     "type": "Reactant molar ratio",
     "titles": [
@@ -17586,7 +17547,7 @@
     ]
   },
   {
-    "id": 1248,
+    "id": 1245,
     "name": "8–12h (typical data reported at 8 h and 12 h)",
     "type": "Reaction time",
     "titles": [
@@ -17597,7 +17558,7 @@
     ]
   },
   {
-    "id": 1249,
+    "id": 1246,
     "name": "360°C (screened 280–380°C)",
     "type": "Reaction temperature",
     "titles": [
@@ -17608,7 +17569,7 @@
     ]
   },
   {
-    "id": 1250,
+    "id": 1247,
     "name": "4 MPa H₂",
     "type": "Reaction pressure",
     "titles": [
@@ -17619,7 +17580,7 @@
     ]
   },
   {
-    "id": 1251,
+    "id": 1248,
     "name": "conversion: ≈100 wt% fatty-acid conversion after 8 h at ≥340 °C (360 °C experiment)",
     "type": "Conversion rate",
     "titles": [
@@ -17630,7 +17591,7 @@
     ]
   },
   {
-    "id": 1252,
+    "id": 1249,
     "name": "selectivity: Benzene: 95.2 %",
     "type": "Product selectivity",
     "titles": [
@@ -17641,7 +17602,7 @@
     ]
   },
   {
-    "id": 1253,
+    "id": 1250,
     "name": "Aromatic : norbornene = 5 : 1 by mass (m(aryl)/m(NBD)=5)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -17652,7 +17613,7 @@
     ]
   },
   {
-    "id": 1254,
+    "id": 1251,
     "name": "3h (standard condition)",
     "type": "Reaction time",
     "titles": [
@@ -17663,7 +17624,7 @@
     ]
   },
   {
-    "id": 1255,
+    "id": 1252,
     "name": "150–180°C (typical range)",
     "type": "Reaction temperature",
     "titles": [
@@ -17674,7 +17635,7 @@
     ]
   },
   {
-    "id": 1256,
+    "id": 1253,
     "name": "Aromatic reactant itself used as reaction medium (no additional solvent reported)",
     "type": "Solvent",
     "titles": [
@@ -17685,7 +17646,7 @@
     ]
   },
   {
-    "id": 1257,
+    "id": 1254,
     "name": "conversion: Benzene: 85.2 %",
     "type": "Conversion rate",
     "titles": [
@@ -17696,7 +17657,7 @@
     ]
   },
   {
-    "id": 1258,
+    "id": 1255,
     "name": "Not reported",
     "type": "Product selectivity",
     "titles": [
@@ -17837,7 +17798,7 @@
     ]
   },
   {
-    "id": 1259,
+    "id": 1256,
     "name": "Not reported",
     "type": "Reaction temperature",
     "titles": [
@@ -17855,7 +17816,7 @@
     ]
   },
   {
-    "id": 1260,
+    "id": 1257,
     "name": "conversion: 94.21%",
     "type": "Conversion rate",
     "titles": [
@@ -17866,7 +17827,7 @@
     ]
   },
   {
-    "id": 1261,
+    "id": 1258,
     "name": "yield: 47.87%",
     "type": "Product yield",
     "titles": [
@@ -17877,7 +17838,7 @@
     ]
   },
   {
-    "id": 1262,
+    "id": 1259,
     "name": "Not reported",
     "type": "Conversion rate",
     "titles": [
@@ -17969,7 +17930,7 @@
     ]
   },
   {
-    "id": 1263,
+    "id": 1260,
     "name": "yield: 50.25%",
     "type": "Product yield",
     "titles": [
@@ -17980,7 +17941,7 @@
     ]
   },
   {
-    "id": 1264,
+    "id": 1261,
     "name": "conversion: 97.79%",
     "type": "Conversion rate",
     "titles": [
@@ -17991,7 +17952,7 @@
     ]
   },
   {
-    "id": 1265,
+    "id": 1262,
     "name": "Heavy Olefins",
     "type": "Product category",
     "titles": [
@@ -17999,7 +17960,7 @@
     ]
   },
   {
-    "id": 1266,
+    "id": 1263,
     "name": "Space velocity: 0.5 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -18007,7 +17968,7 @@
     ]
   },
   {
-    "id": 1267,
+    "id": 1264,
     "name": "245°C",
     "type": "Reaction temperature",
     "titles": [
@@ -18015,7 +17976,7 @@
     ]
   },
   {
-    "id": 1268,
+    "id": 1265,
     "name": "4.5 Pa",
     "type": "Reaction pressure",
     "titles": [
@@ -18023,7 +17984,7 @@
     ]
   },
   {
-    "id": 1269,
+    "id": 1266,
     "name": "5.67s",
     "type": "Reaction time",
     "titles": [
@@ -18031,7 +17992,7 @@
     ]
   },
   {
-    "id": 1270,
+    "id": 1267,
     "name": "0.1 MPa",
     "type": "Reaction pressure",
     "titles": [
@@ -18039,7 +18000,7 @@
     ]
   },
   {
-    "id": 1271,
+    "id": 1268,
     "name": "conversion: 42.1%",
     "type": "Conversion rate",
     "titles": [
@@ -18047,7 +18008,7 @@
     ]
   },
   {
-    "id": 1272,
+    "id": 1269,
     "name": "Hydrogenation reaction",
     "type": "Reaction mode",
     "titles": [
@@ -18342,7 +18303,7 @@
     ]
   },
   {
-    "id": 1273,
+    "id": 1270,
     "name": "C₉-C₁₅ n-Alkanes",
     "type": "Product category",
     "titles": [
@@ -18365,7 +18326,7 @@
     ]
   },
   {
-    "id": 1274,
+    "id": 1271,
     "name": "selectivity: 45%",
     "type": "Product selectivity",
     "titles": [
@@ -18376,7 +18337,7 @@
     ]
   },
   {
-    "id": 1275,
+    "id": 1272,
     "name": "yield: 41.4% (AFRA yield over NS3(300) catalyst at 523 K)",
     "type": "Product yield",
     "titles": [
@@ -18387,7 +18348,7 @@
     ]
   },
   {
-    "id": 1276,
+    "id": 1273,
     "name": "523-533K",
     "type": "Reaction temperature",
     "titles": [
@@ -18398,7 +18359,7 @@
     ]
   },
   {
-    "id": 1277,
+    "id": 1274,
     "name": "C₈-C₁₄ Branched Cycloalkanes",
     "type": "Product category",
     "titles": [
@@ -18411,7 +18372,7 @@
     ]
   },
   {
-    "id": 1278,
+    "id": 1275,
     "name": "yield: ~50.8 wt% organic phase, ~21.8 wt% water phase (Ru/C, continuous flow, THF)",
     "type": "Product yield",
     "titles": [
@@ -18422,7 +18383,7 @@
     ]
   },
   {
-    "id": 1279,
+    "id": 1276,
     "name": "600 mL/min",
     "type": "Flow rate",
     "titles": [
@@ -18433,7 +18394,7 @@
     ]
   },
   {
-    "id": 1280,
+    "id": 1277,
     "name": "4-10h",
     "type": "Reaction time",
     "titles": [
@@ -18444,7 +18405,7 @@
     ]
   },
   {
-    "id": 1281,
+    "id": 1278,
     "name": "280°C,350°C",
     "type": "Reaction temperature",
     "titles": [
@@ -18455,7 +18416,7 @@
     ]
   },
   {
-    "id": 1282,
+    "id": 1279,
     "name": "20 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -18474,7 +18435,7 @@
     ]
   },
   {
-    "id": 1283,
+    "id": 1280,
     "name": "n-Heptane, Ethanol, Tetrahydrofuran",
     "type": "Solvent",
     "titles": [
@@ -18485,7 +18446,7 @@
     ]
   },
   {
-    "id": 1284,
+    "id": 1281,
     "name": "yield: 80.4% (C8-C16 hydrocarbons)",
     "type": "Product yield",
     "titles": [
@@ -18496,7 +18457,7 @@
     ]
   },
   {
-    "id": 1285,
+    "id": 1282,
     "name": "conversion: 94.2%",
     "type": "Conversion rate",
     "titles": [
@@ -18507,7 +18468,7 @@
     ]
   },
   {
-    "id": 1286,
+    "id": 1283,
     "name": "yield: 60.6%-80.9%",
     "type": "Product yield",
     "titles": [
@@ -18518,7 +18479,7 @@
     ]
   },
   {
-    "id": 1287,
+    "id": 1284,
     "name": "4-30h",
     "type": "Reaction time",
     "titles": [
@@ -18529,7 +18490,7 @@
     ]
   },
   {
-    "id": 1288,
+    "id": 1285,
     "name": "240-280°C",
     "type": "Reaction temperature",
     "titles": [
@@ -18540,7 +18501,7 @@
     ]
   },
   {
-    "id": 1289,
+    "id": 1286,
     "name": "2-8 MPa",
     "type": "Reaction pressure",
     "titles": [
@@ -18551,7 +18512,7 @@
     ]
   },
   {
-    "id": 1290,
+    "id": 1287,
     "name": "Isopropanol, Octane",
     "type": "Solvent",
     "titles": [
@@ -18562,7 +18523,7 @@
     ]
   },
   {
-    "id": 1291,
+    "id": 1288,
     "name": "Esters, n-Alkanes, Carboxylic Acids",
     "type": "Product category",
     "titles": [
@@ -18573,7 +18534,7 @@
     ]
   },
   {
-    "id": 1292,
+    "id": 1289,
     "name": "yield: 60.6%",
     "type": "Product yield",
     "titles": [
@@ -18584,7 +18545,7 @@
     ]
   },
   {
-    "id": 1293,
+    "id": 1290,
     "name": "30h",
     "type": "Reaction time",
     "titles": [
@@ -18597,7 +18558,7 @@
     ]
   },
   {
-    "id": 1294,
+    "id": 1291,
     "name": "80 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -18608,7 +18569,7 @@
     ]
   },
   {
-    "id": 1295,
+    "id": 1292,
     "name": "Octane",
     "type": "Solvent",
     "titles": [
@@ -18621,7 +18582,7 @@
     ]
   },
   {
-    "id": 1296,
+    "id": 1293,
     "name": "conversion: 99%",
     "type": "Conversion rate",
     "titles": [
@@ -18648,7 +18609,7 @@
     ]
   },
   {
-    "id": 1297,
+    "id": 1294,
     "name": "yield: 91.6 wt% (C8-C15 alkanes)",
     "type": "Product yield",
     "titles": [
@@ -18659,7 +18620,7 @@
     ]
   },
   {
-    "id": 1298,
+    "id": 1295,
     "name": "selectivity: 82%",
     "type": "Product selectivity",
     "titles": [
@@ -18670,7 +18631,7 @@
     ]
   },
   {
-    "id": 1299,
+    "id": 1296,
     "name": "yield: 56% (propylcyclohexane yield for PtB25ZA)",
     "type": "Product yield",
     "titles": [
@@ -18681,7 +18642,7 @@
     ]
   },
   {
-    "id": 1300,
+    "id": 1297,
     "name": "n-Dodecane",
     "type": "Solvent",
     "titles": [
@@ -18702,7 +18663,7 @@
     ]
   },
   {
-    "id": 1301,
+    "id": 1298,
     "name": "selectivity: 84%",
     "type": "Product selectivity",
     "titles": [
@@ -18713,7 +18674,7 @@
     ]
   },
   {
-    "id": 1302,
+    "id": 1299,
     "name": "yield: 45% (propylcyclohexane yield for PtB25ZA)",
     "type": "Product yield",
     "titles": [
@@ -18724,7 +18685,7 @@
     ]
   },
   {
-    "id": 1303,
+    "id": 1300,
     "name": "selectivity: 85%",
     "type": "Product selectivity",
     "titles": [
@@ -18735,7 +18696,7 @@
     ]
   },
   {
-    "id": 1304,
+    "id": 1301,
     "name": "yield: iso-alkanes yield up to 40% (MoS2/Al2O3-ZSM-22)",
     "type": "Product yield",
     "titles": [
@@ -18746,7 +18707,7 @@
     ]
   },
   {
-    "id": 1305,
+    "id": 1302,
     "name": "H₂:Feed = 600 Nm³/m³",
     "type": "Reactant molar ratio",
     "titles": [
@@ -18759,7 +18720,7 @@
     ]
   },
   {
-    "id": 1306,
+    "id": 1303,
     "name": "WHSV 36 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -18770,7 +18731,7 @@
     ]
   },
   {
-    "id": 1307,
+    "id": 1304,
     "name": "3-5 MPa",
     "type": "Reaction pressure",
     "titles": [
@@ -18781,7 +18742,7 @@
     ]
   },
   {
-    "id": 1308,
+    "id": 1305,
     "name": "selectivity: 42.3%",
     "type": "Product selectivity",
     "titles": [
@@ -18793,7 +18754,7 @@
     ]
   },
   {
-    "id": 1309,
+    "id": 1306,
     "name": "yield: 82.3% yield of organic liquid products (for NiMo/8AHFS-Y)",
     "type": "Product yield",
     "titles": [
@@ -18804,7 +18765,7 @@
     ]
   },
   {
-    "id": 1310,
+    "id": 1307,
     "name": "H₂:Oil = 500 v/v",
     "type": "Reactant molar ratio",
     "titles": [
@@ -18815,7 +18776,7 @@
     ]
   },
   {
-    "id": 1311,
+    "id": 1308,
     "name": "0.8 mL/min",
     "type": "Flow rate",
     "titles": [
@@ -18828,7 +18789,7 @@
     ]
   },
   {
-    "id": 1312,
+    "id": 1309,
     "name": "yield: AHC yield: 64.61 wt% (after 12 h at 360°C)",
     "type": "Product yield",
     "titles": [
@@ -18839,7 +18800,7 @@
     ]
   },
   {
-    "id": 1313,
+    "id": 1310,
     "name": "H₂:Oil = 7:13 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -18850,7 +18811,7 @@
     ]
   },
   {
-    "id": 1314,
+    "id": 1311,
     "name": "360°C",
     "type": "Reaction temperature",
     "titles": [
@@ -18871,7 +18832,7 @@
     ]
   },
   {
-    "id": 1315,
+    "id": 1312,
     "name": "yield: Jet fuel component yield: up to 37 wt.% (WHSS@Pt-IV)",
     "type": "Product yield",
     "titles": [
@@ -18882,7 +18843,7 @@
     ]
   },
   {
-    "id": 1316,
+    "id": 1313,
     "name": "64 mL/min",
     "type": "Flow rate",
     "titles": [
@@ -18893,7 +18854,7 @@
     ]
   },
   {
-    "id": 1317,
+    "id": 1314,
     "name": "310-440°C",
     "type": "Reaction temperature",
     "titles": [
@@ -18904,7 +18865,7 @@
     ]
   },
   {
-    "id": 1318,
+    "id": 1315,
     "name": "yield: Liquid hydrocarbons: 78.0 wt% (relative to palm oil)",
     "type": "Product yield",
     "titles": [
@@ -18915,7 +18876,7 @@
     ]
   },
   {
-    "id": 1319,
+    "id": 1316,
     "name": "116 mL/min",
     "type": "Flow rate",
     "titles": [
@@ -18926,7 +18887,7 @@
     ]
   },
   {
-    "id": 1320,
+    "id": 1317,
     "name": "633K",
     "type": "Reaction temperature",
     "titles": [
@@ -18937,7 +18898,7 @@
     ]
   },
   {
-    "id": 1321,
+    "id": 1318,
     "name": "yield: 71.5 wt% (C8-C16 yield for Pt/Nano-Beta at 508 K)",
     "type": "Product yield",
     "titles": [
@@ -18948,7 +18909,7 @@
     ]
   },
   {
-    "id": 1322,
+    "id": 1319,
     "name": "128 mL/min",
     "type": "Flow rate",
     "titles": [
@@ -18959,7 +18920,7 @@
     ]
   },
   {
-    "id": 1323,
+    "id": 1320,
     "name": "488-523K",
     "type": "Reaction temperature",
     "titles": [
@@ -18970,7 +18931,7 @@
     ]
   },
   {
-    "id": 1324,
+    "id": 1321,
     "name": "selectivity: 48%",
     "type": "Product selectivity",
     "titles": [
@@ -18981,7 +18942,7 @@
     ]
   },
   {
-    "id": 1325,
+    "id": 1322,
     "name": "yield: 73% HRJ yield",
     "type": "Product yield",
     "titles": [
@@ -18992,7 +18953,7 @@
     ]
   },
   {
-    "id": 1326,
+    "id": 1323,
     "name": "H₂:FS = 300:1",
     "type": "Reactant molar ratio",
     "titles": [
@@ -19003,7 +18964,7 @@
     ]
   },
   {
-    "id": 1327,
+    "id": 1324,
     "name": "LHSV 0.5 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -19014,7 +18975,7 @@
     ]
   },
   {
-    "id": 1328,
+    "id": 1325,
     "name": "conversion: 73%",
     "type": "Conversion rate",
     "titles": [
@@ -19025,7 +18986,7 @@
     ]
   },
   {
-    "id": 1329,
+    "id": 1326,
     "name": "selectivity: 24.1-91.2%",
     "type": "Product selectivity",
     "titles": [
@@ -19036,7 +18997,7 @@
     ]
   },
   {
-    "id": 1330,
+    "id": 1327,
     "name": "yield: C₁₀–C₁₅ aviation fuel-ranged hydrocarbons yield of 52% for Bot-oil hydrocracking over NiMo/Al₁₃-Mont",
     "type": "Product yield",
     "titles": [
@@ -19047,7 +19008,7 @@
     ]
   },
   {
-    "id": 1331,
+    "id": 1328,
     "name": "yield: 52% yield of C₁₀–C₁₅ aviation fuel-ranged hydrocarbons from Botryococcus braunii oil",
     "type": "Product yield",
     "titles": [
@@ -19058,7 +19019,7 @@
     ]
   },
   {
-    "id": 1332,
+    "id": 1329,
     "name": "selectivity: 41.2%",
     "type": "Product selectivity",
     "titles": [
@@ -19069,7 +19030,7 @@
     ]
   },
   {
-    "id": 1333,
+    "id": 1330,
     "name": "270-300°C",
     "type": "Reaction temperature",
     "titles": [
@@ -19080,7 +19041,7 @@
     ]
   },
   {
-    "id": 1334,
+    "id": 1331,
     "name": "70 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -19091,7 +19052,7 @@
     ]
   },
   {
-    "id": 1335,
+    "id": 1332,
     "name": "conversion: 80-99%",
     "type": "Conversion rate",
     "titles": [
@@ -19102,7 +19063,7 @@
     ]
   },
   {
-    "id": 1336,
+    "id": 1333,
     "name": "yield: Liquid product yield: ~55-56%",
     "type": "Product yield",
     "titles": [
@@ -19113,7 +19074,7 @@
     ]
   },
   {
-    "id": 1337,
+    "id": 1334,
     "name": "H₂:Oil = 13.6:1 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -19124,7 +19085,7 @@
     ]
   },
   {
-    "id": 1338,
+    "id": 1335,
     "name": "yield: 41 wt% (with respect to palm oil after distillation)",
     "type": "Product yield",
     "titles": [
@@ -19135,7 +19096,7 @@
     ]
   },
   {
-    "id": 1339,
+    "id": 1336,
     "name": "232 mL/min",
     "type": "Flow rate",
     "titles": [
@@ -19146,7 +19107,7 @@
     ]
   },
   {
-    "id": 1340,
+    "id": 1337,
     "name": "523-573K",
     "type": "Reaction temperature",
     "titles": [
@@ -19157,7 +19118,7 @@
     ]
   },
   {
-    "id": 1341,
+    "id": 1338,
     "name": "5 MPa",
     "type": "Reaction pressure",
     "titles": [
@@ -19179,7 +19140,7 @@
     ]
   },
   {
-    "id": 1342,
+    "id": 1339,
     "name": "selectivity: 70%",
     "type": "Product selectivity",
     "titles": [
@@ -19190,7 +19151,7 @@
     ]
   },
   {
-    "id": 1343,
+    "id": 1340,
     "name": "yield: 85% maximum liquid yield",
     "type": "Product yield",
     "titles": [
@@ -19201,7 +19162,7 @@
     ]
   },
   {
-    "id": 1344,
+    "id": 1341,
     "name": "225°C",
     "type": "Reaction temperature",
     "titles": [
@@ -19214,7 +19175,7 @@
     ]
   },
   {
-    "id": 1345,
+    "id": 1342,
     "name": "conversion: 85%",
     "type": "Conversion rate",
     "titles": [
@@ -19227,7 +19188,7 @@
     ]
   },
   {
-    "id": 1346,
+    "id": 1343,
     "name": "yield: 90.6% yield of catalytically hydroconverted EP (EPCHC)",
     "type": "Product yield",
     "titles": [
@@ -19238,7 +19199,7 @@
     ]
   },
   {
-    "id": 1347,
+    "id": 1344,
     "name": "18h",
     "type": "Reaction time",
     "titles": [
@@ -19249,7 +19210,7 @@
     ]
   },
   {
-    "id": 1348,
+    "id": 1345,
     "name": "n-Hexane",
     "type": "Solvent",
     "titles": [
@@ -19274,7 +19235,7 @@
     ]
   },
   {
-    "id": 1349,
+    "id": 1346,
     "name": "selectivity: 41.77%",
     "type": "Product selectivity",
     "titles": [
@@ -19285,7 +19246,7 @@
     ]
   },
   {
-    "id": 1350,
+    "id": 1347,
     "name": "yield: Liquid yield: 66.29 wt%",
     "type": "Product yield",
     "titles": [
@@ -19296,7 +19257,7 @@
     ]
   },
   {
-    "id": 1351,
+    "id": 1348,
     "name": "30 mL/min",
     "type": "Flow rate",
     "titles": [
@@ -19307,7 +19268,7 @@
     ]
   },
   {
-    "id": 1352,
+    "id": 1349,
     "name": "conversion: 87.73%",
     "type": "Conversion rate",
     "titles": [
@@ -19318,7 +19279,7 @@
     ]
   },
   {
-    "id": 1353,
+    "id": 1350,
     "name": "selectivity: 78.2%",
     "type": "Product selectivity",
     "titles": [
@@ -19329,7 +19290,7 @@
     ]
   },
   {
-    "id": 1354,
+    "id": 1351,
     "name": "conversion: 99.9%",
     "type": "Conversion rate",
     "titles": [
@@ -19346,7 +19307,7 @@
     ]
   },
   {
-    "id": 1355,
+    "id": 1352,
     "name": "selectivity: 46-51%",
     "type": "Product selectivity",
     "titles": [
@@ -19357,7 +19318,7 @@
     ]
   },
   {
-    "id": 1356,
+    "id": 1353,
     "name": "yield: >80% liquid yield",
     "type": "Product yield",
     "titles": [
@@ -19368,7 +19329,7 @@
     ]
   },
   {
-    "id": 1357,
+    "id": 1354,
     "name": "H₂:Oil = 500 Nm³/m³",
     "type": "Reactant molar ratio",
     "titles": [
@@ -19381,7 +19342,7 @@
     ]
   },
   {
-    "id": 1358,
+    "id": 1355,
     "name": "WHSV 4.0 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -19392,7 +19353,7 @@
     ]
   },
   {
-    "id": 1359,
+    "id": 1356,
     "name": "48h",
     "type": "Reaction time",
     "titles": [
@@ -19405,7 +19366,7 @@
     ]
   },
   {
-    "id": 1360,
+    "id": 1357,
     "name": "40-50 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -19416,7 +19377,7 @@
     ]
   },
   {
-    "id": 1361,
+    "id": 1358,
     "name": "conversion: 72%",
     "type": "Conversion rate",
     "titles": [
@@ -19427,7 +19388,24 @@
     ]
   },
   {
-    "id": 1362,
+    "id": 1359,
+    "name": "C₈-C₁₆ n-Alkanes",
+    "type": "Product category",
+    "titles": [
+      "Effects of metal promoters on one-step Pt/SAPO-11 catalytic hydrotreatment of castor oil to C8-C16 alkanes",
+      "Selective Production of Jet-Fuel-Range Alkanes from Palmitic Acid over Ni/H-MCM-49 with Two Independent Pore Systems",
+      "Deconstruction of high-density polyethylene into liquid hydrocarbon fuels and lubricants by hydrogenolysis over Ru catalyst",
+      "Co–Mo Catalysts Supported on CNT/H-ZSM-5 Composites for Selective Production of Sustainable Aviation Fuel-Range Alkanes"
+    ],
+    "dois": [
+      "10.1016/j.indcrop.2020.112182",
+      "10.1021/acs.iecr.9b04130",
+      "10.1016/j.checat.2021.04.002",
+      "10.1021/acs.energyfuels.5c02344"
+    ]
+  },
+  {
+    "id": 1360,
     "name": "selectivity: 40.37-58.24%",
     "type": "Product selectivity",
     "titles": [
@@ -19438,7 +19416,7 @@
     ]
   },
   {
-    "id": 1363,
+    "id": 1361,
     "name": "H₂:Oil = 1000-1200 Nm³/m³",
     "type": "Reactant molar ratio",
     "titles": [
@@ -19449,7 +19427,7 @@
     ]
   },
   {
-    "id": 1364,
+    "id": 1362,
     "name": "conversion: 73.15-90.65%",
     "type": "Conversion rate",
     "titles": [
@@ -19460,7 +19438,7 @@
     ]
   },
   {
-    "id": 1365,
+    "id": 1363,
     "name": "C₆-C₉ Hydrocarbons",
     "type": "Product category",
     "titles": [
@@ -19473,7 +19451,7 @@
     ]
   },
   {
-    "id": 1366,
+    "id": 1364,
     "name": "selectivity: 48.3-60.1%",
     "type": "Product selectivity",
     "titles": [
@@ -19484,7 +19462,7 @@
     ]
   },
   {
-    "id": 1367,
+    "id": 1365,
     "name": "Mixed gas: CO2/H2/Ar = 24/73/3 vol%",
     "type": "Atmosphere",
     "titles": [
@@ -19495,7 +19473,7 @@
     ]
   },
   {
-    "id": 1368,
+    "id": 1366,
     "name": "Gas Composition: CO₂:H₂:Ar:n-Hexane = 24:73:3:60 (vol/vol, partial pressure specified)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -19506,7 +19484,7 @@
     ]
   },
   {
-    "id": 1369,
+    "id": 1367,
     "name": "553K",
     "type": "Reaction temperature",
     "titles": [
@@ -19517,7 +19495,7 @@
     ]
   },
   {
-    "id": 1370,
+    "id": 1368,
     "name": "conversion: 28.8-49.0%",
     "type": "Conversion rate",
     "titles": [
@@ -19528,7 +19506,7 @@
     ]
   },
   {
-    "id": 1371,
+    "id": 1369,
     "name": "Decalin",
     "type": "Product category",
     "titles": [
@@ -19545,7 +19523,7 @@
     ]
   },
   {
-    "id": 1372,
+    "id": 1370,
     "name": "yield: 38.08% decalin (Pd/HY-a)",
     "type": "Product yield",
     "titles": [
@@ -19556,7 +19534,7 @@
     ]
   },
   {
-    "id": 1373,
+    "id": 1371,
     "name": "Tridecane",
     "type": "Solvent",
     "titles": [
@@ -19567,7 +19545,7 @@
     ]
   },
   {
-    "id": 1374,
+    "id": 1372,
     "name": "conversion: 99.13%",
     "type": "Conversion rate",
     "titles": [
@@ -19578,7 +19556,7 @@
     ]
   },
   {
-    "id": 1375,
+    "id": 1373,
     "name": "Diesel Fraction",
     "type": "Product category",
     "titles": [
@@ -19589,7 +19567,7 @@
     ]
   },
   {
-    "id": 1376,
+    "id": 1374,
     "name": "yield: Liquid hydrocarbons (boiling point ≤343°C): 76%, Diesel fraction (174–343°C): 48% (max with 1.0%Pt catalyst at 320°C), Kerosene fraction: 49%",
     "type": "Product yield",
     "titles": [
@@ -19600,7 +19578,7 @@
     ]
   },
   {
-    "id": 1377,
+    "id": 1375,
     "name": "H₂:Feed = 600:1 (v/v)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -19611,7 +19589,7 @@
     ]
   },
   {
-    "id": 1378,
+    "id": 1376,
     "name": "WHSV 0.5 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -19622,7 +19600,7 @@
     ]
   },
   {
-    "id": 1379,
+    "id": 1377,
     "name": "50 atm",
     "type": "Reaction pressure",
     "titles": [
@@ -19633,7 +19611,7 @@
     ]
   },
   {
-    "id": 1380,
+    "id": 1378,
     "name": "conversion: 91%",
     "type": "Conversion rate",
     "titles": [
@@ -19644,7 +19622,7 @@
     ]
   },
   {
-    "id": 1381,
+    "id": 1379,
     "name": "yield: Not reported",
     "type": "Product yield",
     "titles": [
@@ -19655,7 +19633,7 @@
     ]
   },
   {
-    "id": 1382,
+    "id": 1380,
     "name": "H2 and N2 (H2:N2=1:2)",
     "type": "Atmosphere",
     "titles": [
@@ -19666,7 +19644,7 @@
     ]
   },
   {
-    "id": 1383,
+    "id": 1381,
     "name": "H₂:Reactant = 13:1 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -19677,7 +19655,7 @@
     ]
   },
   {
-    "id": 1384,
+    "id": 1382,
     "name": "1 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -19706,7 +19684,7 @@
     ]
   },
   {
-    "id": 1385,
+    "id": 1383,
     "name": "yield: i-C₇–₉ yield = 42 C-mol% at W/F = 0.6 h",
     "type": "Product yield",
     "titles": [
@@ -19717,7 +19695,7 @@
     ]
   },
   {
-    "id": 1386,
+    "id": 1384,
     "name": "yield: i-C₇–₉ ≈ 15–17 mol%",
     "type": "Product yield",
     "titles": [
@@ -19728,7 +19706,7 @@
     ]
   },
   {
-    "id": 1387,
+    "id": 1385,
     "name": "2001",
     "type": "Year",
     "titles": [
@@ -19739,7 +19717,7 @@
     ]
   },
   {
-    "id": 1388,
+    "id": 1386,
     "name": "500 psi",
     "type": "Reaction pressure",
     "titles": [
@@ -19750,7 +19728,7 @@
     ]
   },
   {
-    "id": 1389,
+    "id": 1387,
     "name": "n-Tridecane",
     "type": "Solvent",
     "titles": [
@@ -19761,7 +19739,7 @@
     ]
   },
   {
-    "id": 1390,
+    "id": 1388,
     "name": "conversion: 33%",
     "type": "Conversion rate",
     "titles": [
@@ -19772,7 +19750,7 @@
     ]
   },
   {
-    "id": 1391,
+    "id": 1389,
     "name": "Cycloalkanes",
     "type": "Product category",
     "titles": [
@@ -19791,7 +19769,7 @@
     ]
   },
   {
-    "id": 1392,
+    "id": 1390,
     "name": "selectivity: 100%",
     "type": "Product selectivity",
     "titles": [
@@ -19804,7 +19782,7 @@
     ]
   },
   {
-    "id": 1393,
+    "id": 1391,
     "name": "selectivity: 99%",
     "type": "Product selectivity",
     "titles": [
@@ -19815,7 +19793,7 @@
     ]
   },
   {
-    "id": 1394,
+    "id": 1392,
     "name": "Ethanol",
     "type": "Solvent",
     "titles": [
@@ -19828,7 +19806,7 @@
     ]
   },
   {
-    "id": 1395,
+    "id": 1393,
     "name": "yield: 49.9% jet fuel yield at 340 °C",
     "type": "Product yield",
     "titles": [
@@ -19839,7 +19817,7 @@
     ]
   },
   {
-    "id": 1396,
+    "id": 1394,
     "name": "H₂:Oil = 400:1",
     "type": "Reactant molar ratio",
     "titles": [
@@ -19850,7 +19828,7 @@
     ]
   },
   {
-    "id": 1397,
+    "id": 1395,
     "name": "300-380°C",
     "type": "Reaction temperature",
     "titles": [
@@ -19861,7 +19839,7 @@
     ]
   },
   {
-    "id": 1398,
+    "id": 1396,
     "name": "selectivity: 55-100%",
     "type": "Product selectivity",
     "titles": [
@@ -19872,7 +19850,7 @@
     ]
   },
   {
-    "id": 1399,
+    "id": 1397,
     "name": "LHSV 5.3 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -19883,7 +19861,7 @@
     ]
   },
   {
-    "id": 1400,
+    "id": 1398,
     "name": "290°C",
     "type": "Reaction temperature",
     "titles": [
@@ -19894,7 +19872,7 @@
     ]
   },
   {
-    "id": 1401,
+    "id": 1399,
     "name": "yield: C1-C4 gas: [1.05%, 1.20%, 1.40%], <65°C light naphtha: [2.35%, 3.30%, 4.11%], 65-165°C heavy naphtha: [10.63%, 15.55%, 19.48%], 165-260°C jet fuel: [41.57%, 35.75%, 31.00%], >260°C diesel: [44.70%, 44.40%, 44.14%]",
     "type": "Product yield",
     "titles": [
@@ -19905,7 +19883,7 @@
     ]
   },
   {
-    "id": 1402,
+    "id": 1400,
     "name": "H₂:Oil = 800:1200 (v/v)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -19916,7 +19894,7 @@
     ]
   },
   {
-    "id": 1403,
+    "id": 1401,
     "name": "LHSV 2.0 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -19927,7 +19905,7 @@
     ]
   },
   {
-    "id": 1404,
+    "id": 1402,
     "name": "8 MPa",
     "type": "Reaction pressure",
     "titles": [
@@ -19940,7 +19918,7 @@
     ]
   },
   {
-    "id": 1405,
+    "id": 1403,
     "name": "C₁₅-C₁₈ n-Alkanes",
     "type": "Product category",
     "titles": [
@@ -19953,7 +19931,7 @@
     ]
   },
   {
-    "id": 1406,
+    "id": 1404,
     "name": "selectivity: 15.1%",
     "type": "Product selectivity",
     "titles": [
@@ -19964,7 +19942,7 @@
     ]
   },
   {
-    "id": 1407,
+    "id": 1405,
     "name": "yield: Liquid yield: 75.7%",
     "type": "Product yield",
     "titles": [
@@ -19975,7 +19953,7 @@
     ]
   },
   {
-    "id": 1408,
+    "id": 1406,
     "name": "LHSV 0.8 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -19988,7 +19966,7 @@
     ]
   },
   {
-    "id": 1409,
+    "id": 1407,
     "name": "selectivity: 14.9%",
     "type": "Product selectivity",
     "titles": [
@@ -19999,7 +19977,7 @@
     ]
   },
   {
-    "id": 1410,
+    "id": 1408,
     "name": "yield: >94% yield for unsaturated and partially saturated products",
     "type": "Product yield",
     "titles": [
@@ -20010,7 +19988,7 @@
     ]
   },
   {
-    "id": 1411,
+    "id": 1409,
     "name": "Catalyst:Substrate = 1:10 (wt/wt)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -20021,7 +19999,7 @@
     ]
   },
   {
-    "id": 1412,
+    "id": 1410,
     "name": "yield: 26%",
     "type": "Product yield",
     "titles": [
@@ -20032,7 +20010,7 @@
     ]
   },
   {
-    "id": 1413,
+    "id": 1411,
     "name": "45 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -20043,7 +20021,7 @@
     ]
   },
   {
-    "id": 1414,
+    "id": 1412,
     "name": "conversion: 71%",
     "type": "Conversion rate",
     "titles": [
@@ -20054,7 +20032,7 @@
     ]
   },
   {
-    "id": 1415,
+    "id": 1413,
     "name": "WHSV 16.2 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -20065,7 +20043,7 @@
     ]
   },
   {
-    "id": 1416,
+    "id": 1414,
     "name": "180-280°C",
     "type": "Reaction temperature",
     "titles": [
@@ -20076,7 +20054,7 @@
     ]
   },
   {
-    "id": 1417,
+    "id": 1415,
     "name": "Decalin",
     "type": "Solvent",
     "titles": [
@@ -20089,7 +20067,7 @@
     ]
   },
   {
-    "id": 1418,
+    "id": 1416,
     "name": "conversion: 88.5-100%",
     "type": "Conversion rate",
     "titles": [
@@ -20100,7 +20078,7 @@
     ]
   },
   {
-    "id": 1419,
+    "id": 1417,
     "name": "yield: 36.60%",
     "type": "Product yield",
     "titles": [
@@ -20111,7 +20089,7 @@
     ]
   },
   {
-    "id": 1420,
+    "id": 1418,
     "name": "30-180min",
     "type": "Reaction time",
     "titles": [
@@ -20122,7 +20100,7 @@
     ]
   },
   {
-    "id": 1421,
+    "id": 1419,
     "name": "yield: 18.5 wt% dehydrogenated products",
     "type": "Product yield",
     "titles": [
@@ -20133,7 +20111,7 @@
     ]
   },
   {
-    "id": 1422,
+    "id": 1420,
     "name": "12-20h",
     "type": "Reaction time",
     "titles": [
@@ -20144,7 +20122,7 @@
     ]
   },
   {
-    "id": 1423,
+    "id": 1421,
     "name": "selectivity: AFRA selectivity: 51.4% (250°C, 10 bar); HDO selectivity: decreased with increasing temperature; DCO/DCO2 selectivity: increased with increasing temperature; iso/n-alkanes ratio: 1.7 (250°C, 10 bar over NS200(1))",
     "type": "Product selectivity",
     "titles": [
@@ -20155,7 +20133,7 @@
     ]
   },
   {
-    "id": 1424,
+    "id": 1422,
     "name": "yield: OLP yield: 70.8% (240°C, 30 bar), 78.8% (250°C, 30 bar), 74.3% (260°C, 30 bar); AFRA yield: 39.6% (250°C, 30 bar), 36.3% (260°C, 30 bar over NS200(1))",
     "type": "Product yield",
     "titles": [
@@ -20166,7 +20144,7 @@
     ]
   },
   {
-    "id": 1425,
+    "id": 1423,
     "name": "0.40 mL/min",
     "type": "Flow rate",
     "titles": [
@@ -20179,7 +20157,7 @@
     ]
   },
   {
-    "id": 1426,
+    "id": 1424,
     "name": "4 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -20190,7 +20168,7 @@
     ]
   },
   {
-    "id": 1427,
+    "id": 1425,
     "name": "conversion: 88.9-100%",
     "type": "Conversion rate",
     "titles": [
@@ -20201,7 +20179,7 @@
     ]
   },
   {
-    "id": 1428,
+    "id": 1426,
     "name": "selectivity: 96.0% (Perhydrofluorene)",
     "type": "Product selectivity",
     "titles": [
@@ -20212,7 +20190,7 @@
     ]
   },
   {
-    "id": 1429,
+    "id": 1427,
     "name": "yield: 29.13% (Dicyclohexylmethane)",
     "type": "Product yield",
     "titles": [
@@ -20223,7 +20201,7 @@
     ]
   },
   {
-    "id": 1430,
+    "id": 1428,
     "name": "453K",
     "type": "Reaction temperature",
     "titles": [
@@ -20234,7 +20212,7 @@
     ]
   },
   {
-    "id": 1431,
+    "id": 1429,
     "name": "6 MPa",
     "type": "Reaction pressure",
     "titles": [
@@ -20247,7 +20225,7 @@
     ]
   },
   {
-    "id": 1432,
+    "id": 1430,
     "name": "selectivity: 53.8% (Fe(3)-Cu(13)/SiO₂-Al₂O₃ at 340°C, 10 h)",
     "type": "Product selectivity",
     "titles": [
@@ -20258,7 +20236,7 @@
     ]
   },
   {
-    "id": 1433,
+    "id": 1431,
     "name": "yield: 51.8% (Fe(3)-Cu(13)/SiO₂-Al₂O₃ at 340°C, 10 h)",
     "type": "Product yield",
     "titles": [
@@ -20269,7 +20247,7 @@
     ]
   },
   {
-    "id": 1434,
+    "id": 1432,
     "name": "2.07 MPa",
     "type": "Reaction pressure",
     "titles": [
@@ -20280,7 +20258,7 @@
     ]
   },
   {
-    "id": 1435,
+    "id": 1433,
     "name": "selectivity: 56.2% jet fuel range hydrocarbons (at 275°C, 0.02 mL/min)",
     "type": "Product selectivity",
     "titles": [
@@ -20291,7 +20269,7 @@
     ]
   },
   {
-    "id": 1436,
+    "id": 1434,
     "name": "0.01 mL/min",
     "type": "Flow rate",
     "titles": [
@@ -20302,7 +20280,7 @@
     ]
   },
   {
-    "id": 1437,
+    "id": 1435,
     "name": "255°C",
     "type": "Reaction temperature",
     "titles": [
@@ -20313,7 +20291,7 @@
     ]
   },
   {
-    "id": 1438,
+    "id": 1436,
     "name": "conversion: 91.5%",
     "type": "Conversion rate",
     "titles": [
@@ -20324,7 +20302,7 @@
     ]
   },
   {
-    "id": 1439,
+    "id": 1437,
     "name": "selectivity: 75.9% iso-alkanes (iso-C8-C18) selectivity",
     "type": "Product selectivity",
     "titles": [
@@ -20335,7 +20313,7 @@
     ]
   },
   {
-    "id": 1440,
+    "id": 1438,
     "name": "selectivity: 79.97% jet-fuel range selectivity (10Ni/USY)",
     "type": "Product selectivity",
     "titles": [
@@ -20346,7 +20324,7 @@
     ]
   },
   {
-    "id": 1441,
+    "id": 1439,
     "name": "yield: 56.83% (10Ni/USY)",
     "type": "Product yield",
     "titles": [
@@ -20357,7 +20335,7 @@
     ]
   },
   {
-    "id": 1442,
+    "id": 1440,
     "name": "375-475°C",
     "type": "Reaction temperature",
     "titles": [
@@ -20368,7 +20346,7 @@
     ]
   },
   {
-    "id": 1443,
+    "id": 1441,
     "name": "15-25 bar",
     "type": "Reaction pressure",
     "titles": [
@@ -20379,7 +20357,18 @@
     ]
   },
   {
-    "id": 1444,
+    "id": 1442,
+    "name": "C₅-C₁₈ n-Alkanes",
+    "type": "Product category",
+    "titles": [
+      "Catalytic hydroprocessing of fatty acid methyl esters to renewable alkane fuels over Ni/HZSM-5 catalyst"
+    ],
+    "dois": [
+      "10.1016/j.cattod.2015.08.023"
+    ]
+  },
+  {
+    "id": 1443,
     "name": "selectivity: 88.2% selectivity for C₅–C₁₈ liquid alkanes",
     "type": "Product selectivity",
     "titles": [
@@ -20390,7 +20379,7 @@
     ]
   },
   {
-    "id": 1445,
+    "id": 1444,
     "name": "H₂:Oil = 15:1 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -20401,7 +20390,7 @@
     ]
   },
   {
-    "id": 1446,
+    "id": 1445,
     "name": "LHSV 4 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -20412,7 +20401,7 @@
     ]
   },
   {
-    "id": 1447,
+    "id": 1446,
     "name": "conversion: 85.1%",
     "type": "Conversion rate",
     "titles": [
@@ -20423,7 +20412,7 @@
     ]
   },
   {
-    "id": 1448,
+    "id": 1447,
     "name": "Cyclohexane",
     "type": "Product category",
     "titles": [
@@ -20444,7 +20433,7 @@
     ]
   },
   {
-    "id": 1449,
+    "id": 1448,
     "name": "yield: 18.5 mol% cyclohexane",
     "type": "Product yield",
     "titles": [
@@ -20452,6 +20441,17 @@
     ],
     "dois": [
       "10.1016/j.fuel.2024.130940"
+    ]
+  },
+  {
+    "id": 1449,
+    "name": "C₈-C₁₈ Hydrocarbons",
+    "type": "Product category",
+    "titles": [
+      "A Study of Pt-Mg/Mesoporous Aluminosilicate Catalysts for Synthesis of Jet-fuel from n-Octadecane"
+    ],
+    "dois": [
+      "10.9713/KCER.2016.54.5.712"
     ]
   },
   {
@@ -23645,6 +23645,17 @@
   },
   {
     "id": 1740,
+    "name": "C₈-C₁₈ n-Alkanes",
+    "type": "Product category",
+    "titles": [
+      "Hydrodeoxygenation of lignocellulose-derived oxygenates to diesel or jet fuel range alkanes under mild conditions"
+    ],
+    "dois": [
+      "10.1039/C9CY02367D"
+    ]
+  },
+  {
+    "id": 1741,
     "name": "yield: 36.6-93.8% (for compound 1A)",
     "type": "Product yield",
     "titles": [
@@ -23655,7 +23666,7 @@
     ]
   },
   {
-    "id": 1741,
+    "id": 1742,
     "name": "yield: 39% (propylcyclohexane at 150°C for Pt/EZB)",
     "type": "Product yield",
     "titles": [
@@ -23666,7 +23677,7 @@
     ]
   },
   {
-    "id": 1742,
+    "id": 1743,
     "name": "Solution: 0.012 M Isoeugenol in Dodecane",
     "type": "Reactant molar ratio",
     "titles": [
@@ -23677,7 +23688,7 @@
     ]
   },
   {
-    "id": 1743,
+    "id": 1744,
     "name": "40 mL/min",
     "type": "Flow rate",
     "titles": [
@@ -23688,7 +23699,7 @@
     ]
   },
   {
-    "id": 1744,
+    "id": 1745,
     "name": "selectivity: 80%",
     "type": "Product selectivity",
     "titles": [
@@ -23699,7 +23710,7 @@
     ]
   },
   {
-    "id": 1745,
+    "id": 1746,
     "name": "H₂:CO = 1:1; H₂:CO₂ = 3:1 (mol/mol)",
     "type": "Reactant molar ratio",
     "titles": [
@@ -23710,7 +23721,7 @@
     ]
   },
   {
-    "id": 1746,
+    "id": 1747,
     "name": "300 mL·h⁻¹·g⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -23721,7 +23732,7 @@
     ]
   },
   {
-    "id": 1747,
+    "id": 1748,
     "name": "conversion: 34-47%",
     "type": "Conversion rate",
     "titles": [
@@ -23732,7 +23743,7 @@
     ]
   },
   {
-    "id": 1748,
+    "id": 1749,
     "name": "selectivity: 52.79%",
     "type": "Product selectivity",
     "titles": [
@@ -23743,7 +23754,7 @@
     ]
   },
   {
-    "id": 1749,
+    "id": 1750,
     "name": "yield: 51.48%",
     "type": "Product yield",
     "titles": [
@@ -23754,7 +23765,7 @@
     ]
   },
   {
-    "id": 1750,
+    "id": 1751,
     "name": "Space velocity: 1.9 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -23765,7 +23776,7 @@
     ]
   },
   {
-    "id": 1751,
+    "id": 1752,
     "name": "Space velocity: 6000 h⁻¹",
     "type": "Flow rate",
     "titles": [
@@ -23776,7 +23787,7 @@
     ]
   },
   {
-    "id": 1752,
+    "id": 1753,
     "name": "yield: 99%",
     "type": "Product yield",
     "titles": [
@@ -23784,15 +23795,6 @@
     ],
     "dois": [
       "10.16085/j.issn.1000-6613.2023-0548"
-    ]
-  },
-  {
-    "id": 1753,
-    "name": "Jet fuel",
-    "type": "Product category",
-    "titles": [
-      "Catalytic hydroprocessing of microalgae biodiesel to renewable jet fuels over Ni/meso-y difunctional catalyst; 镍基介孔Y催化微藻生物柴油制航空燃油",
-      "Ru modified Co/SiO2/HZSM-5 catalysts for jet fuel-range hydrocarbons synthesis"
     ]
   },
   {
@@ -23816,16 +23818,16 @@
   },
   {
     "id": 1756,
-    "name": "Alkanes",
-    "type": "Product category",
+    "name": "yield: 10.9%",
+    "type": "Product yield",
     "titles": [
       "Ru modified Co/SiO2/HZSM-5 catalysts for jet fuel-range hydrocarbons synthesis"
     ]
   },
   {
     "id": 1757,
-    "name": "yield: 10.9%",
-    "type": "Product yield",
+    "name": "C₈-C₁₈ hydrocarbons",
+    "type": "Product category",
     "titles": [
       "Ru modified Co/SiO2/HZSM-5 catalysts for jet fuel-range hydrocarbons synthesis"
     ]
