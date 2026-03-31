@@ -1,0 +1,135 @@
+{
+  "file": "1001_Niu 等 - 2020 - Hollow Hierarchical Silicalite-1 Zeolite Encapsulated PtNi Bimetals for Selective Hydroconversion of.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢转化反应",
+        "reaction_type_english": "Hydroconversion reaction",
+        "description": "在固定床反应器中，使用Pt@HS-1和PtNi@HS-1催化剂，在340-380°C、3 MPa压力下，将硬脂酸甲酯加氢转化为航空燃料范围的烷烃（C9-C15）。该反应包含脱氧（HDO、DCO、DCO2）、异构化和选择性裂化步骤。",
+        "text_snippet": "The catalytic hydroconversion of methyl stearate on different catalysts was carried out in a fixed-bed reactor... The hydroconversion reaction was conducted at the temperature range from 340 to 380 °C under a total pressure of 3 MPa with a H2 flow of 100 mL/min.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "Methyl stearate",
+        "unit": "Not reported",
+        "original": "Methyl stearate"
+      },
+      "Catalyst type": {
+        "value": "1",
+        "unit": "HS-",
+        "original": "Pt@HS-1"
+      },
+      "Catalyst composition": {
+        "value": "1.0",
+        "unit": "wt%",
+        "original": "Pt (1.0 wt%)"
+      },
+      "Solvent": {
+        "value": "Cyclohexane",
+        "unit": "Not reported",
+        "original": "Cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "340",
+        "unit": "°C",
+        "original": "340°C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "0.2",
+        "unit": "mL/min",
+        "original": "0.2 mL/min (feedstock), 100 mL/min (H₂)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1.5",
+        "unit": "g",
+        "original": "1.5 g"
+      },
+      "Product": {
+        "value": "C₉-C₁₅ alkanes (aviation fuel)",
+        "unit": "Not reported",
+        "original": "C₉-C₁₅ alkanes (aviation fuel)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% (for PtNi catalysts at all temperatures, Pt@HS-1 at 360°C)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "45",
+        "unit": "%",
+        "original": "45% aviation fuel (max for PtNi@HS-1 at 360°C)"
+      },
+      "Catalyst stability": {
+        "value": "1",
+        "unit": "HS-",
+        "original": "Superior stability for PtNi@HS-1 (no deactivation during test period)"
+      },
+      "reaction_type": "加氢转化反应",
+      "reaction_type_english": "Hydroconversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床反应器中，使用Pt@HS-1和PtNi@HS-1催化剂，在340-380°C、3 MPa压力下，将硬脂酸甲酯加氢转化为航空燃料范围的烷烃（C9-C15）。该反应包含脱氧（HDO、DCO、DCO2）、异构化和选择性裂化步骤。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic hydroconversion of methyl stearate on different catalysts was carried out in a fixed-bed reactor... The hydroconversion reaction was conducted at the temperature range from 340 to 380 °C under a total pressure of 3 MPa with a H2 flow of 100 mL/min."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢转化反应",
+      "reaction_type_english": "Hydroconversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

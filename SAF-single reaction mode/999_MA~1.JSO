@@ -1,0 +1,135 @@
+{
+  "file": "999_Martínez-Klimov 等 - 2024 - Hydrodeoxygenation of isoeugenol in continuous mode using bifunctional Pt-Beta 25-binder catalysts f.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在连续滴流床反应器中，使用双功能Pt-Beta 25-粘合剂催化剂，在30 bar氢气压力、40 mL/min气体流速和0.5 mL/min液体流速（异丁子香酚/十二烷混合物，0.012 M）条件下，对异丁子香酚进行加氢脱氧反应，以生产可再生喷气燃料范围内的丙基环己烷。催化剂筛选在150°C下进行，以确定金属位置、催化剂酸度和铂颗粒尺寸的影响。还使用在沸石和粘合剂上均负载铂的催化剂，在65至200°C的温度范围内研究了温度对活性和催化剂失活的影响。",
+        "text_snippet": "Hydrodeoxygenation of isoeugenol in a continuous trickle-bed reactor to produce propylcyclohexane... All catalytic tests were performed at 30 bar of hydrogen, with a gas flow rate of 40 mL min−1, and a liquid flowrate of 0.5 mL min−1 of a mixture of isoeugenol in dodecane (0.012M). Screening of the catalysts was performed at 150°C... The effect of temperature on activity and catalyst deactivation was determined using the catalyst with platinum supported on both the zeolite and the binder. A range of temperatures between 65 and 200°C was used...",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "isoeugenol",
+        "unit": "Not reported",
+        "original": "isoeugenol"
+      },
+      "Catalyst type": {
+        "value": "25",
+        "unit": "Pt-Beta",
+        "original": "bifunctional Pt-Beta 25-binder catalysts"
+      },
+      "Catalyst composition": {
+        "value": "platinum",
+        "unit": "Not reported",
+        "original": "platinum"
+      },
+      "Solvent": {
+        "value": "n-dodecane",
+        "unit": "Not reported",
+        "original": "n-dodecane"
+      },
+      "Reaction temperature": {
+        "value": "150",
+        "unit": "°C",
+        "original": "150°C"
+      },
+      "Reaction pressure": {
+        "value": "30",
+        "unit": "bar",
+        "original": "30 bar"
+      },
+      "Flow rate": {
+        "value": "40",
+        "unit": "mL/min",
+        "original": "gas flow rate: 40 mL/min"
+      },
+      "Reaction time": {
+        "value": "30",
+        "unit": "h",
+        "original": "ca. 30 h"
+      },
+      "Atmosphere": {
+        "value": "hydrogen",
+        "unit": "Not reported",
+        "original": "hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "0.012",
+        "unit": "M",
+        "original": "isoeugenol in dodecane (0.012 M)"
+      },
+      "Operation mode": {
+        "value": "continuous trickle-bed reactor",
+        "unit": "Not reported",
+        "original": "continuous trickle-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.4",
+        "unit": "g",
+        "original": "0.4 g"
+      },
+      "Product": {
+        "value": "propylcyclohexane",
+        "unit": "Not reported",
+        "original": "propylcyclohexane"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% (isoeugenol)"
+      },
+      "Product yield": {
+        "value": "39",
+        "unit": "%",
+        "original": "39% (propylcyclohexane at 150°C for Pt/EZB)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "10",
+        "unit": "%",
+        "original": "ca. 10% deactivation over 30 h time-on-stream"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在连续滴流床反应器中，使用双功能Pt-Beta 25-粘合剂催化剂，在30 bar氢气压力、40 mL/min气体流速和0.5 mL/min液体流速（异丁子香酚/十二烷混合物，0.012 M）条件下，对异丁子香酚进行加氢脱氧反应，以生产可再生喷气燃料范围内的丙基环己烷。催化剂筛选在150°C下进行，以确定金属位置、催化剂酸度和铂颗粒尺寸的影响。还使用在沸石和粘合剂上均负载铂的催化剂，在65至200°C的温度范围内研究了温度对活性和催化剂失活的影响。",
+      "experiment_id": 1,
+      "text_snippet": "Hydrodeoxygenation of isoeugenol in a continuous trickle-bed reactor to produce propylcyclohexane... All catalytic tests were performed at 30 bar of hydrogen, with a gas flow rate of 40 mL min−1, and a liquid flowrate of 0.5 mL min−1 of a mixture of isoeugenol in dodecane (0.012M). Screening of the ..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

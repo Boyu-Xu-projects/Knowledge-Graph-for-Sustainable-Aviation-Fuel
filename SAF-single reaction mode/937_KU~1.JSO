@@ -1,0 +1,247 @@
+{
+  "file": "937_Kunamalla和Maity - 2023 - Production of green jet fuel from furanics via hydroxyalkylation-alkylation over mesoporous MoO3-ZrO.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "羟烷基化-烷基化反应",
+        "reaction_type_english": "Hydroxyalkylation-alkylation reaction",
+        "description": "在介孔MoO3-ZrO2催化剂上，研究2-甲基呋喃与糠醛的羟烷基化-烷基化反应。考察了催化剂煅烧温度、MoO3负载量、反应温度、催化剂用量和反应物摩尔比对2-甲基呋喃转化率的影响。最佳条件为：873 K煅烧温度，20 wt% MoO3负载量，323 K反应温度，1.25 g催化剂，2:1的2-甲基呋喃/糠醛摩尔比，反应5小时，实现了约85%的2-甲基呋喃转化率。",
+        "text_snippet": "The HAA reaction of 2-methylfuran with furfural was thus investigated over a novel MoO3-promoted mesoporous ZrO2 catalyst... About 85 % 2-methylfuran conversion was achieved over 1.25 g of this optimum catalyst at 2:1 2-methylfuran/furfural mole ratio, 323 K, and 5 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在Co/γ-Al2O3催化剂上，研究C15生物燃料前驱体的加氢脱氧反应。考察了反应温度、初始氢压和Co金属负载量对含氧中间体化合物转化率和产物分布的影响。反应路径涉及呋喃环饱和、开环反应，以及加氢脱氧、脱羰和叔碳键断裂的组合。最佳条件为：20 wt% Co负载量，573 K反应温度，30 bar氢压，实现了含氧中间体化合物近乎完全的转化，生成C9-C15烷烃（喷气燃料范围）。",
+        "text_snippet": "HDO of biofuel precursor was examined over Co/γ-Al2O3 catalyst at various reaction temperatures, initial hydrogen pressure, and Co metal loading on γ-Al2O3 to understand the reaction mechanism and identify the optimum reaction conditions... Nearly complete conversion of oxygen-containing intermediate compounds to green jet fuel was achieved over 20 wt% Co/γ-Al2O3 at 573 K and 30 bar.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran",
+        "unit": "Not reported",
+        "original": "2-methylfuran"
+      },
+      "Catalyst type": {
+        "value": "3",
+        "unit": "MoO",
+        "original": "mesoporous MoO3-ZrO2"
+      },
+      "Catalyst composition": {
+        "value": "3",
+        "unit": "MoO",
+        "original": "MoO3-promoted ZrO2"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "323",
+        "unit": "K",
+        "original": "323 K"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "5",
+        "unit": "h",
+        "original": "5 hours"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "2:1",
+        "unit": ":",
+        "original": "2:1 (2-methylfuran/furfural)"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "1.25",
+        "unit": "g",
+        "original": "1.25 g"
+      },
+      "Product": {
+        "value": "15",
+        "unit": "biofuel",
+        "original": "C15 biofuel precursor"
+      },
+      "Conversion rate": {
+        "value": "85",
+        "unit": "%",
+        "original": "85% (2-methylfuran conversion)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Regenerated catalyst showed slightly lower activity",
+        "unit": "Not reported",
+        "original": "Regenerated catalyst showed slightly lower activity"
+      },
+      "reaction_type": "羟烷基化-烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation-alkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在介孔MoO3-ZrO2催化剂上，研究2-甲基呋喃与糠醛的羟烷基化-烷基化反应。考察了催化剂煅烧温度、MoO3负载量、反应温度、催化剂用量和反应物摩尔比对2-甲基呋喃转化率的影响。最佳条件为：873 K煅烧温度，20 wt% MoO3负载量，323 K反应温度，1.25 g催化剂，2:1的2-甲基呋喃/糠醛摩尔比，反应5小时，实现了约85%的2-甲基呋喃转化率。",
+      "experiment_id": 1,
+      "text_snippet": "The HAA reaction of 2-methylfuran with furfural was thus investigated over a novel MoO3-promoted mesoporous ZrO2 catalyst... About 85 % 2-methylfuran conversion was achieved over 1.25 g of this optimum catalyst at 2:1 2-methylfuran/furfural mole ratio, 323 K, and 5 h."
+    },
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "15",
+        "unit": "biofuel",
+        "original": "C15 biofuel precursor derived from 2-methylfuran and furfural"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "O",
+        "original": "Co/γ-Al2O3"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "O",
+        "original": "Co metal supported on γ-Al2O3"
+      },
+      "Solvent": {
+        "value": "isooctane",
+        "unit": "Not reported",
+        "original": "isooctane"
+      },
+      "Reaction temperature": {
+        "value": "573",
+        "unit": "K",
+        "original": "573 K"
+      },
+      "Reaction pressure": {
+        "value": "30",
+        "unit": "bar",
+        "original": "30 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "20",
+        "unit": "wt%",
+        "original": "20 wt% Co on γ-Al2O3"
+      },
+      "Product": {
+        "value": "15",
+        "unit": "alkanes",
+        "original": "C9-C15 alkanes"
+      },
+      "Conversion rate": {
+        "value": "Nearly complete conversion of oxygen-containing intermediate compounds",
+        "unit": "%",
+        "original": "Nearly complete conversion of oxygen-containing intermediate compounds"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "11",
+        "unit": "and",
+        "original": "C11 and C14 hydrocarbons dominant at 573 K and 30 bar"
+      },
+      "Catalyst stability": {
+        "value": "Regenerated catalyst showed slight reduction in activity due to Co metal agglomeration",
+        "unit": "Not reported",
+        "original": "Regenerated catalyst showed slight reduction in activity due to Co metal agglomeration"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Co/γ-Al2O3催化剂上，研究C15生物燃料前驱体的加氢脱氧反应。考察了反应温度、初始氢压和Co金属负载量对含氧中间体化合物转化率和产物分布的影响。反应路径涉及呋喃环饱和、开环反应，以及加氢脱氧、脱羰和叔碳键断裂的组合。最佳条件为：20 wt% Co负载量，573 K反应温度，30 bar氢压，实现了含氧中间体化合物近乎完全的转化，生成C9-C15烷烃（喷气燃料范围）。",
+      "experiment_id": 2,
+      "text_snippet": "HDO of biofuel precursor was examined over Co/γ-Al2O3 catalyst at various reaction temperatures, initial hydrogen pressure, and Co metal loading on γ-Al2O3 to understand the reaction mechanism and identify the optimum reaction conditions... Nearly complete conversion of oxygen-containing intermediat..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "羟烷基化-烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation-alkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

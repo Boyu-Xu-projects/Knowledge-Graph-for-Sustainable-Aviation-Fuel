@@ -1,0 +1,359 @@
+{
+  "file": "1009_Kim 等 - 2024 - Continuous flow upgrading of lignin pyrolysis oils to drop-in bio-hydrocarbon fuels over noble metal.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在间歇式反应器中，使用各种钌基催化剂（Ru/C、RuRe/C、RuRe/MZSM-5、RuRe/TiO2）对木质素油进行加氢脱氧（HDO）反应。反应条件：280°C，初始氢压20 bar，反应时间4小时。",
+        "text_snippet": "The HDO reactions were carried out using the 160 ml batch reactor at 280 °C and 20 bar H2 pressure for 4 h... Fig. 3 shows the O/C (atom/atom) and H/C (atom/atom) ratios of the liquid products obtained after the HDO of lignin oils over various catalysts.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在连续流滴流床反应器中，使用不同催化剂（Ru/C、Pd/C、RuRe/C）对木质素油-乙醇混合物进行加氢脱氧（HDO）反应。反应条件：350°C，100 bar，WHSV = 0.5 h⁻¹，运行时间10小时。",
+        "text_snippet": "Fig. 4 shows the product distribution obtained from the HDO of a lignin oil-ethanol mixture over various catalysts at 350 °C and 10 h time-on-stream (TOS)... The HDO reactions were performed under the following reaction conditions: Temperature = 300–400 °C, Pressure =100 bar, and H2 flow rate =600 ml/min. 10 wt% ethanol-lignin-oil mixture... was used as reactants.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在连续流滴流床反应器中，使用RuRe/C催化剂，系统研究反应温度（300-400°C）和重时空速（WHSV, 0.2-0.7 h⁻¹）对溶解在四氢呋喃（THF）中的木质素油加氢脱氧（HDO）性能的影响。反应压力为100 bar。",
+        "text_snippet": "Table 2 shows the effect of temperature on the reaction performance, measured at fixed WHSV of 0.2 h⁻¹... Table 3 shows the effect of WHSV on the reaction performance measured at a fixed temperature of 350 °C... RuRe/C and THF were used as the catalyst and solvent, respectively. The HDO reactions were run for 6 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "lignin pyrolysis oil (derived from kraft lignin)",
+        "unit": "Not reported",
+        "original": "lignin pyrolysis oil (derived from kraft lignin)"
+      },
+      "Catalyst type": {
+        "value": "Ru/C",
+        "unit": "Not reported",
+        "original": "Ru/C"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5 wt% Ru/C"
+      },
+      "Solvent": {
+        "value": "n-heptane (batch)",
+        "unit": "Not reported",
+        "original": "n-heptane (batch)"
+      },
+      "Reaction temperature": {
+        "value": "280",
+        "unit": "°C",
+        "original": "280 °C (batch)"
+      },
+      "Reaction pressure": {
+        "value": "20",
+        "unit": "bar",
+        "original": "20 bar H2 initial pressure (batch)"
+      },
+      "Flow rate": {
+        "value": "600",
+        "unit": "mL/min",
+        "original": "600 ml/min H2 flow rate (continuous flow)"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours (batch)"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g catalyst / 40 ml n-heptane + 1 ml lignin oil (batch)"
+      },
+      "Product": {
+        "value": "6",
+        "unit": ":",
+        "original": "Deoxygenated hydrocarbon mixtures (branched cycloalkanes, C6 to C20)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "50.8",
+        "unit": "wt%",
+        "original": "~50.8 wt% organic phase, ~21.8 wt% water phase (Ru/C, continuous flow, THF)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "50",
+        "unit": "%",
+        "original": "Catalyst deactivation observed (>50% activity loss after 16 h TOS) due to carbon deposition and metal sintering"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在间歇式反应器中，使用各种钌基催化剂（Ru/C、RuRe/C、RuRe/MZSM-5、RuRe/TiO2）对木质素油进行加氢脱氧（HDO）反应。反应条件：280°C，初始氢压20 bar，反应时间4小时。",
+      "experiment_id": 1,
+      "text_snippet": "The HDO reactions were carried out using the 160 ml batch reactor at 280 °C and 20 bar H2 pressure for 4 h... Fig. 3 shows the O/C (atom/atom) and H/C (atom/atom) ratios of the liquid products obtained after the HDO of lignin oils over various catalysts."
+    },
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "lignin pyrolysis oil (from kraft lignin)",
+        "unit": "Not reported",
+        "original": "lignin pyrolysis oil (from kraft lignin)"
+      },
+      "Catalyst type": {
+        "value": "Ru/C",
+        "unit": "Not reported",
+        "original": "Ru/C"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5 wt% Ru/C"
+      },
+      "Solvent": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "ethanol (10 wt% lignin oil mixture)"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350 °C"
+      },
+      "Reaction pressure": {
+        "value": "100",
+        "unit": "bar",
+        "original": "100 bar"
+      },
+      "Flow rate": {
+        "value": "0.5",
+        "unit": "h",
+        "original": "WHSV = 0.5 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "10",
+        "unit": "h",
+        "original": "10 hours"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous flow",
+        "unit": "Not reported",
+        "original": "Continuous flow"
+      },
+      "Catalyst loading": {
+        "value": "-10",
+        "unit": "g",
+        "original": "4-10 g"
+      },
+      "Product": {
+        "value": "Deoxygenated hydrocarbon mixtures (branched cycloalkanes)",
+        "unit": "Not reported",
+        "original": "Deoxygenated hydrocarbon mixtures (branched cycloalkanes)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "50.8",
+        "unit": "wt%",
+        "original": "Organic phase oil yield: ~50.8 wt% (Ru/C), ~33.4 wt% (RuRe/C), ~6.9 wt% (Pd/C) with THF solvent"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "16",
+        "unit": "h",
+        "original": "Catalyst deactivation observed after 16 h time-on-stream due to carbon deposition and metal sintering"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在连续流滴流床反应器中，使用不同催化剂（Ru/C、Pd/C、RuRe/C）对木质素油-乙醇混合物进行加氢脱氧（HDO）反应。反应条件：350°C，100 bar，WHSV = 0.5 h⁻¹，运行时间10小时。",
+      "experiment_id": 2,
+      "text_snippet": "Fig. 4 shows the product distribution obtained from the HDO of a lignin oil-ethanol mixture over various catalysts at 350 °C and 10 h time-on-stream (TOS)... The HDO reactions were performed under the following reaction conditions: Temperature = 300–400 °C, Pressure =100 bar, and H2 flow rate =600 m..."
+    },
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "lignin pyrolysis oil",
+        "unit": "Not reported",
+        "original": "lignin pyrolysis oil"
+      },
+      "Catalyst type": {
+        "value": "RuRe/C",
+        "unit": "Not reported",
+        "original": "RuRe/C"
+      },
+      "Catalyst composition": {
+        "value": "4",
+        "unit": "wt%",
+        "original": "4 wt% Ru and 3.64 wt% Re on activated carbon"
+      },
+      "Solvent": {
+        "value": "Tetrahydrofuran (THF)",
+        "unit": "Not reported",
+        "original": "Tetrahydrofuran (THF)"
+      },
+      "Reaction temperature": {
+        "value": "300",
+        "unit": "°C",
+        "original": "300 °C"
+      },
+      "Reaction pressure": {
+        "value": "100",
+        "unit": "bar",
+        "original": "100 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "6",
+        "unit": "h",
+        "original": "6 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous flow",
+        "unit": "Not reported",
+        "original": "Continuous flow"
+      },
+      "Catalyst loading": {
+        "value": "-10",
+        "unit": "g",
+        "original": "4-10 g"
+      },
+      "Product": {
+        "value": "6",
+        "unit": "°C",
+        "original": "Cycloalkanes (C6-C20)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "25",
+        "unit": "wt%",
+        "original": "~25 wt% (at 350 °C, WHSV 0.2 h⁻¹)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "50",
+        "unit": "%",
+        "original": "Catalyst lost ~50% of initial activity after 16 h time-on-stream due to carbon deposition"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在连续流滴流床反应器中，使用RuRe/C催化剂，系统研究反应温度（300-400°C）和重时空速（WHSV, 0.2-0.7 h⁻¹）对溶解在四氢呋喃（THF）中的木质素油加氢脱氧（HDO）性能的影响。反应压力为100 bar。",
+      "experiment_id": 3,
+      "text_snippet": "Table 2 shows the effect of temperature on the reaction performance, measured at fixed WHSV of 0.2 h⁻¹... Table 3 shows the effect of WHSV on the reaction performance measured at a fixed temperature of 350 °C... RuRe/C and THF were used as the catalyst and solvent, respectively. The HDO reactions we..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

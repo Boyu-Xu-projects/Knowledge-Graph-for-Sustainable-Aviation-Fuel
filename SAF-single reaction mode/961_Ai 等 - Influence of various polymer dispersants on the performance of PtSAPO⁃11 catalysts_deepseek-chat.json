@@ -1,0 +1,135 @@
+{
+  "file": "961_Ai 等 - Influence of various polymer dispersants on the performance of PtSAPO⁃11 catalysts.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧/加氢异构",
+        "reaction_type_english": "Hydrogenation/Isomerization",
+        "description": "在固定床反应器中，使用不同聚合物分散剂处理的Pt/SAPO-11催化剂，对麻风树油进行一步加氢处理，生产生物航空煤油。反应条件为397°C, 5.0 MPa, 氢油体积比1000。",
+        "text_snippet": "Evaluation of the catalytic performance of the Pt/SAPO-11 catalysts treated with different dispersants in a fixed-bed reactor showed that the PVP-treated Pt/SAPO-11 catalyst also exhibited the best catalytic performance, with a hydrogenation deoxygenation rate of Jatropha oil up to 99.45%, and bio-aviation kerosene component yield and isoparaffins (C8-C16) selectivity reaching 44.67% and 56.37%, respectively.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "麻风树油 (Jatropha oil)",
+        "unit": "Not reported",
+        "original": "麻风树油 (Jatropha oil)"
+      },
+      "Catalyst type": {
+        "value": "11",
+        "unit": "Pt/SAPO-",
+        "original": "Pt/SAPO-11"
+      },
+      "Catalyst composition": {
+        "value": "Pt",
+        "unit": "Not reported",
+        "original": "Pt"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "397",
+        "unit": "°C",
+        "original": "397 °C"
+      },
+      "Reaction pressure": {
+        "value": "5.0",
+        "unit": "MPa",
+        "original": "5.0 MPa"
+      },
+      "Flow rate": {
+        "value": "1.2",
+        "unit": "h",
+        "original": "1.2 h⁻¹ 液时空速 (LHSV)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "1000",
+        "unit": ":",
+        "original": "氢油体积比 1000 (H₂/oil volume ratio 1000)"
+      },
+      "Operation mode": {
+        "value": "固定床反应器 (Fixed-bed reactor), continuous-flow",
+        "unit": "Not reported",
+        "original": "固定床反应器 (Fixed-bed reactor), continuous-flow"
+      },
+      "Catalyst loading": {
+        "value": "6.0",
+        "unit": "g",
+        "original": "6.0 g"
+      },
+      "Product": {
+        "value": "生物航空煤油 (Bio-aviation kerosene)",
+        "unit": "Not reported",
+        "original": "生物航空煤油 (Bio-aviation kerosene)"
+      },
+      "Conversion rate": {
+        "value": "99.45",
+        "unit": "%",
+        "original": "加氢脱氧率 (Hydrodeoxygenation rate): 99.45%"
+      },
+      "Product yield": {
+        "value": "44.67",
+        "unit": "%",
+        "original": "生物航空煤油组分收率 (Bio-aviation kerosene component yield): 44.67%"
+      },
+      "Product Selectivity": {
+        "value": "56.37",
+        "unit": "%",
+        "original": "异构烷烃选择性 (Isoparaffins selectivity): 56.37%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧/加氢异构",
+      "reaction_type_english": "Hydrogenation/Isomerization",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床反应器中，使用不同聚合物分散剂处理的Pt/SAPO-11催化剂，对麻风树油进行一步加氢处理，生产生物航空煤油。反应条件为397°C, 5.0 MPa, 氢油体积比1000。",
+      "experiment_id": 1,
+      "text_snippet": "Evaluation of the catalytic performance of the Pt/SAPO-11 catalysts treated with different dispersants in a fixed-bed reactor showed that the PVP-treated Pt/SAPO-11 catalyst also exhibited the best catalytic performance, with a hydrogenation deoxygenation rate of Jatropha oil up to 99.45%, and bio-a..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧/加氢异构",
+      "reaction_type_english": "Hydrogenation/Isomerization",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

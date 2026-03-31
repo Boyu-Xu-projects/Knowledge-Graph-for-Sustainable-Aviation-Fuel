@@ -1,0 +1,247 @@
+{
+  "file": "975_Li 等 - 2015 - Hydrogenation and hydrodeoxygenation of difurfurylidene acetone to liquid alkanes over Raney Ni and.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在间歇反应器中，使用Raney Ni催化剂，在50°C、1.0-5.0 MPa氢气压力和甲醇溶剂条件下，对二糠叉丙酮（F2A）进行低温加氢，将其转化为氢化二糠叉丙酮二聚体（H-F2A）。",
+        "text_snippet": "the first step of F2A hydrogenation was carried out in the same batch reactor of 140 mL at 50°C, 1.0–5.0 MPa and 800 rpm stirring with Raney Ni catalyst. In each run, 8.0 g of F2A, 2.0 g of Raney Ni and 32 ml solvent (methanol, THF or cyclohexane) were charged in the batch reactor.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在固定床反应器中，使用1wt% Pt/SiO2-ZrO2催化剂，在260-320°C、60 ml/min氢气条件下，对第一步加氢产生的H-F2A甲醇溶液进行高温加氢脱氧（HDO），将其转化为C8-C14液态烷烃。",
+        "text_snippet": "the second step of HDO of the hydrogenated H-F2A dimers to liquid alkanes in a fixed-bed reactor... at 260–320°C. The liquid hourly space velocity (LHSV) of H-F2A solution and H2 flow rate was 0.75 h−1 and 60 ml/min respectively.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "2",
+        "unit": "A",
+        "original": "difurfurylidene acetone (F2A)"
+      },
+      "Catalyst type": {
+        "value": "Raney Ni",
+        "unit": "Not reported",
+        "original": "Raney Ni"
+      },
+      "Catalyst composition": {
+        "value": "5.4",
+        "unit": "of",
+        "original": "Raney Ni (Ni/Al molar ratio of 5.4)"
+      },
+      "Solvent": {
+        "value": "methanol",
+        "unit": "Not reported",
+        "original": "methanol"
+      },
+      "Reaction temperature": {
+        "value": "50",
+        "unit": "°C",
+        "original": "50°C"
+      },
+      "Reaction pressure": {
+        "value": "-5.0",
+        "unit": "MPa",
+        "original": "1.0-5.0 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "batch reactor",
+        "unit": "Not reported",
+        "original": "batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "2.0",
+        "unit": "g",
+        "original": "2.0 g Raney Ni per 8.0 g F2A"
+      },
+      "Product": {
+        "value": "2",
+        "unit": "A",
+        "original": "hydrogenated difurfurylidene acetone dimers (H-F2A dimers)"
+      },
+      "Conversion rate": {
+        "value": "-99.8",
+        "unit": "%",
+        "original": "99.5-99.8%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "-33.6",
+        "unit": "%",
+        "original": "I-e: 13.8-33.6%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在间歇反应器中，使用Raney Ni催化剂，在50°C、1.0-5.0 MPa氢气压力和甲醇溶剂条件下，对二糠叉丙酮（F2A）进行低温加氢，将其转化为氢化二糠叉丙酮二聚体（H-F2A）。",
+      "experiment_id": 1,
+      "text_snippet": "the first step of F2A hydrogenation was carried out in the same batch reactor of 140 mL at 50°C, 1.0–5.0 MPa and 800 rpm stirring with Raney Ni catalyst. In each run, 8.0 g of F2A, 2.0 g of Raney Ni and 32 ml solvent (methanol, THF or cyclohexane) were charged in the batch reactor."
+    },
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "2",
+        "unit": "A",
+        "original": "H-F2A methanol solution"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "Pt/SiO",
+        "original": "Pt/SiO2-ZrO2"
+      },
+      "Catalyst composition": {
+        "value": "1",
+        "unit": "wt%",
+        "original": "1wt% Pt/SiO2-ZrO2"
+      },
+      "Solvent": {
+        "value": "Methanol",
+        "unit": "Not reported",
+        "original": "Methanol"
+      },
+      "Reaction temperature": {
+        "value": "-320",
+        "unit": "°C",
+        "original": "260-320 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "60",
+        "unit": "mL/min",
+        "original": "60 ml/min H2"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "14",
+        "unit": "liquid",
+        "original": "C8-C14 liquid alkanes"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "82.9",
+        "unit": "%",
+        "original": "82.9% (mol) for C8-C14 alkanes"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "120",
+        "unit": "h",
+        "original": "Stable performance over 120 h time-on-stream"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床反应器中，使用1wt% Pt/SiO2-ZrO2催化剂，在260-320°C、60 ml/min氢气条件下，对第一步加氢产生的H-F2A甲醇溶液进行高温加氢脱氧（HDO），将其转化为C8-C14液态烷烃。",
+      "experiment_id": 2,
+      "text_snippet": "the second step of HDO of the hydrogenated H-F2A dimers to liquid alkanes in a fixed-bed reactor... at 260–320°C. The liquid hourly space velocity (LHSV) of H-F2A solution and H2 flow rate was 0.75 h−1 and 60 ml/min respectively."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

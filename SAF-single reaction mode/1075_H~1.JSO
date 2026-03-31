@@ -1,0 +1,135 @@
+{
+  "file": "1075_Hasanudin 等 - 2022 - Facile Fabrication of SiO2Zr Assisted with EDTA Complexed-Impregnation and Templated Methods for Cr.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrocracking reaction",
+        "description": "在连续微圆柱反应器中，使用不同方法制备的SiO2/Zr催化剂，在500°C、氢气氛围下，对粗棕榈油(CPO)进行催化加氢裂化，以生产生物燃料（生物航空燃料、生物柴油和生物汽油）。",
+        "text_snippet": "The activity of the catalysts was explored in crude palm oil (CPO) hydrocracking, conducted under a continuous system micro-cylindrical reactor... The catalytic hydrocracking was carried out in a continuous system micro-cylindrical reactor... CPO feed is injected using a syringe pump into the reactor with a feed flow rate of 20 mL/h. 0.5 g of catalyst was employed, and the hydrocracking was conducted at 500 ◦C for 1 h with an H2 flow rate of 30 mL/h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Crude palm oil (CPO)",
+        "unit": "Not reported",
+        "original": "Crude palm oil (CPO)"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "/Zr",
+        "original": "SiO2/Zr catalysts"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "SiO",
+        "original": "SiO2"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500",
+        "unit": "°C",
+        "original": "500°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "30",
+        "unit": "mL/min",
+        "original": "Hydrogen flow rate: 30 mL/min"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous system micro-cylindrical reactor",
+        "unit": "Not reported",
+        "original": "Continuous system micro-cylindrical reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g"
+      },
+      "Product": {
+        "value": "Bio-jet fuel",
+        "unit": "Not reported",
+        "original": "Bio-jet fuel"
+      },
+      "Conversion rate": {
+        "value": "87.73",
+        "unit": "%",
+        "original": "87.73%"
+      },
+      "Product yield": {
+        "value": "66.29",
+        "unit": "wt%",
+        "original": "Liquid yield: 66.29 wt%"
+      },
+      "Product Selectivity": {
+        "value": "41.77",
+        "unit": "%",
+        "original": "Bio-jet: 41.77%"
+      },
+      "Catalyst stability": {
+        "value": "2",
+        "unit": "/Zr-CEDTA",
+        "original": "SiO2/Zr-CEDTA showed only 11.79% decrease in catalytic performance after three consecutive runs"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在连续微圆柱反应器中，使用不同方法制备的SiO2/Zr催化剂，在500°C、氢气氛围下，对粗棕榈油(CPO)进行催化加氢裂化，以生产生物燃料（生物航空燃料、生物柴油和生物汽油）。",
+      "experiment_id": 1,
+      "text_snippet": "The activity of the catalysts was explored in crude palm oil (CPO) hydrocracking, conducted under a continuous system micro-cylindrical reactor... The catalytic hydrocracking was carried out in a continuous system micro-cylindrical reactor... CPO feed is injected using a syringe pump into the reacto..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

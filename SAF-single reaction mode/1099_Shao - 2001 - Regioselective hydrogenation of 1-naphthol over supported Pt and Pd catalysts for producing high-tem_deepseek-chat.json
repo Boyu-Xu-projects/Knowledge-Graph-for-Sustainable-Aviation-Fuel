@@ -1,0 +1,135 @@
+{
+  "file": "1099_Shao - 2001 - Regioselective hydrogenation of 1-naphthol over supported Pt and Pd catalysts for producing high-tem.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在150°C和500 psi条件下，使用不同载体（HY、HM、Al2O3、SiO2、TiO2）负载的Pt和Pd单金属催化剂以及Pt-Pd双金属催化剂，对1-萘酚进行选择性加氢，生成四氢萘酚（THNol）异构体（1,2,3,4-THNol和5,6,7,8-THNol）以及其他产物如四氢萘（THN）和脱氢产物。研究了不同载体、金属类型、Pt/Pd比例、反应时间和压力对转化率和选择性的影响。",
+        "text_snippet": "Supported Pt and Pd catalysts were examined for selective hydrogenation of 1-naphthol to form tetrahydronaphthol (THNol)... Catalytic tests were done in a 25ml stainless-steel microautoclave reactor. The reactor was charged with 0.05g catalyst, 0.5g 1-naphthol (TCI, 99.99%), and 2.0g of n-tridecane solvent... All reactions were done under 500psi at 150°C...",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2001",
+        "unit": "year",
+        "original": "2001"
+      },
+      "Feedstock": {
+        "value": "1-naphthol",
+        "unit": "Not reported",
+        "original": "1-naphthol"
+      },
+      "Catalyst type": {
+        "value": "Supported Pt catalysts",
+        "unit": "Not reported",
+        "original": "Supported Pt catalysts"
+      },
+      "Catalyst composition": {
+        "value": "Pt",
+        "unit": "Not reported",
+        "original": "Pt"
+      },
+      "Solvent": {
+        "value": "n-tridecane",
+        "unit": "Not reported",
+        "original": "n-tridecane"
+      },
+      "Reaction temperature": {
+        "value": "150",
+        "unit": "°C",
+        "original": "150°C"
+      },
+      "Reaction pressure": {
+        "value": "500",
+        "unit": "psi",
+        "original": "500 psi"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "30",
+        "unit": "min",
+        "original": "30 min"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor (microautoclave)",
+        "unit": "Not reported",
+        "original": "Batch reactor (microautoclave)"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "wt%",
+        "original": "1 wt.% metal loading"
+      },
+      "Product": {
+        "value": "1,2,3,4-tetrahydronaphthol (1,2,3,4-THNol)",
+        "unit": "Not reported",
+        "original": "1,2,3,4-tetrahydronaphthol (1,2,3,4-THNol)"
+      },
+      "Conversion rate": {
+        "value": "33",
+        "unit": "%",
+        "original": "33% (Pt/HY, 90 min)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "2.8",
+        "unit": "mol%",
+        "original": "2.8 mol% 1,2,3,4-THNol (Pt/TiO2)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在150°C和500 psi条件下，使用不同载体（HY、HM、Al2O3、SiO2、TiO2）负载的Pt和Pd单金属催化剂以及Pt-Pd双金属催化剂，对1-萘酚进行选择性加氢，生成四氢萘酚（THNol）异构体（1,2,3,4-THNol和5,6,7,8-THNol）以及其他产物如四氢萘（THN）和脱氢产物。研究了不同载体、金属类型、Pt/Pd比例、反应时间和压力对转化率和选择性的影响。",
+      "experiment_id": 1,
+      "text_snippet": "Supported Pt and Pd catalysts were examined for selective hydrogenation of 1-naphthol to form tetrahydronaphthol (THNol)... Catalytic tests were done in a 25ml stainless-steel microautoclave reactor. The reactor was charged with 0.05g catalyst, 0.5g 1-naphthol (TCI, 99.99%), and 2.0g of n-tridecane ..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

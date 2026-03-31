@@ -1,0 +1,135 @@
+{
+  "file": "1079_Kim 等 - 2019 - Effects of Zeolite Supports on the Production of Fuel-Range Hydrocarbons in the Hydrotreatment of Va.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢处理反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在固定床反应系统中，使用不同沸石（ZSM-5、HY、BEA）负载的铂催化剂，在400°C和40-50 bar条件下，对大豆油、麻风树油和废弃烹饪油进行加氢处理，以生产燃料范围的烃类（汽油、喷气燃料、柴油）。",
+        "text_snippet": "Catalytic tests were carried out in a fixed-bed reaction system at 400 °C and 50 bar. In the hydrotreatment of soybean oil... The hydrotreatment of vegetable oils was carried out in a lab-made fixed-bed reactor system... The reactions were carried out at 400 °C and 40 bar.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "soybean oil",
+        "unit": "Not reported",
+        "original": "soybean oil"
+      },
+      "Catalyst type": {
+        "value": "zeolite-supported platinum catalysts",
+        "unit": "Not reported",
+        "original": "zeolite-supported platinum catalysts"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "Pt/ZSM-",
+        "original": "Pt/ZSM-5 (Si/Al₂=30)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "400",
+        "unit": "°C",
+        "original": "400°C"
+      },
+      "Reaction pressure": {
+        "value": "-50",
+        "unit": "bar",
+        "original": "40-50 bar"
+      },
+      "Flow rate": {
+        "value": "4.0",
+        "unit": "h",
+        "original": "WHSV 4.0 h⁻¹ (soybean oil), H₂ flow rate 50 mL/min"
+      },
+      "Reaction time": {
+        "value": "48",
+        "unit": "h",
+        "original": "48 hours (collected at 8 h intervals)"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "500",
+        "unit": "Nm",
+        "original": "H₂/oil = 500 Nm³/m³"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.6",
+        "unit": "g",
+        "original": "0.6 g catalyst diluted 1:1 (v/v) with quartz beads"
+      },
+      "Product": {
+        "value": "gasoline",
+        "unit": "Not reported",
+        "original": "gasoline"
+      },
+      "Conversion rate": {
+        "value": "72",
+        "unit": "%",
+        "original": "72% (highest for Pt/BEA with soybean oil)"
+      },
+      "Product yield": {
+        "value": "80",
+        "unit": "%",
+        "original": ">80% liquid yield"
+      },
+      "Product Selectivity": {
+        "value": "46",
+        "unit": "%",
+        "original": "{'Pt/BEA (Si/Al₂=25)': {'jet fuel': '46%', 'diesel': '51%'}}"
+      },
+      "Catalyst stability": {
+        "value": "48",
+        "unit": "h",
+        "original": "Tested for 48 hours"
+      },
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床反应系统中，使用不同沸石（ZSM-5、HY、BEA）负载的铂催化剂，在400°C和40-50 bar条件下，对大豆油、麻风树油和废弃烹饪油进行加氢处理，以生产燃料范围的烃类（汽油、喷气燃料、柴油）。",
+      "experiment_id": 1,
+      "text_snippet": "Catalytic tests were carried out in a fixed-bed reaction system at 400 °C and 50 bar. In the hydrotreatment of soybean oil... The hydrotreatment of vegetable oils was carried out in a lab-made fixed-bed reactor system... The reactions were carried out at 400 °C and 40 bar."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

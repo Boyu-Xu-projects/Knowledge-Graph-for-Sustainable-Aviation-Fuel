@@ -1,0 +1,247 @@
+{
+  "file": "903_Samikannu 等 - 2020 - Highly dispersed NbOPO4SBA-15 as a versatile acid catalyst upon production of renewable jet-fuel fr.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "羟烷基化-烷基化反应",
+        "reaction_type_english": "Hydroxyalkylation-alkylation (HAA) reaction",
+        "description": "在无溶剂条件下，使用NbOPO₄/SBA-15等固体酸催化剂催化2-甲基呋喃与各种羰基化合物（丁醛、糠醛、丙酮、环己酮）进行C-C偶联反应。",
+        "text_snippet": "The solventless HAA of 2-methylfuran with different aldehydes and ketones were carried out in 5ml micro batch reactors placed on a heating block maintained at the desired reaction temperatures (40−60°C). In a typical experiment, 50mg of catalyst, 5.63mmol of 2-methyl furan and 2.5mmol of the carbonyl compound (butanal, furfural, acetone or cyclohexanone) were loaded into the glass reactor and magnetically stirred (500rpm) at the desired temperature for 0−5h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation (HDO) reaction",
+        "description": "使用Pd/NbOPO₄/SBA-15等双功能催化剂，在高压氢气条件下，将HAA反应得到的呋喃甲烷含氧物加氢脱氧，转化为喷气燃料范围的C9-C16烃类。",
+        "text_snippet": "In the hydrodeoxygenation step, the furanic coupling products were further converted to produce jet fuel-range branched hydrocarbons using the metal (Pd) loaded catalysts. All catalytic experiments were performed in batch mode using a ∼14mL mini autoclave... In a typical reaction, 50mg catalyst, 1.25mmol of the HAA product and 3ml cyclohexane (solvent) were loaded into the autoclave... pressurized to reach the desired H₂ pressure (typically 50bar), finally the reaction mixture was heated to the required temperature (200−300°C) for the reaction period of 4−12h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran",
+        "unit": "Not reported",
+        "original": "2-methylfuran"
+      },
+      "Catalyst type": {
+        "value": "Solid acid catalyst",
+        "unit": "Not reported",
+        "original": "Solid acid catalyst"
+      },
+      "Catalyst composition": {
+        "value": "15",
+        "unit": "/SBA-",
+        "original": "NbOPO₄/SBA-15"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "40",
+        "unit": "°C",
+        "original": "40°C"
+      },
+      "Reaction pressure": {
+        "value": "Atmospheric pressure",
+        "unit": "MPa",
+        "original": "Atmospheric pressure"
+      },
+      "Flow rate": {
+        "value": "0.0025",
+        "unit": "mL/min",
+        "original": "0.0025 mL/min (for fixed-bed experiments)"
+      },
+      "Reaction time": {
+        "value": "-5",
+        "unit": "h",
+        "original": "0-5 h"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "2.25:1",
+        "unit": ":",
+        "original": "2-methylfuran:carbonyl compound = 2.25:1"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "50",
+        "unit": "mg",
+        "original": "50 mg"
+      },
+      "Product": {
+        "value": "Hydroxyalkylation-alkylation (HAA) adducts",
+        "unit": "Not reported",
+        "original": "Hydroxyalkylation-alkylation (HAA) adducts"
+      },
+      "Conversion rate": {
+        "value": "-53.2",
+        "unit": "%",
+        "original": "28.9-53.2% (15 min)"
+      },
+      "Product yield": {
+        "value": "-97",
+        "unit": "%",
+        "original": "67-97% (HAA product)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "65",
+        "unit": "h",
+        "original": "Stable for ~65 h continuous operation, maintain high activity upon reuse after calcination"
+      },
+      "reaction_type": "羟烷基化-烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation-alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在无溶剂条件下，使用NbOPO₄/SBA-15等固体酸催化剂催化2-甲基呋喃与各种羰基化合物（丁醛、糠醛、丙酮、环己酮）进行C-C偶联反应。",
+      "experiment_id": 1,
+      "text_snippet": "The solventless HAA of 2-methylfuran with different aldehydes and ketones were carried out in 5ml micro batch reactors placed on a heating block maintained at the desired reaction temperatures (40−60°C). In a typical experiment, 50mg of catalyst, 5.63mmol of 2-methyl furan and 2.5mmol of the carbony..."
+    },
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "5",
+        "unit": "methyl-",
+        "original": "HAA reaction products (furanic coupling products, e.g., 2-methyl-5-(1-(5-methylfuran-2-yl)butyl)furan)"
+      },
+      "Catalyst type": {
+        "value": "Bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "15",
+        "unit": "/SBA-",
+        "original": "Pd/NbOPO₄/SBA-15"
+      },
+      "Solvent": {
+        "value": "Cyclohexane",
+        "unit": "Not reported",
+        "original": "Cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "200",
+        "unit": "°C",
+        "original": "200 °C"
+      },
+      "Reaction pressure": {
+        "value": "50",
+        "unit": "bar",
+        "original": "50 bar H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "50",
+        "unit": "mg",
+        "original": "50 mg"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "hydrocarbons",
+        "original": "Jet fuel range C9-C16 hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "-100",
+        "unit": "%",
+        "original": "Total hydrocarbon yield: 35-100%"
+      },
+      "Product Selectivity": {
+        "value": "-15",
+        "unit": "and",
+        "original": "Varies with catalyst; high selectivity to jet-fuel range (C9-C14) hydrocarbons over Pd/Nb₂O₅/SBA-15 and Pd/NbOPO₄/SBA-15 catalysts with weak-to-medium acid sites"
+      },
+      "Catalyst stability": {
+        "value": "-15",
+        "unit": "showed",
+        "original": "Stable upon reuse (Pd/NbP-B/SBA-15 showed consistent activity and selectivity)"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation (HDO) reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用Pd/NbOPO₄/SBA-15等双功能催化剂，在高压氢气条件下，将HAA反应得到的呋喃甲烷含氧物加氢脱氧，转化为喷气燃料范围的C9-C16烃类。",
+      "experiment_id": 2,
+      "text_snippet": "In the hydrodeoxygenation step, the furanic coupling products were further converted to produce jet fuel-range branched hydrocarbons using the metal (Pd) loaded catalysts. All catalytic experiments were performed in batch mode using a ∼14mL mini autoclave... In a typical reaction, 50mg catalyst, 1.2..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "羟烷基化-烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation-alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation (HDO) reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

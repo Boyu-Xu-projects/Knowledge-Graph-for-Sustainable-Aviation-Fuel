@@ -1,0 +1,583 @@
+{
+  "file": "987_Wang 等 - 2015 - Biomass-derived lignin to jet fuel range hydrocarbons via aqueous phase hydrodeoxygenation.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 5,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用Ru/Al₂O₃和H+-Y沸石催化剂在250°C、4 MPa H₂条件下对稀碱提取的玉米秸秆木质素进行水相加氢脱氧反应4小时",
+        "text_snippet": "In a typical reaction, 100 mg lignin, 300 mg acid zeolite (H+-Y), 300 mg Ru/Al₂O₃, and 30 mL water were added into a 100 mL Parr reactor and reacted at 250°C under 4 MPa H₂ for 4 hours.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "单独使用Ru/Al₂O₃催化剂在相同条件下进行木质素加氢脱氧反应",
+        "text_snippet": "Results showed that lignin conversion and the total product yield were relatively low (not exceeding 52% and 15%, respectively) when both catalysts were applied individually. The lignin conversion with H+-Y acidic zeolite was higher (52%) than that found with Ru/Al₂O₃ (31%)",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "单独使用H+-Y酸性沸石催化剂在相同条件下进行木质素加氢脱氧反应",
+        "text_snippet": "The main products resulting from catalysis with Ru/Al₂O₃ and acidic zeolite alone were found to be monocyclic alkyl cyclohexanes and phenols, respectively.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 4,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用1,2-二苯乙烷作为模型化合物在相同反应条件下进行加氢脱氧反应",
+        "text_snippet": "Results showed high selectivity (95.5%) for aromatic ring hydrogenation of 1,2-diphenylethane to give the saturated product 1,2-dicyclohexylethane with no C–C bond cleavage",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 5,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用2,2'-联苯酚作为模型化合物在相同反应条件下进行加氢脱氧反应",
+        "text_snippet": "2,2′-biphenol, representing the 5-5′ aryl-aryl linkages in lignin, was also used as a substrate in the reaction. After HDO reaction, it was found that not only the aromatic rings were saturated but also the hydroxyl groups on the rings had been removed.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "dilute alkali extracted corn stover lignin",
+        "unit": "Not reported",
+        "original": "dilute alkali extracted corn stover lignin"
+      },
+      "Catalyst type": {
+        "value": "noble metal catalyst",
+        "unit": "Not reported",
+        "original": "noble metal catalyst"
+      },
+      "Catalyst composition": {
+        "value": "Ru/Al₂O₃",
+        "unit": "Not reported",
+        "original": "Ru/Al₂O₃"
+      },
+      "Solvent": {
+        "value": "water",
+        "unit": "Not reported",
+        "original": "water"
+      },
+      "Reaction temperature": {
+        "value": "250",
+        "unit": "°C",
+        "original": "250°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "batch",
+        "unit": "Not reported",
+        "original": "batch"
+      },
+      "Catalyst loading": {
+        "value": "300",
+        "unit": "mg",
+        "original": "300 mg Ru/Al₂O₃"
+      },
+      "Product": {
+        "value": "alkyl cyclohexanes (C₁₂-C₁₈)",
+        "unit": "Not reported",
+        "original": "alkyl cyclohexanes (C₁₂-C₁₈)"
+      },
+      "Conversion rate": {
+        "value": "81.03",
+        "unit": "%",
+        "original": "81.03%"
+      },
+      "Product yield": {
+        "value": "21.83",
+        "unit": "%",
+        "original": "21.83% (total yield of top 23-25 products)"
+      },
+      "Product Selectivity": {
+        "value": "84.6",
+        "unit": "%",
+        "original": "84.6% C₁₂-C₁₈"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用Ru/Al₂O₃和H+-Y沸石催化剂在250°C、4 MPa H₂条件下对稀碱提取的玉米秸秆木质素进行水相加氢脱氧反应4小时",
+      "experiment_id": 1,
+      "text_snippet": "In a typical reaction, 100 mg lignin, 300 mg acid zeolite (H+-Y), 300 mg Ru/Al₂O₃, and 30 mL water were added into a 100 mL Parr reactor and reacted at 250°C under 4 MPa H₂ for 4 hours."
+    },
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "dilute alkali extracted corn stover lignin",
+        "unit": "Not reported",
+        "original": "dilute alkali extracted corn stover lignin"
+      },
+      "Catalyst type": {
+        "value": "Noble metal catalyst",
+        "unit": "Not reported",
+        "original": "Noble metal catalyst"
+      },
+      "Catalyst composition": {
+        "value": "Ru/Al₂O₃",
+        "unit": "Not reported",
+        "original": "Ru/Al₂O₃"
+      },
+      "Solvent": {
+        "value": "Water",
+        "unit": "Not reported",
+        "original": "Water"
+      },
+      "Reaction temperature": {
+        "value": "200",
+        "unit": "°C",
+        "original": "200°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "300",
+        "unit": "mg",
+        "original": "300 mg Ru/Al₂O₃"
+      },
+      "Product": {
+        "value": "C₇-C₁₈ hydrocarbons",
+        "unit": "Not reported",
+        "original": "C₇-C₁₈ hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "81.03",
+        "unit": "%",
+        "original": "81.03% (at 250°C with both catalysts)"
+      },
+      "Product yield": {
+        "value": "21.83",
+        "unit": "%",
+        "original": "21.83% total yield (at 250°C)"
+      },
+      "Product Selectivity": {
+        "value": "84.6",
+        "unit": "%",
+        "original": "84.6% C₁₂-C₁₈"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "单独使用Ru/Al₂O₃催化剂在相同条件下进行木质素加氢脱氧反应",
+      "experiment_id": 2,
+      "text_snippet": "Results showed that lignin conversion and the total product yield were relatively low (not exceeding 52% and 15%, respectively) when both catalysts were applied individually. The lignin conversion with H+-Y acidic zeolite was higher (52%) than that found with Ru/Al₂O₃ (31%)"
+    },
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "dilute alkali extracted corn stover lignin",
+        "unit": "Not reported",
+        "original": "dilute alkali extracted corn stover lignin"
+      },
+      "Catalyst type": {
+        "value": "noble metal catalyst",
+        "unit": "Not reported",
+        "original": "noble metal catalyst"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "O",
+        "original": "Ru/Al2O3"
+      },
+      "Solvent": {
+        "value": "water",
+        "unit": "Not reported",
+        "original": "water"
+      },
+      "Reaction temperature": {
+        "value": "250",
+        "unit": "°C",
+        "original": "250°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "batch",
+        "unit": "Not reported",
+        "original": "batch"
+      },
+      "Catalyst loading": {
+        "value": "300",
+        "unit": "mg",
+        "original": "300 mg Ru/Al2O3"
+      },
+      "Product": {
+        "value": "12",
+        "unit": "°C",
+        "original": "alkyl cyclohexanes (C12-C18)"
+      },
+      "Conversion rate": {
+        "value": "81.03",
+        "unit": "%",
+        "original": "81.03%"
+      },
+      "Product yield": {
+        "value": "21.83",
+        "unit": "%",
+        "original": "21.83% (total yield of top 23-25 products)"
+      },
+      "Product Selectivity": {
+        "value": "84.6",
+        "unit": "%",
+        "original": "84.6% C12-C18 distribution"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "单独使用H+-Y酸性沸石催化剂在相同条件下进行木质素加氢脱氧反应",
+      "experiment_id": 3,
+      "text_snippet": "The main products resulting from catalysis with Ru/Al₂O₃ and acidic zeolite alone were found to be monocyclic alkyl cyclohexanes and phenols, respectively."
+    },
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "1,2-diphenylethane",
+        "unit": "Not reported",
+        "original": "1,2-diphenylethane"
+      },
+      "Catalyst type": {
+        "value": "Noble metal catalyst",
+        "unit": "Not reported",
+        "original": "Noble metal catalyst"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "O",
+        "original": "Ru/Al2O3"
+      },
+      "Solvent": {
+        "value": "Water",
+        "unit": "Not reported",
+        "original": "Water"
+      },
+      "Reaction temperature": {
+        "value": "250",
+        "unit": "°C",
+        "original": "250 °C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa H2"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "300",
+        "unit": "mg",
+        "original": "300 mg Ru/Al2O3"
+      },
+      "Product": {
+        "value": "1,2-dicyclohexylethane",
+        "unit": "Not reported",
+        "original": "1,2-dicyclohexylethane"
+      },
+      "Conversion rate": {
+        "value": "99",
+        "unit": "%",
+        "original": ">99% for model compounds"
+      },
+      "Product yield": {
+        "value": "21.8",
+        "unit": "%",
+        "original": "21.8% total yield for top 23-25 products"
+      },
+      "Product Selectivity": {
+        "value": "95.5",
+        "unit": "%",
+        "original": "95.5% for 1,2-dicyclohexylethane from 1,2-diphenylethane"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用1,2-二苯乙烷作为模型化合物在相同反应条件下进行加氢脱氧反应",
+      "experiment_id": 4,
+      "text_snippet": "Results showed high selectivity (95.5%) for aromatic ring hydrogenation of 1,2-diphenylethane to give the saturated product 1,2-dicyclohexylethane with no C–C bond cleavage"
+    },
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "2,2'-biphenol",
+        "unit": "Not reported",
+        "original": "2,2'-biphenol"
+      },
+      "Catalyst type": {
+        "value": "Noble metal catalyst",
+        "unit": "Not reported",
+        "original": "Noble metal catalyst"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "O",
+        "original": "Ru/Al2O3"
+      },
+      "Solvent": {
+        "value": "Water",
+        "unit": "Not reported",
+        "original": "Water"
+      },
+      "Reaction temperature": {
+        "value": "200",
+        "unit": "°C",
+        "original": "200°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa H2"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "300",
+        "unit": "mg",
+        "original": "300 mg Ru/Al2O3"
+      },
+      "Product": {
+        "value": "12",
+        "unit": "°C",
+        "original": "alkyl cyclohexanes (C12-C18)"
+      },
+      "Conversion rate": {
+        "value": "81.03",
+        "unit": "%",
+        "original": "81.03% (at 250°C)"
+      },
+      "Product yield": {
+        "value": "21.83",
+        "unit": "%",
+        "original": "21.83% (total yield of top 23-25 products at 250°C)"
+      },
+      "Product Selectivity": {
+        "value": "95.5",
+        "unit": "%",
+        "original": "95.5% for 1,2-dicyclohexylethane from 1,2-diphenylethane"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用2,2'-联苯酚作为模型化合物在相同反应条件下进行加氢脱氧反应",
+      "experiment_id": 5,
+      "text_snippet": "2,2′-biphenol, representing the 5-5′ aryl-aryl linkages in lignin, was also used as a substrate in the reaction. After HDO reaction, it was found that not only the aromatic rings were saturated but also the hydroxyl groups on the rings had been removed."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 4,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 5,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

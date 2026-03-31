@@ -1,0 +1,135 @@
+{
+  "file": "1005_Feng 等 - 2019 - Selective Hydroconversion of Oleic Acid into Aviation-Fuel-Range Alkanes over Ultrathin NiZSM-5 Nan.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢转化反应",
+        "reaction_type_english": "Hydroconversion reaction",
+        "description": "在固定床流动反应器中，使用不同酸浓度和纳米片厚度的超薄Ni/ZSM-5纳米片催化剂，在3 MPa氢压和523-533 K温度下，将油酸选择性加氢转化为航空燃料范围烷烃（C9-C15）。研究了酸浓度/分布和纳米片厚度对脱氧和选择性裂化反应的影响。",
+        "text_snippet": "The catalytic conversion of oleic acid was carried out with a fixed-bed flow reactor... Oleic acid (33.3 wt % in cyclohexane) was used as feedstock... The reactions were carried out at a corresponding reaction temperature under 3 MPa with flowing H2 of 100 mL/min.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "33.3",
+        "unit": "wt%",
+        "original": "Oleic acid (33.3 wt% in cyclohexane)"
+      },
+      "Catalyst type": {
+        "value": "-5",
+        "unit": "nanosheet",
+        "original": "Ni/ZSM-5 nanosheet catalysts"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "nanosheets",
+        "original": "Ni supported on ZSM-5 nanosheets with different Si/Al ratios (100, 150, 200, 300) and nanosheet thicknesses (3, 12, 24 nm)"
+      },
+      "Solvent": {
+        "value": "Cyclohexane",
+        "unit": "Not reported",
+        "original": "Cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "-533",
+        "unit": "K",
+        "original": "523-533 K"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "0.2",
+        "unit": "mL/min",
+        "original": "0.2 mL/min (oleic acid feed), 100 mL/min (H₂ flow)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed flow reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "1.00",
+        "unit": "g",
+        "original": "1.00 g"
+      },
+      "Product": {
+        "value": "9",
+        "unit": "°C",
+        "original": "Aviation-fuel-range alkanes (C9-C15)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% (at 523-533 K over NS3(300) catalyst)"
+      },
+      "Product yield": {
+        "value": "41.4",
+        "unit": "%",
+        "original": "41.4% (AFRA yield over NS3(300) catalyst at 523 K)"
+      },
+      "Product Selectivity": {
+        "value": "15",
+        "unit": "hydrocarbons",
+        "original": "C9-C15 hydrocarbons"
+      },
+      "Catalyst stability": {
+        "value": "360",
+        "unit": "min",
+        "original": "Stable for 360 min over NS3(300) catalyst"
+      },
+      "reaction_type": "加氢转化反应",
+      "reaction_type_english": "Hydroconversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床流动反应器中，使用不同酸浓度和纳米片厚度的超薄Ni/ZSM-5纳米片催化剂，在3 MPa氢压和523-533 K温度下，将油酸选择性加氢转化为航空燃料范围烷烃（C9-C15）。研究了酸浓度/分布和纳米片厚度对脱氧和选择性裂化反应的影响。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic conversion of oleic acid was carried out with a fixed-bed flow reactor... Oleic acid (33.3 wt % in cyclohexane) was used as feedstock... The reactions were carried out at a corresponding reaction temperature under 3 MPa with flowing H2 of 100 mL/min."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢转化反应",
+      "reaction_type_english": "Hydroconversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

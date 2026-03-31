@@ -1,0 +1,135 @@
+{
+  "file": "979_Tai 等 - 2022 - Guaiacol hydrotreating with in-situ generated hydrogen over nimodified zeolite supports.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢处理",
+        "reaction_type_english": "Hydrotreating",
+        "description": "在300°C水热条件下，使用Ni/沸石催化剂和Zn-H2O氧化还原系统原位产氢，对愈创木酚进行催化加氢脱氧和加氢脱芳反应。",
+        "text_snippet": "The hydrotreating of guaiacol was conducted in a 10 mL stainless-steel tubular microreactor... In a typical test, 0.5 g guaiacol, 5 g water, 0.5 g Zn and 0.1 g catalysts were filled in the reactor. The sealed reactor was purged with nitrogen gas to remove air... The reactor was put in a sand bath preheated to 300 °C... The reactions were performed at 300 °C for 1 h with a rotation speed of 130 rpm.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Guaiacol",
+        "unit": "Not reported",
+        "original": "Guaiacol"
+      },
+      "Catalyst type": {
+        "value": "Ni/zeolite",
+        "unit": "Not reported",
+        "original": "Ni/zeolite"
+      },
+      "Catalyst composition": {
+        "value": "Ni/HY",
+        "unit": "Not reported",
+        "original": "Ni/HY"
+      },
+      "Solvent": {
+        "value": "Water",
+        "unit": "Not reported",
+        "original": "Water"
+      },
+      "Reaction temperature": {
+        "value": "300",
+        "unit": "°C",
+        "original": "300°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "O",
+        "original": "In-situ hydrogen from Zn-H2O redox system"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.1",
+        "unit": "g",
+        "original": "0.1 g"
+      },
+      "Product": {
+        "value": "Cyclohexane",
+        "unit": "Not reported",
+        "original": "Cyclohexane"
+      },
+      "Conversion rate": {
+        "value": "89.75",
+        "unit": "%",
+        "original": "Ni/HY: 89.75%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "14.61",
+        "unit": "%",
+        "original": "Ni/DHBeta: Cyclohexane (14.61%)"
+      },
+      "Catalyst stability": {
+        "value": "Decrease in performance after three consecutive runs due to oxidation of Ni active sites, coking, and zinc oxide contamination",
+        "unit": "Not reported",
+        "original": "Decrease in performance after three consecutive runs due to oxidation of Ni active sites, coking, and zinc oxide contamination"
+      },
+      "reaction_type": "加氢处理",
+      "reaction_type_english": "Hydrotreating",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在300°C水热条件下，使用Ni/沸石催化剂和Zn-H2O氧化还原系统原位产氢，对愈创木酚进行催化加氢脱氧和加氢脱芳反应。",
+      "experiment_id": 1,
+      "text_snippet": "The hydrotreating of guaiacol was conducted in a 10 mL stainless-steel tubular microreactor... In a typical test, 0.5 g guaiacol, 5 g water, 0.5 g Zn and 0.1 g catalysts were filled in the reactor. The sealed reactor was purged with nitrogen gas to remove air... The reactor was put in a sand bath pr..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢处理",
+      "reaction_type_english": "Hydrotreating",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

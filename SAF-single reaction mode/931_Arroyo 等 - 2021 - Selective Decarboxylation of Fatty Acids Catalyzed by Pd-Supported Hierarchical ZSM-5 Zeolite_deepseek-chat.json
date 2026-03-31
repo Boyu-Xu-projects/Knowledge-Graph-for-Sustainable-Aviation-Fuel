@@ -1,0 +1,135 @@
+{
+  "file": "931_Arroyo 等 - 2021 - Selective Decarboxylation of Fatty Acids Catalyzed by Pd-Supported Hierarchical ZSM-5 Zeolite.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "脱羧反应",
+        "reaction_type_english": "Decarboxylation reaction",
+        "description": "在高压釜中，使用Pd/h-ZSM-5(122)催化剂，在氢气氛围（6 bar）和250°C下，将硬脂酸（10 wt% 正十二烷溶液）脱羧转化为C17烃类（主要是正十七烷）。",
+        "text_snippet": "The catalytic experiments were carried out in a stainless-steel autoclave heated externally and equipped with a stirrer. In every reaction, the catalyst (0.4 g) was loaded along with 20 g of a 10 wt % single fatty acid solution in n-dodecane... Then, the desired hydrogen pressure (3−25 bar) was fixed, and the reactor was heated to the specified temperature (225−300 °C), holding for a fixed time (180 min) under stirring.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "stearic acid",
+        "unit": "Not reported",
+        "original": "stearic acid"
+      },
+      "Catalyst type": {
+        "value": "-5",
+        "unit": "zeolite",
+        "original": "Pd-supported hierarchical ZSM-5 zeolite"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "Pd/h-ZSM-",
+        "original": "Pd/h-ZSM-5(122)"
+      },
+      "Solvent": {
+        "value": "n-dodecane",
+        "unit": "Not reported",
+        "original": "n-dodecane"
+      },
+      "Reaction temperature": {
+        "value": "250",
+        "unit": "°C",
+        "original": "250°C"
+      },
+      "Reaction pressure": {
+        "value": "6",
+        "unit": "bar",
+        "original": "6 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "180",
+        "unit": "min",
+        "original": "180 min"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.4",
+        "unit": "g",
+        "original": "0.4 g catalyst per 20 g of 10 wt% fatty acid solution"
+      },
+      "Product": {
+        "value": "C₁₇ hydrocarbons",
+        "unit": "Not reported",
+        "original": "C₁₇ hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "-85",
+        "unit": "%",
+        "original": "60-85%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "90",
+        "unit": "%",
+        "original": ">90% selectivity toward middle distillate hydrocarbons"
+      },
+      "Catalyst stability": {
+        "value": "74",
+        "unit": "%",
+        "original": "Retained 74% of initial stearic acid conversion after reuse"
+      },
+      "reaction_type": "脱羧反应",
+      "reaction_type_english": "Decarboxylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在高压釜中，使用Pd/h-ZSM-5(122)催化剂，在氢气氛围（6 bar）和250°C下，将硬脂酸（10 wt% 正十二烷溶液）脱羧转化为C17烃类（主要是正十七烷）。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic experiments were carried out in a stainless-steel autoclave heated externally and equipped with a stirrer. In every reaction, the catalyst (0.4 g) was loaded along with 20 g of a 10 wt % single fatty acid solution in n-dodecane... Then, the desired hydrogen pressure (3−25 bar) was fixe..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "脱羧反应",
+      "reaction_type_english": "Decarboxylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

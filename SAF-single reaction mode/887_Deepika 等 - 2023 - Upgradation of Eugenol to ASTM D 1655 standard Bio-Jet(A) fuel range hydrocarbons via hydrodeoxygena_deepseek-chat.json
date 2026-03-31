@@ -1,0 +1,135 @@
+{
+  "file": "887_Deepika 等 - 2023 - Upgradation of Eugenol to ASTM D 1655 standard Bio-Jet(A) fuel range hydrocarbons via hydrodeoxygena.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在常压固定床反应器中，使用不同负载量的Ru-Ni双金属催化剂（2%Ru-8%Ni/KIT-6-HZSM-5、4%Ru-6%Ni/KIT-6-HZSM-5和6%Ru-4%Ni/KIT-6-HZSM-5）对丁子香酚进行气相加氢脱氧反应，反应温度范围为350-450°C，氢气流量为50 sccm，丁子香酚进料速率为1 mL/h。",
+        "text_snippet": "The vapour phase hydrodeoxygenation of Eugenol (Eugenol) was carried out by an atmospheric pressure downflow fixed bed reactor. The different wt.% of mono and bimetals (2Ru-8 %Ni, 4 % Ru-6 %Ni & 6 % Ru-4 %Ni) impregnated on KIT-6/HZSM-5 catalytic support was synthesized... The HDO of Eugenol reaction was tested in the temperature range of 350 to 450 °C, the flow rate of eugenol was 1 mL h⁻¹ and 50 sccm of H₂ (WHSV =10.6 h⁻¹).",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "Eugenol",
+        "unit": "Not reported",
+        "original": "Eugenol"
+      },
+      "Catalyst type": {
+        "value": "Ru-Ni bimetallic catalyst supported on hierarchical zeolite composite",
+        "unit": "Not reported",
+        "original": "Ru-Ni bimetallic catalyst supported on hierarchical zeolite composite"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "%Ru-",
+        "original": "2%Ru-8%Ni/KIT-6-HZSM-5"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350°C"
+      },
+      "Reaction pressure": {
+        "value": "Atmospheric pressure",
+        "unit": "MPa",
+        "original": "Atmospheric pressure"
+      },
+      "Flow rate": {
+        "value": "50",
+        "unit": "sccm",
+        "original": "{'Hydrogen': '50 sccm', 'Eugenol': '1 mL/h'}"
+      },
+      "Reaction time": {
+        "value": "9",
+        "unit": "h",
+        "original": "9 hours (time-on-stream study)"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Vapor phase downflow fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Vapor phase downflow fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "100",
+        "unit": "mg",
+        "original": "100 mg"
+      },
+      "Product": {
+        "value": "n-Propyl benzene",
+        "unit": "Not reported",
+        "original": "n-Propyl benzene"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% for all bimetallic catalysts"
+      },
+      "Product yield": {
+        "value": "48.70",
+        "unit": "%",
+        "original": "{'n-Propyl benzene': '48.70% (maximum yield at 350°C with 2%Ru-8%Ni/KIT-6-HZSM-5)', 'Phenol 4-propyl': '58.78% (at 350°C with 4%Ru-6%Ni/KIT-6-HZSM-5)'}"
+      },
+      "Product Selectivity": {
+        "value": "2",
+        "unit": "%Ru-",
+        "original": "{'2%Ru-8%Ni/KIT-6-HZSM-5': {'350°C': '48.70% n-Propyl benzene', '400°C': '25.5% n-Propyl benzene, 71.17% Phenol 4-propyl', '450°C': 'Lower selectivity towards complete deoxygenated products'}, '4%Ru-6%Ni/KIT-6-HZSM-5': {'350°C': '36.45% n-Propyl benzene, 58.78% Phenol 4-propyl', '400°C': '8.44% n-Propyl benzene, 28.84% Phenol 4-propyl'}, '6%Ru-4%Ni/KIT-6-HZSM-5': {'350°C': '22% n-Propyl benzene, 56% Phenol 4-propyl', '400°C': '3% n-Propyl benzene, 76% Phenol 4-propyl'}}"
+      },
+      "Catalyst stability": {
+        "value": "4",
+        "unit": "cycles",
+        "original": "Steady reproducibility and recyclability even after 4 cycles"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在常压固定床反应器中，使用不同负载量的Ru-Ni双金属催化剂（2%Ru-8%Ni/KIT-6-HZSM-5、4%Ru-6%Ni/KIT-6-HZSM-5和6%Ru-4%Ni/KIT-6-HZSM-5）对丁子香酚进行气相加氢脱氧反应，反应温度范围为350-450°C，氢气流量为50 sccm，丁子香酚进料速率为1 mL/h。",
+      "experiment_id": 1,
+      "text_snippet": "The vapour phase hydrodeoxygenation of Eugenol (Eugenol) was carried out by an atmospheric pressure downflow fixed bed reactor. The different wt.% of mono and bimetals (2Ru-8 %Ni, 4 % Ru-6 %Ni & 6 % Ru-4 %Ni) impregnated on KIT-6/HZSM-5 catalytic support was synthesized... The HDO of Eugenol reactio..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

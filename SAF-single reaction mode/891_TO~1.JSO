@@ -1,0 +1,135 @@
+{
+  "file": "891_Torres-Bujalance 等 - 2024 - Production of Biofuels from Hydrodeoxygenation and Hydroisomerization of Triglycerides with Metal-Su.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧/加氢异构化反应",
+        "reaction_type_english": "Hydrodeoxygenation/Hydroisomerization reaction",
+        "description": "在搅拌釜反应器中，使用不同金属（Pd、Pt、Ni、Cu）负载的SAPO-11分子筛催化剂，以精炼植物油为原料，在50 bar压力、350 °C温度和800 rpm搅拌速度下进行一步法转化，将甘油三酯转化为异构化可再生烃（生物燃料）。评估了不同金属对甘油三酯转化率、烃类（石脑油、煤油、柴油和重馏分）收率以及异构化活性的影响。",
+        "text_snippet": "The catalytic behavior was tested in a stirred tank reactor device, using refined vegetable oil as reference triglyceride. The operation conditions were set at 50 bar, 350 °C under 800 rpm stirring. The effect of the different metals on the catalytic performance was evaluated in terms of conversion of triglycerides, yield to hydrocarbons (naphtha, kerosene, diesel, and heavy fractions), and isomerization activity.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Refined vegetable oil (palm oil)",
+        "unit": "Not reported",
+        "original": "Refined vegetable oil (palm oil)"
+      },
+      "Catalyst type": {
+        "value": "-11",
+        "unit": "molecular",
+        "original": "Metal-loaded SAPO-11 molecular sieve"
+      },
+      "Catalyst composition": {
+        "value": "11",
+        "unit": "Pd/SAPO-",
+        "original": "Pd/SAPO-11"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350 °C"
+      },
+      "Reaction pressure": {
+        "value": "50",
+        "unit": "bar",
+        "original": "50 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "200",
+        "unit": "h",
+        "original": "200 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch (stirred tank reactor)",
+        "unit": "Not reported",
+        "original": "Batch (stirred tank reactor)"
+      },
+      "Catalyst loading": {
+        "value": "2",
+        "unit": "g",
+        "original": "2 g"
+      },
+      "Product": {
+        "value": "Isomerized renewable hydrocarbons",
+        "unit": "Not reported",
+        "original": "Isomerized renewable hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "Full conversion (100%)"
+      },
+      "Product yield": {
+        "value": "73.1",
+        "unit": "%",
+        "original": "73.1% (highest liquid hydrocarbons yield for 8% Ni/SAPO-11)"
+      },
+      "Product Selectivity": {
+        "value": "-8",
+        "unit": "%",
+        "original": "Naphtha: 1-8%"
+      },
+      "Catalyst stability": {
+        "value": "Deactivation by coke deposition observed",
+        "unit": "Not reported",
+        "original": "Deactivation by coke deposition observed"
+      },
+      "reaction_type": "加氢脱氧/加氢异构化反应",
+      "reaction_type_english": "Hydrodeoxygenation/Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在搅拌釜反应器中，使用不同金属（Pd、Pt、Ni、Cu）负载的SAPO-11分子筛催化剂，以精炼植物油为原料，在50 bar压力、350 °C温度和800 rpm搅拌速度下进行一步法转化，将甘油三酯转化为异构化可再生烃（生物燃料）。评估了不同金属对甘油三酯转化率、烃类（石脑油、煤油、柴油和重馏分）收率以及异构化活性的影响。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic behavior was tested in a stirred tank reactor device, using refined vegetable oil as reference triglyceride. The operation conditions were set at 50 bar, 350 °C under 800 rpm stirring. The effect of the different metals on the catalytic performance was evaluated in terms of conversion ..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧/加氢异构化反应",
+      "reaction_type_english": "Hydrodeoxygenation/Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

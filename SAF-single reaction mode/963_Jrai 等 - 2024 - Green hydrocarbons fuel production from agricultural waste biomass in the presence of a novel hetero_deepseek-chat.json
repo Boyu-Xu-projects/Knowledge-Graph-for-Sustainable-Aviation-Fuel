@@ -1,0 +1,135 @@
+{
+  "file": "963_Jrai 等 - 2024 - Green hydrocarbons fuel production from agricultural waste biomass in the presence of a novel hetero.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在间歇式高压釜反应器中，使用Pd-SiO2催化剂，在340°C、3 MPa氢气压力、4小时反应时间的优化条件下，对海枣籽生物油进行加氢脱氧，生产绿色航空燃料和柴油范围内的烃类。",
+        "text_snippet": "Hydro-deoxygenation of the Date seed oil is done... Autoclave batch-type reactor with mechanical stirrer, pressure and temperature controller is used for hydro-deoxygenation of Date seed oil. Initially, 30 ml of oil and a known amount of catalyst are loaded vessel and closed adequately to avoid any leakage and pressure drop... maintained at 3 MPa... temperature is set to increase with a heating rate of 5 °C/min up to desired temperature (350 °C)... reaction is allowed to run for four h... The reaction mixture consisting of oil product and catalyst is passed to centrifuge tubes to separate the catalyst and product liquid oil.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Date seeds",
+        "unit": "Not reported",
+        "original": "Date seeds"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "Pd-SiO",
+        "original": "Pd-SiO2"
+      },
+      "Catalyst composition": {
+        "value": "Palladium on silica dioxide",
+        "unit": "Not reported",
+        "original": "Palladium on silica dioxide"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "340",
+        "unit": "°C",
+        "original": "340 °C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "4",
+        "unit": "wt%",
+        "original": "4 wt.%"
+      },
+      "Product": {
+        "value": "Green jet fuel",
+        "unit": "Not reported",
+        "original": "Green jet fuel"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "consecutive",
+        "original": "Active for 5 consecutive runs after treatment"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在间歇式高压釜反应器中，使用Pd-SiO2催化剂，在340°C、3 MPa氢气压力、4小时反应时间的优化条件下，对海枣籽生物油进行加氢脱氧，生产绿色航空燃料和柴油范围内的烃类。",
+      "experiment_id": 1,
+      "text_snippet": "Hydro-deoxygenation of the Date seed oil is done... Autoclave batch-type reactor with mechanical stirrer, pressure and temperature controller is used for hydro-deoxygenation of Date seed oil. Initially, 30 ml of oil and a known amount of catalyst are loaded vessel and closed adequately to avoid any ..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

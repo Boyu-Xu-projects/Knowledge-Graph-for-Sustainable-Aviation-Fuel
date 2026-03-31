@@ -1,0 +1,135 @@
+{
+  "file": "867_Wu 等 - 2024 - In-situ preparation of MnFeCoNiCuC for the sustainable co-production of bio-jet fuel and green dies.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在高压间歇反应器中，使用不同金属负载量的MnFeCoNiCu/C催化剂，在无溶剂和低氢压条件下，将脂肪酸甲酯（FAME）转化为生物航煤和绿色柴油。研究了金属负载量、反应温度、氢压和ZSM-5沸石添加对催化性能的影响。",
+        "text_snippet": "The experiment was conducted in a 50 mL high-pressure batch reactor.10.0g FAME and 1.0g catalyst were added to the reactor, and the reactor was purged with pure H2 three times to remove air from the reactor. Subsequently, the catalytic cracking reaction was performed at the required temperature under atmospheric pressure or target hydrogen pressure for hydrogenation. The reactor was stirred at 400 rpm for 3h.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Fatty acid methyl esters (FAME)",
+        "unit": "Not reported",
+        "original": "Fatty acid methyl esters (FAME)"
+      },
+      "Catalyst type": {
+        "value": "MnFeCoNiCu/C",
+        "unit": "Not reported",
+        "original": "MnFeCoNiCu/C"
+      },
+      "Catalyst composition": {
+        "value": "Mn",
+        "unit": "Not reported",
+        "original": "Mn"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350 °C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "3",
+        "unit": "h",
+        "original": "3 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "1.0",
+        "unit": "g",
+        "original": "1.0 g catalyst per 10.0 g FAME"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "alkanes",
+        "original": "Bio-jet fuel (C8-C16 alkanes)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "48.35",
+        "unit": "%",
+        "original": "Bio-jet fuel: 48.35%"
+      },
+      "Catalyst stability": {
+        "value": "54.83",
+        "unit": "%",
+        "original": "Conversion rate decreases to 54.83% after 4 cycles"
+      },
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在高压间歇反应器中，使用不同金属负载量的MnFeCoNiCu/C催化剂，在无溶剂和低氢压条件下，将脂肪酸甲酯（FAME）转化为生物航煤和绿色柴油。研究了金属负载量、反应温度、氢压和ZSM-5沸石添加对催化性能的影响。",
+      "experiment_id": 1,
+      "text_snippet": "The experiment was conducted in a 50 mL high-pressure batch reactor.10.0g FAME and 1.0g catalyst were added to the reactor, and the reactor was purged with pure H2 three times to remove air from the reactor. Subsequently, the catalytic cracking reaction was performed at the required temperature unde..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

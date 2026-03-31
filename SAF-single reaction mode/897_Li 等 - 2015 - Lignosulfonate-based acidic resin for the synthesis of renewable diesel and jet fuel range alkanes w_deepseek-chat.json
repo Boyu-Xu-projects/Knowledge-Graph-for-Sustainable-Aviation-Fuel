@@ -1,0 +1,247 @@
+{
+  "file": "897_Li 等 - 2015 - Lignosulfonate-based acidic resin for the synthesis of renewable diesel and jet fuel range alkanes w.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "羟基烷基化/烷基化反应",
+        "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+        "description": "在LF树脂催化剂上，无溶剂条件下进行2-甲基呋喃和糠醛的羟基烷基化/烷基化反应，生成5,5′-(呋喃-2-基亚甲基)双(2-甲基呋喃)(1a)",
+        "text_snippet": "The solvent-free HAA of 2-MF and furfural was carried out over a series of lignosulfonate-based acidic resins... With the LF resin, high 2-MF conversion (70.4%) and carbon yield of 1a (65.4%) were obtained under mild conditions (323K, 2h).",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation (HDO) reaction",
+        "description": "在Ni/H-ZSM-5催化剂上，无溶剂条件下将HAA产物1a加氢脱氧转化为柴油和喷气燃料范围的烷烃",
+        "text_snippet": "The solvent-free direct HDO of 5,5′-(furan-2-ylmethylene)bis(2-methylfuran) (i.e. 1a in Scheme 1) was conducted under solvent-free conditions in a fixed bed... Over the Ni/H-ZSM-5-EG catalyst, 1a was almost totally converted to alkanes (carbon yield 93.7%).",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran",
+        "unit": "Not reported",
+        "original": "2-methylfuran"
+      },
+      "Catalyst type": {
+        "value": "LF resin",
+        "unit": "Not reported",
+        "original": "LF resin"
+      },
+      "Catalyst composition": {
+        "value": "Protonated phenol-formaldehyde condensation product of sodium lignosulfonate and formaldehyde",
+        "unit": "Not reported",
+        "original": "Protonated phenol-formaldehyde condensation product of sodium lignosulfonate and formaldehyde"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "323",
+        "unit": "K",
+        "original": "323 K"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 h"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "2:1",
+        "unit": ":",
+        "original": "2:1 (2-methylfuran:furfural)"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.015",
+        "unit": "g",
+        "original": "0.015 g"
+      },
+      "Product": {
+        "value": "1",
+        "unit": "a",
+        "original": "5,5′-(furan-2-ylmethylene)bis(2-methylfuran) (1a)"
+      },
+      "Conversion rate": {
+        "value": "70.4",
+        "unit": "%",
+        "original": "70.4% (2-MF conversion at 323 K, 2 h, 0.15 g catalyst)"
+      },
+      "Product yield": {
+        "value": "65.4",
+        "unit": "%",
+        "original": "65.4% (carbon yield of 1a at 323 K, 2 h, 0.15 g catalyst)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "4",
+        "unit": "recycles",
+        "original": "Good stability observed after 4 recycles"
+      },
+      "reaction_type": "羟基烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在LF树脂催化剂上，无溶剂条件下进行2-甲基呋喃和糠醛的羟基烷基化/烷基化反应，生成5,5′-(呋喃-2-基亚甲基)双(2-甲基呋喃)(1a)",
+      "experiment_id": 1,
+      "text_snippet": "The solvent-free HAA of 2-MF and furfural was carried out over a series of lignosulfonate-based acidic resins... With the LF resin, high 2-MF conversion (70.4%) and carbon yield of 1a (65.4%) were obtained under mild conditions (323K, 2h)."
+    },
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "1",
+        "unit": "a",
+        "original": "5,5′-(furan-2-ylmethylene)bis(2-methylfuran) (HAA product 1a)"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "Ni/H-ZSM-",
+        "original": "Ni/H-ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "Ni/H-ZSM-5 (5 wt% Ni)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "533",
+        "unit": "K",
+        "original": "533 K"
+      },
+      "Reaction pressure": {
+        "value": "6",
+        "unit": "MPa",
+        "original": "6 MPa"
+      },
+      "Flow rate": {
+        "value": "0.04",
+        "unit": "ml",
+        "original": "0.04 ml min⁻¹ (liquid feed), 120 ml min⁻¹ (H₂ flow)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed bed continuous flow reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed continuous flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "1.80",
+        "unit": "g",
+        "original": "1.80 g"
+      },
+      "Product": {
+        "value": "Diesel and jet fuel range alkanes",
+        "unit": "Not reported",
+        "original": "Diesel and jet fuel range alkanes"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "70.4",
+        "unit": "%",
+        "original": "70.4% (carbon yield of alkanes over Ni/H-ZSM-5-EG)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation (HDO) reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Ni/H-ZSM-5催化剂上，无溶剂条件下将HAA产物1a加氢脱氧转化为柴油和喷气燃料范围的烷烃",
+      "experiment_id": 2,
+      "text_snippet": "The solvent-free direct HDO of 5,5′-(furan-2-ylmethylene)bis(2-methylfuran) (i.e. 1a in Scheme 1) was conducted under solvent-free conditions in a fixed bed... Over the Ni/H-ZSM-5-EG catalyst, 1a was almost totally converted to alkanes (carbon yield 93.7%)."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "羟基烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation (HDO) reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

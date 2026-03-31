@@ -1,0 +1,135 @@
+{
+  "file": "1049_Sun 等 - 2023 - The gradient fabrication and optimization of metal-acid bifunctional catalysts for the hydrogenation.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化/异构化",
+        "reaction_type_english": "Hydrocracking / Isomerization",
+        "description": "在固定床反应器中，使用梯度优化的双功能催化剂（Pt-HPW-AS-I, Pt-WAS-II, Pt-WHSS-III, WHSS@Pt-IV）对正十六烷（n-C16）进行加氢处理，以生产生物喷气燃料组分（C9-C14）。反应在氢气氛围（2 MPa）下进行，通过改变反应温度（310-440°C）来调整反应严重度。",
+        "text_snippet": "The hydrocracking/isomerization of n-C16 was carried out in a fixed bed... 1.81 g catalyst (40-60 mesh) was filled into the reaction under the H2 atmosphere with a pressure of 2 MPa and a flow rate of 64 mL/min... the feed n-C16 was pumped into the reactor with a flow rate of 0.02 mL/min (WHSV = 0.5 h-1)... The reaction severity was adjusted by controlling the temperature from 310 ◦C to 440 ◦C.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "16",
+        "unit": "n-C",
+        "original": "n-hexadecane (n-C16)"
+      },
+      "Catalyst type": {
+        "value": "Pt-HPW-AS-I",
+        "unit": "Not reported",
+        "original": "Pt-HPW-AS-I"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "SiO",
+        "original": "Pt, HPW, amorphous SiO2"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-440",
+        "unit": "°C",
+        "original": "310-440°C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "2",
+        "unit": "flow",
+        "original": "H2 flow rate: 64 mL/min"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1.81",
+        "unit": "g",
+        "original": "1.81 g (40-60 mesh) for Pt-WAS-II, Pt-WHSS-III, WHSS@Pt-IV"
+      },
+      "Product": {
+        "value": "9",
+        "unit": "°C",
+        "original": "Bio-jet fuel components (C9-C14)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "Up to 100% (temperature dependent)"
+      },
+      "Product yield": {
+        "value": "37",
+        "unit": "wt%",
+        "original": "Jet fuel component yield: up to 37 wt.% (WHSS@Pt-IV)"
+      },
+      "Product Selectivity": {
+        "value": "Improved isomer selectivity with gradient optimization",
+        "unit": "Not reported",
+        "original": "Improved isomer selectivity with gradient optimization"
+      },
+      "Catalyst stability": {
+        "value": "100",
+        "unit": "h",
+        "original": "Excellent (100 h stability test at 350°C for WHSS@Pt-IV)"
+      },
+      "reaction_type": "加氢裂化/异构化",
+      "reaction_type_english": "Hydrocracking / Isomerization",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床反应器中，使用梯度优化的双功能催化剂（Pt-HPW-AS-I, Pt-WAS-II, Pt-WHSS-III, WHSS@Pt-IV）对正十六烷（n-C16）进行加氢处理，以生产生物喷气燃料组分（C9-C14）。反应在氢气氛围（2 MPa）下进行，通过改变反应温度（310-440°C）来调整反应严重度。",
+      "experiment_id": 1,
+      "text_snippet": "The hydrocracking/isomerization of n-C16 was carried out in a fixed bed... 1.81 g catalyst (40-60 mesh) was filled into the reaction under the H2 atmosphere with a pressure of 2 MPa and a flow rate of 64 mL/min... the feed n-C16 was pumped into the reactor with a flow rate of 0.02 mL/min (WHSV = 0.5..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化/异构化",
+      "reaction_type_english": "Hydrocracking / Isomerization",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

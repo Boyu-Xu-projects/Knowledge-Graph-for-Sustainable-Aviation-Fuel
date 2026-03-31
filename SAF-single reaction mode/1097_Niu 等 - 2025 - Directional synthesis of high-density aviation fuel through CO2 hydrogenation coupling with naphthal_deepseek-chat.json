@@ -1,0 +1,135 @@
+{
+  "file": "1097_Niu 等 - 2025 - Directional synthesis of high-density aviation fuel through CO2 hydrogenation coupling with naphthal.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "烷基化反应",
+        "reaction_type_english": "Alkylation reaction",
+        "description": "在固定床微反应器中，使用ZnZrOx/Hβ催化剂，在4 MPa压力、320-400°C温度范围内，将CO2加氢与萘烷基化耦合，定向合成烷基萘（高密度航空燃料组分）。",
+        "text_snippet": "The catalytic performance evaluations of series ZnZrOx/Hβ catalysts were conducted in a fixed-bed microreactor... The CO2 hydrogenation coupling with naphthalene reaction was initiated... at temperature ranging from 320 ◦C to 400 ◦C under pressure of 4 MPa.",
+        "reaction_type_classify": "Alkylation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "2",
+        "unit": "CO",
+        "original": "CO2"
+      },
+      "Catalyst type": {
+        "value": "Bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "ZnZrOx/Hβ",
+        "unit": "Not reported",
+        "original": "ZnZrOx/Hβ"
+      },
+      "Solvent": {
+        "value": "cyclohexane",
+        "unit": "Not reported",
+        "original": "cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "-400",
+        "unit": "°C",
+        "original": "320-400 °C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "6000",
+        "unit": "mL",
+        "original": "GHSV = 6000 mL⋅g⁻¹ cat⋅h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "CO",
+        "original": "CO2:H2:N2 = 23:69:8"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed microreactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed microreactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "g",
+        "original": "1 g catalyst diluted to 3 mL with quartz sand"
+      },
+      "Product": {
+        "value": "alkylnaphthalenes",
+        "unit": "Not reported",
+        "original": "alkylnaphthalenes"
+      },
+      "Conversion rate": {
+        "value": "2",
+        "unit": "conversion",
+        "original": "CO2 conversion: 21.6%, naphthalene conversion: 28.4%"
+      },
+      "Product yield": {
+        "value": "Space time yield of alkylnaphthalene: 5.9 μmol⋅g⁻¹ oxide⋅s⁻¹",
+        "unit": "%",
+        "original": "Space time yield of alkylnaphthalene: 5.9 μmol⋅g⁻¹ oxide⋅s⁻¹"
+      },
+      "Product Selectivity": {
+        "value": "86.4",
+        "unit": "%",
+        "original": "86.4% for alkylnaphthalenes"
+      },
+      "Catalyst stability": {
+        "value": "100",
+        "unit": "h",
+        "original": "Exceptional long-term catalytic stability over 100 h on stream"
+      },
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction",
+      "experiment_description": "在固定床微反应器中，使用ZnZrOx/Hβ催化剂，在4 MPa压力、320-400°C温度范围内，将CO2加氢与萘烷基化耦合，定向合成烷基萘（高密度航空燃料组分）。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic performance evaluations of series ZnZrOx/Hβ catalysts were conducted in a fixed-bed microreactor... The CO2 hydrogenation coupling with naphthalene reaction was initiated... at temperature ranging from 320 ◦C to 400 ◦C under pressure of 4 MPa."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

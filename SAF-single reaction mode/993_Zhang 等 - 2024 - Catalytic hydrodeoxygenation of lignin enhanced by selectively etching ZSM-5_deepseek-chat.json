@@ -1,0 +1,135 @@
+{
+  "file": "993_Zhang 等 - 2024 - Catalytic hydrodeoxygenation of lignin enhanced by selectively etching ZSM-5.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在Ni/ZSM-52催化剂上，于140°C、2 MPa氢气压力下反应4小时，将苯甲氧基苯（BOB）完全转化为环烷烃（cyclanes）。",
+        "text_snippet": "BOB was completely converted to cyclanes over Ni/ZSM-52 at 140 ◦C under 2 MPa of H2 for 4 h",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Benzyloxybenzene (BOB)",
+        "unit": "Not reported",
+        "original": "Benzyloxybenzene (BOB)"
+      },
+      "Catalyst type": {
+        "value": "Nickel-based catalyst",
+        "unit": "Not reported",
+        "original": "Nickel-based catalyst"
+      },
+      "Catalyst composition": {
+        "value": "52",
+        "unit": "Ni/ZSM-",
+        "original": "Ni/ZSM-52"
+      },
+      "Solvent": {
+        "value": "n-hexane",
+        "unit": "Not reported",
+        "original": "n-hexane"
+      },
+      "Reaction temperature": {
+        "value": "140",
+        "unit": "°C",
+        "original": "140°C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "cycloalkanes",
+        "unit": "Not reported",
+        "original": "cycloalkanes"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "58.6",
+        "unit": "%",
+        "original": "58.6%"
+      },
+      "Product Selectivity": {
+        "value": "70.7",
+        "unit": "%",
+        "original": "70.7%"
+      },
+      "Catalyst stability": {
+        "value": "93.2",
+        "unit": "%",
+        "original": "Excellent (93.2% conversion after 5 runs)"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Ni/ZSM-52催化剂上，于140°C、2 MPa氢气压力下反应4小时，将苯甲氧基苯（BOB）完全转化为环烷烃（cyclanes）。",
+      "experiment_id": 1,
+      "text_snippet": "BOB was completely converted to cyclanes over Ni/ZSM-52 at 140 ◦C under 2 MPa of H2 for 4 h"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

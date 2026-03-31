@@ -1,0 +1,359 @@
+{
+  "file": "951_Wang 等 - 2021 - Direct synthesis of a high-density aviation fuel using a polycarbonate.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "转移加氢脱氧反应",
+        "reaction_type_english": "Transfer hydrodeoxygenation reaction",
+        "description": "使用RANEY® Ni催化剂，在463K下反应1小时，将纯PC颗粒在异丙醇中完全转化为C6-C15含氧化合物、芳烃和环烷烃的混合物",
+        "text_snippet": "Over it, the pure PC pellet was completely converted to a mixture of C6–C15 oxygenates, aromatics and cycloalkanes after the reaction was carried out at 463 K for 1 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "转移加氢脱氧反应",
+        "reaction_type_english": "Transfer hydrodeoxygenation reaction",
+        "description": "使用不同醇类（甲醇、乙醇、异丙醇、2-丁醇）作为氢供体，在463K下反应1小时，比较它们对PC降解的效果",
+        "text_snippet": "Among the investigated alcohols, isopropanol exhibited the highest reactivity for the degradation of PC. The reactivities of different alcohols decreased in the order of isopropanol > 2-butanol > methanol > ethanol.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "一锅法转移加氢脱氧反应",
+        "reaction_type_english": "One-pot transfer hydrodeoxygenation reaction",
+        "description": "使用RANEY® Ni和USY沸石作为共催化剂，在463K下分两步反应（第一步1小时，第二步1-5小时），将切碎的DVD光盘转化为C6-C15环烃，获得约75%的碳收率",
+        "text_snippet": "Under the optimized conditions, an ∼75% carbon yield of C6–C15 cyclic hydrocarbons was achieved from the one-pot transfer hydrodeoxygenation of a chopped DVD disk under the co-catalysis of RANEY® Ni and USY.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "pure PC pellets",
+        "unit": "Not reported",
+        "original": "pure PC pellets"
+      },
+      "Catalyst type": {
+        "value": "RANEY® Ni",
+        "unit": "Not reported",
+        "original": "RANEY® Ni"
+      },
+      "Catalyst composition": {
+        "value": "RANEY® Ni",
+        "unit": "Not reported",
+        "original": "RANEY® Ni"
+      },
+      "Solvent": {
+        "value": "isopropanol",
+        "unit": "Not reported",
+        "original": "isopropanol"
+      },
+      "Reaction temperature": {
+        "value": "463",
+        "unit": "K",
+        "original": "463 K"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "~3 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "argon",
+        "unit": "Not reported",
+        "original": "argon"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "batch",
+        "unit": "Not reported",
+        "original": "batch"
+      },
+      "Catalyst loading": {
+        "value": "0.4",
+        "unit": "g",
+        "original": "0.4 g RANEY® Ni"
+      },
+      "Product": {
+        "value": "15",
+        "unit": "oxygenates",
+        "original": "C6-C15 oxygenates"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "75",
+        "unit": "%",
+        "original": "75% carbon yield of C6-C15 cyclic hydrocarbons"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "转移加氢脱氧反应",
+      "reaction_type_english": "Transfer hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用RANEY® Ni催化剂，在463K下反应1小时，将纯PC颗粒在异丙醇中完全转化为C6-C15含氧化合物、芳烃和环烷烃的混合物",
+      "experiment_id": 1,
+      "text_snippet": "Over it, the pure PC pellet was completely converted to a mixture of C6–C15 oxygenates, aromatics and cycloalkanes after the reaction was carried out at 463 K for 1 h."
+    },
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "polycarbonate (PC) pellets",
+        "unit": "Not reported",
+        "original": "polycarbonate (PC) pellets"
+      },
+      "Catalyst type": {
+        "value": "RANEY® Ni",
+        "unit": "Not reported",
+        "original": "RANEY® Ni"
+      },
+      "Catalyst composition": {
+        "value": "RANEY® Ni",
+        "unit": "Not reported",
+        "original": "RANEY® Ni"
+      },
+      "Solvent": {
+        "value": "isopropanol",
+        "unit": "Not reported",
+        "original": "isopropanol"
+      },
+      "Reaction temperature": {
+        "value": "463",
+        "unit": "K",
+        "original": "463 K"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "~3 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 hour"
+      },
+      "Atmosphere": {
+        "value": "argon",
+        "unit": "Not reported",
+        "original": "argon"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "batch",
+        "unit": "Not reported",
+        "original": "batch"
+      },
+      "Catalyst loading": {
+        "value": "0.4",
+        "unit": "g",
+        "original": "0.4 g RANEY® Ni"
+      },
+      "Product": {
+        "value": "15",
+        "unit": "oxygenates",
+        "original": "C6-C15 oxygenates"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "75",
+        "unit": "%",
+        "original": "~75% carbon yield of C6-C15 cyclic hydrocarbons"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "转移加氢脱氧反应",
+      "reaction_type_english": "Transfer hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用不同醇类（甲醇、乙醇、异丙醇、2-丁醇）作为氢供体，在463K下反应1小时，比较它们对PC降解的效果",
+      "experiment_id": 2,
+      "text_snippet": "Among the investigated alcohols, isopropanol exhibited the highest reactivity for the degradation of PC. The reactivities of different alcohols decreased in the order of isopropanol > 2-butanol > methanol > ethanol."
+    },
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "polycarbonate (PC) pellets",
+        "unit": "Not reported",
+        "original": "polycarbonate (PC) pellets"
+      },
+      "Catalyst type": {
+        "value": "RANEY® Ni",
+        "unit": "Not reported",
+        "original": "RANEY® Ni"
+      },
+      "Catalyst composition": {
+        "value": "RANEY® Ni",
+        "unit": "Not reported",
+        "original": "RANEY® Ni"
+      },
+      "Solvent": {
+        "value": "isopropanol",
+        "unit": "Not reported",
+        "original": "isopropanol"
+      },
+      "Reaction temperature": {
+        "value": "463",
+        "unit": "K",
+        "original": "463 K"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "~3 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h (first step)"
+      },
+      "Atmosphere": {
+        "value": "argon",
+        "unit": "Not reported",
+        "original": "argon"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "batch",
+        "unit": "Not reported",
+        "original": "batch"
+      },
+      "Catalyst loading": {
+        "value": "0.4",
+        "unit": "g",
+        "original": "0.4 g RANEY® Ni"
+      },
+      "Product": {
+        "value": "15",
+        "unit": "cyclic",
+        "original": "C6-C15 cyclic hydrocarbons (cycloalkanes and aromatics)"
+      },
+      "Conversion rate": {
+        "value": "complete conversion",
+        "unit": "%",
+        "original": "complete conversion"
+      },
+      "Product yield": {
+        "value": "75",
+        "unit": "%",
+        "original": "~75% carbon yield"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "一锅法转移加氢脱氧反应",
+      "reaction_type_english": "One-pot transfer hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用RANEY® Ni和USY沸石作为共催化剂，在463K下分两步反应（第一步1小时，第二步1-5小时），将切碎的DVD光盘转化为C6-C15环烃，获得约75%的碳收率",
+      "experiment_id": 3,
+      "text_snippet": "Under the optimized conditions, an ∼75% carbon yield of C6–C15 cyclic hydrocarbons was achieved from the one-pot transfer hydrodeoxygenation of a chopped DVD disk under the co-catalysis of RANEY® Ni and USY."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "转移加氢脱氧反应",
+      "reaction_type_english": "Transfer hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "转移加氢脱氧反应",
+      "reaction_type_english": "Transfer hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "一锅法转移加氢脱氧反应",
+      "reaction_type_english": "One-pot transfer hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

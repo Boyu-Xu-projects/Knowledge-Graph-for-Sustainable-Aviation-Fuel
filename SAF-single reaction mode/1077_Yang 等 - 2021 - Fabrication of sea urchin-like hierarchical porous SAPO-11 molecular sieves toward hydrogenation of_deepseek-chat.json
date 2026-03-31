@@ -1,0 +1,247 @@
+{
+  "file": "1077_Yang 等 - 2021 - Fabrication of sea urchin-like hierarchical porous SAPO-11 molecular sieves toward hydrogenation of.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢异构化反应",
+        "reaction_type_english": "Hydrogenation reaction & Isomerization reaction",
+        "description": "在高压反应釜中，使用Ni/SAPO-11-A-6催化剂，在360°C、4.0 MPa氢气压力下，对油酸进行加氢和异构化反应4小时，生成异构烷烃（喷气燃料）。",
+        "text_snippet": "Catalyst evaluation was performed in a high-pressure autoclave with a volume of 150 mL... In a typical reaction, 15 g of oleic acid and 0.7 g of catalyst were added into the reactor... The hydrogenation reaction was conducted for 4 h at different temperatures (300, 320, 340, 360, and 380 °C)... a maximum of 78.2% isomer selectivity was achieved by the Ni/SAPO-11-A-6 catalyst under reaction conditions of 360 °C, 4 h, and 4.0 MPa H₂.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "催化剂制备的最后一步，将负载镍的催化剂前体在10% H₂/N₂气氛中于550°C下还原2小时，得到高分散的纳米镍催化剂。",
+        "text_snippet": "the highly dispersed nano-7Ni/SAPO-11 catalyst was obtained after reduction under a 10% H₂/N₂ atmosphere at 550 °C for 2 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "Oleic acid",
+        "unit": "Not reported",
+        "original": "Oleic acid"
+      },
+      "Catalyst type": {
+        "value": "11",
+        "unit": "Ni/SAPO-",
+        "original": "Ni/SAPO-11-A-6"
+      },
+      "Catalyst composition": {
+        "value": "7",
+        "unit": "wt%",
+        "original": "7 wt% nickel on SAPO-11-A-6 molecular sieve"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "360",
+        "unit": "°C",
+        "original": "360 °C"
+      },
+      "Reaction pressure": {
+        "value": "4.0",
+        "unit": "MPa",
+        "original": "4.0 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch (high-pressure autoclave)",
+        "unit": "Not reported",
+        "original": "Batch (high-pressure autoclave)"
+      },
+      "Catalyst loading": {
+        "value": "0.7",
+        "unit": "g",
+        "original": "0.7 g catalyst per 15 g oleic acid"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "hydrocarbons",
+        "original": "Isomer alkanes (iso-C17, iso-C18), n-C17, n-C18, C2–C16 hydrocarbons, gaseous products (CH₄, CO, CO₂, C2–C6 hydrocarbons)"
+      },
+      "Conversion rate": {
+        "value": "99.9",
+        "unit": "%",
+        "original": "99.9%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "78.2",
+        "unit": "%",
+        "original": "78.2% isomer selectivity"
+      },
+      "Catalyst stability": {
+        "value": "99",
+        "unit": "%",
+        "original": "Maintained 99% conversion after six reusability tests, isomer selectivity reached 45.6%"
+      },
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydrogenation reaction & Isomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在高压反应釜中，使用Ni/SAPO-11-A-6催化剂，在360°C、4.0 MPa氢气压力下，对油酸进行加氢和异构化反应4小时，生成异构烷烃（喷气燃料）。",
+      "experiment_id": 1,
+      "text_snippet": "Catalyst evaluation was performed in a high-pressure autoclave with a volume of 150 mL... In a typical reaction, 15 g of oleic acid and 0.7 g of catalyst were added into the reactor... The hydrogenation reaction was conducted for 4 h at different temperatures (300, 320, 340, 360, and 380 °C)... a ma..."
+    },
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "Oleic acid",
+        "unit": "Not reported",
+        "original": "Oleic acid"
+      },
+      "Catalyst type": {
+        "value": "11",
+        "unit": "Ni/SAPO-",
+        "original": "Bifunctional catalyst (Ni/SAPO-11)"
+      },
+      "Catalyst composition": {
+        "value": "7",
+        "unit": "wt%",
+        "original": "7 wt% Ni on SAPO-11 molecular sieve"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "360",
+        "unit": "°C",
+        "original": "360 °C"
+      },
+      "Reaction pressure": {
+        "value": "4.0",
+        "unit": "MPa",
+        "original": "4.0 MPa H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch (high-pressure autoclave)",
+        "unit": "Not reported",
+        "original": "Batch (high-pressure autoclave)"
+      },
+      "Catalyst loading": {
+        "value": "0.7",
+        "unit": "g",
+        "original": "0.7 g catalyst per 15 g oleic acid"
+      },
+      "Product": {
+        "value": "17",
+        "unit": "°C",
+        "original": "Heptadecane (C17)"
+      },
+      "Conversion rate": {
+        "value": "99.9",
+        "unit": "%",
+        "original": "99.9%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "78.2",
+        "unit": "%",
+        "original": "Isomer selectivity: 78.2%"
+      },
+      "Catalyst stability": {
+        "value": "99",
+        "unit": "%",
+        "original": "Maintained 99% conversion after six reusability tests; isomer selectivity reached 45.6% after six tests"
+      },
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "催化剂制备的最后一步，将负载镍的催化剂前体在10% H₂/N₂气氛中于550°C下还原2小时，得到高分散的纳米镍催化剂。",
+      "experiment_id": 2,
+      "text_snippet": "the highly dispersed nano-7Ni/SAPO-11 catalyst was obtained after reduction under a 10% H₂/N₂ atmosphere at 550 °C for 2 h."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydrogenation reaction & Isomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

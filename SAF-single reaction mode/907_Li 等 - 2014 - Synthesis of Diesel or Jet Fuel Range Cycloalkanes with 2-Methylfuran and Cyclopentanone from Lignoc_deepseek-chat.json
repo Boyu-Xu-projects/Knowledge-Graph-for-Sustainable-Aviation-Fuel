@@ -1,0 +1,247 @@
+{
+  "file": "907_Li 等 - 2014 - Synthesis of Diesel or Jet Fuel Range Cycloalkanes with 2-Methylfuran and Cyclopentanone from Lignoc.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "羟基烷基化/烷基化反应",
+        "reaction_type_english": "Hydroxyalkylation/Alkylation (HAA) reaction",
+        "description": "在无溶剂条件下，使用Nafion-212树脂等多种固体酸催化剂催化2-甲基呋喃(2-MF)与环戊酮(CPO)的反应，生成柴油或喷气燃料前体。",
+        "text_snippet": "renewable diesel or jet fuel range branched alkanes and cycloalkanes were first synthesized simultaneously by the solvent-free hydroxyalkylation/alkylation (HAA) of 2-MF and CPO... The HAA reaction of 2-MF and CPO was performed in a flask connected to a reflux condenser.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation (HDO) reaction",
+        "description": "在固定床反应器中，使用多种镍基催化剂对HAA反应产物进行加氢脱氧，将其转化为柴油或喷气燃料范围的支链烷烃和环烷烃。",
+        "text_snippet": "The HDO of the HAA products of 2-MF and CPO was conducted in a fixed-bed reactor... The HDO of the HAA products of 2-MF and CPO was carried out over a series of transition metal-loaded SiO2−Al2O3 catalysts.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2014",
+        "unit": "year",
+        "original": "2014"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran (2-MF)",
+        "unit": "Not reported",
+        "original": "2-methylfuran (2-MF)"
+      },
+      "Catalyst type": {
+        "value": "Solid acid catalysts",
+        "unit": "Not reported",
+        "original": "Solid acid catalysts"
+      },
+      "Catalyst composition": {
+        "value": "-212",
+        "unit": "resin",
+        "original": "Nafion-212 resin"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "273",
+        "unit": "K",
+        "original": "273 K"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "0.5",
+        "unit": "h",
+        "original": "0.5 h"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "2-MF/CPO molar ratio = 2",
+        "unit": "Not reported",
+        "original": "2-MF/CPO molar ratio = 2"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.015",
+        "unit": "g",
+        "original": "0.015 g"
+      },
+      "Product": {
+        "value": "1",
+        "unit": "B",
+        "original": "5,5′-(cyclopentane-1,1-diyl)bis(2-methylfuran) (1B)"
+      },
+      "Conversion rate": {
+        "value": "-97.9",
+        "unit": "%",
+        "original": "2-MF conversion: 4.5-97.9%"
+      },
+      "Product yield": {
+        "value": "1",
+        "unit": "B",
+        "original": "1B yield: 0.4-56.7%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "4",
+        "unit": "cycles",
+        "original": "Good stability after 4 cycles"
+      },
+      "reaction_type": "羟基烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/Alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在无溶剂条件下，使用Nafion-212树脂等多种固体酸催化剂催化2-甲基呋喃(2-MF)与环戊酮(CPO)的反应，生成柴油或喷气燃料前体。",
+      "experiment_id": 1,
+      "text_snippet": "renewable diesel or jet fuel range branched alkanes and cycloalkanes were first synthesized simultaneously by the solvent-free hydroxyalkylation/alkylation (HAA) of 2-MF and CPO... The HAA reaction of 2-MF and CPO was performed in a flask connected to a reflux condenser."
+    },
+    {
+      "Published year": {
+        "value": "2014",
+        "unit": "year",
+        "original": "2014"
+      },
+      "Feedstock": {
+        "value": "2",
+        "unit": "of",
+        "original": "HAA products of 2-methylfuran and cyclopentanone"
+      },
+      "Catalyst type": {
+        "value": "Nickel-based catalysts",
+        "unit": "Not reported",
+        "original": "Nickel-based catalysts"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "O",
+        "original": "Ni/SiO2-Al2O3"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "533",
+        "unit": "K",
+        "original": "533 K"
+      },
+      "Reaction pressure": {
+        "value": "6",
+        "unit": "MPa",
+        "original": "6 MPa"
+      },
+      "Flow rate": {
+        "value": "0.04",
+        "unit": "mL",
+        "original": "Liquid: 0.04 mL min⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1.8",
+        "unit": "g",
+        "original": "1.8 g"
+      },
+      "Product": {
+        "value": "Diesel or jet fuel range branched alkanes",
+        "unit": "Not reported",
+        "original": "Diesel or jet fuel range branched alkanes"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "-85.5",
+        "unit": "%",
+        "original": "80-85.5% carbon yield to diesel or jet fuel range alkanes (C9-C15)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation (HDO) reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床反应器中，使用多种镍基催化剂对HAA反应产物进行加氢脱氧，将其转化为柴油或喷气燃料范围的支链烷烃和环烷烃。",
+      "experiment_id": 2,
+      "text_snippet": "The HDO of the HAA products of 2-MF and CPO was conducted in a fixed-bed reactor... The HDO of the HAA products of 2-MF and CPO was carried out over a series of transition metal-loaded SiO2−Al2O3 catalysts."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "羟基烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/Alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation (HDO) reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

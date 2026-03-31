@@ -1,0 +1,135 @@
+{
+  "file": "1083_Song 等 - 2020 - Direct Synthesis of C5 –C13 iso -Paraffins from Carbon Dioxide over Hyb.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在近临界正己烷流体中，使用由Cu-ZnO和不同沸石（ZSM-5(23)、ZSM-5(80)、β(27)、USY(30)）组成的混合催化剂，将CO2直接加氢转化为C5-C13烃类（汽油和喷气燃料馏分）。研究了正己烷分压、反应温度、沸石类型和Pd助催化剂对催化性能的影响。",
+        "text_snippet": "Direct CO2 hydrogenation to hydrocarbons via methanol synthesis is carried out over hybrid catalysts composed of Cu−ZnO and various zeolites by introducing a near-critical n-hexane fluid into the reactor.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "2",
+        "unit": "CO",
+        "original": "CO2"
+      },
+      "Catalyst type": {
+        "value": "Hybrid catalyst",
+        "unit": "Not reported",
+        "original": "Hybrid catalyst"
+      },
+      "Catalyst composition": {
+        "value": "Cu-ZnO",
+        "unit": "Not reported",
+        "original": "Cu-ZnO"
+      },
+      "Solvent": {
+        "value": "n-hexane",
+        "unit": "Not reported",
+        "original": "n-hexane"
+      },
+      "Reaction temperature": {
+        "value": "553",
+        "unit": "K",
+        "original": "553 K"
+      },
+      "Reaction pressure": {
+        "value": "4.0",
+        "unit": "MPa",
+        "original": "Total pressure: 4.0 MPa; Mixed gas partial pressure: 2.5 MPa; n-Hexane partial pressure: 0-1.5 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "/H",
+        "original": "Mixed gas: CO2/H2/Ar = 24/73/3 vol%"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/H",
+        "original": "CO2/H2/Ar/n-hexane = 24/73/3/60 (when P(mixed gas)=2.5 MPa and P(n-hexane)=1.5 MPa)"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g Cu-ZnO + 0.5 g zeolite"
+      },
+      "Product": {
+        "value": "9",
+        "unit": "hydrocarbons",
+        "original": "C5-C9 hydrocarbons (gasoline fraction)"
+      },
+      "Conversion rate": {
+        "value": "2",
+        "unit": "conversion",
+        "original": "CO2 conversion: 28.8-49.0% (depending on conditions)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "9",
+        "unit": "hydrocarbons",
+        "original": "{'C5-C9 hydrocarbons': '48.3-60.1%', 'C8-C13 hydrocarbons': '10.9-51.7%', 'CO': '14.5-34.3%', 'DME': '0-38.8%', 'C1-C2 hydrocarbons': '11.0-13.3%', 'C3-C4 hydrocarbons': '14.4-37.3%'}"
+      },
+      "Catalyst stability": {
+        "value": "Stable with time on stream (TOS)",
+        "unit": "Not reported",
+        "original": "Stable with time on stream (TOS)"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在近临界正己烷流体中，使用由Cu-ZnO和不同沸石（ZSM-5(23)、ZSM-5(80)、β(27)、USY(30)）组成的混合催化剂，将CO2直接加氢转化为C5-C13烃类（汽油和喷气燃料馏分）。研究了正己烷分压、反应温度、沸石类型和Pd助催化剂对催化性能的影响。",
+      "experiment_id": 1,
+      "text_snippet": "Direct CO2 hydrogenation to hydrocarbons via methanol synthesis is carried out over hybrid catalysts composed of Cu−ZnO and various zeolites by introducing a near-critical n-hexane fluid into the reactor."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

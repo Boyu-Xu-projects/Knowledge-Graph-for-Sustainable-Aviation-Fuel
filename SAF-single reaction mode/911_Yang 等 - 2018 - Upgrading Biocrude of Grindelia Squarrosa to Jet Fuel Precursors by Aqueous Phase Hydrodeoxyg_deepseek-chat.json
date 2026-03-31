@@ -1,0 +1,135 @@
+{
+  "file": "911_Yang 等 - 2018 - Upgrading Biocrude of Grindelia Squarrosa to Jet Fuel Precursors by Aqueous Phase Hydrodeoxyg.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用双功能催化剂（钯负载于钨酸锆）在高温高压水相条件下对Grindelia squarrosa生物原油进行加氢脱氧升级，以降低氧含量并生产航空燃料前体。",
+        "text_snippet": "Herein, a heterogeneous bi-functional catalyst, palladium with the reductive properties supported on tungstate zirconia with acidic properties and good stability in hydrothermal media, was used for the conversion of Grindelia squarrosa biocrude to potential bio-jet fuels.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2018",
+        "unit": "year",
+        "original": "2018"
+      },
+      "Feedstock": {
+        "value": "Grindelia squarrosa biocrude",
+        "unit": "Not reported",
+        "original": "Grindelia squarrosa biocrude"
+      },
+      "Catalyst type": {
+        "value": "Bifunctional heterogeneous catalyst",
+        "unit": "Not reported",
+        "original": "Bifunctional heterogeneous catalyst"
+      },
+      "Catalyst composition": {
+        "value": "1",
+        "unit": "%",
+        "original": "1% Pd/W-ZrO₂"
+      },
+      "Solvent": {
+        "value": "DI water",
+        "unit": "Not reported",
+        "original": "DI water"
+      },
+      "Reaction temperature": {
+        "value": "240",
+        "unit": "°C",
+        "original": "240 °C"
+      },
+      "Reaction pressure": {
+        "value": "400",
+        "unit": "psi",
+        "original": "400 psi H₂ initial pressure"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 hour"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g catalyst per 5.0 g biocrude (10:1 mass ratio)"
+      },
+      "Product": {
+        "value": "-16",
+        "unit": "carbons",
+        "original": "Partially saturated cyclic rings containing 14-16 carbons with lower oxygen content"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "79.4",
+        "unit": "%",
+        "original": "79.4% oil phase"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "6.5",
+        "unit": "nm",
+        "original": "Pd particle size increased from ~6.5 nm to ~7.2 nm after reaction"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用双功能催化剂（钯负载于钨酸锆）在高温高压水相条件下对Grindelia squarrosa生物原油进行加氢脱氧升级，以降低氧含量并生产航空燃料前体。",
+      "experiment_id": 1,
+      "text_snippet": "Herein, a heterogeneous bi-functional catalyst, palladium with the reductive properties supported on tungstate zirconia with acidic properties and good stability in hydrothermal media, was used for the conversion of Grindelia squarrosa biocrude to potential bio-jet fuels."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

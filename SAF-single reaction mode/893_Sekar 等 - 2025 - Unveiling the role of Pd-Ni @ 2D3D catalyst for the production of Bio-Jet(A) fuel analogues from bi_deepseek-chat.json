@@ -1,0 +1,135 @@
+{
+  "file": "893_Sekar 等 - 2025 - Unveiling the role of Pd-Ni @ 2D3D catalyst for the production of Bio-Jet(A) fuel analogues from bi.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在固定床气相反应器中，使用不同重量百分比的Pd-Ni/SBA-15-HZSM-5催化剂，在大气压下对生物质衍生模型化合物丁子香酚进行催化加氢脱氧反应，以生产可再生生物喷气燃料类似物（如正丙苯）。优化的3%Pd–7%Ni/SBA-15-HZSM-5催化剂在350°C下实现了100%的丁子香酚转化率和40.80%的正丙苯产率。",
+        "text_snippet": "The activity of different wt.% of Pd-Ni loaded SBA-15/HZSM-5 catalysts was evaluated in a fixed bed vapour phase reactor at atmospheric pressure. The vapour phase reactions of eugenol were conducted in a vertical-flow shape glass reactor... The optimal catalyst, 3%Pd–7%Ni/SBA-15-HZSM-5, exhibited a 100% conversion rate with a maximum yield of 40.80% for n-Propylbenzene at 350◦C in a fixed bed vapour phase reactor, demonstrating its potential as a Bio-Jet (A) fuel analogue under atmospheric pressure.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Eugenol",
+        "unit": "Not reported",
+        "original": "Eugenol"
+      },
+      "Catalyst type": {
+        "value": "15",
+        "unit": "Pd-Ni/SBA-",
+        "original": "Pd-Ni/SBA-15-HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "3",
+        "unit": "%Pd",
+        "original": "3%Pd–7%Ni/SBA-15-HZSM-5"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350°C"
+      },
+      "Reaction pressure": {
+        "value": "Atmospheric pressure",
+        "unit": "MPa",
+        "original": "Atmospheric pressure"
+      },
+      "Flow rate": {
+        "value": "1",
+        "unit": "mL/h",
+        "original": "1 ml/h (eugenol feed)"
+      },
+      "Reaction time": {
+        "value": "12",
+        "unit": "h",
+        "original": "12 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed bed vapour phase reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed vapour phase reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.1",
+        "unit": "g",
+        "original": "0.1 g"
+      },
+      "Product": {
+        "value": "n-Propylbenzene",
+        "unit": "Not reported",
+        "original": "n-Propylbenzene"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "40.80",
+        "unit": "%",
+        "original": "40.80% (n-Propylbenzene)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Consistent stability and reproducibility over five cycles",
+        "unit": "Not reported",
+        "original": "Consistent stability and reproducibility over five cycles"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床气相反应器中，使用不同重量百分比的Pd-Ni/SBA-15-HZSM-5催化剂，在大气压下对生物质衍生模型化合物丁子香酚进行催化加氢脱氧反应，以生产可再生生物喷气燃料类似物（如正丙苯）。优化的3%Pd–7%Ni/SBA-15-HZSM-5催化剂在350°C下实现了100%的丁子香酚转化率和40.80%的正丙苯产率。",
+      "experiment_id": 1,
+      "text_snippet": "The activity of different wt.% of Pd-Ni loaded SBA-15/HZSM-5 catalysts was evaluated in a fixed bed vapour phase reactor at atmospheric pressure. The vapour phase reactions of eugenol were conducted in a vertical-flow shape glass reactor... The optimal catalyst, 3%Pd–7%Ni/SBA-15-HZSM-5, exhibited a ..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

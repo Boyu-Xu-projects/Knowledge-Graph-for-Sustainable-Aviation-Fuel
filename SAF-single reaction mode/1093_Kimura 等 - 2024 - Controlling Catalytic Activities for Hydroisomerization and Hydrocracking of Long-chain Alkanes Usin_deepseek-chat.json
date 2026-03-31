@@ -1,0 +1,135 @@
+{
+  "file": "1093_Kimura 等 - 2024 - Controlling Catalytic Activities for Hydroisomerization and Hydrocracking of Long-chain Alkanes Usin.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢异构化和加氢裂化反应",
+        "reaction_type_english": "Hydroisomerization and Hydrocracking reaction",
+        "description": "在固定床流动反应器中，使用Pt-MgO负载的MFI、Beta和FAU沸石催化剂，在250°C、常压、H2/反应物摩尔比为13的条件下，对正十二烷（n-C12）进行催化加氢异构化和加氢裂化反应，以生产碳数为7-9的异构烷烃（i-C7-9）。实验考察了催化剂接触时间（W/F）从0.05到1.4 g-cat. h/g-reactant的影响。",
+        "text_snippet": "Hydroisomerization and hydrocracking of n-paraffin were carried out at ambient pressure in a fixed bed flow reactor... The reactant (n-C12) was fed to a 150 °C preheater by a microsyringe pump at the flow rate required to achieve the selected contact time (W/F)... The reaction was performed at 250 °C for 1 h",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "12",
+        "unit": "n-C",
+        "original": "n-dodecane (n-C12)"
+      },
+      "Catalyst type": {
+        "value": "Pt-MgO/MFI",
+        "unit": "Not reported",
+        "original": "Pt-MgO/MFI"
+      },
+      "Catalyst composition": {
+        "value": "Pt and MgO supported on MFI, Beta, and FAU zeolites",
+        "unit": "Not reported",
+        "original": "Pt and MgO supported on MFI, Beta, and FAU zeolites"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "250",
+        "unit": "°C",
+        "original": "250°C"
+      },
+      "Reaction pressure": {
+        "value": "ambient pressure (常压)",
+        "unit": "MPa",
+        "original": "ambient pressure (常压)"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "and",
+        "original": "H2 and N2 (H2:N2=1:2)"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/reactant",
+        "original": "H2/reactant molar ratio=13"
+      },
+      "Operation mode": {
+        "value": "Fixed bed flow reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.05",
+        "unit": ":",
+        "original": "W/F range: 0.05 to 1.4 g-cat. h/g-reactant"
+      },
+      "Product": {
+        "value": "-9",
+        "unit": "isomers",
+        "original": "i-C7-9 isomers"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "-9",
+        "unit": "yield",
+        "original": "i-C7-9 yield reached 42 C mol% over MgO/Pt/Beta at W/F=0.6 h"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢异构化和加氢裂化反应",
+      "reaction_type_english": "Hydroisomerization and Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床流动反应器中，使用Pt-MgO负载的MFI、Beta和FAU沸石催化剂，在250°C、常压、H2/反应物摩尔比为13的条件下，对正十二烷（n-C12）进行催化加氢异构化和加氢裂化反应，以生产碳数为7-9的异构烷烃（i-C7-9）。实验考察了催化剂接触时间（W/F）从0.05到1.4 g-cat. h/g-reactant的影响。",
+      "experiment_id": 1,
+      "text_snippet": "Hydroisomerization and hydrocracking of n-paraffin were carried out at ambient pressure in a fixed bed flow reactor... The reactant (n-C12) was fed to a 150 °C preheater by a microsyringe pump at the flow rate required to achieve the selected contact time (W/F)... The reaction was performed at 250 °..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢异构化和加氢裂化反应",
+      "reaction_type_english": "Hydroisomerization and Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

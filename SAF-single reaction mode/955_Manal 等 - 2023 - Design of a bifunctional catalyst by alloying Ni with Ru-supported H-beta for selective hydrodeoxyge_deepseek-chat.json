@@ -1,0 +1,247 @@
+{
+  "file": "955_Manal 等 - 2023 - Design of a bifunctional catalyst by alloying Ni with Ru-supported H-beta for selective hydrodeoxyge.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在150°C、3.0 MPa氢气压力下，使用1Ru0.5Ni/H-Beta双功能催化剂，对双酚A（BPA）进行液相加氢脱氧（HDO）反应1小时，将其转化为喷气燃料范围的C15环烷烃（丙烷-2,2-二基二环己烷，P7），实现了99.9%的转化率和97.3%的P7选择性。",
+        "text_snippet": "The hydrodeoxygenation of the polycarbonate model compounds (Bisphenol A)... was carried out in a stainless-steel high-pressure Parr reactor... afforded a complete conversion and >90% selectivity of propane-2,2-diyldicyclohexane (P7)... The catalytic hydrodeoxygenation of BPA... was investigated at 150◦C, 3.0MPaH2 gas for 1h using monometallic and bimetallic supported H-Beta catalysts.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在180°C、3.0 MPa氢气压力下，使用1Ru0.5Ni/H-Beta双功能催化剂，对聚碳酸酯（PC）塑料废物进行液相加氢脱氧（HDO）反应10小时，将其转化为喷气燃料范围的C15环烷烃（丙烷-2,2-二基二环己烷，P7），实现了99.9%的转化率和90.2%的P7选择性。该过程还放大到了2克塑料废物规模。",
+        "text_snippet": "The hydrodeoxygenation of... polycarbonate waste was carried out in a stainless-steel high-pressure Parr reactor... The process was scaled to 2 g of plastic waste... afforded a complete conversion and >90% selectivity of propane-2,2-diyldicyclohexane (P7)... The catalytic process was scaled up to 2g of PC waste. In this case, ~90% PC conversion and ~89% P7 selectivity were achieved.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "Bisphenol A (BPA)",
+        "unit": "Not reported",
+        "original": "Bisphenol A (BPA)"
+      },
+      "Catalyst type": {
+        "value": "Bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "Ru-Ni alloy supported on H-Beta zeolite",
+        "unit": "Not reported",
+        "original": "Ru-Ni alloy supported on H-Beta zeolite"
+      },
+      "Solvent": {
+        "value": "Decane",
+        "unit": "Not reported",
+        "original": "Decane"
+      },
+      "Reaction temperature": {
+        "value": "150",
+        "unit": "°C",
+        "original": "150°C"
+      },
+      "Reaction pressure": {
+        "value": "3.0",
+        "unit": "MPa",
+        "original": "3.0 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 hour"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.05",
+        "unit": "g",
+        "original": "0.05 g catalyst per 1.0 mmol BPA"
+      },
+      "Product": {
+        "value": "2",
+        "unit": "Propane-",
+        "original": "Propane-2,2-diyldicyclohexane (P7)"
+      },
+      "Conversion rate": {
+        "value": "99.9",
+        "unit": "%",
+        "original": "99.9%"
+      },
+      "Product yield": {
+        "value": "97.3",
+        "unit": "%",
+        "original": "97.3%"
+      },
+      "Product Selectivity": {
+        "value": "97.3",
+        "unit": "%",
+        "original": "97.3%"
+      },
+      "Catalyst stability": {
+        "value": "Excellent reusability for five catalytic runs",
+        "unit": "Not reported",
+        "original": "Excellent reusability for five catalytic runs"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在150°C、3.0 MPa氢气压力下，使用1Ru0.5Ni/H-Beta双功能催化剂，对双酚A（BPA）进行液相加氢脱氧（HDO）反应1小时，将其转化为喷气燃料范围的C15环烷烃（丙烷-2,2-二基二环己烷，P7），实现了99.9%的转化率和97.3%的P7选择性。",
+      "experiment_id": 1,
+      "text_snippet": "The hydrodeoxygenation of the polycarbonate model compounds (Bisphenol A)... was carried out in a stainless-steel high-pressure Parr reactor... afforded a complete conversion and >90% selectivity of propane-2,2-diyldicyclohexane (P7)... The catalytic hydrodeoxygenation of BPA... was investigated at ..."
+    },
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "Polycarbonate (PC) plastic waste",
+        "unit": "Not reported",
+        "original": "Polycarbonate (PC) plastic waste"
+      },
+      "Catalyst type": {
+        "value": "Bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "1",
+        "unit": "Ru",
+        "original": "1Ru0.5Ni/H-Beta"
+      },
+      "Solvent": {
+        "value": "Decane",
+        "unit": "Not reported",
+        "original": "Decane"
+      },
+      "Reaction temperature": {
+        "value": "180",
+        "unit": "°C",
+        "original": "180°C"
+      },
+      "Reaction pressure": {
+        "value": "3.0",
+        "unit": "MPa",
+        "original": "3.0 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "10",
+        "unit": "h",
+        "original": "10 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.05",
+        "unit": "g",
+        "original": "0.05 g catalyst per 0.2 g PC"
+      },
+      "Product": {
+        "value": "2",
+        "unit": "Propane-",
+        "original": "Propane-2,2-diyldicyclohexane (P7)"
+      },
+      "Conversion rate": {
+        "value": "99.9",
+        "unit": "%",
+        "original": "99.9%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "90.2",
+        "unit": "%",
+        "original": "90.2% P7 selectivity"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "cycles",
+        "original": "Excellent reusability with minor activity decrease after 5 cycles"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在180°C、3.0 MPa氢气压力下，使用1Ru0.5Ni/H-Beta双功能催化剂，对聚碳酸酯（PC）塑料废物进行液相加氢脱氧（HDO）反应10小时，将其转化为喷气燃料范围的C15环烷烃（丙烷-2,2-二基二环己烷，P7），实现了99.9%的转化率和90.2%的P7选择性。该过程还放大到了2克塑料废物规模。",
+      "experiment_id": 2,
+      "text_snippet": "The hydrodeoxygenation of... polycarbonate waste was carried out in a stainless-steel high-pressure Parr reactor... The process was scaled to 2 g of plastic waste... afforded a complete conversion and >90% selectivity of propane-2,2-diyldicyclohexane (P7)... The catalytic process was scaled up to 2g..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

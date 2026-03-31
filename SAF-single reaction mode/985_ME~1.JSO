@@ -1,0 +1,247 @@
+{
+  "file": "985_Meeboonanake 等 - 2025 - Conversion of FAMEs to Jet and Diesel-Range Fuels over Supported Cobalt on Irregular-Shaped H-ZSM-5.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在连续固定床反应器中，在钴改性ZSM-5催化剂上，于280-320°C、50 bar氢气压力下，将脂肪酸甲酯（FAMEs）转化为柴油和喷气燃料范围的烃类。",
+        "text_snippet": "Catalytic hydrodeoxygenation of FAMEs was performed in a continuous fixed-bed reactor... The catalyst bed was cooled down to the desired reaction temperature (280−320 °C), and the H2 pressure was controlled as a fixed parameter at 50 bar in all test runs.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢异构化反应",
+        "reaction_type_english": "Hydroisomerization reaction",
+        "description": "在钴改性ZSM-5催化剂上，于加氢脱氧反应条件下，将直链烷烃异构化为支链烷烃，以改善燃料的冷流性能。",
+        "text_snippet": "Its performance on FAMEs conversion was about 98%, providing mainly diesel products (n- and iso-C15−C18)... Furthermore, a sheet-like structure... giving a FAMEs conversion of 98% and more selective to jet-range fuel (n- and iso-C7−C14) of 33%.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Fatty acid methyl esters (FAMEs)",
+        "unit": "Not reported",
+        "original": "Fatty acid methyl esters (FAMEs)"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "Cobalt-modified ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "10 wt% Co on ZSM-5"
+      },
+      "Solvent": {
+        "value": "50",
+        "unit": "%",
+        "original": "n-hexane (50% vol dilution)"
+      },
+      "Reaction temperature": {
+        "value": "280",
+        "unit": "°C",
+        "original": "280°C"
+      },
+      "Reaction pressure": {
+        "value": "50",
+        "unit": "bar",
+        "original": "50 bar"
+      },
+      "Flow rate": {
+        "value": "1",
+        "unit": "h",
+        "original": "LHSV of 1 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen (H₂)",
+        "unit": "Not reported",
+        "original": "Hydrogen (H₂)"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "4",
+        "unit": "mL",
+        "original": "4 mL catalyst (180-500 μm size)"
+      },
+      "Product": {
+        "value": "n-alkanes (C₇-C₁₈)",
+        "unit": "Not reported",
+        "original": "n-alkanes (C₇-C₁₈)"
+      },
+      "Conversion rate": {
+        "value": "98",
+        "unit": "%",
+        "original": "98% (for optimal catalysts at 300-320°C)"
+      },
+      "Product yield": {
+        "value": "90",
+        "unit": "%",
+        "original": ">90% liquid product yield (for optimal catalysts at 280°C)"
+      },
+      "Product Selectivity": {
+        "value": "66.3",
+        "unit": "%",
+        "original": "Diesel-range: 66.3% (n-C₁₅-C₁₈ 35.8%, iso-C₁₅-C₁₈ 30.5%)"
+      },
+      "Catalyst stability": {
+        "value": "80",
+        "unit": "%",
+        "original": "Distorted hexagonal-shaped catalyst maintained >80% conversion after 30 h TOS"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在连续固定床反应器中，在钴改性ZSM-5催化剂上，于280-320°C、50 bar氢气压力下，将脂肪酸甲酯（FAMEs）转化为柴油和喷气燃料范围的烃类。",
+      "experiment_id": 1,
+      "text_snippet": "Catalytic hydrodeoxygenation of FAMEs was performed in a continuous fixed-bed reactor... The catalyst bed was cooled down to the desired reaction temperature (280−320 °C), and the H2 pressure was controlled as a fixed parameter at 50 bar in all test runs."
+    },
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "72.4",
+        "unit": "%",
+        "original": "Fatty acid methyl esters (FAMEs) containing methyl oleate (C18:1) 72.4%, methyl palmitate (C16:0) 10.1%, and methyl stearate (C18:0) 7.0%"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "Cobalt-modified ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "10 wt% Co on ZSM-5 (various Si/Al ratios and morphologies)"
+      },
+      "Solvent": {
+        "value": "50",
+        "unit": "%",
+        "original": "n-hexane (50% vol dilution)"
+      },
+      "Reaction temperature": {
+        "value": "280",
+        "unit": "°C",
+        "original": "280 °C"
+      },
+      "Reaction pressure": {
+        "value": "50",
+        "unit": "bar",
+        "original": "50 bar"
+      },
+      "Flow rate": {
+        "value": "1",
+        "unit": "h",
+        "original": "LHSV of 1 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "4",
+        "unit": "mL",
+        "original": "4 mL catalyst (180-500 μm)"
+      },
+      "Product": {
+        "value": "n- and iso-C₁₅–C₁₈ (diesel range)",
+        "unit": "Not reported",
+        "original": "n- and iso-C₁₅–C₁₈ (diesel range)"
+      },
+      "Conversion rate": {
+        "value": "98",
+        "unit": "%",
+        "original": "98% (for best catalysts)"
+      },
+      "Product yield": {
+        "value": "90",
+        "unit": "%",
+        "original": ">90% liquid product yield (for best catalysts at 280 °C)"
+      },
+      "Product Selectivity": {
+        "value": "66.3",
+        "unit": "%",
+        "original": "Diesel range: up to 66.3%"
+      },
+      "Catalyst stability": {
+        "value": "80",
+        "unit": "%",
+        "original": "Distorted hexagonal-shaped catalyst maintained >80% conversion after 30 h TOS; sheet-shaped catalyst deactivated faster (below 80% after 8 h TOS)"
+      },
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在钴改性ZSM-5催化剂上，于加氢脱氧反应条件下，将直链烷烃异构化为支链烷烃，以改善燃料的冷流性能。",
+      "experiment_id": 2,
+      "text_snippet": "Its performance on FAMEs conversion was about 98%, providing mainly diesel products (n- and iso-C15−C18)... Furthermore, a sheet-like structure... giving a FAMEs conversion of 98% and more selective to jet-range fuel (n- and iso-C7−C14) of 33%."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

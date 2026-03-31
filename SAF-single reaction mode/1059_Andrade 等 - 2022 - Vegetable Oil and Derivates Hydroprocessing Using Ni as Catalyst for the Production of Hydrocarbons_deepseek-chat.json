@@ -1,0 +1,247 @@
+{
+  "file": "1059_Andrade 等 - 2022 - Vegetable Oil and Derivates Hydroprocessing Using Ni as Catalyst for the Production of Hydrocarbons.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢处理反应",
+        "reaction_type_english": "Hydroprocessing reaction",
+        "description": "在70 bar氢气压力下，使用Ni/Al2O3和Ni/Nb2O5催化剂，对大豆甲酯进行催化加氢处理。反应在270°C、290°C和300°C下进行，时间为5小时和7小时。",
+        "text_snippet": "With soy ester, reactions with the Ni/AlO and Ni/NbO catalystshowedselectivity of41.2and16.5%,respectively,atatemperatureof300°Candareactiontimeof7h... hydroprocessing reactionsforthesoybeanesterusingNi/BetaandNi/HYzeolitespromotedmoreexcellentconversion(between80and99%)than oxidecatalysts",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢处理反应",
+        "reaction_type_english": "Hydroprocessing reaction",
+        "description": "在70 bar氢气压力下，使用Ni/Beta和Ni/HY沸石催化剂，对大豆甲酯和脂肪酸进行催化加氢处理。反应在300°C和340°C下进行，时间为7小时和9小时。",
+        "text_snippet": "zeolitecatalystsshowedhigh conversionatthehighertemperature(340°C)andtime(9h),reaching100%conversionandhydrocarbonsselectivityof76.8and61.9% forzeoliteBetaandHY,respectively.Changingtherawmaterialtofattyacidsmadeitpossibletonoticethatzeolitecatalystsshowed highselectivityreaching100%.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Soy methyl ester",
+        "unit": "Not reported",
+        "original": "Soy methyl ester"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "O",
+        "original": "Ni/Al2O3"
+      },
+      "Catalyst composition": {
+        "value": "15",
+        "unit": "%",
+        "original": "15% Ni (wt/wt) on γ-Al2O3"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "270",
+        "unit": "°C",
+        "original": "270°C"
+      },
+      "Reaction pressure": {
+        "value": "70",
+        "unit": "bar",
+        "original": "70 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "5",
+        "unit": "h",
+        "original": "5 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Semibatch",
+        "unit": "Not reported",
+        "original": "Semibatch"
+      },
+      "Catalyst loading": {
+        "value": "3",
+        "unit": "%",
+        "original": "3% (w/w)"
+      },
+      "Product": {
+        "value": "Hydrocarbons",
+        "unit": "Not reported",
+        "original": "Hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "-99",
+        "unit": "%",
+        "original": "80-99% (soy ester, Ni/Beta and Ni/HY, 300°C)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "41.2",
+        "unit": "%",
+        "original": "41.2% (hydrocarbons, Ni/Al2O3, soy ester, 300°C, 7h)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydroprocessing reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在70 bar氢气压力下，使用Ni/Al2O3和Ni/Nb2O5催化剂，对大豆甲酯进行催化加氢处理。反应在270°C、290°C和300°C下进行，时间为5小时和7小时。",
+      "experiment_id": 1,
+      "text_snippet": "With soy ester, reactions with the Ni/AlO and Ni/NbO catalystshowedselectivity of41.2and16.5%,respectively,atatemperatureof300°Candareactiontimeof7h... hydroprocessing reactionsforthesoybeanesterusingNi/BetaandNi/HYzeolitespromotedmoreexcellentconversion(between80and99%)than oxidecatalysts"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Soy methyl ester",
+        "unit": "Not reported",
+        "original": "Soy methyl ester"
+      },
+      "Catalyst type": {
+        "value": "Zeolite",
+        "unit": "Not reported",
+        "original": "Zeolite"
+      },
+      "Catalyst composition": {
+        "value": "Ni/Beta",
+        "unit": "Not reported",
+        "original": "Ni/Beta"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "300",
+        "unit": "°C",
+        "original": "300°C"
+      },
+      "Reaction pressure": {
+        "value": "70",
+        "unit": "bar",
+        "original": "70 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "7",
+        "unit": "h",
+        "original": "7 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Semi-batch",
+        "unit": "Not reported",
+        "original": "Semi-batch"
+      },
+      "Catalyst loading": {
+        "value": "3",
+        "unit": "%",
+        "original": "3% (w/w)"
+      },
+      "Product": {
+        "value": "Hydrocarbons",
+        "unit": "Not reported",
+        "original": "Hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "-99",
+        "unit": "%",
+        "original": "80-99%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "-70",
+        "unit": "%",
+        "original": "30-70%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydroprocessing reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在70 bar氢气压力下，使用Ni/Beta和Ni/HY沸石催化剂，对大豆甲酯和脂肪酸进行催化加氢处理。反应在300°C和340°C下进行，时间为7小时和9小时。",
+      "experiment_id": 2,
+      "text_snippet": "zeolitecatalystsshowedhigh conversionatthehighertemperature(340°C)andtime(9h),reaching100%conversionandhydrocarbonsselectivityof76.8and61.9% forzeoliteBetaandHY,respectively.Changingtherawmaterialtofattyacidsmadeitpossibletonoticethatzeolitecatalystsshowed highselectivityreaching100%."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydroprocessing reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydroprocessing reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

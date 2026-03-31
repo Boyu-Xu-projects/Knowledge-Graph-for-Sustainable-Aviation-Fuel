@@ -1,0 +1,135 @@
+{
+  "file": "991_Cheng 等 - 2022 - Ni-based metal–organic frameworks prepared with terephthalic acid hydroxylation converted methyl pal.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "脱氧裂解反应",
+        "reaction_type_english": "Deoxygenation and Cracking reaction",
+        "description": "在CO₂气氛下，使用Ni-DOBDC催化剂将棕榈酸甲酯转化为喷气燃料范围的烃类（C8-C16）",
+        "text_snippet": "The deoxygenation and cracking reaction was conducted in a miniature high-temperature and high-pressure batch reactor... Ni-MOFs and methyl palmitate were placed in the reactor at a specific mass ratio (1:20, 1:40, or 1:60)... The reactor was heated to set temperature and held at this temperature for 8 h.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Methyl palmitate",
+        "unit": "Not reported",
+        "original": "Methyl palmitate"
+      },
+      "Catalyst type": {
+        "value": "Ni-based metal–organic frameworks (Ni-MOFs)",
+        "unit": "Not reported",
+        "original": "Ni-based metal–organic frameworks (Ni-MOFs)"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "with",
+        "original": "Ni-DOBDC (Nickel with 2,5-dihydroxy terephthalic acid ligand)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "430",
+        "unit": "°C",
+        "original": "430 °C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "8",
+        "unit": "h",
+        "original": "8 h"
+      },
+      "Atmosphere": {
+        "value": "CO₂",
+        "unit": "Not reported",
+        "original": "CO₂"
+      },
+      "Reactant molar ratio": {
+        "value": "1:40",
+        "unit": ":",
+        "original": "Catalyst to FAMEs mass ratio: 1:40"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "100",
+        "unit": "mg",
+        "original": "100 mg catalyst with methyl palmitate (mass ratio 1:40)"
+      },
+      "Product": {
+        "value": "8",
+        "unit": "°C",
+        "original": "Jet-fuel range hydrocarbons (C8-C16)"
+      },
+      "Conversion rate": {
+        "value": "98",
+        "unit": "%",
+        "original": "98%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "82",
+        "unit": "%",
+        "original": "82% jet-fuel range hydrocarbons"
+      },
+      "Catalyst stability": {
+        "value": "82",
+        "unit": "%",
+        "original": "Selectivity decreased from 82% to 74% after five cycles due to coke enrichment, conversion remained above 95%"
+      },
+      "reaction_type": "脱氧裂解反应",
+      "reaction_type_english": "Deoxygenation and Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在CO₂气氛下，使用Ni-DOBDC催化剂将棕榈酸甲酯转化为喷气燃料范围的烃类（C8-C16）",
+      "experiment_id": 1,
+      "text_snippet": "The deoxygenation and cracking reaction was conducted in a miniature high-temperature and high-pressure batch reactor... Ni-MOFs and methyl palmitate were placed in the reactor at a specific mass ratio (1:20, 1:40, or 1:60)... The reactor was heated to set temperature and held at this temperature fo..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "脱氧裂解反应",
+      "reaction_type_english": "Deoxygenation and Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

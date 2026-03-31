@@ -1,0 +1,247 @@
+{
+  "file": "1089_Chen 等 - 2024 - Cycloalkane-rich sustainable aviation fuel production via hydrotreating lignocellulosic bioma.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化热解反应",
+        "reaction_type_english": "Catalytic fast pyrolysis reaction",
+        "description": "使用Pt/TiO₂催化剂在固定床反应器中，在500-525°C、85% H₂/15% N₂气氛下，对松木生物质进行催化热解，生产CFP油。",
+        "text_snippet": "The Pt/TiO₂-CFP oil was produced with co-fed H₂ at atmospheric pressure in an ex situ bench-scale unit in the 2-inch Fluidized Bed Reactor (2FBR) system, which consisted of a 5 cm inner diameter fluidized bed pyrolyzer and a fixed bed catalytic upgrading reactor.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "催化热解反应",
+        "reaction_type_english": "Catalytic fast pyrolysis reaction",
+        "description": "使用ZSM-5催化剂在循环提升管反应器中，在500°C、N₂气氛下，对松木生物质进行催化热解，生产CFP油。",
+        "text_snippet": "The ZSM-5-CFP oil was produced in an ex situ pilot-scale system in the Thermal and Catalytic Process Development Unit (TCPDU), which consisted of an entrained-flow pyrolyzer and a circulating riser catalytic upgrader.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Loblolly pine",
+        "unit": "Not reported",
+        "original": "Loblolly pine"
+      },
+      "Catalyst type": {
+        "value": "Pt/TiO₂",
+        "unit": "Not reported",
+        "original": "Pt/TiO₂"
+      },
+      "Catalyst composition": {
+        "value": "0.5",
+        "unit": "wt%",
+        "original": "0.5 wt% Pt on 85% anatase/15% rutile TiO₂"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-525",
+        "unit": "°C",
+        "original": "500-525 °C"
+      },
+      "Reaction pressure": {
+        "value": "Atmospheric pressure",
+        "unit": "MPa",
+        "original": "Atmospheric pressure"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "85",
+        "unit": "%",
+        "original": "85% H₂/15% N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "CFP oil",
+        "unit": "Not reported",
+        "original": "CFP oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic fast pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "使用Pt/TiO₂催化剂在固定床反应器中，在500-525°C、85% H₂/15% N₂气氛下，对松木生物质进行催化热解，生产CFP油。",
+      "experiment_id": 1,
+      "text_snippet": "The Pt/TiO₂-CFP oil was produced with co-fed H₂ at atmospheric pressure in an ex situ bench-scale unit in the 2-inch Fluidized Bed Reactor (2FBR) system, which consisted of a 5 cm inner diameter fluidized bed pyrolyzer and a fixed bed catalytic upgrading reactor."
+    },
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Loblolly pine",
+        "unit": "Not reported",
+        "original": "Loblolly pine"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "30",
+        "unit": "mol/mol",
+        "original": "SiO₂/Al₂O₃ ratio approximately 30 mol/mol"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500",
+        "unit": "°C",
+        "original": "500 °C"
+      },
+      "Reaction pressure": {
+        "value": "Atmospheric pressure",
+        "unit": "MPa",
+        "original": "Atmospheric pressure"
+      },
+      "Flow rate": {
+        "value": "10",
+        "unit": "kg",
+        "original": "10 kg h⁻¹ (biomass feed rate)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "N₂",
+        "unit": "Not reported",
+        "original": "N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Circulating riser reactor",
+        "unit": "Not reported",
+        "original": "Circulating riser reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "CFP oil",
+        "unit": "Not reported",
+        "original": "CFP oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic fast pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "使用ZSM-5催化剂在循环提升管反应器中，在500°C、N₂气氛下，对松木生物质进行催化热解，生产CFP油。",
+      "experiment_id": 2,
+      "text_snippet": "The ZSM-5-CFP oil was produced in an ex situ pilot-scale system in the Thermal and Catalytic Process Development Unit (TCPDU), which consisted of an entrained-flow pyrolyzer and a circulating riser catalytic upgrader."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic fast pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic fast pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

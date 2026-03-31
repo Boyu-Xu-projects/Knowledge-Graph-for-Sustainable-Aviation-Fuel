@@ -1,0 +1,135 @@
+{
+  "file": "945_Kumar 等 - 2024 - Engineered Ru on HY zeolite catalyst for continuous and selective hydrodeoxygenation of lignin pheno.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在连续固定床反应器中，使用改性催化剂Ru-HY-60-MI，在180°C和1 MPa的温和条件下，将愈创木酚连续选择性加氢脱氧转化为环烷烃（主要是环己烷）。",
+        "text_snippet": "The modified catalyst (Ru-HY-60-MI) was tested in a continuous fixed bed reactor, resulting in increased HDO conversion of guaiacol to cycloalkanes... Pressure, temperature, and weight hourly space velocity-dependent tests validate guaiacol HDO over Ru-HY-60-MI catalyzed ring hydrogenation of guaiacol to 2-methoxycyclohexanol, acid-catalyzed demethoxylation and dehydration to cyclohexene, and further hydrogenation of cyclohexene to cyclohexane.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Guaiacol",
+        "unit": "Not reported",
+        "original": "Guaiacol"
+      },
+      "Catalyst type": {
+        "value": "Zeolite-supported Ru catalyst",
+        "unit": "Not reported",
+        "original": "Zeolite-supported Ru catalyst"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "wt%",
+        "original": "Ru-HY-60-MI (2 wt% Ru on 60% HY zeolite with 40% inert material, modified impregnation with citric acid)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "180",
+        "unit": "°C",
+        "original": "180°C"
+      },
+      "Reaction pressure": {
+        "value": "1",
+        "unit": "MPa",
+        "original": "1 MPa"
+      },
+      "Flow rate": {
+        "value": "1",
+        "unit": "h",
+        "original": "Weight Hourly Space Velocity (WHSV) of 1 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Continuous process, time on stream data up to several hours",
+        "unit": "h",
+        "original": "Continuous process, time on stream data up to several hours"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "g",
+        "original": "5 g catalyst packed in reactor"
+      },
+      "Product": {
+        "value": "Cyclohexane",
+        "unit": "Not reported",
+        "original": "Cyclohexane"
+      },
+      "Conversion rate": {
+        "value": "99.9",
+        "unit": "%",
+        "original": ">99.9% for guaiacol"
+      },
+      "Product yield": {
+        "value": "88.6",
+        "unit": "wt%",
+        "original": "88.6 wt% liquid yield for guaiacol HDO"
+      },
+      "Product Selectivity": {
+        "value": "83.2",
+        "unit": "%",
+        "original": "83.2% cyclohexane"
+      },
+      "Catalyst stability": {
+        "value": "Stable over entire time on stream with complete conversion and no deactivation",
+        "unit": "Not reported",
+        "original": "Stable over entire time on stream with complete conversion and no deactivation"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在连续固定床反应器中，使用改性催化剂Ru-HY-60-MI，在180°C和1 MPa的温和条件下，将愈创木酚连续选择性加氢脱氧转化为环烷烃（主要是环己烷）。",
+      "experiment_id": 1,
+      "text_snippet": "The modified catalyst (Ru-HY-60-MI) was tested in a continuous fixed bed reactor, resulting in increased HDO conversion of guaiacol to cycloalkanes... Pressure, temperature, and weight hourly space velocity-dependent tests validate guaiacol HDO over Ru-HY-60-MI catalyzed ring hydrogenation of guaiac..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

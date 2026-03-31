@@ -1,0 +1,135 @@
+{
+  "file": "1041_Xing 等 - 2017 - One-step hydroprocessing of fatty acids into renewable aromatic hydrocarbons over NiHZSM-5 insight.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢处理",
+        "reaction_type_english": "Hydroprocessing",
+        "description": "在Ni/HZSM-5催化剂上，于360°C和4 MPa氢气压力下，对脂肪酸进行一步加氢处理12小时，生产可再生芳烃。该过程涉及加氢脱氧、加氢裂化和芳构化等多种反应。",
+        "text_snippet": "The one-step hydroprocessing of fatty acids was conducted in a high-pressure autoclave... About 10 g feedstock and 0.6 g catalyst were added into the reactor... After 8 h reaction at a designated temperature (280 °C, 320 °C, 340 °C, 360 °C, and 380 °C)... The one-step hydroprocessing of fatty acids over Ni/HZSM-5 catalysts... A yield of B64% AHCs was obtained by hydroprocessing 10 g fatty acids in the presence of 0.6 g catalyst comprising 10 wt% Ni/HZSM-5 with a Si/Al ratio of 25 for 12 h at 360 °C and 4 MPa H₂.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "8.36",
+        "unit": "wt%",
+        "original": "Fatty acids (composition: Palmitic acid 8.36 wt%, Stearic acid 3.59 wt%, Oleic acid 67.20 wt%, Linoleic acid 13.67 wt%, Linolenic acid 2.87 wt%, Eicosenoic acid 4.31 wt%)"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "Ni/HZSM-",
+        "original": "Ni/HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "zeolite",
+        "original": "Ni nanoparticles on HZSM-5 zeolite support (Si/Al ratios: 25, 80, 120, 150, 200; Ni loadings: 5 wt%, 10 wt%, 12.5 wt%, 15 wt%)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "360",
+        "unit": "°C",
+        "original": "360 °C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "12",
+        "unit": "h",
+        "original": "12 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "Hydrogen (H2)"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/oil",
+        "original": "H2/oil molar ratio = 7.13"
+      },
+      "Operation mode": {
+        "value": "Batch (high-pressure autoclave reactor)",
+        "unit": "Not reported",
+        "original": "Batch (high-pressure autoclave reactor)"
+      },
+      "Catalyst loading": {
+        "value": "0.6",
+        "unit": "g",
+        "original": "0.6 g catalyst per 10 g fatty acids"
+      },
+      "Product": {
+        "value": "2",
+        "unit": "ethyl-",
+        "original": "Aromatic hydrocarbons (toluene, ethylbenzene, o-xylene, p-xylene, propylbenzene, 1-ethyl-2-methylbenzene), alkanes, olefins, cyclic hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% (at 340°C and above)"
+      },
+      "Product yield": {
+        "value": "64.61",
+        "unit": "wt%",
+        "original": "AHC yield: 64.61 wt% (after 12 h at 360°C)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢处理",
+      "reaction_type_english": "Hydroprocessing",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Ni/HZSM-5催化剂上，于360°C和4 MPa氢气压力下，对脂肪酸进行一步加氢处理12小时，生产可再生芳烃。该过程涉及加氢脱氧、加氢裂化和芳构化等多种反应。",
+      "experiment_id": 1,
+      "text_snippet": "The one-step hydroprocessing of fatty acids was conducted in a high-pressure autoclave... About 10 g feedstock and 0.6 g catalyst were added into the reactor... After 8 h reaction at a designated temperature (280 °C, 320 °C, 340 °C, 360 °C, and 380 °C)... The one-step hydroprocessing of fatty acids ..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢处理",
+      "reaction_type_english": "Hydroprocessing",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

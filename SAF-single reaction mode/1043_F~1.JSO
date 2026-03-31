@@ -1,0 +1,135 @@
+{
+  "file": "1043_Forghani和Lewis - 2016 - Hydro‐conversion of oleic acid in bio‐oil to liquid hydrocarbons an experimental and modeling inves.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在实验室规模的滴流床反应器中，使用Ni-Zeolite β催化剂和氢气，在350-450°C和30 bar压力下，对生物油的主要成分油酸进行加氢裂化，将其转化为喷气燃料范围的烃类（壬烷、癸烷、十二烷）。",
+        "text_snippet": "The hydrocracking of oleic acid was performed in a laboratory scale trickle-bed reactor in the presence of a Ni–Zeolite 𝜷 catalyst and hydrogen for hydrogenation... The hydrocracking reactions were performed at different reaction bed temperatures with the operating conditions as shown in Table 2.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2014",
+        "unit": "year",
+        "original": "2014"
+      },
+      "Feedstock": {
+        "value": "Oleic acid",
+        "unit": "Not reported",
+        "original": "Oleic acid"
+      },
+      "Catalyst type": {
+        "value": "Ni–Zeolite β",
+        "unit": "Not reported",
+        "original": "Ni–Zeolite β"
+      },
+      "Catalyst composition": {
+        "value": "Ni/Zeolite β",
+        "unit": "Not reported",
+        "original": "Ni/Zeolite β"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-450",
+        "unit": "°C",
+        "original": "350-450°C"
+      },
+      "Reaction pressure": {
+        "value": "30",
+        "unit": "bar",
+        "original": "30 bar"
+      },
+      "Flow rate": {
+        "value": "0.1",
+        "unit": "mL/min",
+        "original": "0.1 mL/min (oleic acid)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Trickle-bed reactor",
+        "unit": "Not reported",
+        "original": "Trickle-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "g",
+        "original": "1 g"
+      },
+      "Product": {
+        "value": "9",
+        "unit": "°C",
+        "original": "Nonane (C9)"
+      },
+      "Conversion rate": {
+        "value": "71.26",
+        "unit": "%",
+        "original": "71.26% at 350°C"
+      },
+      "Product yield": {
+        "value": "-17.24",
+        "unit": "wt%",
+        "original": "Nonane: 14.72-17.24 wt%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在实验室规模的滴流床反应器中，使用Ni-Zeolite β催化剂和氢气，在350-450°C和30 bar压力下，对生物油的主要成分油酸进行加氢裂化，将其转化为喷气燃料范围的烃类（壬烷、癸烷、十二烷）。",
+      "experiment_id": 1,
+      "text_snippet": "The hydrocracking of oleic acid was performed in a laboratory scale trickle-bed reactor in the presence of a Ni–Zeolite 𝜷 catalyst and hydrogen for hydrogenation... The hydrocracking reactions were performed at different reaction bed temperatures with the operating conditions as shown in Table 2."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "881_Why 等 - 2022 - Single-step catalytic deoxygenation of palm feedstocks for the production of sustainable bio-jet fue.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化脱氧反应",
+        "reaction_type_english": "Catalytic deoxygenation reaction",
+        "description": "在400°C、2小时、氮气气氛下，使用不同催化剂（Pd/C、沸石、CaO、V2O5、TiO2）和不同催化剂负载量（0-10 wt%），对不同棕榈原料（废弃烹饪油WCO、棕榈油精PO、棕榈仁油PKO）进行单步催化脱氧，生产生物航空燃料。",
+        "text_snippet": "this study focused on the production of bio-jet fuel from different types of palm oil (e.g., palm-based waste cooking oil, palm olein, palm kernel oil) through deoxygenation process... under condition of 400(cid:1)C for 2h with different catalyst loading (e.g., 0 wt%, 5 wt%, 6 wt%, 7 wt%, 8 wt%, 9 wt% and 10 wt%).",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "WCO",
+        "unit": "Not reported",
+        "original": "WCO"
+      },
+      "Catalyst type": {
+        "value": "Pd/C",
+        "unit": "Not reported",
+        "original": "Pd/C"
+      },
+      "Catalyst composition": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "400",
+        "unit": "°C",
+        "original": "400°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 hours"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0",
+        "unit": "wt%",
+        "original": "0 wt%"
+      },
+      "Product": {
+        "value": "n-paraffins",
+        "unit": "Not reported",
+        "original": "n-paraffins"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "96",
+        "unit": "%",
+        "original": "96% (liquid product from PKO over Pd/C at 8 wt%)"
+      },
+      "Product Selectivity": {
+        "value": "73",
+        "unit": "%",
+        "original": "73% (jet paraffins selectivity from PKO over Pd/C at 8 wt%)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化脱氧反应",
+      "reaction_type_english": "Catalytic deoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在400°C、2小时、氮气气氛下，使用不同催化剂（Pd/C、沸石、CaO、V2O5、TiO2）和不同催化剂负载量（0-10 wt%），对不同棕榈原料（废弃烹饪油WCO、棕榈油精PO、棕榈仁油PKO）进行单步催化脱氧，生产生物航空燃料。",
+      "experiment_id": 1,
+      "text_snippet": "this study focused on the production of bio-jet fuel from different types of palm oil (e.g., palm-based waste cooking oil, palm olein, palm kernel oil) through deoxygenation process... under condition of 400(cid:1)C for 2h with different catalyst loading (e.g., 0 wt%, 5 wt%, 6 wt%, 7 wt%, 8 wt%, 9 w..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化脱氧反应",
+      "reaction_type_english": "Catalytic deoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

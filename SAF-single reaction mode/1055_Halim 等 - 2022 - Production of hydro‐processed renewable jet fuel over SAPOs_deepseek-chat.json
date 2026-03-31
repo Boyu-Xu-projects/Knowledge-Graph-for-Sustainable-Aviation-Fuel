@@ -1,0 +1,247 @@
+{
+  "file": "1055_Halim 等 - 2022 - Production of hydro‐processed renewable jet fuel over SAPOs.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化/加氢异构化反应",
+        "reaction_type_english": "Hydrocracking / Hydroisomerization reaction",
+        "description": "使用三种不同的金属（镍、钴、钼）负载在SAPO-11上的催化剂，以正十六烷(n-hexadecane)为模型原料进行活性测试，评估其转化率。镍基催化剂显示出最高的转化率（70%）。",
+        "text_snippet": "First, three metals, nickel, cobalt, and molybdenum, were selected to be loaded on SAPO-11 separately and their activities were tested over the model feedstock, n-hexadecane. Among the three catalysts, nickel SAPO-11 shows the highest conversion of 70%.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢裂化/加氢异构化反应",
+        "reaction_type_english": "Hydrocracking / Hydroisomerization reaction",
+        "description": "使用优化的Ni/SAPO-11(CA)催化剂，以棕榈油衍生的加氢烷烃(HA)为原料，在优化条件下（温度380°C，压力52 bar，LHSV 0.5 h⁻¹，H₂/原料比1250）生产加氢可再生航空燃料(HRJ)，获得了73%的转化率和6.1的异构烷烃与正构烷烃比(I-to-N)。",
+        "text_snippet": "Through the Taguchi method, the optimal operating conditions were found to be: temperature of 380°C, pressure of 52 bar, liquid hourly space velocity of 0.5 h⁻¹, and H₂-to-feedstock ratio of 1250, which yielded in 73% conversion to HRJ with 6.1 isomer-to-normal (I-to-N) alkane ratio.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "n-hexadecane",
+        "unit": "Not reported",
+        "original": "n-hexadecane"
+      },
+      "Catalyst type": {
+        "value": "11",
+        "unit": "SAPO-",
+        "original": "SAPO-11-based catalyst"
+      },
+      "Catalyst composition": {
+        "value": "11",
+        "unit": "Ni/SAPO-",
+        "original": "Ni/SAPO-11"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "360",
+        "unit": "°C",
+        "original": "360°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "2",
+        "unit": "h",
+        "original": "LHSV 2 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "300:1",
+        "unit": ":",
+        "original": "H₂/FS 300:1"
+      },
+      "Operation mode": {
+        "value": "Trickle bed reactor",
+        "unit": "Not reported",
+        "original": "Trickle bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "10 wt% metal loading"
+      },
+      "Product": {
+        "value": "hydro-processed renewable jet fuel (HRJ)",
+        "unit": "Not reported",
+        "original": "hydro-processed renewable jet fuel (HRJ)"
+      },
+      "Conversion rate": {
+        "value": "70",
+        "unit": "%",
+        "original": "70%"
+      },
+      "Product yield": {
+        "value": "73",
+        "unit": "%",
+        "original": "73% HRJ yield"
+      },
+      "Product Selectivity": {
+        "value": "48",
+        "unit": "%",
+        "original": "48% selectivity toward C₈-C₁₄"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化/加氢异构化反应",
+      "reaction_type_english": "Hydrocracking / Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用三种不同的金属（镍、钴、钼）负载在SAPO-11上的催化剂，以正十六烷(n-hexadecane)为模型原料进行活性测试，评估其转化率。镍基催化剂显示出最高的转化率（70%）。",
+      "experiment_id": 1,
+      "text_snippet": "First, three metals, nickel, cobalt, and molybdenum, were selected to be loaded on SAPO-11 separately and their activities were tested over the model feedstock, n-hexadecane. Among the three catalysts, nickel SAPO-11 shows the highest conversion of 70%."
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "棕榈油衍生的加氢烷烃(HA)",
+        "unit": "Not reported",
+        "original": "棕榈油衍生的加氢烷烃(HA)"
+      },
+      "Catalyst type": {
+        "value": "11",
+        "unit": "Ni/SAPO-",
+        "original": "Ni/SAPO-11"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "10 wt% Ni loaded on SAPO-11 with citric acid (CA: metal = 5:1, mol/mol)"
+      },
+      "Solvent": {
+        "value": "Ethanol",
+        "unit": "Not reported",
+        "original": "Ethanol"
+      },
+      "Reaction temperature": {
+        "value": "380",
+        "unit": "°C",
+        "original": "380 °C"
+      },
+      "Reaction pressure": {
+        "value": "52",
+        "unit": "bar",
+        "original": "52 bar"
+      },
+      "Flow rate": {
+        "value": "0.5",
+        "unit": "h",
+        "original": "LHSV 0.5 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "H₂/原料比 1250",
+        "unit": "Not reported",
+        "original": "H₂/原料比 1250"
+      },
+      "Operation mode": {
+        "value": "Trickle bed reactor",
+        "unit": "Not reported",
+        "original": "Trickle bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "60",
+        "unit": "mL",
+        "original": "60 mL catalyst mixed with 200 mL active carbon"
+      },
+      "Product": {
+        "value": "加氢可再生航空燃料(HRJ)",
+        "unit": "Not reported",
+        "original": "加氢可再生航空燃料(HRJ)"
+      },
+      "Conversion rate": {
+        "value": "73",
+        "unit": "%",
+        "original": "73%"
+      },
+      "Product yield": {
+        "value": "73",
+        "unit": "%",
+        "original": "73% HRJ yield"
+      },
+      "Product Selectivity": {
+        "value": "48",
+        "unit": "%",
+        "original": "48% selectivity toward C₈-C₁₄ hydrocarbons"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化/加氢异构化反应",
+      "reaction_type_english": "Hydrocracking / Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用优化的Ni/SAPO-11(CA)催化剂，以棕榈油衍生的加氢烷烃(HA)为原料，在优化条件下（温度380°C，压力52 bar，LHSV 0.5 h⁻¹，H₂/原料比1250）生产加氢可再生航空燃料(HRJ)，获得了73%的转化率和6.1的异构烷烃与正构烷烃比(I-to-N)。",
+      "experiment_id": 2,
+      "text_snippet": "Through the Taguchi method, the optimal operating conditions were found to be: temperature of 380°C, pressure of 52 bar, liquid hourly space velocity of 0.5 h⁻¹, and H₂-to-feedstock ratio of 1250, which yielded in 73% conversion to HRJ with 6.1 isomer-to-normal (I-to-N) alkane ratio."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化/加氢异构化反应",
+      "reaction_type_english": "Hydrocracking / Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢裂化/加氢异构化反应",
+      "reaction_type_english": "Hydrocracking / Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

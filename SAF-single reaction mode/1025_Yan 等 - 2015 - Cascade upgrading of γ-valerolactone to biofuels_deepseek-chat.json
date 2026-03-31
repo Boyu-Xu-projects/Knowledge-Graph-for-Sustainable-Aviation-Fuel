@@ -1,0 +1,359 @@
+{
+  "file": "1025_Yan 等 - 2015 - Cascade upgrading of γ-valerolactone to biofuels.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用双功能Pd/HY催化剂，在260°C、80 bar H₂压力下反应30小时，将γ-戊内酯（GVL）升级为戊酸戊酯（PV），获得60.6%的产率。",
+        "text_snippet": "Upon prolonging the reaction time to 30 h at higher pressure (80 bar), the yield of PV increased significantly and 60.6% yield of PV was achieved.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用相同的Pd/HY催化剂，在280°C、40 bar H₂压力下反应24小时，将GVL选择性转化为戊烷，获得22.9%的产率。",
+        "text_snippet": "The highest yield of pentane of 22.9% was obtained at 280 °C, 24 h and 40 bar H₂.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在较低温度240°C、40 bar H₂压力下反应12小时，将GVL主要转化为戊酸（PA），获得超过73%的产率。",
+        "text_snippet": "The highest PA yield (over 73%) was obtained at a low temperature of 240 °C, for 12 h and 40 bar H₂.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "γ-valerolactone (GVL)",
+        "unit": "Not reported",
+        "original": "γ-valerolactone (GVL)"
+      },
+      "Catalyst type": {
+        "value": "Bifunctional Pd/HY",
+        "unit": "Not reported",
+        "original": "Bifunctional Pd/HY"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "%",
+        "original": "5% Pd/HY"
+      },
+      "Solvent": {
+        "value": "octane",
+        "unit": "Not reported",
+        "original": "octane"
+      },
+      "Reaction temperature": {
+        "value": "260",
+        "unit": "°C",
+        "original": "260 °C"
+      },
+      "Reaction pressure": {
+        "value": "80",
+        "unit": "bar",
+        "original": "80 bar H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "30",
+        "unit": "h",
+        "original": "30 hours"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.10",
+        "unit": "g",
+        "original": "0.10 g catalyst"
+      },
+      "Product": {
+        "value": "pentyl valerate (PV)",
+        "unit": "Not reported",
+        "original": "pentyl valerate (PV)"
+      },
+      "Conversion rate": {
+        "value": "99",
+        "unit": "%",
+        "original": "over 99%"
+      },
+      "Product yield": {
+        "value": "60.6",
+        "unit": "%",
+        "original": "60.6%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Decreased performance after multiple cycles without regeneration; stable after calcination and reduction",
+        "unit": "Not reported",
+        "original": "Decreased performance after multiple cycles without regeneration; stable after calcination and reduction"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用双功能Pd/HY催化剂，在260°C、80 bar H₂压力下反应30小时，将γ-戊内酯（GVL）升级为戊酸戊酯（PV），获得60.6%的产率。",
+      "experiment_id": 1,
+      "text_snippet": "Upon prolonging the reaction time to 30 h at higher pressure (80 bar), the yield of PV increased significantly and 60.6% yield of PV was achieved."
+    },
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "γ-valerolactone (GVL)",
+        "unit": "Not reported",
+        "original": "γ-valerolactone (GVL)"
+      },
+      "Catalyst type": {
+        "value": "Pd/HY",
+        "unit": "Not reported",
+        "original": "Pd/HY"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "%",
+        "original": "5% Pd/HY"
+      },
+      "Solvent": {
+        "value": "octane",
+        "unit": "Not reported",
+        "original": "octane"
+      },
+      "Reaction temperature": {
+        "value": "280",
+        "unit": "°C",
+        "original": "280°C"
+      },
+      "Reaction pressure": {
+        "value": "40",
+        "unit": "bar",
+        "original": "40 bar H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "24",
+        "unit": "h",
+        "original": "24 hours"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.10",
+        "unit": "g",
+        "original": "0.10 g catalyst"
+      },
+      "Product": {
+        "value": "pentane",
+        "unit": "Not reported",
+        "original": "pentane"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "22.9",
+        "unit": "%",
+        "original": "22.9%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Decreased performance over cycles due to aggregation and pore blocking, but regenerable by calcination and reduction",
+        "unit": "Not reported",
+        "original": "Decreased performance over cycles due to aggregation and pore blocking, but regenerable by calcination and reduction"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用相同的Pd/HY催化剂，在280°C、40 bar H₂压力下反应24小时，将GVL选择性转化为戊烷，获得22.9%的产率。",
+      "experiment_id": 2,
+      "text_snippet": "The highest yield of pentane of 22.9% was obtained at 280 °C, 24 h and 40 bar H₂."
+    },
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "γ-valerolactone (GVL)",
+        "unit": "Not reported",
+        "original": "γ-valerolactone (GVL)"
+      },
+      "Catalyst type": {
+        "value": "Bifunctional Pd/HY",
+        "unit": "Not reported",
+        "original": "Bifunctional Pd/HY"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "%",
+        "original": "5% Pd/HY"
+      },
+      "Solvent": {
+        "value": "octane",
+        "unit": "Not reported",
+        "original": "octane"
+      },
+      "Reaction temperature": {
+        "value": "240",
+        "unit": "°C",
+        "original": "240°C"
+      },
+      "Reaction pressure": {
+        "value": "40",
+        "unit": "bar",
+        "original": "40 bar H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "12",
+        "unit": "h",
+        "original": "12 hours"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.10",
+        "unit": "g",
+        "original": "0.10 g catalyst"
+      },
+      "Product": {
+        "value": "Pentanoic acid (PA)",
+        "unit": "Not reported",
+        "original": "Pentanoic acid (PA)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "73",
+        "unit": "%",
+        "original": "over 73%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Decreased performance over cycles due to coke formation and aggregation, but regenerable by calcination and reduction",
+        "unit": "Not reported",
+        "original": "Decreased performance over cycles due to coke formation and aggregation, but regenerable by calcination and reduction"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在较低温度240°C、40 bar H₂压力下反应12小时，将GVL主要转化为戊酸（PA），获得超过73%的产率。",
+      "experiment_id": 3,
+      "text_snippet": "The highest PA yield (over 73%) was obtained at a low temperature of 240 °C, for 12 h and 40 bar H₂."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

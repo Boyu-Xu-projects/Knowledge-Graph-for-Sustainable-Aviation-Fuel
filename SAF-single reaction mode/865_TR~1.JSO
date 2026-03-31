@@ -1,0 +1,135 @@
+{
+  "file": "865_Trisunaryanti 等 - 2024 - Hydrodeoxygenation of refined palm kernel oil (RPKO) into bio-jet fuel using MoH-ZSM-5 catalysts.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "使用不同Mo负载量的Mo/H-ZSM-5催化剂（5-Mo/Z, 10-Mo/Z, 15-Mo/Z），在常压、氢气氛围下，于半流动双反应器中对精炼棕榈仁油（RPKO）进行加氢脱氧反应，以生产生物航空燃料。反应在氢气流量10 mL min⁻¹下进行4小时，液体产物在400-500°C和500-600°C两个温度区间收集。",
+        "text_snippet": "The catalysts ZSM-5, 5-Mo/Z, 10-Mo/Z, and 15-Mo/Z were tested for their catalytic activity in the reaction of HDO feed from RPKO to bio-jet fuel... The HDO process was carried out with a catalyst to feed weight ratio of 1:200 using hydrogen gas at a flow rate of 10 mL min−1 for 4 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Refined palm kernel oil (RPKO)",
+        "unit": "Not reported",
+        "original": "Refined palm kernel oil (RPKO)"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "Mo/H-ZSM-",
+        "original": "Mo/H-ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5-Mo/Z (5 wt% Mo)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-500",
+        "unit": "°C",
+        "original": "400-500°C (Fraction I)"
+      },
+      "Reaction pressure": {
+        "value": "1",
+        "unit": "atm",
+        "original": "1 atm (atmospheric pressure)"
+      },
+      "Flow rate": {
+        "value": "10",
+        "unit": "mL",
+        "original": "10 mL min⁻¹ (H₂ flow rate)"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen (H₂)",
+        "unit": "Not reported",
+        "original": "Hydrogen (H₂)"
+      },
+      "Reactant molar ratio": {
+        "value": "1:200",
+        "unit": ":",
+        "original": "Catalyst to feed weight ratio of 1:200"
+      },
+      "Operation mode": {
+        "value": "Semi-flow double reactor in a one-pot system",
+        "unit": "Not reported",
+        "original": "Semi-flow double reactor in a one-pot system"
+      },
+      "Catalyst loading": {
+        "value": "0.2",
+        "unit": "g",
+        "original": "0.2 g"
+      },
+      "Product": {
+        "value": "Bio-jet fuel (hydrocarbon compounds C₇–C₁₆)",
+        "unit": "Not reported",
+        "original": "Bio-jet fuel (hydrocarbon compounds C₇–C₁₆)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "38.99",
+        "unit": "wt%",
+        "original": "Thermal cracking: 38.99 wt%"
+      },
+      "Product Selectivity": {
+        "value": "86.87",
+        "unit": "%",
+        "original": "Thermal cracking: 86.87%"
+      },
+      "Catalyst stability": {
+        "value": "46.82",
+        "unit": "wt%",
+        "original": "5-Mo/Z catalyst showed promising performance after three runs (yields: 46.82 wt%, 33.75 wt%, 33.71 wt%)"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用不同Mo负载量的Mo/H-ZSM-5催化剂（5-Mo/Z, 10-Mo/Z, 15-Mo/Z），在常压、氢气氛围下，于半流动双反应器中对精炼棕榈仁油（RPKO）进行加氢脱氧反应，以生产生物航空燃料。反应在氢气流量10 mL min⁻¹下进行4小时，液体产物在400-500°C和500-600°C两个温度区间收集。",
+      "experiment_id": 1,
+      "text_snippet": "The catalysts ZSM-5, 5-Mo/Z, 10-Mo/Z, and 15-Mo/Z were tested for their catalytic activity in the reaction of HDO feed from RPKO to bio-jet fuel... The HDO process was carried out with a catalyst to feed weight ratio of 1:200 using hydrogen gas at a flow rate of 10 mL min−1 for 4 h."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

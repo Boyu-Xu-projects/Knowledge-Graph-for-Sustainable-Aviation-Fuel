@@ -1,0 +1,247 @@
+{
+  "file": "1067_Watanasiri 等 - 2023 - Prediction of sustainable aviation fuel properties for liquid hydrocarbons from hydrotreating biomas.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化热解反应",
+        "reaction_type_english": "Catalytic fast pyrolysis reaction",
+        "description": "使用ZSM-5催化剂对松木进行催化快速热解，在550°C下生产含氧有机中间体（CFP油）",
+        "text_snippet": "The first CFP intermediate was produced in the thermochemical pilot-scale process development unit at NREL with a feed rate of 10 kg h−1 of pine in an ex situ configuration at 550°C, over a ZSM-5 catalyst",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "催化热解反应",
+        "reaction_type_english": "Catalytic fast pyrolysis reaction",
+        "description": "使用Pt/TiO₂催化剂对松木和森林残留物混合物进行催化快速热解，在150 g h−1的进料速率下生产含氧有机中间体",
+        "text_snippet": "the second CFP intermediate was produced in a bench-scale ex situ fluidized-bed pyrolyzer and fixed bed upgrading reactor combination with a feed rate of 150 g h−1 of a mixture of pine and forest residues over a 0.5wt% Pt/TiO₂ catalyst",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "pine wood",
+        "unit": "Not reported",
+        "original": "pine wood"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "ZSM-5"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "550",
+        "unit": "°C",
+        "original": "550°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "10",
+        "unit": "kg",
+        "original": "10 kg h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "ex situ configuration",
+        "unit": "Not reported",
+        "original": "ex situ configuration"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "CFP oil",
+        "unit": "Not reported",
+        "original": "CFP oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "11",
+        "unit": "%",
+        "original": "11% carbon efficiency (ZSM-5)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic fast pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "使用ZSM-5催化剂对松木进行催化快速热解，在550°C下生产含氧有机中间体（CFP油）",
+      "experiment_id": 1,
+      "text_snippet": "The first CFP intermediate was produced in the thermochemical pilot-scale process development unit at NREL with a feed rate of 10 kg h−1 of pine in an ex situ configuration at 550°C, over a ZSM-5 catalyst"
+    },
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "松木",
+        "unit": "Not reported",
+        "original": "松木"
+      },
+      "Catalyst type": {
+        "value": "Pt/TiO₂",
+        "unit": "Not reported",
+        "original": "Pt/TiO₂"
+      },
+      "Catalyst composition": {
+        "value": "0.5",
+        "unit": "wt%",
+        "original": "0.5 wt% Pt/TiO₂"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "150",
+        "unit": "g",
+        "original": "150 g h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "ex-situ fluidized-bed pyrolyzer and fixed bed upgrading reactor",
+        "unit": "Not reported",
+        "original": "ex-situ fluidized-bed pyrolyzer and fixed bed upgrading reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "含氧有机中间体",
+        "unit": "Not reported",
+        "original": "含氧有机中间体"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic fast pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "使用Pt/TiO₂催化剂对松木和森林残留物混合物进行催化快速热解，在150 g h−1的进料速率下生产含氧有机中间体",
+      "experiment_id": 2,
+      "text_snippet": "the second CFP intermediate was produced in a bench-scale ex situ fluidized-bed pyrolyzer and fixed bed upgrading reactor combination with a feed rate of 150 g h−1 of a mixture of pine and forest residues over a 0.5wt% Pt/TiO₂ catalyst"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic fast pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic fast pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

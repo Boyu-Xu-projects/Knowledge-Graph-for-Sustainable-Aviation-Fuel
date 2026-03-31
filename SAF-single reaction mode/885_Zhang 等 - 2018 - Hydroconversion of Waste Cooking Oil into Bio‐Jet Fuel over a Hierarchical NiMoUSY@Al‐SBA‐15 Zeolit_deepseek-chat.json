@@ -1,0 +1,135 @@
+{
+  "file": "885_Zhang 等 - 2018 - Hydroconversion of Waste Cooking Oil into Bio‐Jet Fuel over a Hierarchical NiMoUSY@Al‐SBA‐15 Zeolit.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢转化反应",
+        "reaction_type_english": "Hydroconversion reaction",
+        "description": "在固定床流动反应器中，使用NiMo/USY@Al-SBA-15催化剂，在380°C、3.0MPa条件下，将废食用油（WCO）与环己烷的溶液（20wt%）进行加氢转化，生产生物航空燃料（C9-C15烃类）。",
+        "text_snippet": "The hydroconversion of WCO was conducted in a fixed-bed flow reactor (1.2cm i.d. and 45cm in length). The reaction temperature was controlled by three thermocouples on the reactor wall and monitored with a thermocouple in the catalyst bed. To achieve a sufficient catalyst bed length in the reactor, 8g of catalyst was loaded and fixed by SiC. A solution of 20wt% WCO in cyclohexane was used as feedstock and supplied at a flow rate of 0.8mLmin–1 with a high-pressure pump.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2018",
+        "unit": "year",
+        "original": "2018"
+      },
+      "Feedstock": {
+        "value": "Waste cooking oil (WCO)",
+        "unit": "Not reported",
+        "original": "Waste cooking oil (WCO)"
+      },
+      "Catalyst type": {
+        "value": "Core-shell hierarchical zeolite-supported NiMo catalyst",
+        "unit": "Not reported",
+        "original": "Core-shell hierarchical zeolite-supported NiMo catalyst"
+      },
+      "Catalyst composition": {
+        "value": "15",
+        "unit": "Al-SBA-",
+        "original": "NiMo/USY@Al-SBA-15"
+      },
+      "Solvent": {
+        "value": "Cyclohexane",
+        "unit": "Not reported",
+        "original": "Cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "380",
+        "unit": "°C",
+        "original": "380°C"
+      },
+      "Reaction pressure": {
+        "value": "3.0",
+        "unit": "MPa",
+        "original": "3.0 MPa"
+      },
+      "Flow rate": {
+        "value": "0.8",
+        "unit": "mL",
+        "original": "0.8 mL min⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed flow reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "8",
+        "unit": "g",
+        "original": "8 g"
+      },
+      "Product": {
+        "value": "15",
+        "unit": "hydrocarbons",
+        "original": "Bio-jet fuel (C9-C15 hydrocarbons)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "Approximately 100%"
+      },
+      "Product yield": {
+        "value": "83.3",
+        "unit": "%",
+        "original": "83.3% (OLP yield)"
+      },
+      "Product Selectivity": {
+        "value": "15",
+        "unit": "hydrocarbons",
+        "original": "Jet fuel (C9-C15 hydrocarbons): 35.7%"
+      },
+      "Catalyst stability": {
+        "value": "14",
+        "unit": "h",
+        "original": "Excellent stability (stable for at least 14 hours)"
+      },
+      "reaction_type": "加氢转化反应",
+      "reaction_type_english": "Hydroconversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床流动反应器中，使用NiMo/USY@Al-SBA-15催化剂，在380°C、3.0MPa条件下，将废食用油（WCO）与环己烷的溶液（20wt%）进行加氢转化，生产生物航空燃料（C9-C15烃类）。",
+      "experiment_id": 1,
+      "text_snippet": "The hydroconversion of WCO was conducted in a fixed-bed flow reactor (1.2cm i.d. and 45cm in length). The reaction temperature was controlled by three thermocouples on the reactor wall and monitored with a thermocouple in the catalyst bed. To achieve a sufficient catalyst bed length in the reactor, ..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢转化反应",
+      "reaction_type_english": "Hydroconversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

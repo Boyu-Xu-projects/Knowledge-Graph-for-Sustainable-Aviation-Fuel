@@ -1,0 +1,247 @@
+{
+  "file": "1053_Kim 等 - 2017 - Maximizing Biojet Fuel Production from Triglyceride Importance of the Hydrocracking Catalyst and Se.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢处理反应",
+        "reaction_type_english": "Hydrotreating reaction",
+        "description": "使用 Pt/γ-Al₂O₃ 催化剂对棕榈油进行加氢处理，包括不饱和 C=C 键的氢化、甘油三酯氢解为脂肪酸以及随后的脱氧反应，生成正构烷烃。",
+        "text_snippet": "In the two-step reaction, palm oil was first hydrotreated to produce n-paraffins with 1 wt% Pt/γ-Al₂O₃ as the catalyst... The reaction was carried out at 633 K and 2.0 MPa total pressure.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrocracking reaction",
+        "description": "使用沸石负载的 Pt 催化剂（如 Pt/Nano-Beta）对第一步加氢处理产生的正构烷烃进行加氢裂化，将其转化为适合作为喷气燃料的短链（C8-C16）富含异构体的烃类。",
+        "text_snippet": "In the hydrocracking reaction, zeolite-supported Pt catalysts (1 wt% Pt on Bulk-ZSM-5, Nano-ZSM-5, Bulk-Beta, and Nano-Beta) were used as catalysts... The reaction was carried out at 488–523 K and 2.0 MPa total pressure.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "Palm oil",
+        "unit": "Not reported",
+        "original": "Palm oil"
+      },
+      "Catalyst type": {
+        "value": "Pt/γ-Al₂O₃",
+        "unit": "Not reported",
+        "original": "Pt/γ-Al₂O₃"
+      },
+      "Catalyst composition": {
+        "value": "1",
+        "unit": "wt%",
+        "original": "1 wt% Pt on γ-Al₂O₃"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "633",
+        "unit": "K",
+        "original": "633 K"
+      },
+      "Reaction pressure": {
+        "value": "2.0",
+        "unit": "MPa",
+        "original": "2.0 MPa"
+      },
+      "Flow rate": {
+        "value": "116",
+        "unit": "cm",
+        "original": "H₂ flow rate: 116 cm³ min⁻¹, Liquid injection rate: 2.4 g h⁻¹ (WHSV = 1.0 h⁻¹)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "2.4",
+        "unit": "g",
+        "original": "2.4 g catalyst"
+      },
+      "Product": {
+        "value": "15",
+        "unit": "and",
+        "original": "n-paraffins (mainly C15 and C17)"
+      },
+      "Conversion rate": {
+        "value": "Full conversion of palm oil",
+        "unit": "%",
+        "original": "Full conversion of palm oil"
+      },
+      "Product yield": {
+        "value": "78.0",
+        "unit": "wt%",
+        "original": "Liquid hydrocarbons: 78.0 wt% (relative to palm oil)"
+      },
+      "Product Selectivity": {
+        "value": "32.8",
+        "unit": "wt%",
+        "original": "C15: 32.8 wt%, C17: 36.3 wt%, C16: 3.2 wt%, C18: 3.1 wt%, C4-C14: 3.2 wt%"
+      },
+      "Catalyst stability": {
+        "value": "4",
+        "unit": "days",
+        "original": "Stable up to 4 days time-on-stream without significant deactivation"
+      },
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydrotreating reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用 Pt/γ-Al₂O₃ 催化剂对棕榈油进行加氢处理，包括不饱和 C=C 键的氢化、甘油三酯氢解为脂肪酸以及随后的脱氧反应，生成正构烷烃。",
+      "experiment_id": 1,
+      "text_snippet": "In the two-step reaction, palm oil was first hydrotreated to produce n-paraffins with 1 wt% Pt/γ-Al₂O₃ as the catalyst... The reaction was carried out at 633 K and 2.0 MPa total pressure."
+    },
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "n-paraffins from hydrotreated palm oil",
+        "unit": "Not reported",
+        "original": "n-paraffins from hydrotreated palm oil"
+      },
+      "Catalyst type": {
+        "value": "zeolite-supported Pt catalyst",
+        "unit": "Not reported",
+        "original": "zeolite-supported Pt catalyst"
+      },
+      "Catalyst composition": {
+        "value": "Pt/Nano-Beta",
+        "unit": "Not reported",
+        "original": "Pt/Nano-Beta"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-523",
+        "unit": "K",
+        "original": "488-523 K"
+      },
+      "Reaction pressure": {
+        "value": "2.0",
+        "unit": "MPa",
+        "original": "2.0 MPa"
+      },
+      "Flow rate": {
+        "value": "128",
+        "unit": "cm",
+        "original": "128 cm³ min⁻¹ H₂"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "2.0",
+        "unit": "h",
+        "original": "WHSV = 2.0 h⁻¹"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "iso-rich",
+        "original": "C8-C16 iso-rich hydrocarbons (jet fuel range)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "71.5",
+        "unit": "wt%",
+        "original": "71.5 wt% (C8-C16 yield for Pt/Nano-Beta at 508 K)"
+      },
+      "Product Selectivity": {
+        "value": "508",
+        "unit": "K",
+        "original": "iso/n-paraffin ratio = 7.54 (for Pt/Nano-Beta at 508 K)"
+      },
+      "Catalyst stability": {
+        "value": "4",
+        "unit": "days",
+        "original": "Stable up to 4 days time-on-stream"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用沸石负载的 Pt 催化剂（如 Pt/Nano-Beta）对第一步加氢处理产生的正构烷烃进行加氢裂化，将其转化为适合作为喷气燃料的短链（C8-C16）富含异构体的烃类。",
+      "experiment_id": 2,
+      "text_snippet": "In the hydrocracking reaction, zeolite-supported Pt catalysts (1 wt% Pt on Bulk-ZSM-5, Nano-ZSM-5, Bulk-Beta, and Nano-Beta) were used as catalysts... The reaction was carried out at 488–523 K and 2.0 MPa total pressure."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydrotreating reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

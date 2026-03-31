@@ -1,0 +1,247 @@
+{
+  "file": "871_Główka 等 - 2024 - Highly Efficient Process for Producing a Jet-A1 Biofuel Component Through Hydroprocessing Soybean Oi.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在滴流床反应器中使用商业镍催化剂对脱胶豆油进行加氢脱氧（HDO），反应温度220-340°C，压力2-10 MPa，LHSV 0.25-1，GHSV 600，将其转化为正构烷烃（n-alkanes）。",
+        "text_snippet": "The hydrodeoxygenation process for crude soybean oil was conducted in a high-pressure flow reactor system with a stationary bed of 200 cm³ catalyst... A commercially available nickel catalyst on silica-alumina support was used. The hydrodeoxygenation reactions were carried out in temperatures ranging from 220 to 340 °C, pressure from 2 to 10 MPa, and LHSV (0.25 to 1) at a GHSV of 600.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢异构化反应",
+        "reaction_type_english": "Hydroisomerization reaction",
+        "description": "在滴流床反应器中使用新开发的0.5% Pt/Al₂O₃ + SAPO-11 + 3% PEG-4催化剂对HDO步骤产生的正构烷烃进行加氢异构化（HI），反应温度260-340°C，压力2-5 MPa，LHSV 0.25-1，GHSV 100，将其转化为支链烷烃以获得符合Jet-A1标准的生物航煤组分。",
+        "text_snippet": "The hydroisomerization process for the crude soybean oil was conducted in a high-pressure flow reactor system with a stationary bed of 50 cm³... Hydroisomerization studies investigated the influence of temperature ranging from 260 to 340 °C, pressure from 2 to 5 MPa, and LHSV (0.25 to 1) at a GHSV of 100.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Degummed soybean oil",
+        "unit": "Not reported",
+        "original": "Degummed soybean oil"
+      },
+      "Catalyst type": {
+        "value": "Commercial nickel catalyst",
+        "unit": "Not reported",
+        "original": "Commercial nickel catalyst"
+      },
+      "Catalyst composition": {
+        "value": "Ni/γ-Al₂O₃+SiO₂",
+        "unit": "Not reported",
+        "original": "Ni/γ-Al₂O₃+SiO₂"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "220",
+        "unit": "°C",
+        "original": "220°C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "0.25",
+        "unit": "LHSV",
+        "original": "LHSV 0.25-1, GHSV 600"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous flow trickle-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous flow trickle-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "200",
+        "unit": "cm",
+        "original": "200 cm³ catalyst bed"
+      },
+      "Product": {
+        "value": "n-alkanes (n-C₁₄ to n-C₁₈)",
+        "unit": "Not reported",
+        "original": "n-alkanes (n-C₁₄ to n-C₁₈)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "~100% triglyceride conversion"
+      },
+      "Product yield": {
+        "value": "97.8",
+        "unit": "%",
+        "original": "97.8% ± 0.4% hydrocarbons yield"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "150",
+        "unit": "h",
+        "original": "Stable over 150 hours continuous operation"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在滴流床反应器中使用商业镍催化剂对脱胶豆油进行加氢脱氧（HDO），反应温度220-340°C，压力2-10 MPa，LHSV 0.25-1，GHSV 600，将其转化为正构烷烃（n-alkanes）。",
+      "experiment_id": 1,
+      "text_snippet": "The hydrodeoxygenation process for crude soybean oil was conducted in a high-pressure flow reactor system with a stationary bed of 200 cm³ catalyst... A commercially available nickel catalyst on silica-alumina support was used. The hydrodeoxygenation reactions were carried out in temperatures rangin..."
+    },
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "n-alkanes derived from degummed soybean oil",
+        "unit": "Not reported",
+        "original": "n-alkanes derived from degummed soybean oil"
+      },
+      "Catalyst type": {
+        "value": "Bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "0.5",
+        "unit": "%",
+        "original": "0.5% Pt"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "260",
+        "unit": "°C",
+        "original": "260°C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "0.25",
+        "unit": "LHSV",
+        "original": "LHSV 0.25"
+      },
+      "Reaction time": {
+        "value": "200",
+        "unit": "h",
+        "original": "200 h (stability test)"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous flow (Trickle-Bed Reactor)",
+        "unit": "Not reported",
+        "original": "Continuous flow (Trickle-Bed Reactor)"
+      },
+      "Catalyst loading": {
+        "value": "50",
+        "unit": "cm",
+        "original": "50 cm³ stationary bed"
+      },
+      "Product": {
+        "value": "1",
+        "unit": "biofuel",
+        "original": "Branched hydrocarbons (Jet-A1 biofuel component)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "~100% (n-C17 at optimal conditions)"
+      },
+      "Product yield": {
+        "value": "87.5",
+        "unit": "%",
+        "original": "87.5% ± 1.6% (bio-jet fraction)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "200",
+        "unit": "h",
+        "original": "Stable over 200 h test with minimal coking (6.0% coke after test)"
+      },
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在滴流床反应器中使用新开发的0.5% Pt/Al₂O₃ + SAPO-11 + 3% PEG-4催化剂对HDO步骤产生的正构烷烃进行加氢异构化（HI），反应温度260-340°C，压力2-5 MPa，LHSV 0.25-1，GHSV 100，将其转化为支链烷烃以获得符合Jet-A1标准的生物航煤组分。",
+      "experiment_id": 2,
+      "text_snippet": "The hydroisomerization process for the crude soybean oil was conducted in a high-pressure flow reactor system with a stationary bed of 50 cm³... Hydroisomerization studies investigated the influence of temperature ranging from 260 to 340 °C, pressure from 2 to 5 MPa, and LHSV (0.25 to 1) at a GHSV o..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

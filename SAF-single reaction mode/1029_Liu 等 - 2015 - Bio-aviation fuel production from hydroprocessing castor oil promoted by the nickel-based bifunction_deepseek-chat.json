@@ -1,0 +1,247 @@
+{
+  "file": "1029_Liu 等 - 2015 - Bio-aviation fuel production from hydroprocessing castor oil promoted by the nickel-based bifunction.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在连续流动固定床微反应器中，使用不同酸性强度的镍基双功能催化剂（如Ni/SAPO-11, Ni2P/SAPO-11, Ni/H-Beta, Ni/ZSM-5, Ni/USY等）对蓖麻油进行加氢处理，主要生成C17-C18烷烃（柴油范围）。",
+        "text_snippet": "Castor oil (raw material) was diluted with an inert solvent, cyclohexane, (mass ratio 1.5:1) before feed introduction. The HDO reaction was carried out in a continuous-flow fixed-bed microreactor.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrocracking reaction",
+        "description": "使用NiAg/SAPO-11催化剂，在第二步过程中对第一步HDO产生的C16-C19烷烃（Product I 和 Product II）进行加氢裂化和异构化，将其转化为高收率（~90%）且高异构化选择性的C8-C15烷烃（航空燃料范围）。",
+        "text_snippet": "25%NiAg/SAPO-11 ProductI 360 0.3 3.8 91.6 4.3 98 6.8... Hydroisomerization reaction of C17 AC18 (HDO products of castor oil)",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "Castor oil",
+        "unit": "Not reported",
+        "original": "Castor oil"
+      },
+      "Catalyst type": {
+        "value": "Nickel-based bifunctional catalysts",
+        "unit": "Not reported",
+        "original": "Nickel-based bifunctional catalysts"
+      },
+      "Catalyst composition": {
+        "value": "11",
+        "unit": "Ni/SAPO-",
+        "original": "Ni/SAPO-11"
+      },
+      "Solvent": {
+        "value": "Cyclohexane",
+        "unit": "Not reported",
+        "original": "Cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "300",
+        "unit": "°C",
+        "original": "300 °C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "2",
+        "unit": "h",
+        "original": "WHSV = 2 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous-flow fixed-bed microreactor",
+        "unit": "Not reported",
+        "original": "Continuous-flow fixed-bed microreactor"
+      },
+      "Catalyst loading": {
+        "value": "25",
+        "unit": "%",
+        "original": "25%"
+      },
+      "Product": {
+        "value": "18",
+        "unit": "alkanes",
+        "original": "C17-C18 alkanes"
+      },
+      "Conversion rate": {
+        "value": "99",
+        "unit": "%",
+        "original": "99%"
+      },
+      "Product yield": {
+        "value": "91.6",
+        "unit": "wt%",
+        "original": "91.6 wt% (C8-C15 alkanes)"
+      },
+      "Product Selectivity": {
+        "value": "8",
+        "unit": "°C",
+        "original": "Isomer/n-alkane ratio (i/n) 4.4–7.2 (C8-C15)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在连续流动固定床微反应器中，使用不同酸性强度的镍基双功能催化剂（如Ni/SAPO-11, Ni2P/SAPO-11, Ni/H-Beta, Ni/ZSM-5, Ni/USY等）对蓖麻油进行加氢处理，主要生成C17-C18烷烃（柴油范围）。",
+      "experiment_id": 1,
+      "text_snippet": "Castor oil (raw material) was diluted with an inert solvent, cyclohexane, (mass ratio 1.5:1) before feed introduction. The HDO reaction was carried out in a continuous-flow fixed-bed microreactor."
+    },
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "19",
+        "unit": "alkanes",
+        "original": "C16-C19 alkanes (Product I and Product II from first-step HDO of castor oil)"
+      },
+      "Catalyst type": {
+        "value": "11",
+        "unit": "NiAg/SAPO-",
+        "original": "NiAg/SAPO-11"
+      },
+      "Catalyst composition": {
+        "value": "11",
+        "unit": "NiAg/SAPO-",
+        "original": "NiAg/SAPO-11 (molar Ni/Ag: 44)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "360",
+        "unit": "°C",
+        "original": "360 °C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "2",
+        "unit": "h",
+        "original": "WHSV = 2 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous-flow fixed-bed microreactor",
+        "unit": "Not reported",
+        "original": "Continuous-flow fixed-bed microreactor"
+      },
+      "Catalyst loading": {
+        "value": "25",
+        "unit": "%",
+        "original": "25% NiAg (total metal loading)"
+      },
+      "Product": {
+        "value": "15",
+        "unit": "alkanes",
+        "original": "C8-C15 alkanes (aviation fuel range)"
+      },
+      "Conversion rate": {
+        "value": "98",
+        "unit": "%",
+        "original": "98%"
+      },
+      "Product yield": {
+        "value": "91.6",
+        "unit": "wt%",
+        "original": "91.6 wt% (for Product I feed), 88.9 wt% (for Product II feed)"
+      },
+      "Product Selectivity": {
+        "value": "6.8",
+        "unit": ":",
+        "original": "High isomerization selectivity (i/n ratio 6.8-7.2)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用NiAg/SAPO-11催化剂，在第二步过程中对第一步HDO产生的C16-C19烷烃（Product I 和 Product II）进行加氢裂化和异构化，将其转化为高收率（~90%）且高异构化选择性的C8-C15烷烃（航空燃料范围）。",
+      "experiment_id": 2,
+      "text_snippet": "25%NiAg/SAPO-11 ProductI 360 0.3 3.8 91.6 4.3 98 6.8... Hydroisomerization reaction of C17 AC18 (HDO products of castor oil)"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

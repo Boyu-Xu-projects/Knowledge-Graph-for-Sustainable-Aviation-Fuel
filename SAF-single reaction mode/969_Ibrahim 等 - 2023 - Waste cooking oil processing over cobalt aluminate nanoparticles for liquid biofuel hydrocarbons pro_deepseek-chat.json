@@ -1,0 +1,135 @@
+{
+  "file": "969_Ibrahim 等 - 2023 - Waste cooking oil processing over cobalt aluminate nanoparticles for liquid biofuel hydrocarbons pro.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在连续高压反应器中，使用钴铝酸盐纳米颗粒催化剂，在不同温度（350-450°C）、压力（30-70 bar）和液时空速（1-5 h⁻¹）条件下，对废弃烹饪油进行催化加氢裂化反应，生产生物燃料烃类。",
+        "text_snippet": "The catalytic conversion of waste cooking oil (WCO) was carried out over a synthetic nano catalyst of cobalt aluminate (CoAl₂O₄) to produce biofuel range fractions... The hydrocracking process employs catalytic cracking and hydrogenation to produce lighter fraction products from heavy fractions.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "Waste cooking oil (WCO)",
+        "unit": "Not reported",
+        "original": "Waste cooking oil (WCO)"
+      },
+      "Catalyst type": {
+        "value": "Cobalt aluminate nanoparticles",
+        "unit": "Not reported",
+        "original": "Cobalt aluminate nanoparticles"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "O",
+        "original": "CoAl2O4"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350 °C"
+      },
+      "Reaction pressure": {
+        "value": "30",
+        "unit": "bar",
+        "original": "30 bar"
+      },
+      "Flow rate": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/WCO",
+        "original": "H2/WCO ratio 600 V/V"
+      },
+      "Operation mode": {
+        "value": "Continuous",
+        "unit": "Not reported",
+        "original": "Continuous"
+      },
+      "Catalyst loading": {
+        "value": "30",
+        "unit": "mg",
+        "original": "30 mg"
+      },
+      "Product": {
+        "value": "5",
+        "unit": "°C",
+        "original": "Biogasoline (C5-C12)"
+      },
+      "Conversion rate": {
+        "value": "93",
+        "unit": "%",
+        "original": "93% (optimum at 400 °C, 50 bar, 1 h⁻¹)"
+      },
+      "Product yield": {
+        "value": "16",
+        "unit": "%",
+        "original": "{'Biogasoline': '16%', 'Biojet': '20%', 'Biodiesel': '53%'}"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在连续高压反应器中，使用钴铝酸盐纳米颗粒催化剂，在不同温度（350-450°C）、压力（30-70 bar）和液时空速（1-5 h⁻¹）条件下，对废弃烹饪油进行催化加氢裂化反应，生产生物燃料烃类。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic conversion of waste cooking oil (WCO) was carried out over a synthetic nano catalyst of cobalt aluminate (CoAl₂O₄) to produce biofuel range fractions... The hydrocracking process employs catalytic cracking and hydrogenation to produce lighter fraction products from heavy fractions."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

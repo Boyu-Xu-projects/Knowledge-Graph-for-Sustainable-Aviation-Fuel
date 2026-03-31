@@ -1,0 +1,135 @@
+{
+  "file": "935_Wang 等 - 2021 - a.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在450°C下，使用五种不同元素（La、Ni、P、Zr和Ce）改性的Al-MCM-41催化剂，在固定床反应器中对油酸进行催化裂解，以生产液态烃类生物燃料。",
+        "text_snippet": "deoxygenation of oleic acid by catalytic cracking was conducted using five various elements (La, Ni, P, Zr and Ce) modified Al-MCM-41... About 2.0 g of catalyst was put in the middle of the steel reactor tube... the reactor was heated... stabilized at around 450 ◦C. About 12 g of OA that preheated at 70℃ was fed into the reactor by a peristaltic pump at 0.6 g min⁻¹.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "Oleic acid",
+        "unit": "Not reported",
+        "original": "Oleic acid"
+      },
+      "Catalyst type": {
+        "value": "41",
+        "unit": "Al-MCM-",
+        "original": "Modified Al-MCM-41"
+      },
+      "Catalyst composition": {
+        "value": "41",
+        "unit": "La/Al-MCM-",
+        "original": "La/Al-MCM-41"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "450",
+        "unit": "°C",
+        "original": "450°C"
+      },
+      "Reaction pressure": {
+        "value": "Atmospheric pressure",
+        "unit": "MPa",
+        "original": "Atmospheric pressure"
+      },
+      "Flow rate": {
+        "value": "0.6",
+        "unit": "g",
+        "original": "0.6 g min⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "N₂",
+        "unit": "Not reported",
+        "original": "N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "2.0",
+        "unit": "g",
+        "original": "2.0 g"
+      },
+      "Product": {
+        "value": "Organic liquid product (OLP)",
+        "unit": "Not reported",
+        "original": "Organic liquid product (OLP)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% (for P/Al-MCM-41 at initial stage)"
+      },
+      "Product yield": {
+        "value": "-70.95",
+        "unit": "wt%",
+        "original": "{'OLP': '65.12-70.95 wt.%', 'Water': '6-8.24 wt.%', 'Gas': '21-24.56 wt.%', 'Coke': '0-4.08 wt.%'}"
+      },
+      "Product Selectivity": {
+        "value": "-82.30",
+        "unit": "%",
+        "original": "{'Hydrocarbons': '73-82.30%', 'Alkanes': '19.98-24.23%', 'Aromatics': '39.06-44.94%', 'Oxygenated compounds': '13.56-25.67%'}"
+      },
+      "Catalyst stability": {
+        "value": "-41",
+        "unit": "maintained",
+        "original": "P/Al-MCM-41 maintained conversion >98% after 4 cycles"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在450°C下，使用五种不同元素（La、Ni、P、Zr和Ce）改性的Al-MCM-41催化剂，在固定床反应器中对油酸进行催化裂解，以生产液态烃类生物燃料。",
+      "experiment_id": 1,
+      "text_snippet": "deoxygenation of oleic acid by catalytic cracking was conducted using five various elements (La, Ni, P, Zr and Ce) modified Al-MCM-41... About 2.0 g of catalyst was put in the middle of the steel reactor tube... the reactor was heated... stabilized at around 450 ◦C. About 12 g of OA that preheated a..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

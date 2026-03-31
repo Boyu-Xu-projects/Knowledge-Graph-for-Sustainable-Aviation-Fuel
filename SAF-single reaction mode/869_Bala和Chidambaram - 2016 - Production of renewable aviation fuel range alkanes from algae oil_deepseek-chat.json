@@ -1,0 +1,135 @@
+{
+  "file": "869_Bala和Chidambaram - 2016 - Production of renewable aviation fuel range alkanes from algae oil.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在高压反应釜中，使用铈交换沸石b催化剂，在不同温度(200-400°C)、压力(150-400 psi)和时间(1-6小时)条件下，对藻油进行催化裂解，生产航空燃料范围的C10-C14烷烃。",
+        "text_snippet": "The algae oil cracking was performed over the synthesized catalysts at pressure ranging from 150 psi to 400 psi, temperature ranging from 200 to 360 °C, and reaction times ranging from 1 to 4 hours.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "algae oil",
+        "unit": "Not reported",
+        "original": "algae oil"
+      },
+      "Catalyst type": {
+        "value": "zeolite",
+        "unit": "Not reported",
+        "original": "zeolite"
+      },
+      "Catalyst composition": {
+        "value": "Ce exchanged zeolite b",
+        "unit": "Not reported",
+        "original": "Ce exchanged zeolite b"
+      },
+      "Solvent": {
+        "value": "tetradecane/dodecane mixture",
+        "unit": "Not reported",
+        "original": "tetradecane/dodecane mixture"
+      },
+      "Reaction temperature": {
+        "value": "-400",
+        "unit": "°C",
+        "original": "200-400°C"
+      },
+      "Reaction pressure": {
+        "value": "-400",
+        "unit": "psi",
+        "original": "150-400 psi"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "-6",
+        "unit": "h",
+        "original": "1-6 hours"
+      },
+      "Atmosphere": {
+        "value": "helium/hydrogen gas mixture",
+        "unit": "Not reported",
+        "original": "helium/hydrogen gas mixture"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "batch",
+        "unit": "Not reported",
+        "original": "batch"
+      },
+      "Catalyst loading": {
+        "value": "1.5",
+        "unit": "wt%",
+        "original": "1.5 wt% of feedstock"
+      },
+      "Product": {
+        "value": "14",
+        "unit": "alkanes",
+        "original": "C10-C14 alkanes"
+      },
+      "Conversion rate": {
+        "value": "98",
+        "unit": "%",
+        "original": "98%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "85",
+        "unit": "%",
+        "original": "85% for C10-C14 hydrocarbons"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在高压反应釜中，使用铈交换沸石b催化剂，在不同温度(200-400°C)、压力(150-400 psi)和时间(1-6小时)条件下，对藻油进行催化裂解，生产航空燃料范围的C10-C14烷烃。",
+      "experiment_id": 1,
+      "text_snippet": "The algae oil cracking was performed over the synthesized catalysts at pressure ranging from 150 psi to 400 psi, temperature ranging from 200 to 360 °C, and reaction times ranging from 1 to 4 hours."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

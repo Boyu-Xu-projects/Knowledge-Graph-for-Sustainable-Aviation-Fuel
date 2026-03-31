@@ -1,0 +1,135 @@
+{
+  "file": "1087_Li 等 - 2021 - Deep Hydrogenation Saturation of Naphthalene Facilitated by Enhanced Adsorption of the Reactants on.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在高压反应釜中，使用不同载体（HY-a, HY-b, ZSM-5, SBA-15, Al2O3）负载的Pd催化剂，以十三烷为溶剂，在200°C、4MPa氢气压力下，对萘进行深度加氢饱和反应，生成四氢萘和十氢萘（萘满和萘烷）。",
+        "text_snippet": "Reaction system: 50 mg of catalyst, 50 mg of naphthalene as the reactant, 40 mL of tridecane as the solvent, 100 μL of hexadecane as the internal standard. Reaction conditions: 200°C, 4 MPa hydrogen pressure, 600 rpm. The reaction was carried out in an autoclave (100 mL) for 1 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "Naphthalene",
+        "unit": "Not reported",
+        "original": "Naphthalene"
+      },
+      "Catalyst type": {
+        "value": "Pd/HY-a",
+        "unit": "Not reported",
+        "original": "Pd/HY-a"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "O",
+        "original": "Pd nanoparticles supported on various carriers (HY-a, HY-b, ZSM-5, SBA-15, Al2O3)"
+      },
+      "Solvent": {
+        "value": "Tridecane",
+        "unit": "Not reported",
+        "original": "Tridecane"
+      },
+      "Reaction temperature": {
+        "value": "200",
+        "unit": "°C",
+        "original": "200°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "50",
+        "unit": "mg",
+        "original": "50 mg"
+      },
+      "Product": {
+        "value": "Tetralin",
+        "unit": "Not reported",
+        "original": "Tetralin"
+      },
+      "Conversion rate": {
+        "value": "99.13",
+        "unit": "%",
+        "original": "99.13% (Pd/HY-a)"
+      },
+      "Product yield": {
+        "value": "38.08",
+        "unit": "%",
+        "original": "38.08% decalin (Pd/HY-a)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Maintained crystal structure after reaction (XRD analysis)",
+        "unit": "Not reported",
+        "original": "Maintained crystal structure after reaction (XRD analysis)"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在高压反应釜中，使用不同载体（HY-a, HY-b, ZSM-5, SBA-15, Al2O3）负载的Pd催化剂，以十三烷为溶剂，在200°C、4MPa氢气压力下，对萘进行深度加氢饱和反应，生成四氢萘和十氢萘（萘满和萘烷）。",
+      "experiment_id": 1,
+      "text_snippet": "Reaction system: 50 mg of catalyst, 50 mg of naphthalene as the reactant, 40 mL of tridecane as the solvent, 100 μL of hexadecane as the internal standard. Reaction conditions: 200°C, 4 MPa hydrogen pressure, 600 rpm. The reaction was carried out in an autoclave (100 mL) for 1 h."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

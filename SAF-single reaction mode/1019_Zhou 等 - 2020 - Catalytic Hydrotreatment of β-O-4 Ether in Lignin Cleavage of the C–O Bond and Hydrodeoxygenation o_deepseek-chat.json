@@ -1,0 +1,135 @@
+{
+  "file": "1019_Zhou 等 - 2020 - Catalytic Hydrotreatment of β-O-4 Ether in Lignin Cleavage of the C–O Bond and Hydrodeoxygenation o.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢处理反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在2.0 MPa氢气压、240°C条件下，使用NiLa/CNT催化剂，在异丙醇溶剂中对2-苯氧基-1-苯基乙醇-1-醇进行催化加氢处理，生成乙基环己烷和环己醇。",
+        "text_snippet": "In a typical catalytic reaction, 2-phenoxy-1-phenylethan-1-ol or other substrates (500 mg), the catalyst (50 mg), and 40 mL of isopropanol were added in a 100 mL stainless Parr autoclave and purged with H2 three times in order to evacuate the air. The autoclave was heated to the desired temperature (240 °C) with 2.0 MPa H2 and stirred at 600 rpm for 4 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "1",
+        "unit": "phenoxy-",
+        "original": "2-phenoxy-1-phenylethan-1-ol"
+      },
+      "Catalyst type": {
+        "value": "NiLa/CNT",
+        "unit": "Not reported",
+        "original": "NiLa/CNT"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "NiLa/CNT (15+5 wt%)"
+      },
+      "Solvent": {
+        "value": "isopropanol",
+        "unit": "Not reported",
+        "original": "isopropanol"
+      },
+      "Reaction temperature": {
+        "value": "240",
+        "unit": "°C",
+        "original": "240 °C"
+      },
+      "Reaction pressure": {
+        "value": "2.0",
+        "unit": "MPa",
+        "original": "2.0 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "50",
+        "unit": "mg",
+        "original": "50 mg catalyst per 500 mg substrate"
+      },
+      "Product": {
+        "value": "ethyl cyclohexane",
+        "unit": "Not reported",
+        "original": "ethyl cyclohexane"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "80",
+        "unit": "%",
+        "original": "80% ethyl cyclohexane"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "4",
+        "unit": "cycles",
+        "original": "Good (reusable with slight activity decrease after 4 cycles)"
+      },
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在2.0 MPa氢气压、240°C条件下，使用NiLa/CNT催化剂，在异丙醇溶剂中对2-苯氧基-1-苯基乙醇-1-醇进行催化加氢处理，生成乙基环己烷和环己醇。",
+      "experiment_id": 1,
+      "text_snippet": "In a typical catalytic reaction, 2-phenoxy-1-phenylethan-1-ol or other substrates (500 mg), the catalyst (50 mg), and 40 mL of isopropanol were added in a 100 mL stainless Parr autoclave and purged with H2 three times in order to evacuate the air. The autoclave was heated to the desired temperature ..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

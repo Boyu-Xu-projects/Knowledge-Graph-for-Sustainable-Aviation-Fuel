@@ -1,0 +1,135 @@
+{
+  "file": "1011_Lee 等 - 2023 - Compositional dependence of Co- and Mo-supported beta zeolite for selective one-step hydrotreatment.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢处理反应",
+        "reaction_type_english": "Hydrotreatment reaction",
+        "description": "在280°C、20 bar氢气压力下，于半间歇反应器中，使用Co-和/或Mo负载的Beta(25)沸石催化剂对生物燃料模型化合物棕榈酸甲酯进行催化加氢处理120分钟。该一步法过程旨在通过脱氧、异构化和裂化反应生产生物航煤范围内的烃类（C8-C16）。",
+        "text_snippet": "The catalytic reaction tests of methyl palmitate as a biofuel model component of fatty acid methyl esters were carried out in a semi-batch reaction system at 280 °C under a pressure of 20 bar for 2 h... The catalytic activities were investigated for hydrotreatment of methyl palmitate as a biofuel model compound of fatty acid methyl esters.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "methyl palmitate",
+        "unit": "Not reported",
+        "original": "methyl palmitate"
+      },
+      "Catalyst type": {
+        "value": "Beta(25) zeolite",
+        "unit": "Not reported",
+        "original": "Beta(25) zeolite"
+      },
+      "Catalyst composition": {
+        "value": "Co",
+        "unit": "Not reported",
+        "original": "Co"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "280",
+        "unit": "°C",
+        "original": "280°C"
+      },
+      "Reaction pressure": {
+        "value": "20",
+        "unit": "bar",
+        "original": "20 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "120",
+        "unit": "min",
+        "original": "120 minutes"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "semi-batch",
+        "unit": "Not reported",
+        "original": "semi-batch"
+      },
+      "Catalyst loading": {
+        "value": "1.0",
+        "unit": "g",
+        "original": "1.0 g catalyst per 10 g methyl palmitate"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "hydrocarbons",
+        "original": "C8-C16 hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "94.2",
+        "unit": "%",
+        "original": "94.2%"
+      },
+      "Product yield": {
+        "value": "80.4",
+        "unit": "%",
+        "original": "80.4% (C8-C16 hydrocarbons)"
+      },
+      "Product Selectivity": {
+        "value": "89.7",
+        "unit": "wt%",
+        "original": "89.7 wt% (C8-C16 hydrocarbons in organic liquid product)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydrotreatment reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在280°C、20 bar氢气压力下，于半间歇反应器中，使用Co-和/或Mo负载的Beta(25)沸石催化剂对生物燃料模型化合物棕榈酸甲酯进行催化加氢处理120分钟。该一步法过程旨在通过脱氧、异构化和裂化反应生产生物航煤范围内的烃类（C8-C16）。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic reaction tests of methyl palmitate as a biofuel model component of fatty acid methyl esters were carried out in a semi-batch reaction system at 280 °C under a pressure of 20 bar for 2 h... The catalytic activities were investigated for hydrotreatment of methyl palmitate as a biofuel mo..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydrotreatment reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

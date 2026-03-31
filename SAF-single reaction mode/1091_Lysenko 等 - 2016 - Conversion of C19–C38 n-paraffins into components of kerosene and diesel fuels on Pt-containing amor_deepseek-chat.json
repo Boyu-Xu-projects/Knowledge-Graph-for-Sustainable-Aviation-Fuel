@@ -1,0 +1,135 @@
+{
+  "file": "1091_Lysenko 等 - 2016 - Conversion of C19–C38 n-paraffins into components of kerosene and diesel fuels on Pt-containing amor.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢转化",
+        "reaction_type_english": "Hydroconversion",
+        "description": "在固定床催化流动装置上，使用Pt/无定形硅铝酸盐催化剂（0.5%Pt/Al–Si/30和1.0%Pt/Al–Si/30），在300-360°C、50 atm压力、氢烃摩尔比600:1、进料速率0.5-1.0 h⁻¹的条件下，将C₁₉–C₃₈正构烷烃模型原料转化为具有改进低温性能的柴油和煤油馏分。",
+        "text_snippet": "The hydroconversion of C₁₉–C₃₈ n-alkanes was carried out on a micro pilot catalytic flow-type setup with a stationary layer of a catalyst... The hydrogen : feed ratio was 600 : 1, and pressure in the system was 50 atm.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "C₁₉–C₃₈ n-paraffins",
+        "unit": "Not reported",
+        "original": "C₁₉–C₃₈ n-paraffins"
+      },
+      "Catalyst type": {
+        "value": "Pt/amorphous aluminosilicate",
+        "unit": "Not reported",
+        "original": "Pt/amorphous aluminosilicate"
+      },
+      "Catalyst composition": {
+        "value": "0.5",
+        "unit": "%Pt/Al",
+        "original": "0.5%Pt/Al–Si/30"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "300",
+        "unit": "°C",
+        "original": "300°C"
+      },
+      "Reaction pressure": {
+        "value": "50",
+        "unit": "atm",
+        "original": "50 atm"
+      },
+      "Flow rate": {
+        "value": "0.5",
+        "unit": "h",
+        "original": "0.5 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "600:1",
+        "unit": ":",
+        "original": "Hydrogen : feed = 600 : 1"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed catalytic flow",
+        "unit": "Not reported",
+        "original": "Fixed-bed catalytic flow"
+      },
+      "Catalyst loading": {
+        "value": "6",
+        "unit": "cm",
+        "original": "6 cm³"
+      },
+      "Product": {
+        "value": "Diesel fraction",
+        "unit": "Not reported",
+        "original": "Diesel fraction"
+      },
+      "Conversion rate": {
+        "value": "91",
+        "unit": "%",
+        "original": "91% (at 320°C, 0.5 h⁻¹)"
+      },
+      "Product yield": {
+        "value": "343",
+        "unit": "°C",
+        "original": "{'Liquid hydrocarbons (boiling point ≤343°C)': '76%', 'Diesel fraction (174–343°C)': '48% (max with 1.0%Pt catalyst at 320°C)', 'Kerosene fraction': '49%'}"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢转化",
+      "reaction_type_english": "Hydroconversion",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床催化流动装置上，使用Pt/无定形硅铝酸盐催化剂（0.5%Pt/Al–Si/30和1.0%Pt/Al–Si/30），在300-360°C、50 atm压力、氢烃摩尔比600:1、进料速率0.5-1.0 h⁻¹的条件下，将C₁₉–C₃₈正构烷烃模型原料转化为具有改进低温性能的柴油和煤油馏分。",
+      "experiment_id": 1,
+      "text_snippet": "The hydroconversion of C₁₉–C₃₈ n-alkanes was carried out on a micro pilot catalytic flow-type setup with a stationary layer of a catalyst... The hydrogen : feed ratio was 600 : 1, and pressure in the system was 50 atm."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢转化",
+      "reaction_type_english": "Hydroconversion",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

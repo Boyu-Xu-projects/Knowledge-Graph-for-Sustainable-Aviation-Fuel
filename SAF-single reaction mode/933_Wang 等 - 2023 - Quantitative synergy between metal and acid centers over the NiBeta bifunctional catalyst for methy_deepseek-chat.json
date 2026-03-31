@@ -1,0 +1,135 @@
+{
+  "file": "933_Wang 等 - 2023 - Quantitative synergy between metal and acid centers over the NiBeta bifunctional catalyst for methy.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在间歇式反应器中，使用不同镍负载量的Ni/Beta催化剂，在280°C、2 MPa H2压力下，对月桂酸甲酯进行加氢脱氧反应1小时，以生产生物航煤组分（C11和C12烷烃）。",
+        "text_snippet": "The catalytic tests of methyl laurate hydrodeoxygenation were evaluated in a 100 ml batch reactor. Typically, 30 ml n-octane, 5.0 g methyl laurate and 0.5 g reduced catalyst were put into the reactor... the hydrodeoxygenation test was carried out under 280 °C for 1 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "methyl laurate",
+        "unit": "Not reported",
+        "original": "methyl laurate"
+      },
+      "Catalyst type": {
+        "value": "Ni/Beta",
+        "unit": "Not reported",
+        "original": "Ni/Beta"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "Ni/Beta",
+        "original": "2Ni/Beta"
+      },
+      "Solvent": {
+        "value": "n-octane",
+        "unit": "Not reported",
+        "original": "n-octane"
+      },
+      "Reaction temperature": {
+        "value": "280",
+        "unit": "°C",
+        "original": "280°C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa H2"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 hour"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "batch",
+        "unit": "Not reported",
+        "original": "batch"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g catalyst per 5.0 g methyl laurate in 30 ml n-octane"
+      },
+      "Product": {
+        "value": "11",
+        "unit": "alkanes",
+        "original": "C11 alkanes"
+      },
+      "Conversion rate": {
+        "value": "81.1",
+        "unit": "%",
+        "original": "81.1% (for optimal catalyst)"
+      },
+      "Product yield": {
+        "value": "37.7",
+        "unit": "%",
+        "original": "37.7% C11+C12 alkanes (for optimal catalyst)"
+      },
+      "Product Selectivity": {
+        "value": "11",
+        "unit": "SC",
+        "original": "SC11"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在间歇式反应器中，使用不同镍负载量的Ni/Beta催化剂，在280°C、2 MPa H2压力下，对月桂酸甲酯进行加氢脱氧反应1小时，以生产生物航煤组分（C11和C12烷烃）。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic tests of methyl laurate hydrodeoxygenation were evaluated in a 100 ml batch reactor. Typically, 30 ml n-octane, 5.0 g methyl laurate and 0.5 g reduced catalyst were put into the reactor... the hydrodeoxygenation test was carried out under 280 °C for 1 h."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "file": "957_Li 等 - 2016 - Conversion pathways of palm oil into jet biofuel catalyzed by mesoporous zeolites.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "使用Ni/Meso-Y催化剂在390°C和3MPa氢气压力下将棕榈油转化为喷气燃料范围的烃类。棕榈油部分直接裂解为C8-C14烷烃，部分通过脱羰基化转化为C15-C18烷烃，后者进一步裂解或脱氢芳构化。",
+        "text_snippet": "Zeolite Ni/Meso-Y exhibited the highest jet range alkane yield (30.7%)... palm oil directly cracked into C8–C14 alkanes over Ni/Meso-Y.",
+        "reaction_type_classify": "Cracking reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "使用Ni/Meso-Hbeta催化剂在390°C和3MPa氢气压力下将棕榈油转化为喷气燃料。棕榈油通过脱羰基化转化为C15-C17烷烃，这些烷烃进一步裂解为C8-C14烷烃或通过芳构化转化为芳香烃。",
+        "text_snippet": "Zeolite Meso-Hbeta presented a moderate jet range alkane yield of 26.9%, and a jet range aromatic hydrocarbon yield of 19%... palm oil deoxygenated to C15–C17 alkane through decarbonylation.",
+        "reaction_type_classify": "Cracking reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "使用Ni/Meso-HZSM-5催化剂在390°C和3MPa氢气压力下将棕榈油转化为烃类。棕榈油主要通过脱羰基化直接转化为芳香烃，部分转化为C15-C17烷烃，后者进一步裂解或芳构化。",
+        "text_snippet": "Zeolite Meso-HZSM-5 presented the lowest jet range alkane yield of 3.2%, and the highest jet range aromatic hydrocarbon yield of 28.3%... part of palm oil was directly converted into aromatic hydrocarbons through decarbonylation.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "Palm oil",
+        "unit": "Not reported",
+        "original": "Palm oil"
+      },
+      "Catalyst type": {
+        "value": "Mesoporous zeolite",
+        "unit": "Not reported",
+        "original": "Mesoporous zeolite"
+      },
+      "Catalyst composition": {
+        "value": "Ni/Meso-Y",
+        "unit": "Not reported",
+        "original": "Ni/Meso-Y"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "390",
+        "unit": "°C",
+        "original": "390°C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "8",
+        "unit": "h",
+        "original": "8 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "mass",
+        "original": "20:1 mass ratio (feedstock:catalyst)"
+      },
+      "Product": {
+        "value": "14",
+        "unit": "alkanes",
+        "original": "C8-C14 alkanes"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "30.7",
+        "unit": "%",
+        "original": "30.7% jet range alkanes"
+      },
+      "Product Selectivity": {
+        "value": "55.32",
+        "unit": "%",
+        "original": "55.32% jet range alkanes"
+      },
+      "Catalyst stability": {
+        "value": "517.5",
+        "unit": "m",
+        "original": "Surface area decreased from 517.5 m²/g to 7.1 m²/g after reaction"
+      },
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "使用Ni/Meso-Y催化剂在390°C和3MPa氢气压力下将棕榈油转化为喷气燃料范围的烃类。棕榈油部分直接裂解为C8-C14烷烃，部分通过脱羰基化转化为C15-C18烷烃，后者进一步裂解或脱氢芳构化。",
+      "experiment_id": 1,
+      "text_snippet": "Zeolite Ni/Meso-Y exhibited the highest jet range alkane yield (30.7%)... palm oil directly cracked into C8–C14 alkanes over Ni/Meso-Y."
+    },
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "Palm oil",
+        "unit": "Not reported",
+        "original": "Palm oil"
+      },
+      "Catalyst type": {
+        "value": "Mesoporous zeolite",
+        "unit": "Not reported",
+        "original": "Mesoporous zeolite"
+      },
+      "Catalyst composition": {
+        "value": "Ni/Meso-Hbeta",
+        "unit": "Not reported",
+        "original": "Ni/Meso-Hbeta"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "390",
+        "unit": "°C",
+        "original": "390°C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "8",
+        "unit": "h",
+        "original": "8 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "mass",
+        "original": "20:1 mass ratio (feedstock:catalyst)"
+      },
+      "Product": {
+        "value": "14",
+        "unit": "alkanes",
+        "original": "C8-C14 alkanes"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "26.9",
+        "unit": "%",
+        "original": "26.9% jet range alkane"
+      },
+      "Product Selectivity": {
+        "value": "29.95",
+        "unit": "%",
+        "original": "29.95% jet range alkane (at 5 h)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "使用Ni/Meso-Hbeta催化剂在390°C和3MPa氢气压力下将棕榈油转化为喷气燃料。棕榈油通过脱羰基化转化为C15-C17烷烃，这些烷烃进一步裂解为C8-C14烷烃或通过芳构化转化为芳香烃。",
+      "experiment_id": 2,
+      "text_snippet": "Zeolite Meso-Hbeta presented a moderate jet range alkane yield of 26.9%, and a jet range aromatic hydrocarbon yield of 19%... palm oil deoxygenated to C15–C17 alkane through decarbonylation."
+    },
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "Palm oil",
+        "unit": "Not reported",
+        "original": "Palm oil"
+      },
+      "Catalyst type": {
+        "value": "Mesoporous zeolite",
+        "unit": "Not reported",
+        "original": "Mesoporous zeolite"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "Ni/Meso-HZSM-",
+        "original": "Ni/Meso-HZSM-5"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "390",
+        "unit": "°C",
+        "original": "390°C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "8",
+        "unit": "h",
+        "original": "8 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "mass",
+        "original": "20:1 mass ratio (palm oil:catalyst)"
+      },
+      "Product": {
+        "value": "14",
+        "unit": "alkanes",
+        "original": "C8-C14 alkanes"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "3.2",
+        "unit": "%",
+        "original": "Jet range alkane yield: 3.2%"
+      },
+      "Product Selectivity": {
+        "value": "4.96",
+        "unit": "%",
+        "original": "Jet range alkane selectivity: 4.96% at 5 h"
+      },
+      "Catalyst stability": {
+        "value": "Surface area decreased significantly after reaction, pore structure destroyed",
+        "unit": "Not reported",
+        "original": "Surface area decreased significantly after reaction, pore structure destroyed"
+      },
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "使用Ni/Meso-HZSM-5催化剂在390°C和3MPa氢气压力下将棕榈油转化为烃类。棕榈油主要通过脱羰基化直接转化为芳香烃，部分转化为C15-C17烷烃，后者进一步裂解或芳构化。",
+      "experiment_id": 3,
+      "text_snippet": "Zeolite Meso-HZSM-5 presented the lowest jet range alkane yield of 3.2%, and the highest jet range aromatic hydrocarbon yield of 28.3%... part of palm oil was directly converted into aromatic hydrocarbons through decarbonylation."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

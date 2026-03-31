@@ -1,0 +1,135 @@
+{
+  "file": "943_Li 等 - 2024 - Enhanced stability of hierarchical zeolite-metal bifunctional catalysts for conversion of levulinic.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在固定床反应器中，使用分级HZSM-5沸石负载的Ni催化剂，将乙酰丙酸(LA)在乙醇溶液中氢化转化为戊酸(VA)和戊酸乙酯(EV)。反应条件：16.7 wt% LA乙醇溶液，进料速率1.8 mL/h，H₂流速60 mL/min，500 mg催化剂，WHSV = 2.9 h⁻¹，3 MPa H₂压力，240°C。",
+        "text_snippet": "The stability of Ni/HZSM-x catalysts was evaluated in a continuous-flow system... transformation of LA to VA/EV undergoes the hydrogenation of LA to γ-valerolactone (GVL), subsequently the ring-opening of GVL via alkoxy C-O bond cleavage to pentenoic acid (PA), and followed by hydrogenation and esterification to EV",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Acetyl propionic acid (LA)",
+        "unit": "Not reported",
+        "original": "Acetyl propionic acid (LA)"
+      },
+      "Catalyst type": {
+        "value": "-5",
+        "unit": "supported",
+        "original": "Hierarchical HZSM-5 supported Ni catalyst"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "Ni/HZSM-5 (Ni loading ~10 wt%)"
+      },
+      "Solvent": {
+        "value": "Ethanol",
+        "unit": "Not reported",
+        "original": "Ethanol"
+      },
+      "Reaction temperature": {
+        "value": "240",
+        "unit": "°C",
+        "original": "240°C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa H₂"
+      },
+      "Flow rate": {
+        "value": "1.8",
+        "unit": "mL/h",
+        "original": "Feed rate: 1.8 mL/h"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "500",
+        "unit": "mg",
+        "original": "500 mg"
+      },
+      "Product": {
+        "value": "Valeric acid (VA)",
+        "unit": "Not reported",
+        "original": "Valeric acid (VA)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% (initial steady state)"
+      },
+      "Product yield": {
+        "value": "95",
+        "unit": "%",
+        "original": "95% VA/EV yield (initial steady state)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "180",
+        "unit": "h",
+        "original": "180 h lifetime for hierarchical Ni/HZSM-400"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床反应器中，使用分级HZSM-5沸石负载的Ni催化剂，将乙酰丙酸(LA)在乙醇溶液中氢化转化为戊酸(VA)和戊酸乙酯(EV)。反应条件：16.7 wt% LA乙醇溶液，进料速率1.8 mL/h，H₂流速60 mL/min，500 mg催化剂，WHSV = 2.9 h⁻¹，3 MPa H₂压力，240°C。",
+      "experiment_id": 1,
+      "text_snippet": "The stability of Ni/HZSM-x catalysts was evaluated in a continuous-flow system... transformation of LA to VA/EV undergoes the hydrogenation of LA to γ-valerolactone (GVL), subsequently the ring-opening of GVL via alkoxy C-O bond cleavage to pentenoic acid (PA), and followed by hydrogenation and este..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

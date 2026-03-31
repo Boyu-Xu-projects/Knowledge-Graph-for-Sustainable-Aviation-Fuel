@@ -1,0 +1,247 @@
+{
+  "file": "995_Li 等 - 2018 - Jet range hydrocarbons converted from microalgal biodiesel over mesoporous zeolite-based catalysts.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在Ni/Meso-Y催化剂上，将轻质微藻生物柴油（主要含C16-C18脂肪酸甲酯）在370-410°C、氢气压力下反应8小时，转化为喷气燃料范围的C8-C16烷烃和芳香烃。反应路径涉及脱羰基化和长链烷烃的裂解。",
+        "text_snippet": "Light algal biodiesel mainly contained C16eC18 fatty acid methyl esters (FAMEs)... majority of light algal biodiesel was converted into long carbon chain alkane such as pentadecane through decarbonylation. Then long chain alkane cracked into short chain alkane.",
+        "reaction_type_classify": "Cracking reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "使用四种不同的镍基沸石催化剂（Ni/Meso-HZSM-5, Ni/Meso-Hbeta, Ni/Meso-Y, Ni/SAPO-34），在相同反应条件下将重质微藻生物柴油转化为喷气燃料范围的烃类。比较了各催化剂对烷烃和芳香烃选择性的差异。",
+        "text_snippet": "Four types of zeolites including Meso-HZSM-5, Meso-Hbeta, Meso-Y and SAPO-34 were applied to convert heavy algal biodiesel to jet biofuel... Zeolite Meso-HZSM-5 presented the highest jet range alkane selectivity (15.98%). However, zeolite Meso-HZSM-5 also presented high jet range aromatic hydrocarbons selectivity (26.24%).",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2018",
+        "unit": "year",
+        "original": "2018"
+      },
+      "Feedstock": {
+        "value": "18",
+        "unit": "fatty",
+        "original": "light microalgal biodiesel (C16-C18 fatty acid methyl esters)"
+      },
+      "Catalyst type": {
+        "value": "Mesoporous zeolite-based",
+        "unit": "Not reported",
+        "original": "Mesoporous zeolite-based"
+      },
+      "Catalyst composition": {
+        "value": "Ni/Meso-Y",
+        "unit": "Not reported",
+        "original": "Ni/Meso-Y"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-410",
+        "unit": "°C",
+        "original": "370-410°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "8",
+        "unit": "h",
+        "original": "8 hours"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "mass",
+        "original": "20:1 mass ratio (biodiesel:catalyst)"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "alkanes",
+        "original": "C8-C16 alkanes"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "44.5",
+        "unit": "%",
+        "original": "44.5% (jet range alkanes)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在Ni/Meso-Y催化剂上，将轻质微藻生物柴油（主要含C16-C18脂肪酸甲酯）在370-410°C、氢气压力下反应8小时，转化为喷气燃料范围的C8-C16烷烃和芳香烃。反应路径涉及脱羰基化和长链烷烃的裂解。",
+      "experiment_id": 1,
+      "text_snippet": "Light algal biodiesel mainly contained C16eC18 fatty acid methyl esters (FAMEs)... majority of light algal biodiesel was converted into long carbon chain alkane such as pentadecane through decarbonylation. Then long chain alkane cracked into short chain alkane."
+    },
+    {
+      "Published year": {
+        "value": "2018",
+        "unit": "year",
+        "original": "2018"
+      },
+      "Feedstock": {
+        "value": "Microalgal biodiesel (light and heavy grades)",
+        "unit": "Not reported",
+        "original": "Microalgal biodiesel (light and heavy grades)"
+      },
+      "Catalyst type": {
+        "value": "Nickel-based mesoporous zeolites",
+        "unit": "Not reported",
+        "original": "Nickel-based mesoporous zeolites"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "Ni/Meso-HZSM-",
+        "original": "Ni/Meso-HZSM-5"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-410",
+        "unit": "°C",
+        "original": "370-410 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "8",
+        "unit": "h",
+        "original": "8 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "mass",
+        "original": "20:1 mass ratio (feedstock:catalyst)"
+      },
+      "Product": {
+        "value": "8",
+        "unit": "°C",
+        "original": "Alkanes (C8-C16)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "44.5",
+        "unit": "%",
+        "original": "Ni/Meso-Y: 44.5% jet range alkanes (C8-C16), 4.47% aromatic hydrocarbons"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "使用四种不同的镍基沸石催化剂（Ni/Meso-HZSM-5, Ni/Meso-Hbeta, Ni/Meso-Y, Ni/SAPO-34），在相同反应条件下将重质微藻生物柴油转化为喷气燃料范围的烃类。比较了各催化剂对烷烃和芳香烃选择性的差异。",
+      "experiment_id": 2,
+      "text_snippet": "Four types of zeolites including Meso-HZSM-5, Meso-Hbeta, Meso-Y and SAPO-34 were applied to convert heavy algal biodiesel to jet biofuel... Zeolite Meso-HZSM-5 presented the highest jet range alkane selectivity (15.98%). However, zeolite Meso-HZSM-5 also presented high jet range aromatic hydrocarbo..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

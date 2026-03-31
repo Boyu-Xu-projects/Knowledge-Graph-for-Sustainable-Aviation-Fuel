@@ -1,0 +1,135 @@
+{
+  "file": "967_Hu 等 - 2025 - High-shear stirring assisted synthesis of Ni nanoparticles confined in H-ZSM-5 for hydrodeoxygenatio.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在260°C和2MPa条件下，使用Ni/ZSM-5催化剂催化棕榈酸加氢脱氧反应，生成十五烷和十六烷。",
+        "text_snippet": "1 g palmitic acid, 0.2 g catalysts and 100 mL cyclohexane were put into the kettle... The reaction was then ramped up to 260 ◦C according to a certain temperature increase procedure and reacted for 4 h at a stirring speed of 500 r/min.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Palmitic acid",
+        "unit": "Not reported",
+        "original": "Palmitic acid"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "Ni/ZSM-",
+        "original": "Ni/ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "H-ZSM-",
+        "original": "Ni nanoparticles confined in H-ZSM-5"
+      },
+      "Solvent": {
+        "value": "Cyclohexane",
+        "unit": "Not reported",
+        "original": "Cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "260",
+        "unit": "°C",
+        "original": "260°C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.2",
+        "unit": "g",
+        "original": "0.2 g catalyst per 1 g palmitic acid in 100 mL solvent"
+      },
+      "Product": {
+        "value": "15",
+        "unit": "°C",
+        "original": "Pentadecane (C15)"
+      },
+      "Conversion rate": {
+        "value": "89",
+        "unit": "%",
+        "original": "89%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "24",
+        "unit": "%",
+        "original": "C15: 24%"
+      },
+      "Catalyst stability": {
+        "value": "89",
+        "unit": "%",
+        "original": "Conversion decreased from 89% to 78% after 4 regeneration cycles"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在260°C和2MPa条件下，使用Ni/ZSM-5催化剂催化棕榈酸加氢脱氧反应，生成十五烷和十六烷。",
+      "experiment_id": 1,
+      "text_snippet": "1 g palmitic acid, 0.2 g catalysts and 100 mL cyclohexane were put into the kettle... The reaction was then ramped up to 260 ◦C according to a certain temperature increase procedure and reacted for 4 h at a stirring speed of 500 r/min."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "981_Asri 等 - 2024 - Highly Active Mesoporous Zirconium Nitride Immobilized on SiO2 Synthesized by Complex-Assisted Metho.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在连续流动圆柱形反应器中，使用SiO2-ZrN催化剂在500°C、氢气氛围下对粗棕榈油(CPO)进行催化加氢转化，生成生物燃料。",
+        "text_snippet": "The hydroconversion of CPO to biofuel was conducted at the continuous flow cylindrical reactor using 0.5 g of catalysts. In this typical procedure, during a 1 h reaction, the temperature was controlled at 500 °C with a CPO flow rate of 0.20 L/h. The hydrogen gas flowed to the reactor with a flow rate of 0.30 L/h.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Crude palm oil (CPO)",
+        "unit": "Not reported",
+        "original": "Crude palm oil (CPO)"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "SiO",
+        "original": "SiO2-ZrN"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "SiO",
+        "original": "SiO2-ZrN"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500",
+        "unit": "°C",
+        "original": "500°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "2",
+        "unit": "flow",
+        "original": "H2 flow rate: 0.30 L/h"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous flow",
+        "unit": "Not reported",
+        "original": "Continuous flow"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g"
+      },
+      "Product": {
+        "value": "Biofuel",
+        "unit": "Not reported",
+        "original": "Biofuel"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Liquid yield",
+        "unit": "%",
+        "original": "Liquid yield"
+      },
+      "Product Selectivity": {
+        "value": "5",
+        "unit": "°C",
+        "original": "Gasoline fraction (C5-C12)"
+      },
+      "Catalyst stability": {
+        "value": "High stability over three consecutive runs",
+        "unit": "Not reported",
+        "original": "High stability over three consecutive runs"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在连续流动圆柱形反应器中，使用SiO2-ZrN催化剂在500°C、氢气氛围下对粗棕榈油(CPO)进行催化加氢转化，生成生物燃料。",
+      "experiment_id": 1,
+      "text_snippet": "The hydroconversion of CPO to biofuel was conducted at the continuous flow cylindrical reactor using 0.5 g of catalysts. In this typical procedure, during a 1 h reaction, the temperature was controlled at 500 °C with a CPO flow rate of 0.20 L/h. The hydrogen gas flowed to the reactor with a flow rat..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

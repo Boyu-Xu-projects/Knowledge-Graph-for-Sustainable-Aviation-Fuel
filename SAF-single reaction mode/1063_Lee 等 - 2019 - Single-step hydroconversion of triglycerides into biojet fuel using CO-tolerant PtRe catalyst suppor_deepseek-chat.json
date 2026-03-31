@@ -1,0 +1,359 @@
+{
+  "file": "1063_Lee 等 - 2019 - Single-step hydroconversion of triglycerides into biojet fuel using CO-tolerant PtRe catalyst suppor.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrocracking reaction",
+        "description": "在纯H₂气氛下，使用Pt/USY和PtRe/USY催化剂对正十六烷（C₁₆）进行加氢裂化，研究其活性和产物分布。",
+        "text_snippet": "The hydrocracking of n-hexadecane (C₁₆, TCI, >98%) was carried out in the temperature range of 493–583K under a total pressure of 5MPa.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrocracking reaction",
+        "description": "在H₂O/H₂、CO/H₂或H₂O/CO/H₂混合气氛下，对正十六烷（C₁₆）进行加氢裂化，研究H₂O和CO对Pt/USY和PtRe/USY催化剂性能的影响。",
+        "text_snippet": "Hydrocracking of C₁₆ in the presence of H₂O, CO, or H₂O/CO was also carried out in a similar manner, except for the co-injection of H₂O (15wt% of C₁₆), CO (4.3wt% of C₁₆), and H₂O/CO (15wt%/4.3wt% of C₁₆) into the 5MPa H₂, respectively.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "加氢转化反应",
+        "reaction_type_english": "Hydroconversion reaction",
+        "description": "在单一反应器中，使用Pt/USY和PtRe/USY催化剂，对棕榈油进行一步法加氢转化（包括加氢、脱氧和加氢裂化级联反应）生产生物航煤。",
+        "text_snippet": "The single-step hydroconversion of palm oil (Sigma-Aldrich, analytical standard) was carried out similarly over 1.2g of the sieved catalysts in the temperature range of 523–573K under a total pressure of 5MPa.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "n-hexadecane (C₁₆)",
+        "unit": "Not reported",
+        "original": "n-hexadecane (C₁₆)"
+      },
+      "Catalyst type": {
+        "value": "Pt/USY",
+        "unit": "Not reported",
+        "original": "Pt/USY"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "wt%",
+        "original": "2 wt% Pt"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "583",
+        "unit": "K",
+        "original": "493–583 K"
+      },
+      "Reaction pressure": {
+        "value": "5",
+        "unit": "MPa",
+        "original": "5 MPa"
+      },
+      "Flow rate": {
+        "value": "130",
+        "unit": "cm",
+        "original": "H₂: 130 cm³ min⁻¹ (for C₁₆)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed plug-flow reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed plug-flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "1.2",
+        "unit": "g",
+        "original": "1.2 g"
+      },
+      "Product": {
+        "value": "Hydrocarbons (C₁–C₁₈)",
+        "unit": "Not reported",
+        "original": "Hydrocarbons (C₁–C₁₈)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "51",
+        "unit": "wt%",
+        "original": "~48–51 wt% (C₈⁺ for Pt/USY under H₂/H₂O)"
+      },
+      "Product Selectivity": {
+        "value": "Iso/n-paraffin ratio: 6.0–7.5 (Pt/USY)",
+        "unit": "Not reported",
+        "original": "Iso/n-paraffin ratio: 6.0–7.5 (Pt/USY)"
+      },
+      "Catalyst stability": {
+        "value": "0.116",
+        "unit": "g",
+        "original": "Pt/USY deactivated rapidly under CO/H₂ due to coke formation (0.116 g coke/g cat)"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在纯H₂气氛下，使用Pt/USY和PtRe/USY催化剂对正十六烷（C₁₆）进行加氢裂化，研究其活性和产物分布。",
+      "experiment_id": 1,
+      "text_snippet": "The hydrocracking of n-hexadecane (C₁₆, TCI, >98%) was carried out in the temperature range of 493–583K under a total pressure of 5MPa."
+    },
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "n-hexadecane (C₁₆)",
+        "unit": "Not reported",
+        "original": "n-hexadecane (C₁₆)"
+      },
+      "Catalyst type": {
+        "value": "Pt/USY",
+        "unit": "Not reported",
+        "original": "Pt/USY"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "wt%",
+        "original": "2 wt% Pt"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "583",
+        "unit": "K",
+        "original": "493–583 K"
+      },
+      "Reaction pressure": {
+        "value": "5",
+        "unit": "MPa",
+        "original": "5 MPa"
+      },
+      "Flow rate": {
+        "value": "130",
+        "unit": "cm",
+        "original": "H₂: 130 cm³ min⁻¹"
+      },
+      "Reaction time": {
+        "value": "48",
+        "unit": "h",
+        "original": "Up to 48 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "15",
+        "unit": "wt%",
+        "original": "H₂O: 15 wt% of C₁₆"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed plug-flow reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed plug-flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "1.2",
+        "unit": "g",
+        "original": "1.2 g"
+      },
+      "Product": {
+        "value": "Hydrocarbons (C₁–C₁₈)",
+        "unit": "Not reported",
+        "original": "Hydrocarbons (C₁–C₁₈)"
+      },
+      "Conversion rate": {
+        "value": "98",
+        "unit": "%",
+        "original": "Up to 98% for C₁₆"
+      },
+      "Product yield": {
+        "value": "51",
+        "unit": "wt%",
+        "original": "~48–51 wt% (C₈⁺) for Pt/USY under H₂ and H₂O/H₂"
+      },
+      "Product Selectivity": {
+        "value": "7.5",
+        "unit": "for",
+        "original": "Iso/n-paraffin ratio: 6.0–7.5 for Pt/USY"
+      },
+      "Catalyst stability": {
+        "value": "0.171",
+        "unit": "g",
+        "original": "Pt/USY deactivated under CO/H₂ and H₂O/CO/H₂ (coke: 0.087–0.171 g g⁻¹)"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在H₂O/H₂、CO/H₂或H₂O/CO/H₂混合气氛下，对正十六烷（C₁₆）进行加氢裂化，研究H₂O和CO对Pt/USY和PtRe/USY催化剂性能的影响。",
+      "experiment_id": 2,
+      "text_snippet": "Hydrocracking of C₁₆ in the presence of H₂O, CO, or H₂O/CO was also carried out in a similar manner, except for the co-injection of H₂O (15wt% of C₁₆), CO (4.3wt% of C₁₆), and H₂O/CO (15wt%/4.3wt% of C₁₆) into the 5MPa H₂, respectively."
+    },
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "Palm oil",
+        "unit": "Not reported",
+        "original": "Palm oil"
+      },
+      "Catalyst type": {
+        "value": "Pt/USY",
+        "unit": "Not reported",
+        "original": "Pt/USY"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "wt%",
+        "original": "2 wt% Pt"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "573",
+        "unit": "K",
+        "original": "523–573 K"
+      },
+      "Reaction pressure": {
+        "value": "5",
+        "unit": "MPa",
+        "original": "5 MPa"
+      },
+      "Flow rate": {
+        "value": "232",
+        "unit": "cm",
+        "original": "H₂ flow rate: 232 cm³ min⁻¹, Palm oil flow rate: 2.4 g h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous flow, fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous flow, fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1.2",
+        "unit": "g",
+        "original": "1.2 g"
+      },
+      "Product": {
+        "value": "Biojet fuel (C₈–C₁₆ hydrocarbons)",
+        "unit": "Not reported",
+        "original": "Biojet fuel (C₈–C₁₆ hydrocarbons)"
+      },
+      "Conversion rate": {
+        "value": "553",
+        "unit": "K",
+        "original": "Complete deoxygenation >553 K"
+      },
+      "Product yield": {
+        "value": "41",
+        "unit": "wt%",
+        "original": "41 wt% (with respect to palm oil after distillation)"
+      },
+      "Product Selectivity": {
+        "value": "Iso/n-paraffin ratio: 5.1",
+        "unit": "Not reported",
+        "original": "Iso/n-paraffin ratio: 5.1"
+      },
+      "Catalyst stability": {
+        "value": "48",
+        "unit": "h",
+        "original": "Stable for 48 h (PtRe/USY), rapid deactivation (Pt/USY)"
+      },
+      "reaction_type": "加氢转化反应",
+      "reaction_type_english": "Hydroconversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在单一反应器中，使用Pt/USY和PtRe/USY催化剂，对棕榈油进行一步法加氢转化（包括加氢、脱氧和加氢裂化级联反应）生产生物航煤。",
+      "experiment_id": 3,
+      "text_snippet": "The single-step hydroconversion of palm oil (Sigma-Aldrich, analytical standard) was carried out similarly over 1.2g of the sieved catalysts in the temperature range of 523–573K under a total pressure of 5MPa."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "加氢转化反应",
+      "reaction_type_english": "Hydroconversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

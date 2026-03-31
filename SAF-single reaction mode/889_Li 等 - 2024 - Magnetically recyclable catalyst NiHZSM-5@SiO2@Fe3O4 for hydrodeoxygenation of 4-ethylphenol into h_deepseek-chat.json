@@ -1,0 +1,135 @@
+{
+  "file": "889_Li 等 - 2024 - Magnetically recyclable catalyst NiHZSM-5@SiO2@Fe3O4 for hydrodeoxygenation of 4-ethylphenol into h.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在高压反应釜中，使用Ni/HZSM-5@SiO2@Fe3O4催化剂，以正十二烷为溶剂，在氢气氛围下对4-乙基苯酚进行催化加氢脱氧反应，生成乙基环己烷等高热值航空燃料组分。",
+        "text_snippet": "HDO experiments were performed in a 100 mL autoclave. In a typical procedure, 0.10 g of reduced catalyst, 0.50 g of 4-ethylphenol and 30 mL of n-dodecane as solvent were added into the reactor. After tightening the screws, N2 was injected to replace the air in the reactor. Next, the reactor was flushed and pressurized with pure H2 (3.0 MPa). Then it was heated up to the desired reaction temperature (180–300 ◦C) for a certain residence time (1–4 h), while stirring at 600 rpm.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "4-ethylphenol",
+        "unit": "Not reported",
+        "original": "4-ethylphenol"
+      },
+      "Catalyst type": {
+        "value": "3",
+        "unit": "O",
+        "original": "Ni/HZSM-5@SiO2@Fe3O4"
+      },
+      "Catalyst composition": {
+        "value": "Ni",
+        "unit": "Not reported",
+        "original": "Ni"
+      },
+      "Solvent": {
+        "value": "n-dodecane",
+        "unit": "Not reported",
+        "original": "n-dodecane"
+      },
+      "Reaction temperature": {
+        "value": "240",
+        "unit": "°C",
+        "original": "240 °C"
+      },
+      "Reaction pressure": {
+        "value": "3.0",
+        "unit": "MPa",
+        "original": "3.0 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "3",
+        "unit": "h",
+        "original": "3 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.10",
+        "unit": "g",
+        "original": "0.10 g catalyst per 0.50 g 4-ethylphenol"
+      },
+      "Product": {
+        "value": "ethylcyclohexane",
+        "unit": "Not reported",
+        "original": "ethylcyclohexane"
+      },
+      "Conversion rate": {
+        "value": "59.3",
+        "unit": "%",
+        "original": "59.3%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "85.1",
+        "unit": "%",
+        "original": "85.1% ethylcyclohexane"
+      },
+      "Catalyst stability": {
+        "value": "95",
+        "unit": "%",
+        "original": "95% recovery ratio"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在高压反应釜中，使用Ni/HZSM-5@SiO2@Fe3O4催化剂，以正十二烷为溶剂，在氢气氛围下对4-乙基苯酚进行催化加氢脱氧反应，生成乙基环己烷等高热值航空燃料组分。",
+      "experiment_id": 1,
+      "text_snippet": "HDO experiments were performed in a 100 mL autoclave. In a typical procedure, 0.10 g of reduced catalyst, 0.50 g of 4-ethylphenol and 30 mL of n-dodecane as solvent were added into the reactor. After tightening the screws, N2 was injected to replace the air in the reactor. Next, the reactor was flus..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

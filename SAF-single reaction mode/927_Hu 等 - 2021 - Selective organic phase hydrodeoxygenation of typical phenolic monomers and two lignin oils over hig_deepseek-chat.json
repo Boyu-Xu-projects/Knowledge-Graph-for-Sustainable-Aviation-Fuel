@@ -1,0 +1,359 @@
+{
+  "file": "927_Hu 等 - 2021 - Selective organic phase hydrodeoxygenation of typical phenolic monomers and two lignin oils over hig.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在Pd2%/Hβ催化剂上，于220°C、3 MPa H2压力、正己烷溶剂中反应4小时，将愈创木酚转化为环烷烃",
+        "text_snippet": "guaiacol can be converted into high yield of hydrocarbons under the condition of 220 ◦C, 3 MPa H2, and 4 h in n-hexane over Pd2%/Hβ (DP) catalyst.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在Pd2%/Hβ催化剂上，于相同条件下将其他八种典型酚类单体（包括酚、烷基酚、愈创木酚等）转化为环烷烃",
+        "text_snippet": "other typical phenolic monomers can be converted into high yield of hydrocarbons over this highly active catalyst.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在Pd2%/Hβ催化剂上，于220°C、3 MPa H2压力、正己烷溶剂中反应12小时，将两种真实木质素油升级转化为碳数为C7-C15的烃类",
+        "text_snippet": "real lignin oil (RLO) can be converted into high yield of hydrocarbons with the carbon number (CN) in range of C7-C15.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "Guaiacol",
+        "unit": "Not reported",
+        "original": "Guaiacol"
+      },
+      "Catalyst type": {
+        "value": "Pd-based zeolite catalyst",
+        "unit": "Not reported",
+        "original": "Pd-based zeolite catalyst"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "%/H",
+        "original": "Pd2%/Hβ"
+      },
+      "Solvent": {
+        "value": "n-hexane",
+        "unit": "Not reported",
+        "original": "n-hexane"
+      },
+      "Reaction temperature": {
+        "value": "220",
+        "unit": "°C",
+        "original": "220 °C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa H2"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "30",
+        "unit": "mg",
+        "original": "30 mg"
+      },
+      "Product": {
+        "value": "Cyclohexane",
+        "unit": "Not reported",
+        "original": "Cyclohexane"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "77.82",
+        "unit": "%",
+        "original": "77.82% hydrocarbons"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "82.84",
+        "unit": "%",
+        "original": "Good recyclability (82.84% conversion after 5 cycles)"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Pd2%/Hβ催化剂上，于220°C、3 MPa H2压力、正己烷溶剂中反应4小时，将愈创木酚转化为环烷烃",
+      "experiment_id": 1,
+      "text_snippet": "guaiacol can be converted into high yield of hydrocarbons under the condition of 220 ◦C, 3 MPa H2, and 4 h in n-hexane over Pd2%/Hβ (DP) catalyst."
+    },
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "guaiacol",
+        "unit": "Not reported",
+        "original": "guaiacol"
+      },
+      "Catalyst type": {
+        "value": "Pd-based zeolite catalyst",
+        "unit": "Not reported",
+        "original": "Pd-based zeolite catalyst"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "%/H",
+        "original": "Pd2%/Hβ"
+      },
+      "Solvent": {
+        "value": "n-hexane",
+        "unit": "Not reported",
+        "original": "n-hexane"
+      },
+      "Reaction temperature": {
+        "value": "220",
+        "unit": "°C",
+        "original": "220 °C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa H2"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "30",
+        "unit": "mg",
+        "original": "30 mg"
+      },
+      "Product": {
+        "value": "cyclohexane",
+        "unit": "Not reported",
+        "original": "cyclohexane"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% for guaiacol and other phenolic monomers"
+      },
+      "Product yield": {
+        "value": "77.82",
+        "unit": "%",
+        "original": "77.82% hydrocarbons for guaiacol"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "82.84",
+        "unit": "%",
+        "original": "Good recyclability, conversion decreased to 82.84% after 5 cycles"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Pd2%/Hβ催化剂上，于相同条件下将其他八种典型酚类单体（包括酚、烷基酚、愈创木酚等）转化为环烷烃",
+      "experiment_id": 2,
+      "text_snippet": "other typical phenolic monomers can be converted into high yield of hydrocarbons over this highly active catalyst."
+    },
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "guaiacol",
+        "unit": "Not reported",
+        "original": "guaiacol"
+      },
+      "Catalyst type": {
+        "value": "Pd-based zeolite catalyst",
+        "unit": "Not reported",
+        "original": "Pd-based zeolite catalyst"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "%/H",
+        "original": "Pd2%/Hβ"
+      },
+      "Solvent": {
+        "value": "n-hexane",
+        "unit": "Not reported",
+        "original": "n-hexane"
+      },
+      "Reaction temperature": {
+        "value": "220",
+        "unit": "°C",
+        "original": "220 °C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours (for guaiacol), 12 hours (for lignin oil)"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "30",
+        "unit": "mg",
+        "original": "30 mg"
+      },
+      "Product": {
+        "value": "cyclohexane",
+        "unit": "Not reported",
+        "original": "cyclohexane"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% (for guaiacol)"
+      },
+      "Product yield": {
+        "value": "77.82",
+        "unit": "%",
+        "original": "77.82% hydrocarbons (for guaiacol)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "82.84",
+        "unit": "%",
+        "original": "Good recyclability (conversion decreased to 82.84% after 5 cycles)"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Pd2%/Hβ催化剂上，于220°C、3 MPa H2压力、正己烷溶剂中反应12小时，将两种真实木质素油升级转化为碳数为C7-C15的烃类",
+      "experiment_id": 3,
+      "text_snippet": "real lignin oil (RLO) can be converted into high yield of hydrocarbons with the carbon number (CN) in range of C7-C15."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

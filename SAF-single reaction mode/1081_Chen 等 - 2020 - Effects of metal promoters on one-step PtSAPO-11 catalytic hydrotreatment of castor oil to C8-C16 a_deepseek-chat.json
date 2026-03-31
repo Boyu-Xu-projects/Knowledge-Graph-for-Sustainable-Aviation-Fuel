@@ -1,0 +1,135 @@
+{
+  "file": "1081_Chen 等 - 2020 - Effects of metal promoters on one-step PtSAPO-11 catalytic hydrotreatment of castor oil to C8-C16 a.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢处理反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用一系列双金属Pt/SAPO-11催化剂（添加La、Ce、Sn、Fe、Co、Ni、Cu、Zn等助剂），在高压微型固定床反应器中对蓖麻油进行一步连续催化加氢处理，制备生物航空煤油（C8-C16烷烃）。评估了催化剂的加氢脱氧性能、C8-C16烷烃选择性、C8-C16异构烷烃选择性和C8-C16芳烃选择性。",
+        "text_snippet": "Using castor oil as the model molecular probe, a one-step continuous catalyzed hydrogenation preparation of bio-aviation kerosene was carried out in a high pressure micro fixed-bed reactor. The effects of bimetallic multifunctional catalysts with an auxiliary metal agent on hydrodeoxygenation performance, the selectivity of C8-C16 alkanes, the selectivity of C8-C16 iso-alkanes and the selectivity of C8-C16 arene were evaluated systematically.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "Castor oil",
+        "unit": "Not reported",
+        "original": "Castor oil"
+      },
+      "Catalyst type": {
+        "value": "-11",
+        "unit": "catalysts",
+        "original": "Bimetallic Pt/SAPO-11 catalysts"
+      },
+      "Catalyst composition": {
+        "value": "11",
+        "unit": "Pt-La/SAPO-",
+        "original": "Pt-La/SAPO-11"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "380",
+        "unit": "°C",
+        "original": "380°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "-1200",
+        "unit": "NmL",
+        "original": "H/Oil ratio: 1000-1200 NmL·mL⁻¹"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "3",
+        "unit": "g",
+        "original": "3 g (40-60 meshes)"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "alkanes",
+        "original": "C8-C16 alkanes"
+      },
+      "Conversion rate": {
+        "value": "-90.65",
+        "unit": "%",
+        "original": "Deoxygenation rate: 73.15-90.65%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "16",
+        "unit": "alkanes",
+        "original": "{'C8-C16 alkanes': '40.37-58.24%', 'C8-C16 iso-alkanes': '5.01-17.32%', 'C8-C16 arene': '7.01-18.55%'}"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用一系列双金属Pt/SAPO-11催化剂（添加La、Ce、Sn、Fe、Co、Ni、Cu、Zn等助剂），在高压微型固定床反应器中对蓖麻油进行一步连续催化加氢处理，制备生物航空煤油（C8-C16烷烃）。评估了催化剂的加氢脱氧性能、C8-C16烷烃选择性、C8-C16异构烷烃选择性和C8-C16芳烃选择性。",
+      "experiment_id": 1,
+      "text_snippet": "Using castor oil as the model molecular probe, a one-step continuous catalyzed hydrogenation preparation of bio-aviation kerosene was carried out in a high pressure micro fixed-bed reactor. The effects of bimetallic multifunctional catalysts with an auxiliary metal agent on hydrodeoxygenation perfor..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

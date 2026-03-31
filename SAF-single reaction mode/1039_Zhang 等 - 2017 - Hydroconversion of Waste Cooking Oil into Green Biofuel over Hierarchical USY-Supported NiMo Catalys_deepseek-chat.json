@@ -1,0 +1,135 @@
+{
+  "file": "1039_Zhang 等 - 2017 - Hydroconversion of Waste Cooking Oil into Green Biofuel over Hierarchical USY-Supported NiMo Catalys.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢转化",
+        "reaction_type_english": "Hydroconversion",
+        "description": "使用经过脱硅和脱铝处理的USY沸石负载的硫化NiMo催化剂，在固定床反应器中，于380°C和3 MPa压力下，对废烹饪油进行加氢处理，以生产生物航空燃料（C9-C15烃）。",
+        "text_snippet": "The hydroconversion of WCO was carried out in a fixed-bed flow reactor (1.2 cm I.D. and 45 cm in length)... The reactions were conducted at 380 °C under 3 MPa with H2/Oil ratio (mL/mL) was 500.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "Waste cooking oil",
+        "unit": "Not reported",
+        "original": "Waste cooking oil"
+      },
+      "Catalyst type": {
+        "value": "Sulfided NiMo catalyst supported on hierarchical USY zeolite",
+        "unit": "Not reported",
+        "original": "Sulfided NiMo catalyst supported on hierarchical USY zeolite"
+      },
+      "Catalyst composition": {
+        "value": "4.0",
+        "unit": "wt%",
+        "original": "Ni (4.0 wt %), Mo (12 wt %) on modified USY"
+      },
+      "Solvent": {
+        "value": "Cyclohexane",
+        "unit": "Not reported",
+        "original": "Cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "380",
+        "unit": "°C",
+        "original": "380 °C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "0.8",
+        "unit": "mL/min",
+        "original": "0.8 mL/min"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "500",
+        "unit": "was",
+        "original": "H₂/Oil ratio (mL/mL) was 500"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed flow reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "8",
+        "unit": "g",
+        "original": "8 g catalyst diluted by SiC"
+      },
+      "Product": {
+        "value": "15",
+        "unit": "hydrocarbons",
+        "original": "Bio-jet fuel (C9–C15 hydrocarbons)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "~100%"
+      },
+      "Product yield": {
+        "value": "82.3",
+        "unit": "%",
+        "original": "82.3% yield of organic liquid products (for NiMo/8AHFS-Y)"
+      },
+      "Product Selectivity": {
+        "value": "42.3",
+        "unit": "%",
+        "original": "42.3% selectivity of jet fuel"
+      },
+      "Catalyst stability": {
+        "value": "7.91",
+        "unit": "%",
+        "original": "Studied via TG/DTG analysis; coke deposition decreased with increased AHFS treatment severity (e.g., 7.91% coke for NiMo/8AHFS-Y after 7 h)"
+      },
+      "reaction_type": "加氢转化",
+      "reaction_type_english": "Hydroconversion",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用经过脱硅和脱铝处理的USY沸石负载的硫化NiMo催化剂，在固定床反应器中，于380°C和3 MPa压力下，对废烹饪油进行加氢处理，以生产生物航空燃料（C9-C15烃）。",
+      "experiment_id": 1,
+      "text_snippet": "The hydroconversion of WCO was carried out in a fixed-bed flow reactor (1.2 cm I.D. and 45 cm in length)... The reactions were conducted at 380 °C under 3 MPa with H2/Oil ratio (mL/mL) was 500."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢转化",
+      "reaction_type_english": "Hydroconversion",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

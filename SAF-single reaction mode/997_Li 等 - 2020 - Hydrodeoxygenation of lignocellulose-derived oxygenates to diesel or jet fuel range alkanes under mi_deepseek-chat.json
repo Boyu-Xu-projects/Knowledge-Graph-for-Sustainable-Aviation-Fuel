@@ -1,0 +1,135 @@
+{
+  "file": "997_Li 等 - 2020 - Hydrodeoxygenation of lignocellulose-derived oxygenates to diesel or jet fuel range alkanes under mi.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在160°C和4MPa氢气压力下，使用Ru/HAP和HZSM-5催化剂对九种木质纤维素衍生的含氧化合物进行一锅法加氢脱氧反应，生成C8-C18烷烃",
+        "text_snippet": "a fairly mild (160°C, 4 MPa H₂) one-pot catalytic HDO system based on Ru/HAP combined with the HZSM-5 catalyst was developed, and a series of diesel or jet fuel range alkanes (C8–C18), including straight, branched, and cyclic alkanes, were obtained from nine complicated lignocellulose-derived oxygenates with a desired yield",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "九种木质纤维素衍生的含氧化合物",
+        "unit": "Not reported",
+        "original": "九种木质纤维素衍生的含氧化合物"
+      },
+      "Catalyst type": {
+        "value": "Ru/HAP",
+        "unit": "Not reported",
+        "original": "Ru/HAP"
+      },
+      "Catalyst composition": {
+        "value": "2.3",
+        "unit": "%",
+        "original": "Ru/HAP (2.3% Ru)"
+      },
+      "Solvent": {
+        "value": "cyclohexane",
+        "unit": "Not reported",
+        "original": "cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "160",
+        "unit": "°C",
+        "original": "160°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "24",
+        "unit": "h",
+        "original": "24 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "batch",
+        "unit": "Not reported",
+        "original": "batch"
+      },
+      "Catalyst loading": {
+        "value": "100",
+        "unit": "mg",
+        "original": "100 mg Ru/HAP"
+      },
+      "Product": {
+        "value": "18",
+        "unit": "alkanes",
+        "original": "C8-C18 alkanes"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% (for compound 1A)"
+      },
+      "Product yield": {
+        "value": "-93.8",
+        "unit": "%",
+        "original": "36.6-93.8% (for compound 1A)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "-5",
+        "unit": "deactivates",
+        "original": "HZSM-5 deactivates due to oligomer deposition and structural changes"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在160°C和4MPa氢气压力下，使用Ru/HAP和HZSM-5催化剂对九种木质纤维素衍生的含氧化合物进行一锅法加氢脱氧反应，生成C8-C18烷烃",
+      "experiment_id": 1,
+      "text_snippet": "a fairly mild (160°C, 4 MPa H₂) one-pot catalytic HDO system based on Ru/HAP combined with the HZSM-5 catalyst was developed, and a series of diesel or jet fuel range alkanes (C8–C18), including straight, branched, and cyclic alkanes, were obtained from nine complicated lignocellulose-derived oxygen..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

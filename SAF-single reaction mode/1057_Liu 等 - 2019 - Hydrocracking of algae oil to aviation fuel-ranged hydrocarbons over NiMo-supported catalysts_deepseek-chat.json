@@ -1,0 +1,247 @@
+{
+  "file": "1057_Liu 等 - 2019 - Hydrocracking of algae oil to aviation fuel-ranged hydrocarbons over NiMo-supported catalysts.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrogenation reaction & Cracking reaction",
+        "description": "在间歇反应器中，于300°C、4MPa H₂压力下，使用各种NiMo负载催化剂（NiMo/SiO₂, NiMo/H-ZSM-5, NiMo/H-Y, NiMo/SiO₂-Al₂O₃, NiMo/Na-Mont, NiMo/Al₁₃-Mont）对角鲨烯（C₃₀H₅₀）进行加氢裂化反应6小时。",
+        "text_snippet": "Forthehydrocrackingofsqualeneat300°Cfor6hunder 4MPa H 2 , NiMo/SiO 2 formed squalane (C H ) as a main product; NiMo/H-ZSM-5 formed C −C gas hy- drocarbonsasmainproducts;NiMo/H-YandNiMo/SiO -Al O formedC −C gasoline-rangedhydrocarbonsas main products; NiMo/Al -Mont formed C −C aviation fuel-ranged hydrocarbons as main products.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrogenation reaction & Cracking reaction",
+        "description": "在间歇反应器中，于300°C、4MPa H₂压力下，使用NiMo/Al₁₃-Mont催化剂对来自Botryococcus braunii的藻油进行加氢裂化反应6小时，目标是生产航空燃料范围的C₁₀–C₁₅烃。",
+        "text_snippet": "TheNiMo/Al -MontcatalystachievedaC −C aviationfuel-rangedhydrocarbonsyieldof52%forthehydrocrackingofBotryococcusbrauniioilat300°Cfor 6h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "Squalene (C₃₀H₅₀)",
+        "unit": "Not reported",
+        "original": "Squalene (C₃₀H₅₀)"
+      },
+      "Catalyst type": {
+        "value": "NiMo-supported catalysts",
+        "unit": "Not reported",
+        "original": "NiMo-supported catalysts"
+      },
+      "Catalyst composition": {
+        "value": "NiMo/SiO₂",
+        "unit": "Not reported",
+        "original": "NiMo/SiO₂"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "300",
+        "unit": "°C",
+        "original": "300°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "6",
+        "unit": "h",
+        "original": "6 hours"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g catalyst per 5 g squalene (or Bot-oil)"
+      },
+      "Product": {
+        "value": "Squalane (C₃₀H₆₂)",
+        "unit": "Not reported",
+        "original": "Squalane (C₃₀H₆₂)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% for squalene over each NiMo-supported catalyst"
+      },
+      "Product yield": {
+        "value": "52",
+        "unit": "%",
+        "original": "C₁₀–C₁₅ aviation fuel-ranged hydrocarbons yield of 52% for Bot-oil hydrocracking over NiMo/Al₁₃-Mont"
+      },
+      "Product Selectivity": {
+        "value": "91.2",
+        "unit": "%",
+        "original": "{'NiMo/SiO₂': {'Squalane': '91.2%', 'C₁–C₄': '2.0%', 'C₅–C₉': '3.2%', 'C₁₀–C₁₅': '2.6%', 'C₁₆–C₂₀': '0.6%'}, 'NiMo/H-ZSM-5': {'Squalane': '0%', 'C₁–C₄': '54.3%', 'C₅–C₉': '41.8%', 'C₁₀–C₁₅': '3.1%', 'C₁₆–C₂₀': '0%'}, 'NiMo/H-Y': {'Squalane': '0%', 'C₁–C₄': '33.6%', 'C₅–C₉': '52.3%', 'C₁₀–C₁₅': '12.4%', 'C₁₆–C₂₀': '0.9%'}, 'NiMo/SiO₂-Al₂O₃': {'Squalane': '0%', 'C₁–C₄': '11.3%', 'C₅–C₉': '53.9%', 'C₁₀–C₁₅': '31.6%', 'C₁₆–C₂₀': '2.1%'}, 'NiMo/Na-Mont': {'Squalane': '24.1%', 'C₁–C₄': '3.9%', 'C₅–C₉': '25.4%', 'C₁₀–C₁₅': '35.5%', 'C₁₆–C₂₀': '9.3%'}, 'NiMo/Al₁₃-Mont': {'Squalane': '0.3%', 'C₁–C₄': '4.6%', 'C₅–C₉': '32.8%', 'C₁₀–C₁₅': '53.2%', 'C₁₆–C₂₀': '5.6%'}}"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction & Cracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在间歇反应器中，于300°C、4MPa H₂压力下，使用各种NiMo负载催化剂（NiMo/SiO₂, NiMo/H-ZSM-5, NiMo/H-Y, NiMo/SiO₂-Al₂O₃, NiMo/Na-Mont, NiMo/Al₁₃-Mont）对角鲨烯（C₃₀H₅₀）进行加氢裂化反应6小时。",
+      "experiment_id": 1,
+      "text_snippet": "Forthehydrocrackingofsqualeneat300°Cfor6hunder 4MPa H 2 , NiMo/SiO 2 formed squalane (C H ) as a main product; NiMo/H-ZSM-5 formed C −C gas hy- drocarbonsasmainproducts;NiMo/H-YandNiMo/SiO -Al O formedC −C gasoline-rangedhydrocarbonsas main products; NiMo/Al -Mont formed C −C aviation fuel-ranged hy..."
+    },
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "Botryococcus braunii algae oil",
+        "unit": "Not reported",
+        "original": "Botryococcus braunii algae oil"
+      },
+      "Catalyst type": {
+        "value": "NiMo-supported catalysts",
+        "unit": "Not reported",
+        "original": "NiMo-supported catalysts"
+      },
+      "Catalyst composition": {
+        "value": "NiMo/Al₁₃-Mont",
+        "unit": "Not reported",
+        "original": "NiMo/Al₁₃-Mont"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "300",
+        "unit": "°C",
+        "original": "300°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "6",
+        "unit": "h",
+        "original": "6 hours"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g catalyst per 5 g reactant"
+      },
+      "Product": {
+        "value": "C₁–C₄ gas hydrocarbons",
+        "unit": "Not reported",
+        "original": "C₁–C₄ gas hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% for squalene"
+      },
+      "Product yield": {
+        "value": "52",
+        "unit": "%",
+        "original": "52% yield of C₁₀–C₁₅ aviation fuel-ranged hydrocarbons from Botryococcus braunii oil"
+      },
+      "Product Selectivity": {
+        "value": "0.3",
+        "unit": "wt%",
+        "original": "{'NiMo/Al₁₃-Mont': {'Squalane (C₃₀H₆₂)': '0.3 wt.%', 'C₁–C₄': '4.6 wt.%', 'C₅–C₉': '32.8 wt.%', 'C₁₀–C₁₅': '53.2 wt.%', 'C₁₆–C₂₀': '5.6 wt.%'}}"
+      },
+      "Catalyst stability": {
+        "value": "400",
+        "unit": "°C",
+        "original": "Al₁₃-Mont showed high thermal stability up to 400°C calcination temperature"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction & Cracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在间歇反应器中，于300°C、4MPa H₂压力下，使用NiMo/Al₁₃-Mont催化剂对来自Botryococcus braunii的藻油进行加氢裂化反应6小时，目标是生产航空燃料范围的C₁₀–C₁₅烃。",
+      "experiment_id": 2,
+      "text_snippet": "TheNiMo/Al -MontcatalystachievedaC −C aviationfuel-rangedhydrocarbonsyieldof52%forthehydrocrackingofBotryococcusbrauniioilat300°Cfor 6h."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction & Cracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction & Cracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

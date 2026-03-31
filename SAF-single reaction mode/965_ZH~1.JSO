@@ -1,0 +1,135 @@
+{
+  "file": "965_Zhang Jianxin 等 - 2024 - Upgrading of Trimethylolpropane Oleate to Biojet Fuel Range Hydrocarbons Through Catalytic Deoxygena.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化脱氧反应",
+        "reaction_type_english": "Catalytic deoxygenation",
+        "description": "在氮气氛围中，使用过渡金属（Ni、Co、Fe）负载的TiO2催化剂，在350°C下对三羟甲基丙烷油酸酯（TMPE）进行2小时的脱氧反应，生成生物航空燃料范围的C8-C16烃类",
+        "text_snippet": "Each catalyst was tested for the deoxygenation of TMPE at 350 °C for 2 h at atmospheric pressure in a N2 atmosphere.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Trimethylolpropane oleate (TMPE)",
+        "unit": "Not reported",
+        "original": "Trimethylolpropane oleate (TMPE)"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "solid",
+        "original": "Transition metal-loaded TiO2 solid acid catalyst"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "Ni/TiO",
+        "original": "Ni/TiO2"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350 °C"
+      },
+      "Reaction pressure": {
+        "value": "Atmospheric pressure",
+        "unit": "MPa",
+        "original": "Atmospheric pressure"
+      },
+      "Flow rate": {
+        "value": "200",
+        "unit": "mL/min",
+        "original": "200 mL/min N2"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "N",
+        "original": "N2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "g",
+        "original": "5 g catalyst per 100 g TMPE"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "hydrocarbons",
+        "original": "C8-C16 hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "53.7",
+        "unit": "%",
+        "original": "Fe/TiO2: 53.7% C8-C16 selectivity"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化脱氧反应",
+      "reaction_type_english": "Catalytic deoxygenation",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在氮气氛围中，使用过渡金属（Ni、Co、Fe）负载的TiO2催化剂，在350°C下对三羟甲基丙烷油酸酯（TMPE）进行2小时的脱氧反应，生成生物航空燃料范围的C8-C16烃类",
+      "experiment_id": 1,
+      "text_snippet": "Each catalyst was tested for the deoxygenation of TMPE at 350 °C for 2 h at atmospheric pressure in a N2 atmosphere."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化脱氧反应",
+      "reaction_type_english": "Catalytic deoxygenation",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

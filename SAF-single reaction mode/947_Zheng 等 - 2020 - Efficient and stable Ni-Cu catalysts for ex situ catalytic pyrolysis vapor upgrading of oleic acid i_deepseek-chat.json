@@ -1,0 +1,135 @@
+{
+  "file": "947_Zheng 等 - 2020 - Efficient and stable Ni-Cu catalysts for ex situ catalytic pyrolysis vapor upgrading of oleic acid i.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化热解",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在固定床反应器中，使用Ni-Cu双金属催化剂（负载于MCM-41等不同载体上），在氮气气氛下对油酸蒸气进行催化热解升级，以生产烃类燃料。研究了催化剂载体、热解温度、催化温度和油酸进料量等参数对转化率和产物选择性的影响。",
+        "text_snippet": "ex situ catalytic pyrolysis vapor upgrading of oleic acid under a N2 atmosphere. The effects of catalyst support (AC, Al2O3, ZrO2, HZSM-5, HUSY, Hb and MCM-41), pyrolysis process parameters (pyrolysis temperature, catalytic temperature and amount of oleic acid injected), and the mixing ratio of modified metals (Ni:Cu = 0:1,2,1:1,1:2,1:0) on the catalytic conversion of oleic acid to high-quality chemicals were studied.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "oleic acid",
+        "unit": "Not reported",
+        "original": "oleic acid"
+      },
+      "Catalyst type": {
+        "value": "Ni-Cu bimetallic catalyst",
+        "unit": "Not reported",
+        "original": "Ni-Cu bimetallic catalyst"
+      },
+      "Catalyst composition": {
+        "value": "41",
+        "unit": "Ni-Cu/MCM-",
+        "original": "Ni-Cu/MCM-41"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-600",
+        "unit": "°C",
+        "original": "Pyrolysis: 400-600 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "150",
+        "unit": "mL/min",
+        "original": "N2: 150 ml/min"
+      },
+      "Reaction time": {
+        "value": "30",
+        "unit": "min",
+        "original": "30 min"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "N",
+        "original": "N2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor, ex situ catalytic pyrolysis vapor upgrading",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor, ex situ catalytic pyrolysis vapor upgrading"
+      },
+      "Catalyst loading": {
+        "value": "1.2",
+        "unit": "g",
+        "original": "1.2 g"
+      },
+      "Product": {
+        "value": "Hydrocarbons",
+        "unit": "Not reported",
+        "original": "Hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% (optimal conditions)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "85.68",
+        "unit": "%",
+        "original": "Hydrocarbons: 85.68%"
+      },
+      "Catalyst stability": {
+        "value": "3",
+        "unit": "reaction",
+        "original": "Stable for at least 3 reaction cycles after regeneration"
+      },
+      "reaction_type": "催化热解",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在固定床反应器中，使用Ni-Cu双金属催化剂（负载于MCM-41等不同载体上），在氮气气氛下对油酸蒸气进行催化热解升级，以生产烃类燃料。研究了催化剂载体、热解温度、催化温度和油酸进料量等参数对转化率和产物选择性的影响。",
+      "experiment_id": 1,
+      "text_snippet": "ex situ catalytic pyrolysis vapor upgrading of oleic acid under a N2 atmosphere. The effects of catalyst support (AC, Al2O3, ZrO2, HZSM-5, HUSY, Hb and MCM-41), pyrolysis process parameters (pyrolysis temperature, catalytic temperature and amount of oleic acid injected), and the mixing ratio of modi..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化热解",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

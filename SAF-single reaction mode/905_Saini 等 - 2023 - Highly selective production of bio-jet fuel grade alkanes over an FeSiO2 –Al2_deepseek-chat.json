@@ -1,0 +1,135 @@
+{
+  "file": "905_Saini 等 - 2023 - Highly selective production of bio-jet fuel grade alkanes over an FeSiO2 –Al2.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在高压反应器中，使用Fe/SiO₂–Al₂O₃固体酸催化剂，在无溶剂条件下对模型底物甲基油酸酯以及各种油（亚麻籽油、菜籽油、印楝油和桐油）进行加氢处理，以生产生物航煤级烷烃（C8至C15）。优化条件为：380°C，5 bar H₂压力，10%铁负载量，反应5小时，实现了100%转化率和>74%的选择性。",
+        "text_snippet": "The hydrotreatment experiments were conducted in a high-pressure reactor to optimize the reaction conditions, such as operating temperature, reaction time, H₂ pressure, and catalyst loading... The investigation demonstrates ∼100% conversion with >74% hydrocracking selectivity at 5 bar pressure in 5 h under solvent-free conditions.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "methyl oleate",
+        "unit": "Not reported",
+        "original": "methyl oleate"
+      },
+      "Catalyst type": {
+        "value": "solid acid catalyst",
+        "unit": "Not reported",
+        "original": "solid acid catalyst"
+      },
+      "Catalyst composition": {
+        "value": "Fe/SiO₂–Al₂O₃",
+        "unit": "Not reported",
+        "original": "Fe/SiO₂–Al₂O₃"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "380",
+        "unit": "°C",
+        "original": "380°C"
+      },
+      "Reaction pressure": {
+        "value": "5",
+        "unit": "bar",
+        "original": "5 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "5",
+        "unit": "h",
+        "original": "5 hours"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "batch",
+        "unit": "Not reported",
+        "original": "batch"
+      },
+      "Catalyst loading": {
+        "value": "10",
+        "unit": "%",
+        "original": "10% iron loading"
+      },
+      "Product": {
+        "value": "8",
+        "unit": ":",
+        "original": "bio-jet fuel grade alkanes (C8 to C15)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "74",
+        "unit": "%",
+        "original": ">74%"
+      },
+      "Catalyst stability": {
+        "value": "10",
+        "unit": "test",
+        "original": "excellent reusability (up to 10 test cycles)"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在高压反应器中，使用Fe/SiO₂–Al₂O₃固体酸催化剂，在无溶剂条件下对模型底物甲基油酸酯以及各种油（亚麻籽油、菜籽油、印楝油和桐油）进行加氢处理，以生产生物航煤级烷烃（C8至C15）。优化条件为：380°C，5 bar H₂压力，10%铁负载量，反应5小时，实现了100%转化率和>74%的选择性。",
+      "experiment_id": 1,
+      "text_snippet": "The hydrotreatment experiments were conducted in a high-pressure reactor to optimize the reaction conditions, such as operating temperature, reaction time, H₂ pressure, and catalyst loading... The investigation demonstrates ∼100% conversion with >74% hydrocracking selectivity at 5 bar pressure in 5 ..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

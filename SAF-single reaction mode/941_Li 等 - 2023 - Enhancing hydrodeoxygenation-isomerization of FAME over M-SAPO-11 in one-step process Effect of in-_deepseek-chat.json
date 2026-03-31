@@ -1,0 +1,247 @@
+{
+  "file": "941_Li 等 - 2023 - Enhancing hydrodeoxygenation-isomerization of FAME over M-SAPO-11 in one-step process Effect of in-.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧-异构化反应",
+        "reaction_type_english": "Hydrodeoxygenation-Isomerization reaction",
+        "description": "在高压釜反应器中，使用Pt/M-SAPO-11和PtSn/M-SAPO-11系列催化剂，对脂肪酸甲酯（FAME）进行一步加氢处理，生产C15-C18烷烃和异构烷烃。",
+        "text_snippet": "The catalytic activity of catalyst on the FAME hydrotreatment to produce C15-C18 alkanes was carried out in a high-pressure tank reactor... Pt/Fe3SAPO-11 showed a remarkable catalytic performance containing efficiency of deoxygenation with 100 %, selectivity of C15-C18 alkanes with 99.6 %, and selectivity of iso-C15-C18 alkanes with 34.8 % in one-step hydrotreatment process of fatty acid methyl ester.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氧-异构化反应",
+        "reaction_type_english": "Hydrodeoxygenation-Isomerization reaction",
+        "description": "在固定床反应器中，使用Pt1Sn1/Fe3SAPO-11催化剂，对FAME进行加氢处理，评估催化剂的长期稳定性。",
+        "text_snippet": "The stability was evaluated in a fixed-bed reactor with the inner diameter of 10 mm using catalyst shape of 40–60 meshes... Pt1Sn1/Fe3SAPO-11 with a stable catalytic ability can run as long as 1300 h in a mild reaction condition.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "Fatty acid methyl ester (FAME)",
+        "unit": "Not reported",
+        "original": "Fatty acid methyl ester (FAME)"
+      },
+      "Catalyst type": {
+        "value": "11",
+        "unit": "Pt/M-SAPO-",
+        "original": "Pt/M-SAPO-11"
+      },
+      "Catalyst composition": {
+        "value": "3",
+        "unit": "SAPO-",
+        "original": "Pt/Fe3SAPO-11"
+      },
+      "Solvent": {
+        "value": "Octane",
+        "unit": "Not reported",
+        "original": "Octane"
+      },
+      "Reaction temperature": {
+        "value": "320",
+        "unit": "°C",
+        "original": "320 °C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "0.8",
+        "unit": "h",
+        "original": "0.8 h⁻¹ (LHSV)"
+      },
+      "Reaction time": {
+        "value": "6",
+        "unit": "h",
+        "original": "6 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "800",
+        "unit": "mL/mL",
+        "original": "H₂/ester ratio: 800 mL/mL"
+      },
+      "Operation mode": {
+        "value": "Batch (high-pressure tank reactor)",
+        "unit": "Not reported",
+        "original": "Batch (high-pressure tank reactor)"
+      },
+      "Catalyst loading": {
+        "value": "Feedstock/cat. ratio: 1:5",
+        "unit": "wt%",
+        "original": "Feedstock/cat. ratio: 1:5"
+      },
+      "Product": {
+        "value": "18",
+        "unit": "alkanes",
+        "original": "C15-C18 alkanes"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "18",
+        "unit": "alkanes",
+        "original": "C15-C18 alkanes: 99.6%"
+      },
+      "Catalyst stability": {
+        "value": "1300",
+        "unit": "h",
+        "original": "1300 h"
+      },
+      "reaction_type": "加氢脱氧-异构化反应",
+      "reaction_type_english": "Hydrodeoxygenation-Isomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在高压釜反应器中，使用Pt/M-SAPO-11和PtSn/M-SAPO-11系列催化剂，对脂肪酸甲酯（FAME）进行一步加氢处理，生产C15-C18烷烃和异构烷烃。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic activity of catalyst on the FAME hydrotreatment to produce C15-C18 alkanes was carried out in a high-pressure tank reactor... Pt/Fe3SAPO-11 showed a remarkable catalytic performance containing efficiency of deoxygenation with 100 %, selectivity of C15-C18 alkanes with 99.6 %, and selec..."
+    },
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "FAME (fatty acid methyl ester)",
+        "unit": "Not reported",
+        "original": "FAME (fatty acid methyl ester)"
+      },
+      "Catalyst type": {
+        "value": "-11",
+        "unit": "molecular",
+        "original": "PtSn alloy on M-SAPO-11 molecular sieve"
+      },
+      "Catalyst composition": {
+        "value": "1",
+        "unit": "Sn",
+        "original": "Pt1Sn1/Fe3SAPO-11"
+      },
+      "Solvent": {
+        "value": "octane",
+        "unit": "Not reported",
+        "original": "octane"
+      },
+      "Reaction temperature": {
+        "value": "320",
+        "unit": "°C",
+        "original": "320 °C (batch)"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa (batch)"
+      },
+      "Flow rate": {
+        "value": "0.8",
+        "unit": "h",
+        "original": "LHSV: 0.8 h⁻¹ (fixed-bed)"
+      },
+      "Reaction time": {
+        "value": "6",
+        "unit": "h",
+        "original": "6 h (batch), 1300 h (stability test)"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch (high-pressure tank reactor)",
+        "unit": "Not reported",
+        "original": "Batch (high-pressure tank reactor)"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "18",
+        "unit": "alkanes",
+        "original": "C15-C18 alkanes"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "18",
+        "unit": "alkanes",
+        "original": "C15-C18 alkanes: 96.1%"
+      },
+      "Catalyst stability": {
+        "value": "1300",
+        "unit": "h",
+        "original": "Stable for 1300 h in fixed-bed reactor"
+      },
+      "reaction_type": "加氢脱氧-异构化反应",
+      "reaction_type_english": "Hydrodeoxygenation-Isomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床反应器中，使用Pt1Sn1/Fe3SAPO-11催化剂，对FAME进行加氢处理，评估催化剂的长期稳定性。",
+      "experiment_id": 2,
+      "text_snippet": "The stability was evaluated in a fixed-bed reactor with the inner diameter of 10 mm using catalyst shape of 40–60 meshes... Pt1Sn1/Fe3SAPO-11 with a stable catalytic ability can run as long as 1300 h in a mild reaction condition."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧-异构化反应",
+      "reaction_type_english": "Hydrodeoxygenation-Isomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氧-异构化反应",
+      "reaction_type_english": "Hydrodeoxygenation-Isomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

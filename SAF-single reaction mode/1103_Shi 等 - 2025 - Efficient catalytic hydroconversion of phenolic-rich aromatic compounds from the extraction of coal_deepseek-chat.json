@@ -1,0 +1,247 @@
+{
+  "file": "1103_Shi 等 - 2025 - Efficient catalytic hydroconversion of phenolic-rich aromatic compounds from the extraction of coal.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在Ni10%@β/M催化剂上，于160°C、5 MPa初始氢压下，对从煤焦油残渣中提取的富含酚类的可溶部分(PEEPM)进行16小时的催化加氢转化(CHC)，得到CHPEEPM。产物中环烷烃相对含量高达93.4%。",
+        "text_snippet": "Approximately 100mg PEEPM, 100mg Ni10%@β/M, and 20mL n-hexane were placed in a 100mL miniature autoclave, sealed, and purged of air. The hydrofinishing reaction was carried out for 16h at 5MPa IHP and 160◦C.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用模型化合物苯甲氧基苯(BOB)在Ni10%@β/M催化剂上研究催化活性。反应在160°C、5 MPa初始氢压下进行2小时，BOB完全转化为环烷烃。",
+        "text_snippet": "In a standard CHC process, 100 mg BOB, 50 mg Ni10%@β/M, and 20 mL n-hexane were carefully mixed and introduced into a miniaturized autoclave... heated to a temperature range of 160 ◦C for durations of 120 min.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Phenolic-rich soluble portion from coal tar residue (PEEPM)",
+        "unit": "Not reported",
+        "original": "Phenolic-rich soluble portion from coal tar residue (PEEPM)"
+      },
+      "Catalyst type": {
+        "value": "β/M composite zeolite-supported Ni nanoparticles",
+        "unit": "Not reported",
+        "original": "β/M composite zeolite-supported Ni nanoparticles"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "%",
+        "original": "Ni nanoparticles (ca. 10%) on β/MCM-41 composite zeolite"
+      },
+      "Solvent": {
+        "value": "n-hexane",
+        "unit": "Not reported",
+        "original": "n-hexane"
+      },
+      "Reaction temperature": {
+        "value": "160",
+        "unit": "°C",
+        "original": "160 °C"
+      },
+      "Reaction pressure": {
+        "value": "5",
+        "unit": "MPa",
+        "original": "5 MPa initial hydrogen pressure"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "16",
+        "unit": "h",
+        "original": "16 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "100",
+        "unit": "mg",
+        "original": "100 mg catalyst per 100 mg PEEPM"
+      },
+      "Product": {
+        "value": "CHPEEPM (catalytic hydroconversion product of PEEPM)",
+        "unit": "Not reported",
+        "original": "CHPEEPM (catalytic hydroconversion product of PEEPM)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "93.4",
+        "unit": "%",
+        "original": "Cyclanes relative content: 93.4%"
+      },
+      "Catalyst stability": {
+        "value": "3",
+        "unit": "cycles",
+        "original": "Maintains high activity after 3 cycles (cyclanes content decreases from 94.3% to 70.6%)"
+      },
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Ni10%@β/M催化剂上，于160°C、5 MPa初始氢压下，对从煤焦油残渣中提取的富含酚类的可溶部分(PEEPM)进行16小时的催化加氢转化(CHC)，得到CHPEEPM。产物中环烷烃相对含量高达93.4%。",
+      "experiment_id": 1,
+      "text_snippet": "Approximately 100mg PEEPM, 100mg Ni10%@β/M, and 20mL n-hexane were placed in a 100mL miniature autoclave, sealed, and purged of air. The hydrofinishing reaction was carried out for 16h at 5MPa IHP and 160◦C."
+    },
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Benzyloxybenzene (BOB)",
+        "unit": "Not reported",
+        "original": "Benzyloxybenzene (BOB)"
+      },
+      "Catalyst type": {
+        "value": "β/M composite zeolite-supported Ni nanoparticles",
+        "unit": "Not reported",
+        "original": "β/M composite zeolite-supported Ni nanoparticles"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "%",
+        "original": "Ni10%@β/M"
+      },
+      "Solvent": {
+        "value": "n-hexane",
+        "unit": "Not reported",
+        "original": "n-hexane"
+      },
+      "Reaction temperature": {
+        "value": "160",
+        "unit": "°C",
+        "original": "160 °C"
+      },
+      "Reaction pressure": {
+        "value": "5",
+        "unit": "MPa",
+        "original": "5 MPa initial hydrogen pressure"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 hours"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "50",
+        "unit": "mg",
+        "original": "50 mg"
+      },
+      "Product": {
+        "value": "cyclanes",
+        "unit": "Not reported",
+        "original": "cyclanes"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% cyclanes"
+      },
+      "Catalyst stability": {
+        "value": "3",
+        "unit": "cycles",
+        "original": "Maintains high activity after 3 cycles (conversion remains 100%, cyclanes selectivity decreases to 76.6%)"
+      },
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用模型化合物苯甲氧基苯(BOB)在Ni10%@β/M催化剂上研究催化活性。反应在160°C、5 MPa初始氢压下进行2小时，BOB完全转化为环烷烃。",
+      "experiment_id": 2,
+      "text_snippet": "In a standard CHC process, 100 mg BOB, 50 mg Ni10%@β/M, and 20 mL n-hexane were carefully mixed and introduced into a miniaturized autoclave... heated to a temperature range of 160 ◦C for durations of 120 min."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

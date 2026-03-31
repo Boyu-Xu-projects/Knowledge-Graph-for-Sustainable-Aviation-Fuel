@@ -1,0 +1,135 @@
+{
+  "file": "1061_Lin 等 - 2020 - The production of bio-jet fuel from palm oil derived alkanes.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化/异构化反应",
+        "reaction_type_english": "Hydro-cracking/Isomerization",
+        "description": "将棕榈油衍生的加氢处理烷烃（柴油范围）在NiAg/SAPO-11催化剂上转化为喷气燃料范围的产品。研究了温度、压力、液时空速(LHSV)对碳数分布、异构体与正构烷烃比率(I-to-N)和芳烃含量的影响。",
+        "text_snippet": "The hydro-processed alkanes, in this paper, were turned into jet fuel range products through hydro-cracking/isomerization over the nickel-silver (NiAg) supported on silico-aluminio-phosphates (SAPO-11) catalyst... The effects of the reaction parameters such as temperature, pressure, and liquid hourly space velocity (LHSV) on the carbon distributions, isomer-to-normal (I-to-N) alkane ratios and aromatics contents were investigated",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "Palm oil derived hydro-processed alkanes (diesel range)",
+        "unit": "Not reported",
+        "original": "Palm oil derived hydro-processed alkanes (diesel range)"
+      },
+      "Catalyst type": {
+        "value": "11",
+        "unit": "NiAg/SAPO-",
+        "original": "NiAg/SAPO-11"
+      },
+      "Catalyst composition": {
+        "value": "25",
+        "unit": "wt%",
+        "original": "25 wt% Ni, Ni/Ag molar ratio = 44, supported on SAPO-11 (SiO₂)₂₀.₆(Al₂O₃)₅₁(P₂O₅)₄₃"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "340",
+        "unit": "°C",
+        "original": "340°C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "1",
+        "unit": "h",
+        "original": "LHSV: 1 h⁻¹, 2 h⁻¹, 4 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Hydrogen/oil molar ratio = 13.6",
+        "unit": "Not reported",
+        "original": "Hydrogen/oil molar ratio = 13.6"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "g",
+        "original": "5 g"
+      },
+      "Product": {
+        "value": "8",
+        "unit": "°C",
+        "original": "Jet fuel range hydrocarbons (C8-C16)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "-56",
+        "unit": "%",
+        "original": "Liquid product yield: ~55-56%"
+      },
+      "Product Selectivity": {
+        "value": "360",
+        "unit": "°C",
+        "original": "Isomer selectivity increased with temperature up to 360°C"
+      },
+      "Catalyst stability": {
+        "value": "Reduced metal dispersion observed in spent catalyst",
+        "unit": "Not reported",
+        "original": "Reduced metal dispersion observed in spent catalyst"
+      },
+      "reaction_type": "加氢裂化/异构化反应",
+      "reaction_type_english": "Hydro-cracking/Isomerization",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "将棕榈油衍生的加氢处理烷烃（柴油范围）在NiAg/SAPO-11催化剂上转化为喷气燃料范围的产品。研究了温度、压力、液时空速(LHSV)对碳数分布、异构体与正构烷烃比率(I-to-N)和芳烃含量的影响。",
+      "experiment_id": 1,
+      "text_snippet": "The hydro-processed alkanes, in this paper, were turned into jet fuel range products through hydro-cracking/isomerization over the nickel-silver (NiAg) supported on silico-aluminio-phosphates (SAPO-11) catalyst... The effects of the reaction parameters such as temperature, pressure, and liquid hourl..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化/异构化反应",
+      "reaction_type_english": "Hydro-cracking/Isomerization",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

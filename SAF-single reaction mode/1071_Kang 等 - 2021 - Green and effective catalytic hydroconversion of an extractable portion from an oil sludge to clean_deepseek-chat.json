@@ -1,0 +1,247 @@
+{
+  "file": "1071_Kang 等 - 2021 - Green and effective catalytic hydroconversion of an extractable portion from an oil sludge to clean.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化加氢转化",
+        "reaction_type_english": "Catalytic Hydroconversion (Hydrogenation)",
+        "description": "在5 MPa初始氢压和160°C条件下，使用Ni10%/MPYZ催化剂，在正己烷溶剂中对油泥提取物(EPOS)进行催化加氢转化18小时。反应将烯烃、芳烃和杂原子化合物转化为链烷烃和环烷烃。",
+        "text_snippet": "In a typical CHC procedure, 20 mL n-hexane, 0.1 g EPOS, and 0.1 g Ni10%/MPYZ were fed into a miniature autoclave. After purging residual air in the autoclave with N2, the autoclave was pressurized with H2 to 5 MPa and subsequently heated to 160 °C at 15–20 °C min⁻¹ for 18 h with stirring at 300 rpm.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "催化加氢转化",
+        "reaction_type_english": "Catalytic Hydroconversion (Hydrogenation)",
+        "description": "使用Ni10%/MPYZ催化剂，在温和条件下对苯甲氧基苯(BOB)进行催化加氢转化模型反应，以研究加氢和C-X键断裂的机理。",
+        "text_snippet": "Such mechanisms are evidenced by the CHC of benzyloxybenzene over Ni/MPYZ.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "oil sludge extractable portion (EPOS)",
+        "unit": "Not reported",
+        "original": "oil sludge extractable portion (EPOS)"
+      },
+      "Catalyst type": {
+        "value": "mesoporous Y zeolite-supported nickel catalyst",
+        "unit": "Not reported",
+        "original": "mesoporous Y zeolite-supported nickel catalyst"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "%/MPYZ",
+        "original": "Ni10%/MPYZ"
+      },
+      "Solvent": {
+        "value": "n-hexane",
+        "unit": "Not reported",
+        "original": "n-hexane"
+      },
+      "Reaction temperature": {
+        "value": "160",
+        "unit": "°C",
+        "original": "160°C"
+      },
+      "Reaction pressure": {
+        "value": "5",
+        "unit": "MPa",
+        "original": "5 MPa initial hydrogen pressure (IHP)"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "18",
+        "unit": "h",
+        "original": "18 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "batch",
+        "unit": "Not reported",
+        "original": "batch"
+      },
+      "Catalyst loading": {
+        "value": "0.1",
+        "unit": "g",
+        "original": "0.1 g catalyst per 0.1 g EPOS"
+      },
+      "Product": {
+        "value": "chain alkanes",
+        "unit": "Not reported",
+        "original": "chain alkanes"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "90.6",
+        "unit": "%",
+        "original": "90.6% yield of catalytically hydroconverted EP (EPCHC)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "repeated",
+        "original": "maintained high activity after 5 repeated cycles"
+      },
+      "reaction_type": "催化加氢转化",
+      "reaction_type_english": "Catalytic Hydroconversion (Hydrogenation)",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在5 MPa初始氢压和160°C条件下，使用Ni10%/MPYZ催化剂，在正己烷溶剂中对油泥提取物(EPOS)进行催化加氢转化18小时。反应将烯烃、芳烃和杂原子化合物转化为链烷烃和环烷烃。",
+      "experiment_id": 1,
+      "text_snippet": "In a typical CHC procedure, 20 mL n-hexane, 0.1 g EPOS, and 0.1 g Ni10%/MPYZ were fed into a miniature autoclave. After purging residual air in the autoclave with N2, the autoclave was pressurized with H2 to 5 MPa and subsequently heated to 160 °C at 15–20 °C min⁻¹ for 18 h with stirring at 300 rpm."
+    },
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "Benzyloxybenzene (BOB)",
+        "unit": "Not reported",
+        "original": "Benzyloxybenzene (BOB)"
+      },
+      "Catalyst type": {
+        "value": "Mesoporous Y zeolite-supported nickel catalyst",
+        "unit": "Not reported",
+        "original": "Mesoporous Y zeolite-supported nickel catalyst"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "%/MPYZ",
+        "original": "Ni10%/MPYZ (10% Ni loading on Mesoporous Y Zeolite)"
+      },
+      "Solvent": {
+        "value": "n-hexane",
+        "unit": "Not reported",
+        "original": "n-hexane"
+      },
+      "Reaction temperature": {
+        "value": "160",
+        "unit": "°C",
+        "original": "160 °C"
+      },
+      "Reaction pressure": {
+        "value": "5",
+        "unit": "MPa",
+        "original": "5 MPa (initial hydrogen pressure)"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "18",
+        "unit": "h",
+        "original": "18 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch (autoclave)",
+        "unit": "Not reported",
+        "original": "Batch (autoclave)"
+      },
+      "Catalyst loading": {
+        "value": "0.1",
+        "unit": "g",
+        "original": "0.1 g catalyst per 0.1 g EPOS"
+      },
+      "Product": {
+        "value": "Chain alkanes",
+        "unit": "Not reported",
+        "original": "Chain alkanes"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% for BOB (initial cycle)"
+      },
+      "Product yield": {
+        "value": "90.6",
+        "unit": "%",
+        "original": "90.6% yield of EPOS from oil sludge"
+      },
+      "Product Selectivity": {
+        "value": "MCH is main product from BOB in n-hexane",
+        "unit": "Not reported",
+        "original": "MCH is main product from BOB in n-hexane"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "repeated",
+        "original": "Maintained high activity after 5 repeated cycles (BOB conversion decreased from 100% to 91.2 mol%)"
+      },
+      "reaction_type": "催化加氢转化",
+      "reaction_type_english": "Catalytic Hydroconversion (Hydrogenation)",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用Ni10%/MPYZ催化剂，在温和条件下对苯甲氧基苯(BOB)进行催化加氢转化模型反应，以研究加氢和C-X键断裂的机理。",
+      "experiment_id": 2,
+      "text_snippet": "Such mechanisms are evidenced by the CHC of benzyloxybenzene over Ni/MPYZ."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化加氢转化",
+      "reaction_type_english": "Catalytic Hydroconversion (Hydrogenation)",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "催化加氢转化",
+      "reaction_type_english": "Catalytic Hydroconversion (Hydrogenation)",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1017_Kuttiyathil 等 - 2023 - Catalytic upgrading of pyrolytic bio-oil from Salicornia bigelovii seeds for use as jet fuels Explo.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化热解",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "使用Ni/Hβ-沸石催化剂，在200-500°C的温度范围内，对盐角草种子进行催化热解和升级，以生产航空燃料范围的烃类。",
+        "text_snippet": "Ni catalyst supported by the highly acidic nanocrystalline Hβ-zeolite was used to explore its hydrodeoxygenation capabilities on the pyrolytic bio-oil from Salicornia bigelovii (SB) at temperatures between 200 and 500 ◦C... The pyrolysis of the SB seeds was conducted in a horizontal tubular reactor... The first heating zone loaded with 1 g SB seeds... was ramped from 25 ◦C to 500 ◦C at 10 ◦C/min, maintaining an isothermal temperature at 200 ◦C, 300 ◦C, 400 ◦C and 500 ◦C for 10 min each... A catalytic bed of 1 g Ni/Ze packed in quartz wool... was kept in the second heating zone maintained at 500 ◦C throughout the experiment.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "Salicornia bigelovii seeds",
+        "unit": "Not reported",
+        "original": "Salicornia bigelovii seeds"
+      },
+      "Catalyst type": {
+        "value": "Ni/Hβ-zeolite",
+        "unit": "Not reported",
+        "original": "Ni/Hβ-zeolite"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "%",
+        "original": "5% Ni on Hβ-zeolite support"
+      },
+      "Solvent": {
+        "value": "Dichloromethane",
+        "unit": "Not reported",
+        "original": "Dichloromethane"
+      },
+      "Reaction temperature": {
+        "value": "200",
+        "unit": "°C",
+        "original": "200°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "80",
+        "unit": "mL/min",
+        "original": "80 ml/min (N2 carrier gas)"
+      },
+      "Reaction time": {
+        "value": "10",
+        "unit": "min",
+        "original": "10 min isothermal at each temperature"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "g",
+        "original": "1 g catalyst per 1 g biomass"
+      },
+      "Product": {
+        "value": "8",
+        "unit": "°C",
+        "original": "Alkanes (C8-C18)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "75",
+        "unit": "wt%",
+        "original": "75 wt% bio-oil at 200°C"
+      },
+      "Product Selectivity": {
+        "value": "76",
+        "unit": "%",
+        "original": "76% alkanes at 300°C"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化热解",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "使用Ni/Hβ-沸石催化剂，在200-500°C的温度范围内，对盐角草种子进行催化热解和升级，以生产航空燃料范围的烃类。",
+      "experiment_id": 1,
+      "text_snippet": "Ni catalyst supported by the highly acidic nanocrystalline Hβ-zeolite was used to explore its hydrodeoxygenation capabilities on the pyrolytic bio-oil from Salicornia bigelovii (SB) at temperatures between 200 and 500 ◦C... The pyrolysis of the SB seeds was conducted in a horizontal tubular reactor...."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化热解",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

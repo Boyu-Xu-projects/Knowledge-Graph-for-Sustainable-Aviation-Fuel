@@ -1,0 +1,135 @@
+{
+  "file": "1031_Martínez-Klimov 等 - 2023 - Bifunctional Pt Catalysts Supported on a Zeolite-Binder Matrix for the Hydrodeoxygenation of Isoeuge.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在200°C和30 bar氢气压力下，于间歇反应器中使用一系列双功能催化剂（铂负载在沸石H-Beta-25或H-Beta-300上，并以Bindzil作为粘合剂）进行异丁子香酚的加氢脱氧反应，以生产可再生航空燃料。研究了催化剂酸强度、金属纳米颗粒位置及其与酸位点接近度的影响。",
+        "text_snippet": "Hydrodeoxygenation (HDO) of isoeugenol was carried out at 200 °C and 30 bar of H2 in a batch reactor using a series of bifunctional catalysts consisting of platinum supported on zeolite H-Beta-25 or H-Beta-300 and Bindzil as a binder.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "Isoeugenol",
+        "unit": "Not reported",
+        "original": "Isoeugenol"
+      },
+      "Catalyst type": {
+        "value": "Bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "-25",
+        "unit": "or",
+        "original": "Platinum supported on zeolite H-Beta-25 or H-Beta-300 and Bindzil as a binder"
+      },
+      "Solvent": {
+        "value": "n-dodecane",
+        "unit": "Not reported",
+        "original": "n-dodecane"
+      },
+      "Reaction temperature": {
+        "value": "200",
+        "unit": "°C",
+        "original": "200 °C"
+      },
+      "Reaction pressure": {
+        "value": "30",
+        "unit": "bar",
+        "original": "30 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.05",
+        "unit": "g",
+        "original": "0.05 g catalyst per 0.1 g isoeugenol in 50 mL solvent"
+      },
+      "Product": {
+        "value": "Propylcyclohexane",
+        "unit": "Not reported",
+        "original": "Propylcyclohexane"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "ca. 100% (isoeugenol conversion)"
+      },
+      "Product yield": {
+        "value": "56",
+        "unit": "%",
+        "original": "56% (propylcyclohexane yield for PtB25ZA)"
+      },
+      "Product Selectivity": {
+        "value": "82",
+        "unit": "%",
+        "original": "82% (for PtB25ZA)"
+      },
+      "Catalyst stability": {
+        "value": "Slight increase in metal particle size observed after reaction, indicating some agglomeration",
+        "unit": "Not reported",
+        "original": "Slight increase in metal particle size observed after reaction, indicating some agglomeration"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在200°C和30 bar氢气压力下，于间歇反应器中使用一系列双功能催化剂（铂负载在沸石H-Beta-25或H-Beta-300上，并以Bindzil作为粘合剂）进行异丁子香酚的加氢脱氧反应，以生产可再生航空燃料。研究了催化剂酸强度、金属纳米颗粒位置及其与酸位点接近度的影响。",
+      "experiment_id": 1,
+      "text_snippet": "Hydrodeoxygenation (HDO) of isoeugenol was carried out at 200 °C and 30 bar of H2 in a batch reactor using a series of bifunctional catalysts consisting of platinum supported on zeolite H-Beta-25 or H-Beta-300 and Bindzil as a binder."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

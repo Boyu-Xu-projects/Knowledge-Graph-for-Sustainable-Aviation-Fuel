@@ -1,0 +1,135 @@
+{
+  "file": "1033_Vlasova 等 - 2023 - Bifunctional MoS2Al2O3-Zeolite Catalysts in the Hydroprocessing of Methyl Palmitate.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在滴流床反应器中，使用一系列双功能催化剂（MoS2/Al2O3-沸石）对溶解在十二烷中的棕榈酸甲酯进行加氢转化。反应条件为：温度250–350°C，氢气压力3.0–5.0 MPa，液时空速(LHSV) 36 h−1，H2/进料比600 Nm3/m3。目标是实现含氧化合物的完全转化并通过‘直接’加氢脱氧(HDO)路径生成烷烃。",
+        "text_snippet": "Hydroprocessing was performed at a temperature of 250–350◦C, hydrogen pressure of 3.0–5.0 MPa, liquid hourly space velocity (LHSV) of 36 h−1, and an H2/feed ratio of 600 Nm3/m3. Complete conversion of oxygen-containing compounds was achieved at 310◦C in the presence of MoS2/Al2O3-zeolite catalysts; the selectivity for the conversion of methyl palmitate via the ‘direct’ hydrodeoxygenation (HDO) route was over 85%.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "Methyl palmitate",
+        "unit": "Not reported",
+        "original": "Methyl palmitate"
+      },
+      "Catalyst type": {
+        "value": "Bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "/Al",
+        "original": "MoS2/Al2O3-ZSM-5"
+      },
+      "Solvent": {
+        "value": "Dodecane",
+        "unit": "Not reported",
+        "original": "Dodecane"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "250–350 °C"
+      },
+      "Reaction pressure": {
+        "value": "5.0",
+        "unit": "MPa",
+        "original": "3.0–5.0 MPa"
+      },
+      "Flow rate": {
+        "value": "36",
+        "unit": "h",
+        "original": "36 h−1"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/feed",
+        "original": "H2/feed ratio 600 Nm3/m3"
+      },
+      "Operation mode": {
+        "value": "Trickle-bed reactor",
+        "unit": "Not reported",
+        "original": "Trickle-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "h",
+        "original": "n-Hexadecane (C16H34)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% (at 310 °C)"
+      },
+      "Product yield": {
+        "value": "40",
+        "unit": "%",
+        "original": "iso-alkanes yield up to 40% (MoS2/Al2O3-ZSM-22)"
+      },
+      "Product Selectivity": {
+        "value": "85",
+        "unit": "%",
+        "original": "HDO selectivity over 85%"
+      },
+      "Catalyst stability": {
+        "value": "40",
+        "unit": "h",
+        "original": "Stable for 40 h at 290 °C (slight deactivation observed)"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在滴流床反应器中，使用一系列双功能催化剂（MoS2/Al2O3-沸石）对溶解在十二烷中的棕榈酸甲酯进行加氢转化。反应条件为：温度250–350°C，氢气压力3.0–5.0 MPa，液时空速(LHSV) 36 h−1，H2/进料比600 Nm3/m3。目标是实现含氧化合物的完全转化并通过‘直接’加氢脱氧(HDO)路径生成烷烃。",
+      "experiment_id": 1,
+      "text_snippet": "Hydroprocessing was performed at a temperature of 250–350◦C, hydrogen pressure of 3.0–5.0 MPa, liquid hourly space velocity (LHSV) of 36 h−1, and an H2/feed ratio of 600 Nm3/m3. Complete conversion of oxygen-containing compounds was achieved at 310◦C in the presence of MoS2/Al2O3-zeolite catalysts; ..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

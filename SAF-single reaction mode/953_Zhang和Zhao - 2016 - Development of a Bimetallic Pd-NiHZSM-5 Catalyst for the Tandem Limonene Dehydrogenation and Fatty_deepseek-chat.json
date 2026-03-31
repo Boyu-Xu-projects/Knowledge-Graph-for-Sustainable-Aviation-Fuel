@@ -1,0 +1,135 @@
+{
+  "file": "953_Zhang和Zhao - 2016 - Development of a Bimetallic Pd-NiHZSM-5 Catalyst for the Tandem Limonene Dehydrogenation and Fatty.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "脱氢芳构化反应与加氢脱氧反应串联",
+        "reaction_type_english": "Tandem Dehydroaromatization and Hydrodeoxygenation Reaction",
+        "description": "作者开发了一种双金属Pd-Ni/HZSM-5催化剂，用于在柠檬烯中一锅法串联催化柠檬烯脱氢芳构化生成对伞花烃和氢气，同时利用原位生成的氢气将硬脂酸加氢脱氧生成C17和C18烷烃。反应在280°C、2 bar H2压力和6 bar N2压力下进行120分钟，实现了硬脂酸的定量转化和高烷烃收率。",
+        "text_snippet": "Atandemprocessinvolvingthedehydroaromatizationofthe terpene limonene and the hydrodeoxygenation of stearic acid has been found to be efficiently catalyzed by Pd-Ni/HZSM-5... quantitative conversion of stearic acid to alkanes in limonene at 280 °C at a H pressure of 2 bar after 120 min.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "Limonene",
+        "unit": "Not reported",
+        "original": "Limonene"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "Pd-Ni/HZSM-",
+        "original": "Bimetallic Pd-Ni/HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "%Pd-",
+        "original": "5%Pd-10%Ni/HZSM-5 (SiO2/Al2O3 ratio: 300)"
+      },
+      "Solvent": {
+        "value": "Limonene",
+        "unit": "Not reported",
+        "original": "Limonene"
+      },
+      "Reaction temperature": {
+        "value": "280",
+        "unit": "°C",
+        "original": "280 °C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "bar",
+        "original": "2 bar H2, 6 bar N2"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "120",
+        "unit": "min",
+        "original": "120 min"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "and",
+        "original": "H2 and N2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.2",
+        "unit": "g",
+        "original": "0.2 g catalyst per 1.0 g stearic acid in 50 mL limonene"
+      },
+      "Product": {
+        "value": "p-Cymene",
+        "unit": "Not reported",
+        "original": "p-Cymene"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "Stearic acid: 100%; Limonene: Not explicitly reported, but p-cymene yield is 67%"
+      },
+      "Product yield": {
+        "value": "67",
+        "unit": "%",
+        "original": "p-Cymene: 67%; C17 alkane: 92%; C18 alkane: 8%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Stable after four recycling runs with consistent conversion and yield",
+        "unit": "Not reported",
+        "original": "Stable after four recycling runs with consistent conversion and yield"
+      },
+      "reaction_type": "脱氢芳构化反应与加氢脱氧反应串联",
+      "reaction_type_english": "Tandem Dehydroaromatization and Hydrodeoxygenation Reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "作者开发了一种双金属Pd-Ni/HZSM-5催化剂，用于在柠檬烯中一锅法串联催化柠檬烯脱氢芳构化生成对伞花烃和氢气，同时利用原位生成的氢气将硬脂酸加氢脱氧生成C17和C18烷烃。反应在280°C、2 bar H2压力和6 bar N2压力下进行120分钟，实现了硬脂酸的定量转化和高烷烃收率。",
+      "experiment_id": 1,
+      "text_snippet": "Atandemprocessinvolvingthedehydroaromatizationofthe terpene limonene and the hydrodeoxygenation of stearic acid has been found to be efficiently catalyzed by Pd-Ni/HZSM-5... quantitative conversion of stearic acid to alkanes in limonene at 280 °C at a H pressure of 2 bar after 120 min."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "脱氢芳构化反应与加氢脱氧反应串联",
+      "reaction_type_english": "Tandem Dehydroaromatization and Hydrodeoxygenation Reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

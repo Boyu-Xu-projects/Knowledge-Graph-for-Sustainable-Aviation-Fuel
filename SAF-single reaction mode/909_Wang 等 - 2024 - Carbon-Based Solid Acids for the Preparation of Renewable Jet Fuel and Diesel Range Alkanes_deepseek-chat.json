@@ -1,0 +1,247 @@
+{
+  "file": "909_Wang 等 - 2024 - Carbon-Based Solid Acids for the Preparation of Renewable Jet Fuel and Diesel Range Alkanes.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "羟基烷基化/烷基化反应",
+        "reaction_type_english": "Hydroxyalkylation/alkylation reaction",
+        "description": "在PC-180催化剂上，2-甲基呋喃(2-MF)与糠醛进行羟基烷基化/烷基化(HAA)反应，生成5,5′-(呋喃-2-基亚甲基)双(2-甲基呋喃)(1a)。反应条件：50°C, 2小时，催化剂0.10 g，2-MF (1.68 g, 20 mmol)，糠醛 (0.96 g, 10 mmol)。",
+        "text_snippet": "These catalysts were very active in the hydroxyalkylation/alkylation (HAA) reactions between 2-methylfuran (2-MF) and furfural. Under mild reaction conditions, the PC-180 catalyst produced a good yield (79.1%) of the HAA product from furfural and 2-MF",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在Ni/AlPO₄-800催化剂上，对HAA产物1a进行加氢脱氧(HDO)反应，将其转化为C₉–C₁₅柴油和喷气燃料范围烷烃。反应条件：260°C, 4.0 MPa氢气压力, 24小时, Ni/AlPO₄催化剂(0.20 g), 液体原料(1.0 g), 环己烷(30 mL)。",
+        "text_snippet": "After hydrodeoxygenation over the Ni/AlPO₄-800 catalyst, these HAA products can be selectively transformed into jet fuel and diesel range branched alkanes.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran",
+        "unit": "Not reported",
+        "original": "2-methylfuran"
+      },
+      "Catalyst type": {
+        "value": "Carbon-based solid acid",
+        "unit": "Not reported",
+        "original": "Carbon-based solid acid"
+      },
+      "Catalyst composition": {
+        "value": "180",
+        "unit": "°C",
+        "original": "PC-180 (prepared from polycarbonate waste by methanolysis, polymerization with polyformaldehyde, calcination at 180°C, and sulfonation)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "50",
+        "unit": "°C",
+        "original": "50°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 hours"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "2:1",
+        "unit": ":",
+        "original": "2-MF (20 mmol) : furfural (10 mmol) = 2:1"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.10",
+        "unit": "g",
+        "original": "0.10 g"
+      },
+      "Product": {
+        "value": "1",
+        "unit": "a",
+        "original": "5,5′-(furan-2-ylmethylene)bis(2-methylfuran) (1a)"
+      },
+      "Conversion rate": {
+        "value": "81.9",
+        "unit": "%",
+        "original": "81.9% (2-MF conversion)"
+      },
+      "Product yield": {
+        "value": "79.1",
+        "unit": "%",
+        "original": "79.1%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Stable after four reuses",
+        "unit": "Not reported",
+        "original": "Stable after four reuses"
+      },
+      "reaction_type": "羟基烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在PC-180催化剂上，2-甲基呋喃(2-MF)与糠醛进行羟基烷基化/烷基化(HAA)反应，生成5,5′-(呋喃-2-基亚甲基)双(2-甲基呋喃)(1a)。反应条件：50°C, 2小时，催化剂0.10 g，2-MF (1.68 g, 20 mmol)，糠醛 (0.96 g, 10 mmol)。",
+      "experiment_id": 1,
+      "text_snippet": "These catalysts were very active in the hydroxyalkylation/alkylation (HAA) reactions between 2-methylfuran (2-MF) and furfural. Under mild reaction conditions, the PC-180 catalyst produced a good yield (79.1%) of the HAA product from furfural and 2-MF"
+    },
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "1",
+        "unit": "a",
+        "original": "HAA product 1a (5,5′-(furan-2-yl-methylene)bis(2-methylfuran))"
+      },
+      "Catalyst type": {
+        "value": "Ni/AlPO₄",
+        "unit": "Not reported",
+        "original": "Ni/AlPO₄"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "Ni/AlPO₄-800 (5 wt% Ni)"
+      },
+      "Solvent": {
+        "value": "Cyclohexane",
+        "unit": "Not reported",
+        "original": "Cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "260",
+        "unit": "°C",
+        "original": "260°C"
+      },
+      "Reaction pressure": {
+        "value": "4.0",
+        "unit": "MPa",
+        "original": "4.0 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "24",
+        "unit": "h",
+        "original": "24 hours"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.20",
+        "unit": "g",
+        "original": "0.20 g"
+      },
+      "Product": {
+        "value": "C₉–C₁₅ diesel and jet fuel range alkanes",
+        "unit": "Not reported",
+        "original": "C₉–C₁₅ diesel and jet fuel range alkanes"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "81.4",
+        "unit": "%",
+        "original": "81.4%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Stable after four cycles",
+        "unit": "Not reported",
+        "original": "Stable after four cycles"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Ni/AlPO₄-800催化剂上，对HAA产物1a进行加氢脱氧(HDO)反应，将其转化为C₉–C₁₅柴油和喷气燃料范围烷烃。反应条件：260°C, 4.0 MPa氢气压力, 24小时, Ni/AlPO₄催化剂(0.20 g), 液体原料(1.0 g), 环己烷(30 mL)。",
+      "experiment_id": 2,
+      "text_snippet": "After hydrodeoxygenation over the Ni/AlPO₄-800 catalyst, these HAA products can be selectively transformed into jet fuel and diesel range branched alkanes."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "羟基烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "file": "915_Choi 等 - 2015 - The direct production of jet-fuel from non-edible oil in a single-step process.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在270-330°C的温度范围内，在Pd/β沸石催化剂上催化转化硬脂酸（模型化合物）。反应在15 bar氮气压力下的间歇反应器中进行，无外加氢气。产物包括C8-C11（裂解产物）和C12-C18（喷气燃料范围）的烃类。",
+        "text_snippet": "The catalytic conversion of non-edible oil was carried out over a Pd-based zeolite catalyst in a single-step process (SSP) with no added hydrogen... The conversion of stearic acid, a model fatty acid compound, reached 100% and the proportion of hydrocarbons in the jet-fuel range was 69.3% over a Pd/beta-zeolite catalyst at 270°C in a SSP.",
+        "reaction_type_classify": "Cracking reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "催化裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在300°C下，使用Pd/β沸石催化剂催化转化废豆油（SBO），反应6小时。目的是直接生产喷气燃料范围的烃类，并实现脱氧。",
+        "text_snippet": "Through the catalytic conversion of raw materials, waste soybean oil (SBO)... a high-quality jet-fuel product was also obtained in a SSP. The degree of oxygen removal was approximately 95% for the conversions of SBO...",
+        "reaction_type_classify": "Cracking reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "催化裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在300°C下，使用Pd/β沸石催化剂催化转化棕榈脂肪酸馏出物（PFAD），反应6小时。目的是直接生产喷气燃料范围的烃类，并实现脱氧。",
+        "text_snippet": "Through the catalytic conversion of raw materials... palm fatty acid distillate (PFAD), a high-quality jet-fuel product was also obtained in a SSP. The degree of oxygen removal was approximately 95% for the conversions of... PFAD.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "Stearic acid",
+        "unit": "Not reported",
+        "original": "Stearic acid"
+      },
+      "Catalyst type": {
+        "value": "Zeolite",
+        "unit": "Not reported",
+        "original": "Zeolite"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5 wt.% Pd on beta-zeolite (Si/Al=300)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-330",
+        "unit": "°C",
+        "original": "270-330 °C"
+      },
+      "Reaction pressure": {
+        "value": "15",
+        "unit": "bar",
+        "original": "15 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "N₂",
+        "unit": "Not reported",
+        "original": "N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "-2.5",
+        "unit": "g",
+        "original": "1-2.5 g"
+      },
+      "Product": {
+        "value": "11",
+        "unit": "hydrocarbons",
+        "original": "C8-C11 hydrocarbons (cracking products)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% (for stearic acid)"
+      },
+      "Product yield": {
+        "value": "31",
+        "unit": "%",
+        "original": "31% (hydrocarbons in jet-fuel range for SBO and PFAD)"
+      },
+      "Product Selectivity": {
+        "value": "69.3",
+        "unit": "%",
+        "original": "69.3% (hydrocarbons in jet-fuel range for stearic acid at 270 °C)"
+      },
+      "Catalyst stability": {
+        "value": "Deactivated due to pore blockage by reactants, intermediates, and unsaturated hydrocarbons; Regeneration partially restored textural properties but reduced acidity",
+        "unit": "Not reported",
+        "original": "Deactivated due to pore blockage by reactants, intermediates, and unsaturated hydrocarbons; Regeneration partially restored textural properties but reduced acidity"
+      },
+      "reaction_type": "催化裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在270-330°C的温度范围内，在Pd/β沸石催化剂上催化转化硬脂酸（模型化合物）。反应在15 bar氮气压力下的间歇反应器中进行，无外加氢气。产物包括C8-C11（裂解产物）和C12-C18（喷气燃料范围）的烃类。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic conversion of non-edible oil was carried out over a Pd-based zeolite catalyst in a single-step process (SSP) with no added hydrogen... The conversion of stearic acid, a model fatty acid compound, reached 100% and the proportion of hydrocarbons in the jet-fuel range was 69.3% over a Pd/..."
+    },
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "waste soybean oil (SBO)",
+        "unit": "Not reported",
+        "original": "waste soybean oil (SBO)"
+      },
+      "Catalyst type": {
+        "value": "Pd/beta-zeolite",
+        "unit": "Not reported",
+        "original": "Pd/beta-zeolite"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5 wt.% Pd on beta-zeolite (Si/Al ratio=300)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "270",
+        "unit": "°C",
+        "original": "270°C"
+      },
+      "Reaction pressure": {
+        "value": "15",
+        "unit": "bar",
+        "original": "15 bar (N₂)"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "N₂",
+        "unit": "Not reported",
+        "original": "N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "g",
+        "original": "1 g"
+      },
+      "Product": {
+        "value": "C₈–C₁₁ hydrocarbons",
+        "unit": "Not reported",
+        "original": "C₈–C₁₁ hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% (for stearic acid)"
+      },
+      "Product yield": {
+        "value": "31",
+        "unit": "%",
+        "original": "31% (hydrocarbons in jet-fuel range for SBO and PFAD)"
+      },
+      "Product Selectivity": {
+        "value": "69.3",
+        "unit": "%",
+        "original": "69.3% hydrocarbons in jet-fuel range (for SA at 270°C)"
+      },
+      "Catalyst stability": {
+        "value": "400",
+        "unit": "°C",
+        "original": "Deactivated due to pore blockage by reactants, intermediates and unsaturated hydrocarbons; regenerated by calcination at 400°C for 4 h in air"
+      },
+      "reaction_type": "催化裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在300°C下，使用Pd/β沸石催化剂催化转化废豆油（SBO），反应6小时。目的是直接生产喷气燃料范围的烃类，并实现脱氧。",
+      "experiment_id": 2,
+      "text_snippet": "Through the catalytic conversion of raw materials, waste soybean oil (SBO)... a high-quality jet-fuel product was also obtained in a SSP. The degree of oxygen removal was approximately 95% for the conversions of SBO..."
+    },
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "Palm fatty acid distillate (PFAD)",
+        "unit": "Not reported",
+        "original": "Palm fatty acid distillate (PFAD)"
+      },
+      "Catalyst type": {
+        "value": "Zeolite",
+        "unit": "Not reported",
+        "original": "Zeolite"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5 wt.% Pd supported on beta-zeolite (Si/Al=300)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "300",
+        "unit": "°C",
+        "original": "300°C"
+      },
+      "Reaction pressure": {
+        "value": "15",
+        "unit": "bar",
+        "original": "15 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "6",
+        "unit": "h",
+        "original": "6 hours"
+      },
+      "Atmosphere": {
+        "value": "N₂",
+        "unit": "Not reported",
+        "original": "N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "3",
+        "unit": "g",
+        "original": "3 g catalyst per 10 g reactant (R/C=3.3)"
+      },
+      "Product": {
+        "value": "Hydrocarbons in jet-fuel range (C₁₂–C₁₈)",
+        "unit": "Not reported",
+        "original": "Hydrocarbons in jet-fuel range (C₁₂–C₁₈)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "31",
+        "unit": "%",
+        "original": "Approximately 31% hydrocarbons in jet-fuel range"
+      },
+      "Product Selectivity": {
+        "value": "60.77",
+        "unit": "%",
+        "original": "Aromatic hydrocarbons: 60.77% (SBO), 67.07% (PFAD)"
+      },
+      "Catalyst stability": {
+        "value": "400",
+        "unit": "°C",
+        "original": "Deactivated due to pore blockage by reactants, intermediates, and unsaturated hydrocarbons; Regeneration by calcination at 400°C for 4h in air restored textural properties but not full acidity"
+      },
+      "reaction_type": "催化裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在300°C下，使用Pd/β沸石催化剂催化转化棕榈脂肪酸馏出物（PFAD），反应6小时。目的是直接生产喷气燃料范围的烃类，并实现脱氧。",
+      "experiment_id": 3,
+      "text_snippet": "Through the catalytic conversion of raw materials... palm fatty acid distillate (PFAD), a high-quality jet-fuel product was also obtained in a SSP. The degree of oxygen removal was approximately 95% for the conversions of... PFAD."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "催化裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "催化裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

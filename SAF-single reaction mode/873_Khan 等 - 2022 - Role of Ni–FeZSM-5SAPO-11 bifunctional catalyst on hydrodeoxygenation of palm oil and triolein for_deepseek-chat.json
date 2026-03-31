@@ -1,0 +1,247 @@
+{
+  "file": "873_Khan 等 - 2022 - Role of Ni–FeZSM-5SAPO-11 bifunctional catalyst on hydrodeoxygenation of palm oil and triolein for.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在高压釜反应器中，使用S1至S4四种双功能催化剂，对棕榈油进行加氢脱氧反应，生产替代航空燃料。反应条件：300°C，60 bar氢气压力，600 rpm搅拌速度，2小时。",
+        "text_snippet": "Each experiment was performed by loading 2 g of catalyst into the autoclave... the reactor was charged with reactants consisting of 10 mL palm oil with 90 mL n-heptane... The HDO was supported with a stirring speed of 600 rpm for 2 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在高压釜反应器中，使用S1至S4四种双功能催化剂，对三油精（模型化合物）进行加氢脱氧反应，生产替代航空燃料。反应条件与棕榈油实验相同。",
+        "text_snippet": "Palm oil and triolein were used as HDO chemicals to obtain alternative jet fuel. Based on the HDO results, maximum alternative jet fuel yields from palm oil and triolein were 81.74% and 63.41%...",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Palm oil",
+        "unit": "Not reported",
+        "original": "Palm oil"
+      },
+      "Catalyst type": {
+        "value": "Bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/SAPO-",
+        "original": "S1 = ZSM-5/SAPO-11"
+      },
+      "Solvent": {
+        "value": "n-Heptane",
+        "unit": "Not reported",
+        "original": "n-Heptane"
+      },
+      "Reaction temperature": {
+        "value": "300",
+        "unit": "°C",
+        "original": "300°C"
+      },
+      "Reaction pressure": {
+        "value": "60",
+        "unit": "bar",
+        "original": "60 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 hours"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "2",
+        "unit": "g",
+        "original": "2 g catalyst with 10 mL palm oil and 90 mL n-heptane"
+      },
+      "Product": {
+        "value": "29",
+        "unit": "and",
+        "original": "Alternative jet fuel (alkanes C11–C29 and aromatics C18–C24)"
+      },
+      "Conversion rate": {
+        "value": "74.16",
+        "unit": "%",
+        "original": "Palm oil: 74.16% (S1), 72.19% (S2), 99.97% (S3), 99.92% (S4)"
+      },
+      "Product yield": {
+        "value": "81.74",
+        "unit": "%",
+        "original": "Palm oil: 81.74% (S4)"
+      },
+      "Product Selectivity": {
+        "value": "62.74",
+        "unit": "%",
+        "original": "Jet fuel (C8–C15): 62.74% (S1), 65.44% (S2), 79.85% (S3), 81.81% (S4) for palm oil; 57.77% (S1), 54.06% (S2), 62.00% (S3), 64.10% (S4) for triolein"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在高压釜反应器中，使用S1至S4四种双功能催化剂，对棕榈油进行加氢脱氧反应，生产替代航空燃料。反应条件：300°C，60 bar氢气压力，600 rpm搅拌速度，2小时。",
+      "experiment_id": 1,
+      "text_snippet": "Each experiment was performed by loading 2 g of catalyst into the autoclave... the reactor was charged with reactants consisting of 10 mL palm oil with 90 mL n-heptane... The HDO was supported with a stirring speed of 600 rpm for 2 h."
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Palm oil",
+        "unit": "Not reported",
+        "original": "Palm oil"
+      },
+      "Catalyst type": {
+        "value": "Bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/SAPO-",
+        "original": "S1 = ZSM-5/SAPO-11"
+      },
+      "Solvent": {
+        "value": "n-Heptane",
+        "unit": "Not reported",
+        "original": "n-Heptane"
+      },
+      "Reaction temperature": {
+        "value": "300",
+        "unit": "°C",
+        "original": "300 °C"
+      },
+      "Reaction pressure": {
+        "value": "60",
+        "unit": "bar",
+        "original": "60 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "2",
+        "unit": "g",
+        "original": "2 g catalyst per 10 mL palm oil in 90 mL n-heptane"
+      },
+      "Product": {
+        "value": "11",
+        "unit": "°C",
+        "original": "Alkanes (C11–C29)"
+      },
+      "Conversion rate": {
+        "value": "74.16",
+        "unit": "%",
+        "original": "Palm oil: S1=74.16%, S2=72.19%, S3=99.97%, S4=99.92%"
+      },
+      "Product yield": {
+        "value": "62.74",
+        "unit": "%",
+        "original": "Palm oil jet fuel yield: S1=62.74%, S2=65.44%, S3=79.85%, S4=81.81%"
+      },
+      "Product Selectivity": {
+        "value": "3",
+        "unit": "and",
+        "original": "See Tables 2, 3 and 4 in text for detailed selectivity data"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在高压釜反应器中，使用S1至S4四种双功能催化剂，对三油精（模型化合物）进行加氢脱氧反应，生产替代航空燃料。反应条件与棕榈油实验相同。",
+      "experiment_id": 2,
+      "text_snippet": "Palm oil and triolein were used as HDO chemicals to obtain alternative jet fuel. Based on the HDO results, maximum alternative jet fuel yields from palm oil and triolein were 81.74% and 63.41%..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "925_Lin 等 - 2022 - Solid acid catalyst WO3-ZrO2 for the catalytic deoxygenation of jatropha oil for the preparation of.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用WO₃-ZrO₂固体酸催化剂在高压反应器中对麻风树油进行催化脱氧反应，优化条件为温度370°C、压力2MPa、时间7h、催化剂用量0.22g，脱氧率达到95.1%",
+        "text_snippet": "The catalysts were used for catalytic deoxygenation of Jatropha curcas oil... The optimal reaction conditions obtained were a temperature of 370 °C, pressure of 2 MPa, time of 7 h, and catalyst amount of 0.22 g. The deoxygenation percentage of the generated oil under the optimal conditions was 95.1%",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Jatropha oil",
+        "unit": "Not reported",
+        "original": "Jatropha oil"
+      },
+      "Catalyst type": {
+        "value": "Solid acid catalyst",
+        "unit": "Not reported",
+        "original": "Solid acid catalyst"
+      },
+      "Catalyst composition": {
+        "value": "WO₃-ZrO₂",
+        "unit": "Not reported",
+        "original": "WO₃-ZrO₂"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "370",
+        "unit": "°C",
+        "original": "370 °C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "7",
+        "unit": "h",
+        "original": "7 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.22",
+        "unit": "g",
+        "original": "0.22 g"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "hydrocarbons",
+        "original": "C8-C16 hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "68.1",
+        "unit": "%",
+        "original": "68.1% C8-C16"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用WO₃-ZrO₂固体酸催化剂在高压反应器中对麻风树油进行催化脱氧反应，优化条件为温度370°C、压力2MPa、时间7h、催化剂用量0.22g，脱氧率达到95.1%",
+      "experiment_id": 1,
+      "text_snippet": "The catalysts were used for catalytic deoxygenation of Jatropha curcas oil... The optimal reaction conditions obtained were a temperature of 370 °C, pressure of 2 MPa, time of 7 h, and catalyst amount of 0.22 g. The deoxygenation percentage of the generated oil under the optimal conditions was 95.1%"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}
