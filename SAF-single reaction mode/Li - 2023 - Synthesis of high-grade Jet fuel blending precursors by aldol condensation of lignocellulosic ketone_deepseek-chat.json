@@ -1,0 +1,247 @@
+{
+  "file": "Li - 2023 - Synthesis of high-grade Jet fuel blending precursors by aldol condensation of lignocellulosic ketone.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "羟醛缩合反应",
+        "reaction_type_english": "Aldol condensation reaction",
+        "description": "在130°C下，使用80% Hf1.5TPA/MCM-41催化剂催化环戊酮和环己酮的羟醛缩合反应4小时。",
+        "text_snippet": "The aldol condensation of cyclopentanone and cyclohexanone was conducted in a 25 mL three-necked round-bottom flask. Typically, 2.00 g cyclopentanone, 2.33 g cyclohexanone and 0.43 g catalyst were added into the flask, and the reaction was conducted at 130 °C for 4 h.",
+        "reaction_type_classify": "Aldol condensation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "羟醛缩合反应",
+        "reaction_type_english": "Aldol condensation reaction",
+        "description": "使用80% Hf1.5TPA/MCM-41催化剂，通过温度梯度法（150°C反应10小时后降温至100°C再反应6小时）催化木质纤维素酮混合物（包含环庚酮、丁醛、环戊酮和环己酮）的共羟醛缩合反应。",
+        "text_snippet": "The co-aldol condensation of lignocellulosic ketones mixture was conducted in a 25 mL three-necked round-bottom flask. 0.34 g 80 %Hf1.5TPA/MCM-41 and 3.40 g lignocellulosic ketones... Firstly, cycloheptanone, butyraldehyde, cyclopentanone (half amount) and cyclohexanone (half amount) were added into the reactor with catalyst for reaction at 150 °C. After 10 h, the temperature was reduced to 100 °C and the remaining feedstock was added to react for 6 h.",
+        "reaction_type_classify": "Aldol condensation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "cyclopentanone",
+        "unit": "Not reported",
+        "original": "cyclopentanone"
+      },
+      "Catalyst type": {
+        "value": "Solid acid catalyst",
+        "unit": "Not reported",
+        "original": "Solid acid catalyst"
+      },
+      "Catalyst composition": {
+        "value": "80",
+        "unit": "%",
+        "original": "80% Hf1.5TPA/MCM-41"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "130",
+        "unit": "°C",
+        "original": "130°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.43",
+        "unit": "g",
+        "original": "0.43 g catalyst per 4.33 g total reactants (approximately 10 wt%)"
+      },
+      "Product": {
+        "value": "5",
+        "unit": "°C",
+        "original": "Primary condensation products (C5-C5, C5-C6, C6-C6)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "68",
+        "unit": "%",
+        "original": "68%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Reusable with decreased activity after multiple runs",
+        "unit": "Not reported",
+        "original": "Reusable with decreased activity after multiple runs"
+      },
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction",
+      "experiment_description": "在130°C下，使用80% Hf1.5TPA/MCM-41催化剂催化环戊酮和环己酮的羟醛缩合反应4小时。",
+      "experiment_id": 1,
+      "text_snippet": "The aldol condensation of cyclopentanone and cyclohexanone was conducted in a 25 mL three-necked round-bottom flask. Typically, 2.00 g cyclopentanone, 2.33 g cyclohexanone and 0.43 g catalyst were added into the flask, and the reaction was conducted at 130 °C for 4 h."
+    },
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "cyclopentanone",
+        "unit": "Not reported",
+        "original": "cyclopentanone"
+      },
+      "Catalyst type": {
+        "value": "Solid acid catalyst",
+        "unit": "Not reported",
+        "original": "Solid acid catalyst"
+      },
+      "Catalyst composition": {
+        "value": "80",
+        "unit": "%",
+        "original": "80% Hf1.5TPA/MCM-41"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "150",
+        "unit": "°C",
+        "original": "150°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "10",
+        "unit": "h",
+        "original": "10 hours"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "10 wt% (0.34 g catalyst / 3.40 g feedstock)"
+      },
+      "Product": {
+        "value": "monocyclic compounds",
+        "unit": "Not reported",
+        "original": "monocyclic compounds"
+      },
+      "Conversion rate": {
+        "value": "Almost complete conversion",
+        "unit": "%",
+        "original": "Almost complete conversion"
+      },
+      "Product yield": {
+        "value": "66.8",
+        "unit": "%",
+        "original": "66.8%"
+      },
+      "Product Selectivity": {
+        "value": "19.4",
+        "unit": "%",
+        "original": "19.4% monocyclic"
+      },
+      "Catalyst stability": {
+        "value": "Good stability with anti-coking and water tolerance properties",
+        "unit": "Not reported",
+        "original": "Good stability with anti-coking and water tolerance properties"
+      },
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction",
+      "experiment_description": "使用80% Hf1.5TPA/MCM-41催化剂，通过温度梯度法（150°C反应10小时后降温至100°C再反应6小时）催化木质纤维素酮混合物（包含环庚酮、丁醛、环戊酮和环己酮）的共羟醛缩合反应。",
+      "experiment_id": 2,
+      "text_snippet": "The co-aldol condensation of lignocellulosic ketones mixture was conducted in a 25 mL three-necked round-bottom flask. 0.34 g 80 %Hf1.5TPA/MCM-41 and 3.40 g lignocellulosic ketones... Firstly, cycloheptanone, butyraldehyde, cyclopentanone (half amount) and cyclohexanone (half amount) were added into..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

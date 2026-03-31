@@ -1,0 +1,135 @@
+{
+  "file": "1474_Sharma 等 - 2023 - Production of higher hydrocarbon-pool from bio-ethanol for fuel applications.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "乙醇转化反应",
+        "reaction_type_english": "Ethanol conversion reaction",
+        "description": "在固定床下流式反应器中，使用HZ、HY和HB三种沸石催化剂，在300-500°C、25-60 bar、WHSV 3.0 h⁻¹条件下，进行乙醇的连续气相催化转化，研究不同沸石对产物分布的影响",
+        "text_snippet": "Single-step, vapour phase conversion of ethanol was carried out in a fixed-bed down-flow reactor... by loading 5 g of catalyst extrudates... at the following reaction conditions; reaction temperature 300–500°C, pressure 25–60 bar, WHSV 3.0 h⁻¹",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "Ethanol",
+        "unit": "Not reported",
+        "original": "Ethanol"
+      },
+      "Catalyst type": {
+        "value": "HZ",
+        "unit": "Not reported",
+        "original": "HZ"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "HZ (ZSM-5, Si/Al=30), HY (Si/Al=5), HB (BEA, Si/Al=25)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-500",
+        "unit": "°C",
+        "original": "300-500°C"
+      },
+      "Reaction pressure": {
+        "value": "-60",
+        "unit": "bar",
+        "original": "25-60 bar"
+      },
+      "Flow rate": {
+        "value": "3.0",
+        "unit": "h",
+        "original": "WHSV 3.0 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 h (equilibrium establishment) + 1 h (product collection)"
+      },
+      "Atmosphere": {
+        "value": "30",
+        "unit": "L/h",
+        "original": "N₂ (30 L/h)"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous-flow vapour-phase",
+        "unit": "Not reported",
+        "original": "Continuous-flow vapour-phase"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "g",
+        "original": "5 g"
+      },
+      "Product": {
+        "value": "5",
+        "unit": "°C",
+        "original": "Gasoline range hydrocarbons (C5-C8)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "40",
+        "unit": "wt%",
+        "original": "HB: >40 wt% jet fuel hydrocarbons at 400°C and 50 bar"
+      },
+      "Product Selectivity": {
+        "value": "Catalyst-dependent: HZ for aromatics, HY for olefins, HB for jet fuel range hydrocarbons",
+        "unit": "Not reported",
+        "original": "Catalyst-dependent: HZ for aromatics, HY for olefins, HB for jet fuel range hydrocarbons"
+      },
+      "Catalyst stability": {
+        "value": "18",
+        "unit": "h",
+        "original": "Stable for 18 h time-on-stream (HB zeolite at 400°C, 50 bar)"
+      },
+      "reaction_type": "乙醇转化反应",
+      "reaction_type_english": "Ethanol conversion reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在固定床下流式反应器中，使用HZ、HY和HB三种沸石催化剂，在300-500°C、25-60 bar、WHSV 3.0 h⁻¹条件下，进行乙醇的连续气相催化转化，研究不同沸石对产物分布的影响",
+      "experiment_id": 1,
+      "text_snippet": "Single-step, vapour phase conversion of ethanol was carried out in a fixed-bed down-flow reactor... by loading 5 g of catalyst extrudates... at the following reaction conditions; reaction temperature 300–500°C, pressure 25–60 bar, WHSV 3.0 h⁻¹"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "乙醇转化反应",
+      "reaction_type_english": "Ethanol conversion reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

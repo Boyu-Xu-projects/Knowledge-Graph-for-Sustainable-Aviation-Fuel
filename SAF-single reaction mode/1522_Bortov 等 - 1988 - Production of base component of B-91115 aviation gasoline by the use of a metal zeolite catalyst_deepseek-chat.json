@@ -1,0 +1,135 @@
+{
+  "file": "1522_Bortov 等 - 1988 - Production of base component of B-91115 aviation gasoline by the use of a metal zeolite catalyst.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化重整",
+        "reaction_type_english": "Catalytic Reforming",
+        "description": "在装有金属沸石催化剂的试验装置中，对西伯利亚原油的62-150°C直馏石脑油馏分进行催化重整。实验条件为：温度420-460°C，原料空速2-7 h⁻¹，压力3 MPa，富氢气体循环比1000升/升原料。目的是将原料中的正构烷烃和环烷烃转化为芳烃和异构烷烃，生产航空汽油的基础组分。",
+        "text_snippet": "Our experiments were conducted in a pilot plant with recirculation of hydrogen-rich gas... The influence of process parameters on the quality of the reformate obtained from the 62-150° feedstock was investigated at 420-460°C with a feedstock space velocity of 2-7 h -l, a pressure of 3 MPa, and a hydrogen-rich gas recycle ratio of i000 liters/liter feed",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "1988",
+        "unit": "year",
+        "original": "1988"
+      },
+      "Feedstock": {
+        "value": "-150",
+        "unit": "°C",
+        "original": "62-150°C straight-run naphtha cut from West Siberian crude"
+      },
+      "Catalyst type": {
+        "value": "Metal zeolite catalyst",
+        "unit": "Not reported",
+        "original": "Metal zeolite catalyst"
+      },
+      "Catalyst composition": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-460",
+        "unit": "°C",
+        "original": "420-460°C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "-7",
+        "unit": "h",
+        "original": "2-7 h⁻¹ (feedstock space velocity)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen-rich gas",
+        "unit": "Not reported",
+        "original": "Hydrogen-rich gas"
+      },
+      "Reactant molar ratio": {
+        "value": "1000",
+        "unit": "liters",
+        "original": "1000 liters hydrogen-rich gas per liter feed"
+      },
+      "Operation mode": {
+        "value": "Pilot plant with recirculation of hydrogen-rich gas",
+        "unit": "Not reported",
+        "original": "Pilot plant with recirculation of hydrogen-rich gas"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "Stabilized reformate",
+        "unit": "Not reported",
+        "original": "Stabilized reformate"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "-86.5",
+        "unit": "wt%",
+        "original": "76.8-86.5 wt% (stable gasoline yield)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化重整",
+      "reaction_type_english": "Catalytic Reforming",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在装有金属沸石催化剂的试验装置中，对西伯利亚原油的62-150°C直馏石脑油馏分进行催化重整。实验条件为：温度420-460°C，原料空速2-7 h⁻¹，压力3 MPa，富氢气体循环比1000升/升原料。目的是将原料中的正构烷烃和环烷烃转化为芳烃和异构烷烃，生产航空汽油的基础组分。",
+      "experiment_id": 1,
+      "text_snippet": "Our experiments were conducted in a pilot plant with recirculation of hydrogen-rich gas... The influence of process parameters on the quality of the reformate obtained from the 62-150° feedstock was investigated at 420-460°C with a feedstock space velocity of 2-7 h -l, a pressure of 3 MPa, and a hyd..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化重整",
+      "reaction_type_english": "Catalytic Reforming",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

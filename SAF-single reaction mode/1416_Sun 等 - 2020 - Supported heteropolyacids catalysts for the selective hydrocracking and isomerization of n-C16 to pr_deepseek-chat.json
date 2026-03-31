@@ -1,0 +1,135 @@
+{
+  "file": "1416_Sun 等 - 2020 - Supported heteropolyacids catalysts for the selective hydrocracking and isomerization of n-C16 to pr.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化和异构化反应",
+        "reaction_type_english": "Hydrogenation and Isomerization reaction",
+        "description": "以正十六烷（n-C16）为模型反应物，在固定床反应器中，使用Pt/HPA/MCM-41双功能催化剂，在340°C、1.0 MPa氢气压力下进行选择性加氢裂化和异构化反应，以生产碳数为9-15的喷气燃料。",
+        "text_snippet": "The hydrocracking and isomerization of n-C16 were carried out in a fixed-bed reactor. In a typical run, 1.81g catalyst (40–60 mesh) was packed between two piles of quartz sand in the reaction tube, subsequently reduced at an H2 flow rate of 150 mL/min, 1.0 MPa, 350°C for 2h. Thereafter the reactor was cooled down to 340°C and the H2 flow rate was adjusted to 32 mL/min. The liquid raw material of n-C16 in a buffer tank enters the reaction tube through a pump at a flow rate of 0.04 mL/min (WHSV=1 h−1).",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "16",
+        "unit": "n-C",
+        "original": "n-C16 (hexadecane)"
+      },
+      "Catalyst type": {
+        "value": "-41",
+        "unit": "bifunctional",
+        "original": "Pt/HPA/MCM-41 bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "Pt",
+        "unit": "Not reported",
+        "original": "Pt"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "340",
+        "unit": "°C",
+        "original": "340°C"
+      },
+      "Reaction pressure": {
+        "value": "1.0",
+        "unit": "MPa",
+        "original": "1.0 MPa"
+      },
+      "Flow rate": {
+        "value": "0.04",
+        "unit": "mL/min",
+        "original": "0.04 mL/min (n-C16 flow rate), 32 mL/min (H2 flow rate)"
+      },
+      "Reaction time": {
+        "value": "100",
+        "unit": "h",
+        "original": "100 h (stability test)"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1.81",
+        "unit": "g",
+        "original": "1.81 g (40–60 mesh)"
+      },
+      "Product": {
+        "value": "9",
+        "unit": "°C",
+        "original": "< C9 (gasoline)"
+      },
+      "Conversion rate": {
+        "value": "84",
+        "unit": "%",
+        "original": "≈84% (for Pt/20wt.% HPA/MCM-41 catalysts)"
+      },
+      "Product yield": {
+        "value": "20",
+        "unit": "wt%",
+        "original": "≈20 wt.% (jet fuel yield over Pt/40wt.% HPMo/MCM-41)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "100",
+        "unit": "h",
+        "original": "100 h"
+      },
+      "reaction_type": "加氢裂化和异构化反应",
+      "reaction_type_english": "Hydrogenation and Isomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "以正十六烷（n-C16）为模型反应物，在固定床反应器中，使用Pt/HPA/MCM-41双功能催化剂，在340°C、1.0 MPa氢气压力下进行选择性加氢裂化和异构化反应，以生产碳数为9-15的喷气燃料。",
+      "experiment_id": 1,
+      "text_snippet": "The hydrocracking and isomerization of n-C16 were carried out in a fixed-bed reactor. In a typical run, 1.81g catalyst (40–60 mesh) was packed between two piles of quartz sand in the reaction tube, subsequently reduced at an H2 flow rate of 150 mL/min, 1.0 MPa, 350°C for 2h. Thereafter the reactor w..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化和异构化反应",
+      "reaction_type_english": "Hydrogenation and Isomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "file": "1466_Harvey和Quintana - 2010 - Synthesis of renewable jet and diesel fuels from 2-ethyl-1-hexene.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 4,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "二聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "使用浓硫酸（98%）在0°C下催化2-乙基-1-己烯的二聚反应，生成二聚体和低聚物混合物。",
+        "text_snippet": "2mLofconcentratedsulfuricacidwasplacedina3-neckedflask...Theflaskwaschilledinanicebathand10mLof2-ethyl-1-hexenewasaddeddropwise...Themixture...wasyringedawayfromtheacidlayer...Theorganiclayer...containingprimarilydimer/oligomers",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "异构化反应",
+        "reaction_type_english": "Isomerization reaction",
+        "description": "使用干燥的蒙脱土K-10（MMT-K10）在室温下催化2-乙基-1-己烯的异构化反应，生成3-甲基-2-庚烯和3-甲基-3-庚烯的顺反异构体混合物。",
+        "text_snippet": "MMTK-10wasdriedundervacuum(1Torr)at140(cid:2)Cfor5h...DryAmberlyst-15andDowexHCR-W2wereuseddirectlyfromthebottle...MMT-K10(dry)ambient24isomers0",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "异构化反应",
+        "reaction_type_english": "Isomerization reaction",
+        "description": "使用硫酸化氧化锆（Sulfatedzirconia）在116°C回流温度下催化2-乙基-1-己烯的异构化反应，生成其异构体。",
+        "text_snippet": "SulfatedzirconiawaspreparedfromZrOCl$8H2Obyapublishedmethod...SulfatedZrO21162isomers096",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      },
+      {
+        "experiment_id": 4,
+        "reaction_type": "二聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "使用干燥的Nafion树脂在116°C回流温度下催化2-乙基-1-己烯的二聚反应，高产率地生成C16二聚体混合物和少量三聚体。",
+        "text_snippet": "Nafionwasprecipitatedfromitsdispersion...anddryingundervacuum(1Torr)atambienttemperature...Nafion1162dimer/oligomers90100...Afterhydrogenation,fractionaldistillationgaveacolorlessdimerfraction.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2010",
+        "unit": "year",
+        "original": "2010"
+      },
+      "Feedstock": {
+        "value": "1",
+        "unit": "ethyl-",
+        "original": "2-ethyl-1-hexene"
+      },
+      "Catalyst type": {
+        "value": "Mineral acid",
+        "unit": "Not reported",
+        "original": "Mineral acid"
+      },
+      "Catalyst composition": {
+        "value": "98",
+        "unit": "%",
+        "original": "H₂SO₄ (98%)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "0",
+        "unit": "°C",
+        "original": "0°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "0.5",
+        "unit": "h",
+        "original": "0.5 hours"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "dimer/oligomers mixture",
+        "unit": "Not reported",
+        "original": "dimer/oligomers mixture"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "90",
+        "unit": "%",
+        "original": "90%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "二聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "使用浓硫酸（98%）在0°C下催化2-乙基-1-己烯的二聚反应，生成二聚体和低聚物混合物。",
+      "experiment_id": 1,
+      "text_snippet": "2mLofconcentratedsulfuricacidwasplacedina3-neckedflask...Theflaskwaschilledinanicebathand10mLof2-ethyl-1-hexenewasaddeddropwise...Themixture...wasyringedawayfromtheacidlayer...Theorganiclayer...containingprimarilydimer/oligomers"
+    },
+    {
+      "Published year": {
+        "value": "2010",
+        "unit": "year",
+        "original": "2010"
+      },
+      "Feedstock": {
+        "value": "1",
+        "unit": "ethyl-",
+        "original": "2-ethyl-1-hexene"
+      },
+      "Catalyst type": {
+        "value": "Montmorillonite clay",
+        "unit": "Not reported",
+        "original": "Montmorillonite clay"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "MMT-K",
+        "original": "MMT-K10"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "room temperature",
+        "unit": "°C",
+        "original": "room temperature"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "24",
+        "unit": "h",
+        "original": "24 hours"
+      },
+      "Atmosphere": {
+        "value": "nitrogen",
+        "unit": "Not reported",
+        "original": "nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "batch",
+        "unit": "Not reported",
+        "original": "batch"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "2",
+        "unit": "methyl-",
+        "original": "3-methyl-2-heptene (cis and trans isomers)"
+      },
+      "Conversion rate": {
+        "value": "30",
+        "unit": "%",
+        "original": "30% (dry MMT-K10, room temperature)"
+      },
+      "Product yield": {
+        "value": "0",
+        "unit": "%",
+        "original": "0%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "异构化反应",
+      "reaction_type_english": "Isomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "使用干燥的蒙脱土K-10（MMT-K10）在室温下催化2-乙基-1-己烯的异构化反应，生成3-甲基-2-庚烯和3-甲基-3-庚烯的顺反异构体混合物。",
+      "experiment_id": 2,
+      "text_snippet": "MMTK-10wasdriedundervacuum(1Torr)at140(cid:2)Cfor5h...DryAmberlyst-15andDowexHCR-W2wereuseddirectlyfromthebottle...MMT-K10(dry)ambient24isomers0"
+    },
+    {
+      "Published year": {
+        "value": "2010",
+        "unit": "year",
+        "original": "2010"
+      },
+      "Feedstock": {
+        "value": "1",
+        "unit": "ethyl-",
+        "original": "2-ethyl-1-hexene"
+      },
+      "Catalyst type": {
+        "value": "Sulfated zirconia",
+        "unit": "Not reported",
+        "original": "Sulfated zirconia"
+      },
+      "Catalyst composition": {
+        "value": "ZrO₂/SO₄²⁻",
+        "unit": "Not reported",
+        "original": "ZrO₂/SO₄²⁻"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "116",
+        "unit": "°C",
+        "original": "116°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 hours"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "3",
+        "unit": "cis-",
+        "original": "cis-3-methyl-2-heptene"
+      },
+      "Conversion rate": {
+        "value": "96",
+        "unit": "%",
+        "original": "96%"
+      },
+      "Product yield": {
+        "value": "0",
+        "unit": "%",
+        "original": "0%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "异构化反应",
+      "reaction_type_english": "Isomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "使用硫酸化氧化锆（Sulfatedzirconia）在116°C回流温度下催化2-乙基-1-己烯的异构化反应，生成其异构体。",
+      "experiment_id": 3,
+      "text_snippet": "SulfatedzirconiawaspreparedfromZrOCl$8H2Obyapublishedmethod...SulfatedZrO21162isomers096"
+    },
+    {
+      "Published year": {
+        "value": "2010",
+        "unit": "year",
+        "original": "2010"
+      },
+      "Feedstock": {
+        "value": "1",
+        "unit": "ethyl-",
+        "original": "2-ethyl-1-hexene"
+      },
+      "Catalyst type": {
+        "value": "Nafion resin",
+        "unit": "Not reported",
+        "original": "Nafion resin"
+      },
+      "Catalyst composition": {
+        "value": "Nafion (perfluorinated sulfonic acid resin)",
+        "unit": "Not reported",
+        "original": "Nafion (perfluorinated sulfonic acid resin)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "116",
+        "unit": "°C",
+        "original": "116°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 hours"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "200",
+        "unit": "mg",
+        "original": "200 mg catalyst per 10 mL 2-ethyl-1-hexene"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "dimer",
+        "original": "C16 dimer mixture"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "90",
+        "unit": "%",
+        "original": "90%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "二聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "使用干燥的Nafion树脂在116°C回流温度下催化2-乙基-1-己烯的二聚反应，高产率地生成C16二聚体混合物和少量三聚体。",
+      "experiment_id": 4,
+      "text_snippet": "Nafionwasprecipitatedfromitsdispersion...anddryingundervacuum(1Torr)atambienttemperature...Nafion1162dimer/oligomers90100...Afterhydrogenation,fractionaldistillationgaveacolorlessdimerfraction."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "二聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "异构化反应",
+      "reaction_type_english": "Isomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "异构化反应",
+      "reaction_type_english": "Isomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    },
+    {
+      "experiment_id": 4,
+      "reaction_type": "二聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1448_Xiangwen和Qian - Zeolite catalytic iso merizatio n of endo2T HDCPD to exo2T HDCPD.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "异构化反应",
+        "reaction_type_english": "Isomerization reaction",
+        "description": "在195℃下，使用6.6% F/HSSY分子筛催化剂（浓度20%）催化endo-THDCPD异构化为exo-THDCPD，反应2小时，转化率94.0%，选择性98.4%。",
+        "text_snippet": "最佳反应条件为: 催化剂6.6%F/ HSSY, 反应温度195℃, 催化剂浓度20%。在此条件下异构反应转化率为94.0%, 选择性为98.4%",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2007",
+        "unit": "year",
+        "original": "2007"
+      },
+      "Feedstock": {
+        "value": "endo-THDCPD",
+        "unit": "Not reported",
+        "original": "endo-THDCPD"
+      },
+      "Catalyst type": {
+        "value": "zeolite",
+        "unit": "Not reported",
+        "original": "zeolite"
+      },
+      "Catalyst composition": {
+        "value": "6.6",
+        "unit": "%",
+        "original": "6.6% F/HSSY"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "195℃",
+        "unit": "°C",
+        "original": "195℃"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 hours"
+      },
+      "Atmosphere": {
+        "value": "air (atmospheric pressure)",
+        "unit": "Not reported",
+        "original": "air (atmospheric pressure)"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "batch",
+        "unit": "Not reported",
+        "original": "batch"
+      },
+      "Catalyst loading": {
+        "value": "20",
+        "unit": "%",
+        "original": "20%"
+      },
+      "Product": {
+        "value": "exo-THDCPD",
+        "unit": "Not reported",
+        "original": "exo-THDCPD"
+      },
+      "Conversion rate": {
+        "value": "94.0",
+        "unit": "%",
+        "original": "94.0%"
+      },
+      "Product yield": {
+        "value": "92.5",
+        "unit": "%",
+        "original": "92.5%"
+      },
+      "Product Selectivity": {
+        "value": "98.4",
+        "unit": "%",
+        "original": "98.4%"
+      },
+      "Catalyst stability": {
+        "value": "550",
+        "unit": "at",
+        "original": "The deactivated catalyst could be effectively regenerated via calcination at 550℃"
+      },
+      "reaction_type": "异构化反应",
+      "reaction_type_english": "Isomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在195℃下，使用6.6% F/HSSY分子筛催化剂（浓度20%）催化endo-THDCPD异构化为exo-THDCPD，反应2小时，转化率94.0%，选择性98.4%。",
+      "experiment_id": 1,
+      "text_snippet": "最佳反应条件为: 催化剂6.6%F/ HSSY, 反应温度195℃, 催化剂浓度20%。在此条件下异构反应转化率为94.0%, 选择性为98.4%"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "异构化反应",
+      "reaction_type_english": "Isomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1534_Asnawati 等 - 2025 - Toward Efficient Bio-jet Fuel Production via Atmospheric Hydrotreating Insight into the Effect of C.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢处理反应",
+        "reaction_type_english": "Hydrotreating reaction",
+        "description": "在常压半间歇式双床反应器中，使用Co/HZSM-5、Mo/HZSM-5和CoMo/HZSM-5催化剂的不同单层和双层配置，对热处理的精炼棕榈油（TTRPO）进行加氢处理，生产生物航煤。反应在350-550°C的温度范围内，以10 mL/min的恒定氢气流量和1:100的催化剂与进料重量比进行。",
+        "text_snippet": "This study investigated an atmospheric hydrotreating process using a semi-batch double-bed reactor... During the process, HDO and HC reactions occurred as the vaporized feed interacted with the catalyst inside the furnace... Hydrotreating experiments were conducted at temperatures ranging from 350 to 550 °C... using a constant hydrogen flow rate of 10 mL/min and a catalyst-to-feed weight ratio of 1:100.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Thermally treated refined palm oil (TTRPO)",
+        "unit": "Not reported",
+        "original": "Thermally treated refined palm oil (TTRPO)"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "Co/HZSM-",
+        "original": "Co/HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "%",
+        "original": "5% Co"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-450",
+        "unit": "°C",
+        "original": "350-450 °C"
+      },
+      "Reaction pressure": {
+        "value": "Atmospheric pressure",
+        "unit": "MPa",
+        "original": "Atmospheric pressure"
+      },
+      "Flow rate": {
+        "value": "10",
+        "unit": "mL/min",
+        "original": "10 mL/min (H₂)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Semi-batch",
+        "unit": "Not reported",
+        "original": "Semi-batch"
+      },
+      "Catalyst loading": {
+        "value": "100",
+        "unit": "catalyst-to-feed",
+        "original": "1:100 catalyst-to-feed weight ratio"
+      },
+      "Product": {
+        "value": "Bio-jet fuel",
+        "unit": "Not reported",
+        "original": "Bio-jet fuel"
+      },
+      "Conversion rate": {
+        "value": "99.03",
+        "unit": "%",
+        "original": "99.03% (Total conversion for Mo/Z–Co/Z configuration)"
+      },
+      "Product yield": {
+        "value": "44.97",
+        "unit": "%",
+        "original": "44.97% (Bio-jet fuel yield for Mo/Z–Co/Z configuration)"
+      },
+      "Product Selectivity": {
+        "value": "99.14",
+        "unit": "%",
+        "original": "99.14% (Selectivity for bio-jet fuel at 350–450 °C)"
+      },
+      "Catalyst stability": {
+        "value": "Stable performance over five consecutive runs with minimal yield decline",
+        "unit": "Not reported",
+        "original": "Stable performance over five consecutive runs with minimal yield decline"
+      },
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydrotreating reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在常压半间歇式双床反应器中，使用Co/HZSM-5、Mo/HZSM-5和CoMo/HZSM-5催化剂的不同单层和双层配置，对热处理的精炼棕榈油（TTRPO）进行加氢处理，生产生物航煤。反应在350-550°C的温度范围内，以10 mL/min的恒定氢气流量和1:100的催化剂与进料重量比进行。",
+      "experiment_id": 1,
+      "text_snippet": "This study investigated an atmospheric hydrotreating process using a semi-batch double-bed reactor... During the process, HDO and HC reactions occurred as the vaporized feed interacted with the catalyst inside the furnace... Hydrotreating experiments were conducted at temperatures ranging from 350 t..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydrotreating reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

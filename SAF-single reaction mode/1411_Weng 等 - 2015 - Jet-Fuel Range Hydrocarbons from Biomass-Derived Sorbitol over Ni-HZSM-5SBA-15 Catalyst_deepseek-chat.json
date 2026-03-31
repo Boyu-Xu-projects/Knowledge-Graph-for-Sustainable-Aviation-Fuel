@@ -1,0 +1,135 @@
+{
+  "file": "1411_Weng 等 - 2015 - Jet-Fuel Range Hydrocarbons from Biomass-Derived Sorbitol over Ni-HZSM-5SBA-15 Catalyst.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在固定床反应器中，在593 K、4.0 MPa氢压、WHSV为0.75 h⁻¹、GHSV为2500 h⁻¹的条件下，使用Ni-HZSM-5/SBA-15催化剂对山梨醇水溶液进行催化转化，获得含有80.0%芳烃和环烷烃的油产品，收率为40.4 wt.%",
+        "text_snippet": "The catalytic performances were tested in a fixed-bed reactor under the conditions of 593 K, WHSV of 0.75 h−1, GHSV of 2500 h−1 and 4.0 MPa of hydrogen pressure, whereby oil yield of 40.4 wt. % with aromatics and cyclic-hydrocarbons content of 80.0% was obtained.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "Sorbitol",
+        "unit": "Not reported",
+        "original": "Sorbitol"
+      },
+      "Catalyst type": {
+        "value": "-5",
+        "unit": "/SBA-",
+        "original": "Ni-HZSM-5/SBA-15"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/SBA-",
+        "original": "Ni-HZSM-5/SBA-15 (Ni loading: 10 wt.%)"
+      },
+      "Solvent": {
+        "value": "Water",
+        "unit": "Not reported",
+        "original": "Water"
+      },
+      "Reaction temperature": {
+        "value": "593",
+        "unit": "K",
+        "original": "593 K"
+      },
+      "Reaction pressure": {
+        "value": "4.0",
+        "unit": "MPa",
+        "original": "4.0 MPa"
+      },
+      "Flow rate": {
+        "value": "0.75",
+        "unit": "h",
+        "original": "WHSV: 0.75 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "4",
+        "unit": "g",
+        "original": "4 g catalyst"
+      },
+      "Product": {
+        "value": "Aromatics",
+        "unit": "Not reported",
+        "original": "Aromatics"
+      },
+      "Conversion rate": {
+        "value": "90",
+        "unit": "%",
+        "original": ">90%"
+      },
+      "Product yield": {
+        "value": "40.4",
+        "unit": "wt%",
+        "original": "40.4 wt.%"
+      },
+      "Product Selectivity": {
+        "value": "80.0",
+        "unit": "%",
+        "original": "Aromatics and cyclic-hydrocarbons content: 80.0%"
+      },
+      "Catalyst stability": {
+        "value": "70",
+        "unit": "h",
+        "original": "Stable oil yield until 70 h reaction time, slight deactivation after 100 h due to carbon deposition"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床反应器中，在593 K、4.0 MPa氢压、WHSV为0.75 h⁻¹、GHSV为2500 h⁻¹的条件下，使用Ni-HZSM-5/SBA-15催化剂对山梨醇水溶液进行催化转化，获得含有80.0%芳烃和环烷烃的油产品，收率为40.4 wt.%",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic performances were tested in a fixed-bed reactor under the conditions of 593 K, WHSV of 0.75 h−1, GHSV of 2500 h−1 and 4.0 MPa of hydrogen pressure, whereby oil yield of 40.4 wt. % with aromatics and cyclic-hydrocarbons content of 80.0% was obtained."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

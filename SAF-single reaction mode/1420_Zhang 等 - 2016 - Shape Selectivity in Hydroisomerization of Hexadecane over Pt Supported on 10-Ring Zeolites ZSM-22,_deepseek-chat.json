@@ -1,0 +1,135 @@
+{
+  "file": "1420_Zhang 等 - 2016 - Shape Selectivity in Hydroisomerization of Hexadecane over Pt Supported on 10-Ring Zeolites ZSM-22,.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢异构化反应",
+        "reaction_type_english": "Hydroisomerization reaction",
+        "description": "在固定床微反应器中，在4 MPa压力下，使用Pt/ZSM-22、Pt/ZSM-23、Pt/ZSM-35、Pt/ZSM-48及其混合催化剂（Pt/ZSM-23/35、Pt/ZSM-35/48）进行正十六烷（n-hexadecane）的加氢异构化反应。通过改变接触时间和温度（260-300°C）来监测转化率和异构体选择性，H2/n-C16体积比为600。",
+        "text_snippet": "The n-hexadecane hydroisomerization was carried out at 4 MPa in a fixed-bed microreactor, loaded with 0.1 g of the catalyst powder. The n-hexadecane conversion was monitored by varying the contact time and temperature. The volume ratio H2/n-C16 was chosen to be 600.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "n-hexadecane",
+        "unit": "Not reported",
+        "original": "n-hexadecane"
+      },
+      "Catalyst type": {
+        "value": "22",
+        "unit": "Pt/ZSM-",
+        "original": "Pt/ZSM-22"
+      },
+      "Catalyst composition": {
+        "value": "22",
+        "unit": "ZSM-",
+        "original": "Pt on ZSM-22"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-300",
+        "unit": "°C",
+        "original": "260-300°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/n-C",
+        "original": "H2/n-C16 volume ratio = 600"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed microreactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed microreactor"
+      },
+      "Catalyst loading": {
+        "value": "0.1",
+        "unit": "g",
+        "original": "0.1 g"
+      },
+      "Product": {
+        "value": "iso-hexadecane",
+        "unit": "Not reported",
+        "original": "iso-hexadecane"
+      },
+      "Conversion rate": {
+        "value": "98",
+        "unit": "%",
+        "original": "Varies with catalyst and conditions (e.g., ~98% over Pt/ZSM-23 and Pt/ZSM-35 at 300°C)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "-23",
+        "unit": "at",
+        "original": "Varies with catalyst and conditions (e.g., higher selectivity over Pt/ZSM-23 at low temperature and short contact time, higher selectivity over Pt/ZSM-48 at high temperature and long contact time)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床微反应器中，在4 MPa压力下，使用Pt/ZSM-22、Pt/ZSM-23、Pt/ZSM-35、Pt/ZSM-48及其混合催化剂（Pt/ZSM-23/35、Pt/ZSM-35/48）进行正十六烷（n-hexadecane）的加氢异构化反应。通过改变接触时间和温度（260-300°C）来监测转化率和异构体选择性，H2/n-C16体积比为600。",
+      "experiment_id": 1,
+      "text_snippet": "The n-hexadecane hydroisomerization was carried out at 4 MPa in a fixed-bed microreactor, loaded with 0.1 g of the catalyst powder. The n-hexadecane conversion was monitored by varying the contact time and temperature. The volume ratio H2/n-C16 was chosen to be 600."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

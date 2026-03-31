@@ -1,0 +1,135 @@
+{
+  "file": "1538_Shui 等 - 2020 - Hydro-liquefaction of asphaltene from a lignite for potential jet fuel.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢液化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在高压釜反应器中，使用不同催化剂（Cu-Ni/γ-Al₂O₃, Ni/ZSM-5, Ni-Mo-S/γ-Al₂O₃）和条件（温度、时间），以四氢萘为溶剂，对褐煤沥青质（XLAS）进行催化加氢液化，以生产潜在的喷气燃料并研究环烷烃含量。",
+        "text_snippet": "Hydro-liquefactions of XLAS were carried out in a tubing reactor with 30ml[16].Approximate 1.0g dried XLAS mixed with 0.1g catalystand5mloftetralinwerechargedtogetherintothereactor.AfterflushingbyH2 3timesthereactorwaspressuredtotheinitialpressureof5.0MPawithhydrogen.Thenthereactorwasimmergedintoaeutecticsaltbath,whichhadbeenheatedtothedesiredtemperatureandshakenverticallyat120times/min.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "XLAS (asphaltene from thermal dissolution of Xilingguole lignite)",
+        "unit": "Not reported",
+        "original": "XLAS (asphaltene from thermal dissolution of Xilingguole lignite)"
+      },
+      "Catalyst type": {
+        "value": "Cu-Ni/γ-Al₂O₃",
+        "unit": "Not reported",
+        "original": "Cu-Ni/γ-Al₂O₃"
+      },
+      "Catalyst composition": {
+        "value": "0.2",
+        "unit": "mol%",
+        "original": "Cu-Ni/γ-Al₂O₃ (Cu/Ni=0.2 mol, 20% Ni loaded)"
+      },
+      "Solvent": {
+        "value": "Tetralin (tetrahydronaphthalene)",
+        "unit": "Not reported",
+        "original": "Tetralin (tetrahydronaphthalene)"
+      },
+      "Reaction temperature": {
+        "value": "280",
+        "unit": "°C",
+        "original": "280°C"
+      },
+      "Reaction pressure": {
+        "value": "5.0",
+        "unit": "MPa",
+        "original": "5.0 MPa (initial H₂ pressure)"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "30",
+        "unit": "min",
+        "original": "30 min"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch (high-pressure tubing reactor)",
+        "unit": "Not reported",
+        "original": "Batch (high-pressure tubing reactor)"
+      },
+      "Catalyst loading": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "10 wt% (0.1 g catalyst per 1.0 g XLAS)"
+      },
+      "Product": {
+        "value": "Oil (cyclohexane-soluble)",
+        "unit": "Not reported",
+        "original": "Oil (cyclohexane-soluble)"
+      },
+      "Conversion rate": {
+        "value": "98",
+        "unit": "%",
+        "original": ">98% (THF soluble fraction)"
+      },
+      "Product yield": {
+        "value": "360",
+        "unit": "°C",
+        "original": "{'Oil yield (Ni-Mo-S/γ-Al₂O₃, 360°C, 90 min)': '68.8 wt%', 'Oil yield (Cu-Ni/γ-Al₂O₃, 360°C, 90 min)': 'Lower than without catalyst', 'Oil yield (Ni/ZSM-5, 360°C, 90 min)': 'Not reported', 'Gas yield (Cu-Ni/γ-Al₂O₃, 360°C, 90 min)': '19.6 wt%'}"
+      },
+      "Product Selectivity": {
+        "value": "360",
+        "unit": "°C",
+        "original": "{'Cyclanes selectivity (Ni-Mo-S/γ-Al₂O₃, 360°C, 90 min)': '20.5% in oil', 'Cyclanes selectivity (280°C, 90 min)': '29.3% in oil', 'Cyclanes selectivity (360°C, 60 min)': '23.6% in oil', 'Arenes content': '>70% in oil', 'Oxygen-containing compounds (Ni-Mo-S/γ-Al₂O₃)': '9.3% in oil'}"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢液化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在高压釜反应器中，使用不同催化剂（Cu-Ni/γ-Al₂O₃, Ni/ZSM-5, Ni-Mo-S/γ-Al₂O₃）和条件（温度、时间），以四氢萘为溶剂，对褐煤沥青质（XLAS）进行催化加氢液化，以生产潜在的喷气燃料并研究环烷烃含量。",
+      "experiment_id": 1,
+      "text_snippet": "Hydro-liquefactions of XLAS were carried out in a tubing reactor with 30ml[16].Approximate 1.0g dried XLAS mixed with 0.1g catalystand5mloftetralinwerechargedtogetherintothereactor.AfterflushingbyH2 3timesthereactorwaspressuredtotheinitialpressureof5.0MPawithhydrogen.Thenthereactorwasimmergedintoaeu..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢液化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

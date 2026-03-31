@@ -1,0 +1,135 @@
+{
+  "file": "1401_Tomasek 等 - JET Fuel Production from High Molecular Weight Fischer- Tropsch Paraffin Mixture.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在Pt/H-ZSM5、Pt/H-Beta和Pt/H-[BAl]MCM22沸石催化剂上对高分子量费托石蜡混合物进行加氢裂化实验，反应温度250-350°C，压力40 bar，氢/烃比600 Ndm³/dm³，液时空速1.0 h⁻¹",
+        "text_snippet": "In our experimental work we investigated the fuel purpose hydrocracking of high molecular weight Fischer-Tropsch wax on Pt/H-ZSM5, Pt/H-Beta and Pt/H-[BAl]MCM22 zeolite catalysts... Experiments were carried out in the temperature range of 250 - 350 °C, while pressure (40 bar), hydrogen / hydrocarbon ratio (600 Ndm3/dm3) and liquid hourly space velocity (1.0 h-1) were constant.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "99",
+        "unit": "%",
+        "original": "high molecular weight Fischer-Tropsch paraffin mixture, carbon number range: C13-C69, C21+ hydrocarbon content: > 99 %, pour point: 84 °C, density: 940 kg/m³"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "Pt/H-ZSM",
+        "original": "Pt/H-ZSM5"
+      },
+      "Catalyst composition": {
+        "value": "0.5",
+        "unit": "wt%",
+        "original": "Pt/H-ZSM5: Pt 0.5 wt%, Al 0.025 mmol/g, Na 0.584 mmol/g, Si/Al 27.6"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-350",
+        "unit": "°C",
+        "original": "250-350 °C"
+      },
+      "Reaction pressure": {
+        "value": "40",
+        "unit": "bar",
+        "original": "40 bar"
+      },
+      "Flow rate": {
+        "value": "1.0",
+        "unit": "h",
+        "original": "Liquid hourly space velocity: 1.0 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "600",
+        "unit": "Ndm",
+        "original": "Hydrogen/hydrocarbon ratio: 600 Ndm³/dm³"
+      },
+      "Operation mode": {
+        "value": "Continuous operation in fixed-bed microreactor",
+        "unit": "Not reported",
+        "original": "Continuous operation in fixed-bed microreactor"
+      },
+      "Catalyst loading": {
+        "value": "1.8",
+        "unit": "cm",
+        "original": "1.8 cm³ (1.0 g) catalyst, particle size: 0.315-0.80 mm"
+      },
+      "Product": {
+        "value": "1",
+        "unit": "°C",
+        "original": "Gases (C1-C4)"
+      },
+      "Conversion rate": {
+        "value": "-95.5",
+        "unit": "%",
+        "original": "20.1-95.5% (C21+ conversion depending on catalyst and temperature)"
+      },
+      "Product yield": {
+        "value": "-48",
+        "unit": "%",
+        "original": "Gases: 10-48%"
+      },
+      "Product Selectivity": {
+        "value": "6",
+        "unit": ":",
+        "original": "Pt/H-Beta: iso/n-paraffin ratio 6-7"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在Pt/H-ZSM5、Pt/H-Beta和Pt/H-[BAl]MCM22沸石催化剂上对高分子量费托石蜡混合物进行加氢裂化实验，反应温度250-350°C，压力40 bar，氢/烃比600 Ndm³/dm³，液时空速1.0 h⁻¹",
+      "experiment_id": 1,
+      "text_snippet": "In our experimental work we investigated the fuel purpose hydrocracking of high molecular weight Fischer-Tropsch wax on Pt/H-ZSM5, Pt/H-Beta and Pt/H-[BAl]MCM22 zeolite catalysts... Experiments were carried out in the temperature range of 250 - 350 °C, while pressure (40 bar), hydrogen / hydrocarbon..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

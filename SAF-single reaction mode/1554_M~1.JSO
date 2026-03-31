@@ -1,0 +1,135 @@
+{
+  "file": "1554_Mousavi和Dehaghani - 2024 - Catalytic pyrolysis of plastic waste to gasoline, jet fuel and diesel with nano MOF derived-loaded Y.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在固定床反应器中使用纳米MOF衍生的Y沸石催化剂，对城市塑料废物进行催化热解，生产汽油、喷气燃料和柴油。实验评估了温度（375–525°C）、沸石结晶度（0–100%）和催化剂负载量（2.5–17.5%）对液体燃料产率的影响。",
+        "text_snippet": "Catalytic pyrolysis of municipal plastic waste... three key parameters were selected for experimental design: temperature (375–525 ◦C), catalyst loading in the reactor (2.5–17.5 %), and support crystallinity percentage (0–100 %). Using a response surface approach, the impact of these parameters on the liquid fuel production efficiency was investigated.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Municipal plastic waste",
+        "unit": "Not reported",
+        "original": "Municipal plastic waste"
+      },
+      "Catalyst type": {
+        "value": "Nano MOF derived-loaded Y zeolite",
+        "unit": "Not reported",
+        "original": "Nano MOF derived-loaded Y zeolite"
+      },
+      "Catalyst composition": {
+        "value": "Zeolite Y",
+        "unit": "Not reported",
+        "original": "Zeolite Y"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "525",
+        "unit": "°C",
+        "original": "375–525 °C"
+      },
+      "Reaction pressure": {
+        "value": "Laboratory pressure (Not specified)",
+        "unit": "MPa",
+        "original": "Laboratory pressure (Not specified)"
+      },
+      "Flow rate": {
+        "value": "100",
+        "unit": "mL/min",
+        "original": "100 ml/min nitrogen gas"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen (inert atmosphere)",
+        "unit": "Not reported",
+        "original": "Nitrogen (inert atmosphere)"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor, ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor, ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "17.5",
+        "unit": "%",
+        "original": "2.5–17.5%"
+      },
+      "Product": {
+        "value": "8",
+        "unit": "°C",
+        "original": "Gasoline (C8-C12)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "80.8",
+        "unit": "%",
+        "original": "Liquid fuel: up to 80.8%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在固定床反应器中使用纳米MOF衍生的Y沸石催化剂，对城市塑料废物进行催化热解，生产汽油、喷气燃料和柴油。实验评估了温度（375–525°C）、沸石结晶度（0–100%）和催化剂负载量（2.5–17.5%）对液体燃料产率的影响。",
+      "experiment_id": 1,
+      "text_snippet": "Catalytic pyrolysis of municipal plastic waste... three key parameters were selected for experimental design: temperature (375–525 ◦C), catalyst loading in the reactor (2.5–17.5 %), and support crystallinity percentage (0–100 %). Using a response surface approach, the impact of these parameters on t..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

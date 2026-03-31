@@ -1,0 +1,247 @@
+{
+  "file": "1546_Pan 等 - 2022 - Selective production of monocyclic aromatic hydrocarbon from agricultural waste wheat straw for avia.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化热解",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "使用Pt/C、Rh/C、Ru/C、Pd/C和65 wt% Ni/SiO2–Al2O3等商业催化剂，在550°C下对小麦秸秆、油菜秸秆、杨木锯末和竹粉四种生物质进行催化快速热解，研究其对芳烃选择性的影响。",
+        "text_snippet": "the effects of different kinds of metal catalysts (Pt/C, Rh/C, Ru/C, Pd/C, 65 wt% Ni/SiO2 –Al2O3) on the pyrolysis behavior and aromatic hydrocarbons selectivity of four kinds of agricultural and forestry waste biomass (wheat straw, rape straw, poplar sawdust, and bamboo powder) were systematically investigated.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "催化热解",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "系统研究具有不同Si/Al比（5:18, 5:50, 5:85, 5:300, 5:470）的沸石和不同Ni负载量（5, 10, 15, 20, 25 wt%）的Ni/ZSM-5催化剂对小麦秸秆热解产物中酚类组分和目标产物芳烃（特别是单环芳烃）相对含量的影响。",
+        "text_snippet": "zeolite with different Si/Al ratios (5:18, 5:50, 5:85, 5:300, and 5:470) and the Ni loading amounts (5, 10, 15, 20, 25 wt%) were systematically studied.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "wheat straw",
+        "unit": "Not reported",
+        "original": "wheat straw"
+      },
+      "Catalyst type": {
+        "value": "Pt/C",
+        "unit": "Not reported",
+        "original": "Pt/C"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "%",
+        "original": "5% metal content (Pt/C, Rh/C, Ru/C, Pd/C)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "550",
+        "unit": "°C",
+        "original": "550°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "1.2",
+        "unit": "mL/min",
+        "original": "1.2 mL/min (He carrier gas)"
+      },
+      "Reaction time": {
+        "value": "30",
+        "unit": "s",
+        "original": "30 s"
+      },
+      "Atmosphere": {
+        "value": "Helium (He)",
+        "unit": "Not reported",
+        "original": "Helium (He)"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Catalytic fast pyrolysis (CFP)",
+        "unit": "Not reported",
+        "original": "Catalytic fast pyrolysis (CFP)"
+      },
+      "Catalyst loading": {
+        "value": "0.6",
+        "unit": "mg",
+        "original": "0.6 mg catalyst mixed with 0.4 mg biomass"
+      },
+      "Product": {
+        "value": "aromatic hydrocarbons",
+        "unit": "Not reported",
+        "original": "aromatic hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "67",
+        "unit": "%",
+        "original": "67% aromatic hydrocarbons (10 wt% Ni/ZSM-5, Si/Al=5:18)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化热解",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "使用Pt/C、Rh/C、Ru/C、Pd/C和65 wt% Ni/SiO2–Al2O3等商业催化剂，在550°C下对小麦秸秆、油菜秸秆、杨木锯末和竹粉四种生物质进行催化快速热解，研究其对芳烃选择性的影响。",
+      "experiment_id": 1,
+      "text_snippet": "the effects of different kinds of metal catalysts (Pt/C, Rh/C, Ru/C, Pd/C, 65 wt% Ni/SiO2 –Al2O3) on the pyrolysis behavior and aromatic hydrocarbons selectivity of four kinds of agricultural and forestry waste biomass (wheat straw, rape straw, poplar sawdust, and bamboo powder) were systematically ..."
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Wheat straw",
+        "unit": "Not reported",
+        "original": "Wheat straw"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "Ni/ZSM-",
+        "original": "Ni/ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "with",
+        "original": "ZSM-5 with Si/Al ratios: 5:18, 5:50, 5:85, 5:300, 5:470"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "550",
+        "unit": "°C",
+        "original": "550 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "1.2",
+        "unit": "mL/min",
+        "original": "1.2 mL/min (He carrier gas)"
+      },
+      "Reaction time": {
+        "value": "30",
+        "unit": "s",
+        "original": "30 s"
+      },
+      "Atmosphere": {
+        "value": "Helium",
+        "unit": "Not reported",
+        "original": "Helium"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Catalytic fast pyrolysis in Py-GC/MS",
+        "unit": "Not reported",
+        "original": "Catalytic fast pyrolysis in Py-GC/MS"
+      },
+      "Catalyst loading": {
+        "value": "0.6",
+        "unit": "mg",
+        "original": "0.6 mg catalyst mixed with 0.4 mg biomass"
+      },
+      "Product": {
+        "value": "Aromatic hydrocarbons",
+        "unit": "Not reported",
+        "original": "Aromatic hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "67",
+        "unit": "%",
+        "original": "67% aromatics with 10 wt% Ni/ZSM-5 (Si/Al=5:18)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化热解",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "系统研究具有不同Si/Al比（5:18, 5:50, 5:85, 5:300, 5:470）的沸石和不同Ni负载量（5, 10, 15, 20, 25 wt%）的Ni/ZSM-5催化剂对小麦秸秆热解产物中酚类组分和目标产物芳烃（特别是单环芳烃）相对含量的影响。",
+      "experiment_id": 2,
+      "text_snippet": "zeolite with different Si/Al ratios (5:18, 5:50, 5:85, 5:300, and 5:470) and the Ni loading amounts (5, 10, 15, 20, 25 wt%) were systematically studied."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化热解",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "催化热解",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "file": "1558_Eun 等 - 2024 - Production of high-carbon-number naphthenes for bio-aviation fuels from bio-crude prepared by fast p.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "烷基化反应",
+        "reaction_type_english": "Alkylation reaction",
+        "description": "在间歇反应器中，使用HY、Hβ、WZr、S-ZrO2、γ-Al2O3和SiO2-Al2O3等固体酸催化剂，将第一步反应生成的环状醇与苯酚进行烷基化反应，生成二聚体化合物。",
+        "text_snippet": "In the second step, cyclic alcohols were condensed with phenol. Solid catalysts, including HY, Hβ, WZr, S-ZrO2, γ-Al2O3, and SiO2–Al2O3 (0.1 g) were combined with the products from the first step and phenol (0.2 g) in the reactor. The reaction was performed at 160 ◦C and an H2 pressure of 4 MPa for 3 h.",
+        "reaction_type_classify": "Alkylation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "烷基化反应",
+        "reaction_type_english": "Alkylation reaction",
+        "description": "在间歇反应器中，使用生物原油和添加的苯酚，通过HY、Hβ和WZr催化剂进行烷基化反应，生成二聚体化合物。",
+        "text_snippet": "In the third step, the product obtained from the second step was alkylated with phenol. Three solid acid catalysts, namely HY, Hβ, and WZr [17], were used in the model compounds (0.3 g) and mixed with the product from the second step and phenol (0.2 g). The reaction was performed at 160 ◦C and an H2 pressure of 4 MPa for 3 h.",
+        "reaction_type_classify": "Alkylation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "烷基化反应",
+        "reaction_type_english": "Alkylation reaction",
+        "description": "在连续流动固定床反应器中，使用Pd/C、NiFe/TiO2和HY催化剂进行一步法连续反应，通过烷基化生成C12或更高碳数的二聚环烷烃。",
+        "text_snippet": "In the four-step one-pass continuous-flow fixed-bed reaction using bio-crude... The three-stage reaction was conducted for the third experiment, in which the Pd/C then NiFe/TiO2 then HY catalysts were used... Dimeric cycloalkanes (C12 or higher-carbon-number hydrocarbons) were distinctively formed by the alkylation between phenols and cyclic alcohols constituting fractions of 4.4–4.7 %",
+        "reaction_type_classify": "Alkylation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "bio-crude (from fast pyrolysis of lignocellulose)",
+        "unit": "Not reported",
+        "original": "bio-crude (from fast pyrolysis of lignocellulose)"
+      },
+      "Catalyst type": {
+        "value": "Solid acid",
+        "unit": "Not reported",
+        "original": "Solid acid"
+      },
+      "Catalyst composition": {
+        "value": "HY",
+        "unit": "Not reported",
+        "original": "HY"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "160",
+        "unit": "°C",
+        "original": "160 °C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "3",
+        "unit": "h",
+        "original": "3 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.1",
+        "unit": "g",
+        "original": "0.1 g"
+      },
+      "Product": {
+        "value": "dimeric compounds (cyclic alcohols and phenols)",
+        "unit": "Not reported",
+        "original": "dimeric compounds (cyclic alcohols and phenols)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "39",
+        "unit": "%",
+        "original": "HY: 39%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Significant coking observed on HY and Hβ catalysts",
+        "unit": "Not reported",
+        "original": "Significant coking observed on HY and Hβ catalysts"
+      },
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction",
+      "experiment_description": "在间歇反应器中，使用HY、Hβ、WZr、S-ZrO2、γ-Al2O3和SiO2-Al2O3等固体酸催化剂，将第一步反应生成的环状醇与苯酚进行烷基化反应，生成二聚体化合物。",
+      "experiment_id": 1,
+      "text_snippet": "In the second step, cyclic alcohols were condensed with phenol. Solid catalysts, including HY, Hβ, WZr, S-ZrO2, γ-Al2O3, and SiO2–Al2O3 (0.1 g) were combined with the products from the first step and phenol (0.2 g) in the reactor. The reaction was performed at 160 ◦C and an H2 pressure of 4 MPa for ..."
+    },
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Bio-crude prepared by fast pyrolysis of lignocellulose",
+        "unit": "Not reported",
+        "original": "Bio-crude prepared by fast pyrolysis of lignocellulose"
+      },
+      "Catalyst type": {
+        "value": "HY",
+        "unit": "Not reported",
+        "original": "HY"
+      },
+      "Catalyst composition": {
+        "value": "30",
+        "unit": "mol/mol",
+        "original": "HY (Si/Al =30 mol/mol)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "160",
+        "unit": "°C",
+        "original": "160 °C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "3",
+        "unit": "h",
+        "original": "3 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.3",
+        "unit": "g",
+        "original": "0.3 g"
+      },
+      "Product": {
+        "value": "12",
+        "unit": "or",
+        "original": "Dimeric compounds (C12 or higher-carbon-number naphthenes)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "4.5",
+        "unit": ":",
+        "original": "4.5 to 4.7%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Significant coking was observed during the reaction when the HY and Hβ catalysts were used",
+        "unit": "Not reported",
+        "original": "Significant coking was observed during the reaction when the HY and Hβ catalysts were used"
+      },
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction",
+      "experiment_description": "在间歇反应器中，使用生物原油和添加的苯酚，通过HY、Hβ和WZr催化剂进行烷基化反应，生成二聚体化合物。",
+      "experiment_id": 2,
+      "text_snippet": "In the third step, the product obtained from the second step was alkylated with phenol. Three solid acid catalysts, namely HY, Hβ, and WZr [17], were used in the model compounds (0.3 g) and mixed with the product from the second step and phenol (0.2 g). The reaction was performed at 160 ◦C and an H2..."
+    },
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Bio-crude from fast pyrolysis of lignocellulose",
+        "unit": "Not reported",
+        "original": "Bio-crude from fast pyrolysis of lignocellulose"
+      },
+      "Catalyst type": {
+        "value": "Pd/C",
+        "unit": "Not reported",
+        "original": "Pd/C"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5 wt% Pd on activated carbon"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-200",
+        "unit": "°C",
+        "original": "180-200 °C (Pd/C)"
+      },
+      "Reaction pressure": {
+        "value": "100",
+        "unit": "bar",
+        "original": "100 bar"
+      },
+      "Flow rate": {
+        "value": "2.5",
+        "unit": "g",
+        "original": "2.5 g·h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous flow fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous flow fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "h",
+        "original": "Weight hourly space velocity: 1 h⁻¹ (Pd/C)"
+      },
+      "Product": {
+        "value": "12",
+        "unit": "or",
+        "original": "C12 or higher-carbon-number dimeric cycloalkanes (naphthenes)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "4.5",
+        "unit": ":",
+        "original": "4.5 to 4.7%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction",
+      "experiment_description": "在连续流动固定床反应器中，使用Pd/C、NiFe/TiO2和HY催化剂进行一步法连续反应，通过烷基化生成C12或更高碳数的二聚环烷烃。",
+      "experiment_id": 3,
+      "text_snippet": "In the four-step one-pass continuous-flow fixed-bed reaction using bio-crude... The three-stage reaction was conducted for the third experiment, in which the Pd/C then NiFe/TiO2 then HY catalysts were used... Dimeric cycloalkanes (C12 or higher-carbon-number hydrocarbons) were distinctively formed b..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

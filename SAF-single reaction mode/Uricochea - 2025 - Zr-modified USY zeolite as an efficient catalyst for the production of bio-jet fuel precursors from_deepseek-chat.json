@@ -1,0 +1,135 @@
+{
+  "file": "Uricochea - 2025 - Zr-modified USY zeolite as an efficient catalyst for the production of bio-jet fuel precursors from.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "羟醛缩合反应",
+        "reaction_type_english": "Aldol condensation reaction",
+        "description": "在无溶剂条件下，使用Zr改性USY沸石催化剂催化乙酰丙酸(LA)和糠醛(FAL)进行羟醛缩合反应，生成C10加合物(β-C10和δ-C10)，作为生物航空燃料前体",
+        "text_snippet": "The catalytic performance of a commercial H-USY zeolite and two post-synthetic variations thereof, with different dealumination degree and Zr loading, is analyzed, aiming at tuning the acid catalytic properties... The optimization of the reaction parameters allowed to achieve a maximum furfural conversion of 88 %, combined with a yield towards the desired C10 adducts of 55 %.",
+        "reaction_type_classify": "Aldol condensation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Levulinic acid (LA)",
+        "unit": "Not reported",
+        "original": "Levulinic acid (LA)"
+      },
+      "Catalyst type": {
+        "value": "Zeolite",
+        "unit": "Not reported",
+        "original": "Zeolite"
+      },
+      "Catalyst composition": {
+        "value": "-2",
+        "unit": "with",
+        "original": "Zr-modified USY zeolite (specifically Zr-USY-2 with 10.9 wt% Zr and Si/Al ratio of 61.1)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "100",
+        "unit": "°C",
+        "original": "100 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 hours"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "9",
+        "unit": "/",
+        "original": "LA/FAL = 9/1 (mol/mol)"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "FAL/Cat = 7.5 (wt./wt.)",
+        "unit": "wt%",
+        "original": "FAL/Cat = 7.5 (wt./wt.)"
+      },
+      "Product": {
+        "value": "10",
+        "unit": "°C",
+        "original": "β-furfurylidenelevulinic acid (β-C10)"
+      },
+      "Conversion rate": {
+        "value": "88",
+        "unit": "%",
+        "original": "88% (furfural conversion)"
+      },
+      "Product yield": {
+        "value": "55",
+        "unit": "%",
+        "original": "55% (C10 adducts yield)"
+      },
+      "Product Selectivity": {
+        "value": "62.8",
+        "unit": "%",
+        "original": "62.8% (to C10 adducts)"
+      },
+      "Catalyst stability": {
+        "value": "550",
+        "unit": "°C",
+        "original": "Good reusability with thermal regeneration at 550 °C for 6 hours"
+      },
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction",
+      "experiment_description": "在无溶剂条件下，使用Zr改性USY沸石催化剂催化乙酰丙酸(LA)和糠醛(FAL)进行羟醛缩合反应，生成C10加合物(β-C10和δ-C10)，作为生物航空燃料前体",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic performance of a commercial H-USY zeolite and two post-synthetic variations thereof, with different dealumination degree and Zr loading, is analyzed, aiming at tuning the acid catalytic properties... The optimization of the reaction parameters allowed to achieve a maximum furfural conv..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "file": "Arslan - 2022 - Highly Selective Conversion of CO2 or CO into Precursors for Kerosene-Based Aviation Fuel.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在275°C和2.0 MPa压力下，使用ZnCr₂O₄/Sbx-H-ZSM-5双功能催化剂，将CO₂与H₂（H₂/CO₂ = 3:1）催化氢化为C₈-C₁₂单环芳烃，芳烃选择性>80%。",
+        "text_snippet": "the catalytic hydrogenation of CO₂ over a bifunctional catalyst (nano-sized ZnCr₂O₄/Sbx-H-ZSM-5)... achieved (>80% in hydrocarbons at a reaction temperature of 275 °C)",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在275°C和2.0 MPa压力下，使用ZnCr₂O₄/Sbx-H-ZSM-5双功能催化剂，将CO与H₂（H₂/CO = 1:1）催化氢化为C₈-C₁₂单环芳烃，芳烃选择性>80%。",
+        "text_snippet": "the catalytic hydrogenation of CO over a bifunctional catalyst (nano-sized ZnCr₂O₄/Sbx-H-ZSM-5)... achieved (>80% in hydrocarbons at a reaction temperature of 275 °C)",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "CO₂",
+        "unit": "Not reported",
+        "original": "CO₂"
+      },
+      "Catalyst type": {
+        "value": "Bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "ZnCr₂O₄",
+        "unit": "Not reported",
+        "original": "ZnCr₂O₄"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "275",
+        "unit": "°C",
+        "original": "275 °C"
+      },
+      "Reaction pressure": {
+        "value": "2.0",
+        "unit": "MPa",
+        "original": "2.0 MPa"
+      },
+      "Flow rate": {
+        "value": "300",
+        "unit": "mL/",
+        "original": "300 mL/(h·g_cat)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "3:1",
+        "unit": ":",
+        "original": "H₂/CO₂ = 3:1"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "g",
+        "original": "1 g (equal mass mixture of ZnCr₂O₄ and Sbx-H-ZSM-5)"
+      },
+      "Product": {
+        "value": "C₈-C₁₂ single-ring aromatics",
+        "unit": "Not reported",
+        "original": "C₈-C₁₂ single-ring aromatics"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "80",
+        "unit": "%",
+        "original": ">80% (in hydrocarbons)"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "h",
+        "original": "Stable within induction period of ~5 h"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在275°C和2.0 MPa压力下，使用ZnCr₂O₄/Sbx-H-ZSM-5双功能催化剂，将CO₂与H₂（H₂/CO₂ = 3:1）催化氢化为C₈-C₁₂单环芳烃，芳烃选择性>80%。",
+      "experiment_id": 1,
+      "text_snippet": "the catalytic hydrogenation of CO₂ over a bifunctional catalyst (nano-sized ZnCr₂O₄/Sbx-H-ZSM-5)... achieved (>80% in hydrocarbons at a reaction temperature of 275 °C)"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "CO",
+        "unit": "Not reported",
+        "original": "CO"
+      },
+      "Catalyst type": {
+        "value": "Bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "/Sbx-H-ZSM-",
+        "original": "ZnCr₂O₄/Sbx-H-ZSM-5"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "275",
+        "unit": "°C",
+        "original": "275 °C"
+      },
+      "Reaction pressure": {
+        "value": "2.0",
+        "unit": "MPa",
+        "original": "2.0 MPa"
+      },
+      "Flow rate": {
+        "value": "300",
+        "unit": "mL/",
+        "original": "300 mL/(h·g_cat)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "1:1",
+        "unit": ":",
+        "original": "H₂/CO = 1:1, H₂/CO₂ = 3:1"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "g",
+        "original": "1 g"
+      },
+      "Product": {
+        "value": "C₈-C₁₂ single-ring aromatics",
+        "unit": "Not reported",
+        "original": "C₈-C₁₂ single-ring aromatics"
+      },
+      "Conversion rate": {
+        "value": "47",
+        "unit": "%",
+        "original": "CO conversion ~47%, CO₂ conversion ~34%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "80",
+        "unit": "%",
+        "original": "Aromatics selectivity >80%"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "h",
+        "original": "Stable after ~5 h induction period"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在275°C和2.0 MPa压力下，使用ZnCr₂O₄/Sbx-H-ZSM-5双功能催化剂，将CO与H₂（H₂/CO = 1:1）催化氢化为C₈-C₁₂单环芳烃，芳烃选择性>80%。",
+      "experiment_id": 2,
+      "text_snippet": "the catalytic hydrogenation of CO over a bifunctional catalyst (nano-sized ZnCr₂O₄/Sbx-H-ZSM-5)... achieved (>80% in hydrocarbons at a reaction temperature of 275 °C)"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

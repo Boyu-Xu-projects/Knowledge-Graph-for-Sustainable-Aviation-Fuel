@@ -1,0 +1,135 @@
+{
+  "file": "1516_Sun 等 - 2024 - Noble metal-free tandem catalysis enables efficient upcycling plastic waste into liquid fuel compone.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在280°C和4 MPa氢气压力下，使用5Ni-20WO3/Al2O3和Beta沸石组成的串联催化剂，在高压釜中催化加氢裂化聚乙烯(PE)废物。反应4小时后，PE转化率达到87.2%，主要生成C5-C20液体烷烃，选择性约为88%。",
+        "text_snippet": "The hydrocracking reaction of polyolefin was carried out in an electrically heated stainless steel high-pressure autoclave... In a typical test, 8.0 g PE, 0.2 g 5Ni-20WO3/Al2O3 and 0.2 g Beta zeolite were added into the autoclave... The temperature was set as 280 °C for 4 h... reaching a yield of 77.8 % to gasoline-jet ranged liquid hydrocarbons (mainly C5-C16 and minor C16+)",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Polyethylene (PE) waste",
+        "unit": "Not reported",
+        "original": "Polyethylene (PE) waste"
+      },
+      "Catalyst type": {
+        "value": "Tandem catalyst",
+        "unit": "Not reported",
+        "original": "Tandem catalyst"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "Ni-",
+        "original": "5Ni-20WO3/Al2O3"
+      },
+      "Solvent": {
+        "value": "Cyclohexane (for product extraction)",
+        "unit": "Not reported",
+        "original": "Cyclohexane (for product extraction)"
+      },
+      "Reaction temperature": {
+        "value": "280",
+        "unit": "°C",
+        "original": "280°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.2",
+        "unit": "g",
+        "original": "0.2 g 5Ni-20WO3/Al2O3"
+      },
+      "Product": {
+        "value": "20",
+        "unit": "liquid",
+        "original": "C5-C20 liquid alkanes"
+      },
+      "Conversion rate": {
+        "value": "87.2",
+        "unit": "%",
+        "original": "87.2%"
+      },
+      "Product yield": {
+        "value": "86.2",
+        "unit": "%",
+        "original": "86.2% liquid hydrocarbons at full PE conversion"
+      },
+      "Product Selectivity": {
+        "value": "88",
+        "unit": "%",
+        "original": "88% to C5-C20 hydrocarbons"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "recycling",
+        "original": "Excellent stability over 5 recycling tests"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在280°C和4 MPa氢气压力下，使用5Ni-20WO3/Al2O3和Beta沸石组成的串联催化剂，在高压釜中催化加氢裂化聚乙烯(PE)废物。反应4小时后，PE转化率达到87.2%，主要生成C5-C20液体烷烃，选择性约为88%。",
+      "experiment_id": 1,
+      "text_snippet": "The hydrocracking reaction of polyolefin was carried out in an electrically heated stainless steel high-pressure autoclave... In a typical test, 8.0 g PE, 0.2 g 5Ni-20WO3/Al2O3 and 0.2 g Beta zeolite were added into the autoclave... The temperature was set as 280 °C for 4 h... reaching a yield of 77..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

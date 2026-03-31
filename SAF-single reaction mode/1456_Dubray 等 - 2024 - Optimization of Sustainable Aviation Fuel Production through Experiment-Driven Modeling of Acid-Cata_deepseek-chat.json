@@ -1,0 +1,135 @@
+{
+  "file": "1456_Dubray 等 - 2024 - Optimization of Sustainable Aviation Fuel Production through Experiment-Driven Modeling of Acid-Cata.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "低聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "在流动反应器装置中，使用Si/Al比为50的无定形硅铝（ASA-50）催化剂，对各种烯烃混合物进行低聚反应。反应在50 bar压力、423-603 K温度范围内进行，烯烃在正庚烷溶剂中的最大浓度约为20 wt%。目的是研究不同烯烃混合物在酸催化剂上的低聚反应性，并优化可持续航空燃料（SAF）的生产。",
+        "text_snippet": "a kinetic model using a total of seven kinetic parameters was designed from a limited number of experimental measurements, allowing us to successfully describe the oligomerization reactivity of various olefin mixtures over an acid catalyst in flow.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "3",
+        "unit": ":",
+        "original": "C3 to C7 olefins"
+      },
+      "Catalyst type": {
+        "value": "amorphous silica-alumina (ASA)",
+        "unit": "Not reported",
+        "original": "amorphous silica-alumina (ASA)"
+      },
+      "Catalyst composition": {
+        "value": "50",
+        "unit": "of",
+        "original": "Si/Al ratio of 50 (ASA-50)"
+      },
+      "Solvent": {
+        "value": "n-heptane",
+        "unit": "Not reported",
+        "original": "n-heptane"
+      },
+      "Reaction temperature": {
+        "value": "-603",
+        "unit": "K",
+        "original": "423-603 K"
+      },
+      "Reaction pressure": {
+        "value": "50",
+        "unit": "bar",
+        "original": "50 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "flow reactor",
+        "unit": "Not reported",
+        "original": "flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "SAF-range",
+        "original": "C8-C16 SAF-range olefins"
+      },
+      "Conversion rate": {
+        "value": "-80",
+        "unit": "%",
+        "original": "20-80%"
+      },
+      "Product yield": {
+        "value": "68",
+        "unit": "%",
+        "original": "SAF-range yield up to 68%"
+      },
+      "Product Selectivity": {
+        "value": "Controlled by feed composition and temperature",
+        "unit": "Not reported",
+        "original": "Controlled by feed composition and temperature"
+      },
+      "Catalyst stability": {
+        "value": "Relatively slow deactivation observed",
+        "unit": "Not reported",
+        "original": "Relatively slow deactivation observed"
+      },
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在流动反应器装置中，使用Si/Al比为50的无定形硅铝（ASA-50）催化剂，对各种烯烃混合物进行低聚反应。反应在50 bar压力、423-603 K温度范围内进行，烯烃在正庚烷溶剂中的最大浓度约为20 wt%。目的是研究不同烯烃混合物在酸催化剂上的低聚反应性，并优化可持续航空燃料（SAF）的生产。",
+      "experiment_id": 1,
+      "text_snippet": "a kinetic model using a total of seven kinetic parameters was designed from a limited number of experimental measurements, allowing us to successfully describe the oligomerization reactivity of various olefin mixtures over an acid catalyst in flow."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

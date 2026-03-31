@@ -1,0 +1,247 @@
+{
+  "file": "1434_Zhao 等 - 2024 - Hydroisomerization Principles of Acenaphthene to Alkyladamantanes over Modified USY-Supported Pt Cat.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢异构化反应",
+        "reaction_type_english": "Hydroisomerization reaction",
+        "description": "在连续固定床反应器中，使用Pt/USY催化剂，在260°C和4 MPa压力下，以300的氢油比，对苊进行加氢异构化反应，以研究其转化为烷基金刚烷（AAs）的过程。",
+        "text_snippet": "The hydroconversion of acenaphthene was conducted in a continuous fixed-bed reactor using supported platinum catalysts. The 0.1 g platinum catalyst was combined with 5 mL of quartz sands (40−80 mesh), and the reaction was performed at 260 °C and 4 MPa pressure, with a hydrogen-oil ratio of 300.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用Ni/AC催化剂将苊完全加氢，合成全氢苊（PHA），作为研究异构化过程的反应底物。",
+        "text_snippet": "Ni/AC was prepared by Wang’s method for the full hydrogenation of acenaphthene to synthesize PHA.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Acenaphthene",
+        "unit": "Not reported",
+        "original": "Acenaphthene"
+      },
+      "Catalyst type": {
+        "value": "Pt/USY",
+        "unit": "Not reported",
+        "original": "Pt/USY"
+      },
+      "Catalyst composition": {
+        "value": "1",
+        "unit": "wt%",
+        "original": "Pt (1 wt%)"
+      },
+      "Solvent": {
+        "value": "99",
+        "unit": "wt%",
+        "original": "n-heptane (99 wt%)"
+      },
+      "Reaction temperature": {
+        "value": "260",
+        "unit": "°C",
+        "original": "260°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "300",
+        "unit": "of",
+        "original": "Hydrogen-oil ratio of 300"
+      },
+      "Reaction time": {
+        "value": "0.12",
+        "unit": ":",
+        "original": "Contact time (τ = W_cat/W_feed) varied from 0.12 to 1.2 min"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.1",
+        "unit": "g",
+        "original": "0.1 g platinum catalyst combined with 5 mL quartz sands"
+      },
+      "Product": {
+        "value": "Tetrahydroacenaphthene (THA)",
+        "unit": "Not reported",
+        "original": "Tetrahydroacenaphthene (THA)"
+      },
+      "Conversion rate": {
+        "value": "Very fast, in most cases acenaphthene was fully converted",
+        "unit": "%",
+        "original": "Very fast, in most cases acenaphthene was fully converted"
+      },
+      "Product yield": {
+        "value": "62",
+        "unit": "%",
+        "original": "62% AAs yield for Pt/USY"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "66",
+        "unit": "%",
+        "original": "Pt/USY: AAs yield decreased from 66% to 42% within 72 h"
+      },
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在连续固定床反应器中，使用Pt/USY催化剂，在260°C和4 MPa压力下，以300的氢油比，对苊进行加氢异构化反应，以研究其转化为烷基金刚烷（AAs）的过程。",
+      "experiment_id": 1,
+      "text_snippet": "The hydroconversion of acenaphthene was conducted in a continuous fixed-bed reactor using supported platinum catalysts. The 0.1 g platinum catalyst was combined with 5 mL of quartz sands (40−80 mesh), and the reaction was performed at 260 °C and 4 MPa pressure, with a hydrogen-oil ratio of 300."
+    },
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Acenaphthene",
+        "unit": "Not reported",
+        "original": "Acenaphthene"
+      },
+      "Catalyst type": {
+        "value": "Ni/AC",
+        "unit": "Not reported",
+        "original": "Ni/AC"
+      },
+      "Catalyst composition": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "Perhydroacenaphthene (PHA)",
+        "unit": "Not reported",
+        "original": "Perhydroacenaphthene (PHA)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用Ni/AC催化剂将苊完全加氢，合成全氢苊（PHA），作为研究异构化过程的反应底物。",
+      "experiment_id": 2,
+      "text_snippet": "Ni/AC was prepared by Wang’s method for the full hydrogenation of acenaphthene to synthesize PHA."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

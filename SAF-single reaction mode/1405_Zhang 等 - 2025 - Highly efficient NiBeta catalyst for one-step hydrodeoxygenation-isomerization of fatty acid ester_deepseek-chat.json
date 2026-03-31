@@ -1,0 +1,135 @@
+{
+  "file": "1405_Zhang 等 - 2025 - Highly efficient NiBeta catalyst for one-step hydrodeoxygenation-isomerization of fatty acid ester.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧-异构化反应",
+        "reaction_type_english": "Hydrodeoxygenation-Isomerization reaction",
+        "description": "在高压反应釜中，使用不同Ni/Beta催化剂（8Ni0CA/Beta, 8Ni1CA/Beta, 8Ni2CA/Beta, 8Ni3CA/Beta, 8Ni4CA/Beta），在280°C、2.0 MPa氢气压力下，催化月桂酸甲酯进行加氢脱氧反应生成生物航煤组分（C11和C12烷烃）。",
+        "text_snippet": "Hydrodeoxygenation reactions were conducted in a 100 mL stainless-steel autoclave.0.67g of catalyst, 30mL of n-octane and 6.7g of methyl laurate were added to the batch reactor in each experiment. The reactor was purged with hydrogen three times and pressurized to 2.0 MPa before the reaction. The reaction was carried out at a specified pressure and temperature, and the stirring speed was 500 rpm.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Methyl laurate",
+        "unit": "Not reported",
+        "original": "Methyl laurate"
+      },
+      "Catalyst type": {
+        "value": "Ni/Beta",
+        "unit": "Not reported",
+        "original": "Ni/Beta"
+      },
+      "Catalyst composition": {
+        "value": "8",
+        "unit": "Ni",
+        "original": "8Ni0CA/Beta"
+      },
+      "Solvent": {
+        "value": "n-octane",
+        "unit": "Not reported",
+        "original": "n-octane"
+      },
+      "Reaction temperature": {
+        "value": "280",
+        "unit": "°C",
+        "original": "280°C"
+      },
+      "Reaction pressure": {
+        "value": "2.0",
+        "unit": "MPa",
+        "original": "2.0 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.67",
+        "unit": "g",
+        "original": "0.67 g"
+      },
+      "Product": {
+        "value": "11",
+        "unit": "alkane",
+        "original": "C11 alkane"
+      },
+      "Conversion rate": {
+        "value": "90",
+        "unit": "%",
+        "original": ">90% (after 1 h), nearly complete (after 2 h)"
+      },
+      "Product yield": {
+        "value": "74.7",
+        "unit": "%",
+        "original": "74.7% (C11+C12 yield for 8Ni2CA/Beta at 280°C, 1 h)"
+      },
+      "Product Selectivity": {
+        "value": "86",
+        "unit": "%",
+        "original": "86% (C11+C12 selectivity for 8Ni2CA/Beta at 280°C, 1 h)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧-异构化反应",
+      "reaction_type_english": "Hydrodeoxygenation-Isomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在高压反应釜中，使用不同Ni/Beta催化剂（8Ni0CA/Beta, 8Ni1CA/Beta, 8Ni2CA/Beta, 8Ni3CA/Beta, 8Ni4CA/Beta），在280°C、2.0 MPa氢气压力下，催化月桂酸甲酯进行加氢脱氧反应生成生物航煤组分（C11和C12烷烃）。",
+      "experiment_id": 1,
+      "text_snippet": "Hydrodeoxygenation reactions were conducted in a 100 mL stainless-steel autoclave.0.67g of catalyst, 30mL of n-octane and 6.7g of methyl laurate were added to the batch reactor in each experiment. The reactor was purged with hydrogen three times and pressurized to 2.0 MPa before the reaction. The re..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧-异构化反应",
+      "reaction_type_english": "Hydrodeoxygenation-Isomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

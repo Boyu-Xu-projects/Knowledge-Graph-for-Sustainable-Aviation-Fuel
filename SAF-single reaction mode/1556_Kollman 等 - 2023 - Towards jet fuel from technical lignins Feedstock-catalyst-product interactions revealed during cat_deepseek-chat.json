@@ -1,0 +1,359 @@
+{
+  "file": "1556_Kollman 等 - 2023 - Towards jet fuel from technical lignins Feedstock-catalyst-product interactions revealed during cat.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "氢解反应",
+        "reaction_type_english": "Hydrogenolysis reaction",
+        "description": "使用DAB-Ru催化剂系统，在不同时间（1、3、6小时）、温度（260、280、300、320°C）和氢气负载（2和4 MPa）下处理松木硫酸盐木质素（BCL）和硬木生物精炼木质素（HWAER），以研究工艺条件对氢解的影响。",
+        "text_snippet": "Time and temperature variation simulated a range of process severities... BCL and HWAER were treated using DAB-Ru at various times (1, 3, and 6 h), temperatures (260, 280, 300, and 320 ◦C), and hydrogen loadings (2 and 4 MPa at room temperature) to determine process condition impact on hydrogenolysis of the two most different feedstocks",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "氢解反应",
+        "reaction_type_english": "Hydrogenolysis reaction",
+        "description": "在280°C、3小时、4 MPa H2的条件下，使用三种不同的催化剂系统（DAB-Ru、CoZn和RuZnAc）对三种木质素原料（BCL、HWK和HWAER）进行氢解，以探索原料、催化剂和产物之间的相互作用。",
+        "text_snippet": "three lignin-rich feedstocks (BCL, HWK, and HWAER) were reacted at 280 ◦C for 3 h with 4 MPa H2 using three catalytic systems (DAB-Ru, CoZn, and RuZnAc)",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "氢解反应",
+        "reaction_type_english": "Hydrogenolysis reaction",
+        "description": "在280°C、3小时、0.321 mmol Ru +Zn 每克木质素的条件下，使用均相锌（Ru/C, ZnAc）和沸石负载锌（Ru/C, Zn/DeAl H-beta）催化剂处理BCL和HWAER，以比较均相与固体酸锌的效果。",
+        "text_snippet": "zinc supported by dealuminated H-beta zeolite was synthesized and physically mixed with Ru/C to generate additional data... Reaction conditions: 280 ◦C, 3 h, 0.321 mmol Ru +Zn per gram lignin, 300 RPM.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "Pine kraft lignin (BCL)",
+        "unit": "Not reported",
+        "original": "Pine kraft lignin (BCL)"
+      },
+      "Catalyst type": {
+        "value": "DAB-Ru",
+        "unit": "Not reported",
+        "original": "DAB-Ru"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "%",
+        "original": "5% Ru/C with S2O8^2-, K2O/TiO2 (3:1 w/w)"
+      },
+      "Solvent": {
+        "value": "1",
+        "unit": "v/v",
+        "original": "1,4-dioxane-methanol (5:1 v/v)"
+      },
+      "Reaction temperature": {
+        "value": "260",
+        "unit": "°C",
+        "original": "260 °C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 hour"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "0.4",
+        "unit": "g",
+        "original": "Catalyst loading: 0.4 g catalyst/g lignin"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.4",
+        "unit": "g",
+        "original": "0.4 g catalyst per g lignin"
+      },
+      "Product": {
+        "value": "Solid residue",
+        "unit": "Not reported",
+        "original": "Solid residue"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "60.7",
+        "unit": "%",
+        "original": "Reported as weight percentages in figures and tables (e.g., BCL: 60.7% oligomers, 28.5% monomers/dimers; HWAER: 40.5% oligomers, 28.4% monomers/dimers with RuZnAc)"
+      },
+      "Product Selectivity": {
+        "value": "Towards alkylated phenols, guaiacols, and syringols; increased severity selective towards alkylated phenols",
+        "unit": "Not reported",
+        "original": "Towards alkylated phenols, guaiacols, and syringols; increased severity selective towards alkylated phenols"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "氢解反应",
+      "reaction_type_english": "Hydrogenolysis reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用DAB-Ru催化剂系统，在不同时间（1、3、6小时）、温度（260、280、300、320°C）和氢气负载（2和4 MPa）下处理松木硫酸盐木质素（BCL）和硬木生物精炼木质素（HWAER），以研究工艺条件对氢解的影响。",
+      "experiment_id": 1,
+      "text_snippet": "Time and temperature variation simulated a range of process severities... BCL and HWAER were treated using DAB-Ru at various times (1, 3, and 6 h), temperatures (260, 280, 300, and 320 ◦C), and hydrogen loadings (2 and 4 MPa at room temperature) to determine process condition impact on hydrogenolysi..."
+    },
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "BCL",
+        "unit": "Not reported",
+        "original": "BCL"
+      },
+      "Catalyst type": {
+        "value": "DAB-Ru",
+        "unit": "Not reported",
+        "original": "DAB-Ru"
+      },
+      "Catalyst composition": {
+        "value": "Ruthenium on carbon combined with persulfate and potassium oxide on titanium dioxide",
+        "unit": "Not reported",
+        "original": "Ruthenium on carbon combined with persulfate and potassium oxide on titanium dioxide"
+      },
+      "Solvent": {
+        "value": "1",
+        "unit": "v/v",
+        "original": "1,4-dioxane-methanol (5:1 v/v)"
+      },
+      "Reaction temperature": {
+        "value": "280",
+        "unit": "°C",
+        "original": "280°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa H2"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "3",
+        "unit": "h",
+        "original": "3 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.4",
+        "unit": "g/g",
+        "original": "0.4 g/g catalyst on lignin"
+      },
+      "Product": {
+        "value": "Solid residue",
+        "unit": "Not reported",
+        "original": "Solid residue"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "4.5",
+        "unit": "%",
+        "original": "{'BCL': {'DAB-Ru': 'Not reported', 'CoZn': 'Not reported', 'RuZnAc': {'Solid Residue': '4.5%', 'Oligomers': '60.7%', 'Monomers/Dimers': '28.5%', 'Volatiles': '6.4%', 'EtOAc-Sol': '89.1%'}}, 'HWK': 'Not reported', 'HWAER': {'DAB-Ru': 'Not reported', 'CoZn': 'Not reported', 'RuZnAc': {'Solid Residue': '18.7%', 'Oligomers': '40.5%', 'Monomers/Dimers': '28.4%', 'Volatiles': '12.5%', 'EtOAc-Sol': '68.3%'}}}"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "氢解反应",
+      "reaction_type_english": "Hydrogenolysis reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在280°C、3小时、4 MPa H2的条件下，使用三种不同的催化剂系统（DAB-Ru、CoZn和RuZnAc）对三种木质素原料（BCL、HWK和HWAER）进行氢解，以探索原料、催化剂和产物之间的相互作用。",
+      "experiment_id": 2,
+      "text_snippet": "three lignin-rich feedstocks (BCL, HWK, and HWAER) were reacted at 280 ◦C for 3 h with 4 MPa H2 using three catalytic systems (DAB-Ru, CoZn, and RuZnAc)"
+    },
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "BCL (pine kraft lignin)",
+        "unit": "Not reported",
+        "original": "BCL (pine kraft lignin)"
+      },
+      "Catalyst type": {
+        "value": "Ru/C (ruthenium on carbon)",
+        "unit": "Not reported",
+        "original": "Ru/C (ruthenium on carbon)"
+      },
+      "Catalyst composition": {
+        "value": "0.321",
+        "unit": "mmol",
+        "original": "0.321 mmol Ru +Zn per gram lignin"
+      },
+      "Solvent": {
+        "value": "1",
+        "unit": "v/v",
+        "original": "1,4-dioxane-methanol (5:1 v/v)"
+      },
+      "Reaction temperature": {
+        "value": "280",
+        "unit": "°C",
+        "original": "280°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa H₂ (at room temperature)"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "3",
+        "unit": "h",
+        "original": "3 hours"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.4",
+        "unit": "g",
+        "original": "0.4 g catalyst per g lignin"
+      },
+      "Product": {
+        "value": "Oligomers",
+        "unit": "Not reported",
+        "original": "Oligomers"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "4.5",
+        "unit": "%",
+        "original": "{'BCL (RuZnAc)': {'Solid residue': '4.5%', 'Oligomers': '60.7%', 'Monomers/dimers': '28.5%', 'Volatiles': '6.4%', 'Ethyl acetate-soluble': '89.1%'}, 'HWK (RuZnAc)': {'Oligomers': '79%', 'Weight-average molecular weight': '1290 g/mol'}, 'HWAER (RuZnAc)': {'Solid residue': '18.7%', 'Oligomers': '40.5%', 'Monomers/dimers': '28.4%', 'Volatiles': '12.5%', 'Ethyl acetate-soluble': '68.3%'}}"
+      },
+      "Product Selectivity": {
+        "value": "Alkylated phenols, guaiacols, syringols",
+        "unit": "Not reported",
+        "original": "Alkylated phenols, guaiacols, syringols"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "氢解反应",
+      "reaction_type_english": "Hydrogenolysis reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在280°C、3小时、0.321 mmol Ru +Zn 每克木质素的条件下，使用均相锌（Ru/C, ZnAc）和沸石负载锌（Ru/C, Zn/DeAl H-beta）催化剂处理BCL和HWAER，以比较均相与固体酸锌的效果。",
+      "experiment_id": 3,
+      "text_snippet": "zinc supported by dealuminated H-beta zeolite was synthesized and physically mixed with Ru/C to generate additional data... Reaction conditions: 280 ◦C, 3 h, 0.321 mmol Ru +Zn per gram lignin, 300 RPM."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "氢解反应",
+      "reaction_type_english": "Hydrogenolysis reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "氢解反应",
+      "reaction_type_english": "Hydrogenolysis reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "氢解反应",
+      "reaction_type_english": "Hydrogenolysis reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

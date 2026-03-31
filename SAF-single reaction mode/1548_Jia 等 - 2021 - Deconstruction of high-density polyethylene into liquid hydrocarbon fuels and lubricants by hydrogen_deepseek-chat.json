@@ -1,0 +1,135 @@
+{
+  "file": "1548_Jia 等 - 2021 - Deconstruction of high-density polyethylene into liquid hydrocarbon fuels and lubricants by hydrogen.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "氢解反应",
+        "reaction_type_english": "Hydrogenolysis reaction",
+        "description": "在Ru/C催化剂上，于不同溶剂（如正己烷、甲基环己烷、十氢化萘、水）和反应条件（温度、氢气压力、反应时间、催化剂负载量）下，进行高密度聚乙烯（HDPE）的液相催化氢解，将其转化为液态烃类燃料（如喷气燃料范围C8-C16烷烃）和润滑油（C24-C35烷烃）。",
+        "text_snippet": "The depolymerization of high-density PE was conducted in various liquid-phase solvents with the Ru/C catalyst under relatively mild conditions... The product distribution could be tuned by the H2 partial pressure, the active-metal particle size, and the solvents.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "High-density polyethylene (HDPE)",
+        "unit": "Not reported",
+        "original": "High-density polyethylene (HDPE)"
+      },
+      "Catalyst type": {
+        "value": "Ru/C",
+        "unit": "Not reported",
+        "original": "Ru/C"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "%",
+        "original": "5% Ru on carbon"
+      },
+      "Solvent": {
+        "value": "n-hexane",
+        "unit": "Not reported",
+        "original": "n-hexane"
+      },
+      "Reaction temperature": {
+        "value": "150",
+        "unit": "°C",
+        "original": "150°C"
+      },
+      "Reaction pressure": {
+        "value": "0",
+        "unit": "bar",
+        "original": "0 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "0.5",
+        "unit": "h",
+        "original": "0.5 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "2.1",
+        "unit": "%",
+        "original": "2.1%"
+      },
+      "Product": {
+        "value": "8",
+        "unit": "°C",
+        "original": "jet-fuel-range alkanes (C8-C16)"
+      },
+      "Conversion rate": {
+        "value": "90",
+        "unit": "wt%",
+        "original": "~90 wt%"
+      },
+      "Product yield": {
+        "value": "60.8",
+        "unit": "wt%",
+        "original": "60.8 wt% jet-fuel-range"
+      },
+      "Product Selectivity": {
+        "value": "2",
+        "unit": "pressure",
+        "original": "Tunable by H2 pressure, catalyst loading, and solvent"
+      },
+      "Catalyst stability": {
+        "value": "Stable after initial deactivation in first cycle, used for five cycles",
+        "unit": "Not reported",
+        "original": "Stable after initial deactivation in first cycle, used for five cycles"
+      },
+      "reaction_type": "氢解反应",
+      "reaction_type_english": "Hydrogenolysis reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Ru/C催化剂上，于不同溶剂（如正己烷、甲基环己烷、十氢化萘、水）和反应条件（温度、氢气压力、反应时间、催化剂负载量）下，进行高密度聚乙烯（HDPE）的液相催化氢解，将其转化为液态烃类燃料（如喷气燃料范围C8-C16烷烃）和润滑油（C24-C35烷烃）。",
+      "experiment_id": 1,
+      "text_snippet": "The depolymerization of high-density PE was conducted in various liquid-phase solvents with the Ru/C catalyst under relatively mild conditions... The product distribution could be tuned by the H2 partial pressure, the active-metal particle size, and the solvents."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "氢解反应",
+      "reaction_type_english": "Hydrogenolysis reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

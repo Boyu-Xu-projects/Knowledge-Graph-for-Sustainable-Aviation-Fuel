@@ -1,0 +1,247 @@
+{
+  "file": "1528_Cronin 等 - 2022 - Sustainable Aviation Fuel from Hydrothermal Liquefaction of Wet Wastes.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "水热液化反应",
+        "reaction_type_english": "Hydrothermal Liquefaction",
+        "description": "使用热量和压力将食物垃圾、污水污泥和脂肪、油、油脂等湿废物原料中的有机物液化，生产生物原油（biocrude）。",
+        "text_snippet": "several WWHTLBs samples were produced from food waste, sewage sludge, and fats, oils, and grease",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢处理反应",
+        "reaction_type_english": "Hydrotreating (Hydrogenation)",
+        "description": "在连续滴流床反应器中，使用硫化的CoMo或NiMo催化剂对水热液化产生的生物原油进行加氢处理，以实现加氢脱氧（HDO）、加氢脱硫（HDS）和加氢脱氮（HDN），从而升级燃料。",
+        "text_snippet": "several WWHTLBs samples were... subsequently hydrotreated... The WWHTLB samples were upgraded via hydrotreatment in a continuous trickle-bed reactor... with traditional hydrotreating catalysts (sulfided CoMo and NiMo bimetallic catalysts)",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "food waste",
+        "unit": "Not reported",
+        "original": "food waste"
+      },
+      "Catalyst type": {
+        "value": "sulfided CoMo",
+        "unit": "Not reported",
+        "original": "sulfided CoMo"
+      },
+      "Catalyst composition": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "450",
+        "unit": "°C",
+        "original": "~350–450°C"
+      },
+      "Reaction pressure": {
+        "value": "170",
+        "unit": "bar",
+        "original": "~30–170 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "continuous trickle-bed reactor",
+        "unit": "Not reported",
+        "original": "continuous trickle-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "biocrude",
+        "unit": "Not reported",
+        "original": "biocrude"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "水热液化反应",
+      "reaction_type_english": "Hydrothermal Liquefaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用热量和压力将食物垃圾、污水污泥和脂肪、油、油脂等湿废物原料中的有机物液化，生产生物原油（biocrude）。",
+      "experiment_id": 1,
+      "text_snippet": "several WWHTLBs samples were produced from food waste, sewage sludge, and fats, oils, and grease"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "food waste",
+        "unit": "Not reported",
+        "original": "food waste"
+      },
+      "Catalyst type": {
+        "value": "sulfided CoMo",
+        "unit": "Not reported",
+        "original": "sulfided CoMo"
+      },
+      "Catalyst composition": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "450",
+        "unit": "°C",
+        "original": "350–450°C"
+      },
+      "Reaction pressure": {
+        "value": "170",
+        "unit": "bar",
+        "original": "30–170 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "continuous trickle-bed reactor",
+        "unit": "Not reported",
+        "original": "continuous trickle-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "upgraded biocrude",
+        "unit": "Not reported",
+        "original": "upgraded biocrude"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydrotreating (Hydrogenation)",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在连续滴流床反应器中，使用硫化的CoMo或NiMo催化剂对水热液化产生的生物原油进行加氢处理，以实现加氢脱氧（HDO）、加氢脱硫（HDS）和加氢脱氮（HDN），从而升级燃料。",
+      "experiment_id": 2,
+      "text_snippet": "several WWHTLBs samples were... subsequently hydrotreated... The WWHTLB samples were upgraded via hydrotreatment in a continuous trickle-bed reactor... with traditional hydrotreating catalysts (sulfided CoMo and NiMo bimetallic catalysts)"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "水热液化反应",
+      "reaction_type_english": "Hydrothermal Liquefaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydrotreating (Hydrogenation)",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

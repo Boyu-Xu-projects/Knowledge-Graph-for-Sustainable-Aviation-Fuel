@@ -1,0 +1,135 @@
+{
+  "file": "Paniagua - 2021 - Sulfonic Mesostructured SBA-15 Silicas for the Solvent-Free Production of Bio-Jet Fuel Precursors vi.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "羟醛缩合反应",
+        "reaction_type_english": "Aldol condensation reaction",
+        "description": "在无溶剂条件下，使用丙基磺酸功能化的介孔SBA-15硅材料（Pr-SBA-15）催化生物质衍生的乙酰丙酸进行自身羟醛二聚反应，生成生物航空燃料前体。通过响应面方法优化了反应条件（温度、时间、催化剂负载量），在145°C、0.15 g催化剂、24小时、无溶剂的条件下，实现了58.4%的二聚产物收率。",
+        "text_snippet": "Sulfonic acid-functionalized mesostructured silicas have been evaluated in the solvent-free aldol dimerization of biomass-derived levulinic acid into bio-jet fuel precursors... Reaction conditions (temperature, time, and catalyst loading) have been optimized for propylsulfonic acid-functionalized mesostructured silica (Pr-SBA-15) by means of a response surface methodology, leading to a maximum yield to levulinic acid dimerization products of 58.4% (145 °C, 0.15 g of catalyst, 24 h, no solvent).",
+        "reaction_type_classify": "Aldol condensation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "Levulinic acid",
+        "unit": "Not reported",
+        "original": "Levulinic acid"
+      },
+      "Catalyst type": {
+        "value": "Solid acid",
+        "unit": "Not reported",
+        "original": "Solid acid"
+      },
+      "Catalyst composition": {
+        "value": "-15",
+        "unit": "silica",
+        "original": "Propylsulfonic acid-functionalized mesostructured SBA-15 silica (Pr-SBA-15)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "145",
+        "unit": "°C",
+        "original": "145°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "24",
+        "unit": "h",
+        "original": "24 hours"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.15",
+        "unit": "g",
+        "original": "0.15 g"
+      },
+      "Product": {
+        "value": "2",
+        "unit": "Tetrahydro-",
+        "original": "Tetrahydro-2-methyl-5,γ-dioxo-2-furanpentanoic acid"
+      },
+      "Conversion rate": {
+        "value": "61.1",
+        "unit": "%",
+        "original": "61.1%"
+      },
+      "Product yield": {
+        "value": "58.4",
+        "unit": "%",
+        "original": "58.4%"
+      },
+      "Product Selectivity": {
+        "value": "95.6",
+        "unit": "%",
+        "original": "95.6%"
+      },
+      "Catalyst stability": {
+        "value": "3",
+        "unit": "cycles",
+        "original": "Partial deactivation after 3 cycles due to organic deposits and sulfur loss; activity significantly recovered after mild acid washing"
+      },
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction",
+      "experiment_description": "在无溶剂条件下，使用丙基磺酸功能化的介孔SBA-15硅材料（Pr-SBA-15）催化生物质衍生的乙酰丙酸进行自身羟醛二聚反应，生成生物航空燃料前体。通过响应面方法优化了反应条件（温度、时间、催化剂负载量），在145°C、0.15 g催化剂、24小时、无溶剂的条件下，实现了58.4%的二聚产物收率。",
+      "experiment_id": 1,
+      "text_snippet": "Sulfonic acid-functionalized mesostructured silicas have been evaluated in the solvent-free aldol dimerization of biomass-derived levulinic acid into bio-jet fuel precursors... Reaction conditions (temperature, time, and catalyst loading) have been optimized for propylsulfonic acid-functionalized me..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

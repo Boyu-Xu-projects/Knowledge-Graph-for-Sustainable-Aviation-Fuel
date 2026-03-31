@@ -1,0 +1,135 @@
+{
+  "file": "1512_Lee 等 - 2018 - Oligomerization of Butene Mixture over NiOMesoporous Aluminosilicate Catalyst.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "低聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "在固定床连续流动反应器中，使用NiO/MMZ ZSM-5、MMZ ZSM-5和HZSM-5催化剂，在1.5 MPa压力和350°C温度下，对具有特定组成的丁烯混合物（模拟丁醇脱水产物）进行高压低聚反应，以生产C8-C16烯烃（对应于航空燃料）。",
+        "text_snippet": "High-pressure oligomerization of the butene mixture was investigated in a fixed-bed continuous-flow reactor... The oligomerization reaction of the butene mixture was conducted in a fixed-bed continuous-flow reactor... (Reaction condition: pressure 1.5 MPa, temperature 350 °C, WHSV 10 h−1).",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2018",
+        "unit": "year",
+        "original": "2018"
+      },
+      "Feedstock": {
+        "value": "43.5",
+        "unit": "%",
+        "original": "butene mixture (43.5% butene-1, 56.5% butene-2 (11.8% cis-2-butene, 87.5% trans-2-butene))"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "NiO/MMZ ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "3",
+        "unit": "wt%",
+        "original": "NiO/MMZ ZSM-5 (3 wt% Ni)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350 °C"
+      },
+      "Reaction pressure": {
+        "value": "1.5",
+        "unit": "MPa",
+        "original": "1.5 MPa"
+      },
+      "Flow rate": {
+        "value": "10",
+        "unit": "h",
+        "original": "WHSV 10 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "6",
+        "unit": "h",
+        "original": "6 h (for comparison), 30 h (for stability test)"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed continuous-flow reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed continuous-flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "hydrocarbons",
+        "original": "C8–C16 hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "60",
+        "unit": "%",
+        "original": "HZSM-5: ~60%"
+      },
+      "Product yield": {
+        "value": "40",
+        "unit": "%",
+        "original": "HZSM-5: ~40%"
+      },
+      "Product Selectivity": {
+        "value": "65",
+        "unit": "%",
+        "original": "HZSM-5: ~65%"
+      },
+      "Catalyst stability": {
+        "value": "80",
+        "unit": "%",
+        "original": "NiO/MMZ ZSM-5: >80% conversion for 18 h, then decreased; C8–C16 yield remained above 63% for 18 h, then decreased to 48.0% after 30 h; ~4 wt% coke formed after 30 h"
+      },
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在固定床连续流动反应器中，使用NiO/MMZ ZSM-5、MMZ ZSM-5和HZSM-5催化剂，在1.5 MPa压力和350°C温度下，对具有特定组成的丁烯混合物（模拟丁醇脱水产物）进行高压低聚反应，以生产C8-C16烯烃（对应于航空燃料）。",
+      "experiment_id": 1,
+      "text_snippet": "High-pressure oligomerization of the butene mixture was investigated in a fixed-bed continuous-flow reactor... The oligomerization reaction of the butene mixture was conducted in a fixed-bed continuous-flow reactor... (Reaction condition: pressure 1.5 MPa, temperature 350 °C, WHSV 10 h−1)."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

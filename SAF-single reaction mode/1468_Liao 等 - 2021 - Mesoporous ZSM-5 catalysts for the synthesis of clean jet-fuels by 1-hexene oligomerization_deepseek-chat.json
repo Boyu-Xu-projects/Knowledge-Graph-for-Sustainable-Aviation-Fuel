@@ -1,0 +1,135 @@
+{
+  "file": "1468_Liao 等 - 2021 - Mesoporous ZSM-5 catalysts for the synthesis of clean jet-fuels by 1-hexene oligomerization.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "低聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "在连续流动固定床反应器中，使用一系列介孔ZSM-5催化剂（ZSM-5-M1, ZSM-5-M2, ZSM-5-M3）和商业ZSM-5催化剂（ZSM-5-P），在4.0 MPa压力、240-260°C温度、2.42 h⁻¹ WHSV条件下，催化1-己烯低聚生成清洁喷气燃料。",
+        "text_snippet": "Hexene oligomerization reaction was performed with continuous-flow fixed bed stainless steel reactor... catalytic tests were performed at the pressure of 4.0 MPa and temperature of 250 °C using 0.5 g catalyst... The main product was dimer for all the catalysts at the three temperatures.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "1-hexene",
+        "unit": "Not reported",
+        "original": "1-hexene"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "Mesoporous ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "ZSM-5-M1 (Si/Al=116)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "240",
+        "unit": "°C",
+        "original": "240°C"
+      },
+      "Reaction pressure": {
+        "value": "4.0",
+        "unit": "MPa",
+        "original": "4.0 MPa"
+      },
+      "Flow rate": {
+        "value": "2.42",
+        "unit": "h",
+        "original": "2.42 h⁻¹ WHSV"
+      },
+      "Reaction time": {
+        "value": "12",
+        "unit": "h",
+        "original": "12 h time on stream"
+      },
+      "Atmosphere": {
+        "value": "N₂ carrier gas",
+        "unit": "Not reported",
+        "original": "N₂ carrier gas"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous-flow fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous-flow fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g catalyst (20-40 mesh)"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "dimers",
+        "original": "C10-C16 dimers"
+      },
+      "Conversion rate": {
+        "value": "35.37",
+        "unit": "%",
+        "original": "ZSM-5-M1: 35.37% (240°C) to 49.32% (260°C)"
+      },
+      "Product yield": {
+        "value": "-557",
+        "unit": "mg",
+        "original": "Space-time yield: 344-557 mg⋅gcat⁻¹⋅h⁻¹"
+      },
+      "Product Selectivity": {
+        "value": "73",
+        "unit": "%",
+        "original": "Dimers selectivity: up to 73% for ZSM-5-M2"
+      },
+      "Catalyst stability": {
+        "value": "-5",
+        "unit": "showed",
+        "original": "Mesoporous ZSM-5 showed excellent resistance to coke deposit"
+      },
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在连续流动固定床反应器中，使用一系列介孔ZSM-5催化剂（ZSM-5-M1, ZSM-5-M2, ZSM-5-M3）和商业ZSM-5催化剂（ZSM-5-P），在4.0 MPa压力、240-260°C温度、2.42 h⁻¹ WHSV条件下，催化1-己烯低聚生成清洁喷气燃料。",
+      "experiment_id": 1,
+      "text_snippet": "Hexene oligomerization reaction was performed with continuous-flow fixed bed stainless steel reactor... catalytic tests were performed at the pressure of 4.0 MPa and temperature of 250 °C using 0.5 g catalyst... The main product was dimer for all the catalysts at the three temperatures."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

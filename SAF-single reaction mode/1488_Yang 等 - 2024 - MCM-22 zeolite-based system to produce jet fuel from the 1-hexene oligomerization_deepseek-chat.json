@@ -1,0 +1,135 @@
+{
+  "file": "1488_Yang 等 - 2024 - MCM-22 zeolite-based system to produce jet fuel from the 1-hexene oligomerization.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "低聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "在高压固定床反应器中，使用HMCM-22和HY沸石催化剂催化1-己烯低聚反应，研究催化剂性能、产物选择性和失活特性",
+        "text_snippet": "The 1-hexene oligomerization reaction was carried out in a high-pressure fixed-bed reactor... The catalytic performance and deactivation properties of MCM-22 zeolite in the oligomerization reaction of 1-hexene were investigated.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "1-hexene",
+        "unit": "Not reported",
+        "original": "1-hexene"
+      },
+      "Catalyst type": {
+        "value": "-22",
+        "unit": "zeolite",
+        "original": "HMCM-22 zeolite"
+      },
+      "Catalyst composition": {
+        "value": "22",
+        "unit": "HMCM-",
+        "original": "HMCM-22 (Si/Al=15), HY (Si/Al=2.5)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "240 ℃",
+        "unit": "°C",
+        "original": "240 ℃"
+      },
+      "Reaction pressure": {
+        "value": "0.5",
+        "unit": "MPa",
+        "original": "0.5 MPa"
+      },
+      "Flow rate": {
+        "value": "0.03",
+        "unit": "mL/min",
+        "original": "0.03 mL/min (1-hexene feed), 100 mL/min (N2)"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 h intervals for product collection"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "N",
+        "original": "N2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1.0",
+        "unit": "g",
+        "original": "1.0 g"
+      },
+      "Product": {
+        "value": "9",
+        "unit": "°C",
+        "original": "Dimers (C9-C12)"
+      },
+      "Conversion rate": {
+        "value": "-22",
+        "unit": "than",
+        "original": "Higher for HMCM-22 than HY zeolite"
+      },
+      "Product yield": {
+        "value": "28",
+        "unit": "%",
+        "original": "Dimer yield: 28% for HMCM-22, 2.7% for HY at initial stage"
+      },
+      "Product Selectivity": {
+        "value": "57",
+        "unit": "%",
+        "original": "{'HMCM-22': ['57% dimer selectivity at 0.5 MPa', '76% C9-C12 at steady state', '17% C7-C8'], 'HY': 'Higher selectivity to trimers (C13+)'}"
+      },
+      "Catalyst stability": {
+        "value": "22.93",
+        "unit": "wt%",
+        "original": "Deactivation due to coke deposition (22.93 wt% for HMCM-22, 18.80 wt% for HY) and reduced acidity"
+      },
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在高压固定床反应器中，使用HMCM-22和HY沸石催化剂催化1-己烯低聚反应，研究催化剂性能、产物选择性和失活特性",
+      "experiment_id": 1,
+      "text_snippet": "The 1-hexene oligomerization reaction was carried out in a high-pressure fixed-bed reactor... The catalytic performance and deactivation properties of MCM-22 zeolite in the oligomerization reaction of 1-hexene were investigated."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

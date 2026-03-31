@@ -1,0 +1,135 @@
+{
+  "file": "1446_Weitkamp - 1982 - Isomerization of long-chain n-alkanes on a PtCaY zeolite catalyst.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "异构化反应",
+        "reaction_type_english": "Isomerization reaction",
+        "description": "在氢气存在下，使用Pt/CaY沸石催化剂对C6至C15的正构烷烃进行异构化反应，并通过毛细管气相色谱（GLC）对生成的异构烷烃进行详细分析。",
+        "text_snippet": "In this study the pure n-alkanes with 6 to 15 carbon atoms were isomerized on a Pt/CaY zeolite catalyst in the presence of hydrogen. A detailed analysis of the i-alkanes formed was achieved by capillary GLC.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "1982",
+        "unit": "year",
+        "original": "1982"
+      },
+      "Feedstock": {
+        "value": "6",
+        "unit": ":",
+        "original": "C6 to C15 n-alkanes"
+      },
+      "Catalyst type": {
+        "value": "Pt/CaY zeolite",
+        "unit": "Not reported",
+        "original": "Pt/CaY zeolite"
+      },
+      "Catalyst composition": {
+        "value": "0.5",
+        "unit": "wt%",
+        "original": "Pt/CaY (Pt 0.5 wt%, Si/Al molar ratio 2.50, Ca2+/(Ca2+ + Na+) exchange level 86%)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "190",
+        "unit": "°C",
+        "original": "190°C"
+      },
+      "Reaction pressure": {
+        "value": "7",
+        "unit": "kPa",
+        "original": "7 kPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1.00",
+        "unit": "g",
+        "original": "1.00 g"
+      },
+      "Product": {
+        "value": "monobranched isomers",
+        "unit": "Not reported",
+        "original": "monobranched isomers"
+      },
+      "Conversion rate": {
+        "value": "1.1",
+        "unit": "%",
+        "original": "1.1%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "95",
+        "unit": "%",
+        "original": ">95% monobranched isomers at low conversion"
+      },
+      "Catalyst stability": {
+        "value": "40",
+        "unit": "%",
+        "original": "Stable up to ca. 40% conversion without hydrocracking"
+      },
+      "reaction_type": "异构化反应",
+      "reaction_type_english": "Isomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在氢气存在下，使用Pt/CaY沸石催化剂对C6至C15的正构烷烃进行异构化反应，并通过毛细管气相色谱（GLC）对生成的异构烷烃进行详细分析。",
+      "experiment_id": 1,
+      "text_snippet": "In this study the pure n-alkanes with 6 to 15 carbon atoms were isomerized on a Pt/CaY zeolite catalyst in the presence of hydrogen. A detailed analysis of the i-alkanes formed was achieved by capillary GLC."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "异构化反应",
+      "reaction_type_english": "Isomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

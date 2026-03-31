@@ -1,0 +1,583 @@
+{
+  "file": "1458_Fuchs 等 - 2025 - Synthesis of sustainable aviation fuels via (co–)oligomerization of light olefins.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 5,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "低聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "在120°C和32 bar烯烃分压下，使用SIRALOX 40催化剂研究纯丙烯的均聚反应，考察不同空速（WHSV为2、4和8 h⁻¹）对转化率和产物选择性的影响。",
+        "text_snippet": "Initially, single olefin feeds were employed, i.e. homo-oligomerization reactions of pure propylene and pure 1-butylene were studied at 120 ◦C and 32 bar olefin partial pressure, respectively.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "低聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "在120°C和32 bar烯烃分压下，使用SIRALOX 40催化剂研究纯1-丁烯的均聚反应，考察不同空速（WHSV为2、4和8 h⁻¹）对转化率和产物选择性的影响。",
+        "text_snippet": "Initially, single olefin feeds were employed, i.e. homo-oligomerization reactions of pure propylene and pure 1-butylene were studied at 120 ◦C and 32 bar olefin partial pressure, respectively.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "低聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "使用无镍（40/0Ni）和含镍（40/2Ni）的SIRALOX 40催化剂，在120°C、WHSV为4 h⁻¹、烯烃分压32 bar的条件下，研究丙烯和1-丁烯均聚反应中镍负载对转化率和产物分布的影响。",
+        "text_snippet": "Effect of nickel loading on propylene and 1-butylene homo-oligomerization",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      },
+      {
+        "experiment_id": 4,
+        "reaction_type": "低聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "使用无镍（40/0Ni）和含镍（40/2Ni）的SIRALOX 40催化剂，在120°C、WHSV为4 h⁻¹、烯烃分压32 bar的条件下，研究C3+C4（等摩尔丙烯和1-丁烯）和C2+C3+C4（模拟MTO产物，40%乙烯、40%丙烯、20%1-丁烯）混合烯烃的共聚反应。",
+        "text_snippet": "The co-oligomerization of olefin mixtures (C3+4 and C2+3+4), which can be obtained in Methanol-to-Olefins (MtO) processes",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      },
+      {
+        "experiment_id": 5,
+        "reaction_type": "低聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "使用串联的双催化剂床（第一个为含镍的20/2Ni催化剂用于乙烯转化，第二个为无镍的40/0Ni催化剂用于合成高支化长链低聚物），在120°C、WHSV为4 h⁻¹、烯烃分压32 bar的条件下，研究C2+C3+C4混合烯烃的共聚反应，以补偿镍催化剂对燃料质量的负面影响。",
+        "text_snippet": "The negative effects of nickel catalysts on fuel quality can be compensated by two consecutive catalyst beds, the first catalyst bed with a nickel-loaded silicon-aluminum oxide for ethylene conversion followed by a catalyst bed of neat silicon-aluminum oxide for the synthesis of highly branched, long chain oligomers.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Pure propylene",
+        "unit": "Not reported",
+        "original": "Pure propylene"
+      },
+      "Catalyst type": {
+        "value": "Mesoporous amorphous mixed silicon-aluminum oxides",
+        "unit": "Not reported",
+        "original": "Mesoporous amorphous mixed silicon-aluminum oxides"
+      },
+      "Catalyst composition": {
+        "value": "40",
+        "unit": "%",
+        "original": "SIRALOX 40 (40% silicon oxide, 60% aluminum oxide), optionally modified with 2 wt% nickel"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "120",
+        "unit": "°C",
+        "original": "120 °C"
+      },
+      "Reaction pressure": {
+        "value": "32",
+        "unit": "bar",
+        "original": "32 bar olefin partial pressure (total pressure 40 bar with argon inert)"
+      },
+      "Flow rate": {
+        "value": "4",
+        "unit": "and",
+        "original": "WHSV of 2, 4 and 8 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "20",
+        "unit": "vol%",
+        "original": "Argon inert gas (20 vol%)"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "g",
+        "original": "5 g of fresh catalyst mixed with tenfold volume of silicon carbide"
+      },
+      "Product": {
+        "value": "5",
+        "unit": "°C",
+        "original": "Oligomers in gasoline range (C5-10)"
+      },
+      "Conversion rate": {
+        "value": "97.8",
+        "unit": "%",
+        "original": "Propylene: 97.8% (WHSV 2 h⁻¹), 69.7% (WHSV 4 h⁻¹), 32.5% (WHSV 8 h⁻¹)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "-48.8",
+        "unit": "%",
+        "original": "Propylene oligomerization: Gasoline 27.5-48.8%, Kerosene 92.5-93.5%"
+      },
+      "Catalyst stability": {
+        "value": "200",
+        "unit": "h",
+        "original": "Deactivation of acid sites observed over time, but possibility of reactivation shown; long-term experiment >200 h showed selectivity to kerosene remained above 63%"
+      },
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在120°C和32 bar烯烃分压下，使用SIRALOX 40催化剂研究纯丙烯的均聚反应，考察不同空速（WHSV为2、4和8 h⁻¹）对转化率和产物选择性的影响。",
+      "experiment_id": 1,
+      "text_snippet": "Initially, single olefin feeds were employed, i.e. homo-oligomerization reactions of pure propylene and pure 1-butylene were studied at 120 ◦C and 32 bar olefin partial pressure, respectively."
+    },
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "1-butylene",
+        "unit": "Not reported",
+        "original": "1-butylene"
+      },
+      "Catalyst type": {
+        "value": "mesoporous amorphous mixed silicon-aluminum oxide",
+        "unit": "Not reported",
+        "original": "mesoporous amorphous mixed silicon-aluminum oxide"
+      },
+      "Catalyst composition": {
+        "value": "40",
+        "unit": "%",
+        "original": "SIRALOX 40 (40% SiO2, 60% Al2O3)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "120",
+        "unit": "°C",
+        "original": "120 °C"
+      },
+      "Reaction pressure": {
+        "value": "32",
+        "unit": "bar",
+        "original": "32 bar olefin partial pressure (total pressure 40 bar)"
+      },
+      "Flow rate": {
+        "value": "2",
+        "unit": "h",
+        "original": "WHSV 2 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "20",
+        "unit": "vol%",
+        "original": "argon (20 vol%) as inert gas"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "continuous fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "continuous fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "g",
+        "original": "5 g catalyst mixed with silicon carbide"
+      },
+      "Product": {
+        "value": "5",
+        "unit": "°C",
+        "original": "gasoline (C5-10)"
+      },
+      "Conversion rate": {
+        "value": "2",
+        "unit": "h",
+        "original": "WHSV 2 h⁻¹: 96.6%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "2",
+        "unit": "h",
+        "original": "WHSV 2 h⁻¹: gasoline 35.0%, kerosene 71.1%"
+      },
+      "Catalyst stability": {
+        "value": "deactivation observed over time due to coke deposition, but regenerable",
+        "unit": "Not reported",
+        "original": "deactivation observed over time due to coke deposition, but regenerable"
+      },
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在120°C和32 bar烯烃分压下，使用SIRALOX 40催化剂研究纯1-丁烯的均聚反应，考察不同空速（WHSV为2、4和8 h⁻¹）对转化率和产物选择性的影响。",
+      "experiment_id": 2,
+      "text_snippet": "Initially, single olefin feeds were employed, i.e. homo-oligomerization reactions of pure propylene and pure 1-butylene were studied at 120 ◦C and 32 bar olefin partial pressure, respectively."
+    },
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Propylene",
+        "unit": "Not reported",
+        "original": "Propylene"
+      },
+      "Catalyst type": {
+        "value": "Mesoporous amorphous mixed silicon-aluminum oxides",
+        "unit": "Not reported",
+        "original": "Mesoporous amorphous mixed silicon-aluminum oxides"
+      },
+      "Catalyst composition": {
+        "value": "40",
+        "unit": "%",
+        "original": "SIRALOX 40 (40% SiO2, 60% Al2O3)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "120",
+        "unit": "°C",
+        "original": "120 °C"
+      },
+      "Reaction pressure": {
+        "value": "32",
+        "unit": "bar",
+        "original": "32 bar (olefin partial pressure), 40 bar (total pressure)"
+      },
+      "Flow rate": {
+        "value": "4",
+        "unit": "h",
+        "original": "WHSV = 4 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Argon (inert gas)",
+        "unit": "Not reported",
+        "original": "Argon (inert gas)"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "g",
+        "original": "5 g"
+      },
+      "Product": {
+        "value": "5",
+        "unit": "°C",
+        "original": "Gasoline (C5-10)"
+      },
+      "Conversion rate": {
+        "value": "40",
+        "unit": "/",
+        "original": "{'40/0Ni': {'Propylene': '69.7%', '1-Butylene': '94.7%'}, '40/2Ni': {'Propylene': '85.9%', '1-Butylene': '87.2%'}}"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "40",
+        "unit": "/",
+        "original": "{'40/0Ni': {'Propylene oligomerization': {'Gasoline': '40.2%', 'Kerosene': '93.5%'}, '1-Butylene oligomerization': {'Gasoline': '35.4%', 'Kerosene': '71.8%'}}, '40/2Ni': {'Propylene oligomerization': {'Gasoline': '37.9%', 'Kerosene': '93.5%'}, '1-Butylene oligomerization': {'Gasoline': '55.0%', 'Kerosene': '49.2%'}}}"
+      },
+      "Catalyst stability": {
+        "value": "200",
+        "unit": "h",
+        "original": "Deactivation observed over 200 h time-on-stream due to coking, but reactivation possible"
+      },
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "使用无镍（40/0Ni）和含镍（40/2Ni）的SIRALOX 40催化剂，在120°C、WHSV为4 h⁻¹、烯烃分压32 bar的条件下，研究丙烯和1-丁烯均聚反应中镍负载对转化率和产物分布的影响。",
+      "experiment_id": 3,
+      "text_snippet": "Effect of nickel loading on propylene and 1-butylene homo-oligomerization"
+    },
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "3",
+        "unit": "°C",
+        "original": "C3+C4 (equimolar propylene and 1-butene)"
+      },
+      "Catalyst type": {
+        "value": "Mesoporous amorphous mixed silicon-aluminum oxides",
+        "unit": "Not reported",
+        "original": "Mesoporous amorphous mixed silicon-aluminum oxides"
+      },
+      "Catalyst composition": {
+        "value": "40",
+        "unit": "%",
+        "original": "SIRALOX 40 (40% SiO2, 60% Al2O3)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "120",
+        "unit": "°C",
+        "original": "120 °C"
+      },
+      "Reaction pressure": {
+        "value": "32",
+        "unit": "bar",
+        "original": "32 bar (olefin partial pressure), 40 bar (total pressure)"
+      },
+      "Flow rate": {
+        "value": "4",
+        "unit": "h",
+        "original": "WHSV = 4 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "20",
+        "unit": "vol%",
+        "original": "Argon (inert gas, 20 vol%)"
+      },
+      "Reactant molar ratio": {
+        "value": "1:1",
+        "unit": ":",
+        "original": "1:1 (propylene:1-butene) for C3+C4"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "g",
+        "original": "5 g"
+      },
+      "Product": {
+        "value": "5",
+        "unit": "°C",
+        "original": "Gasoline (C5-10)"
+      },
+      "Conversion rate": {
+        "value": "69.7",
+        "unit": "%",
+        "original": "Propylene: 69.7% (40/0Ni), 85.9% (40/2Ni)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "85.5",
+        "unit": "%",
+        "original": "Kerosene selectivity up to 85.5% for C2+C3+C4 feed over 40/0Ni"
+      },
+      "Catalyst stability": {
+        "value": "200",
+        "unit": "h",
+        "original": "Deactivation observed over 200 h time-on-stream, but possibility of reactivation shown. Selectivity to kerosene remained above 63% in long-term experiment."
+      },
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "使用无镍（40/0Ni）和含镍（40/2Ni）的SIRALOX 40催化剂，在120°C、WHSV为4 h⁻¹、烯烃分压32 bar的条件下，研究C3+C4（等摩尔丙烯和1-丁烯）和C2+C3+C4（模拟MTO产物，40%乙烯、40%丙烯、20%1-丁烯）混合烯烃的共聚反应。",
+      "experiment_id": 4,
+      "text_snippet": "The co-oligomerization of olefin mixtures (C3+4 and C2+3+4), which can be obtained in Methanol-to-Olefins (MtO) processes"
+    },
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "4",
+        "unit": "mixed",
+        "original": "C2+C3+C4 mixed olefins"
+      },
+      "Catalyst type": {
+        "value": "mesoporous amorphous mixed silicon-aluminum oxides",
+        "unit": "Not reported",
+        "original": "mesoporous amorphous mixed silicon-aluminum oxides"
+      },
+      "Catalyst composition": {
+        "value": "20",
+        "unit": "/",
+        "original": "20/2Ni (2 wt% nickel)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "120",
+        "unit": "°C",
+        "original": "120 °C"
+      },
+      "Reaction pressure": {
+        "value": "32",
+        "unit": "bar",
+        "original": "32 bar olefin partial pressure (total pressure 40 bar)"
+      },
+      "Flow rate": {
+        "value": "4",
+        "unit": "h",
+        "original": "WHSV 4 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "20",
+        "unit": "vol%",
+        "original": "argon (20 vol%) as inert gas"
+      },
+      "Reactant molar ratio": {
+        "value": "40",
+        "unit": "mol%",
+        "original": "40 mol% ethylene, 40 mol% propylene, 20 mol% 1-butylene"
+      },
+      "Operation mode": {
+        "value": "fixed bed reactor, continuous operation",
+        "unit": "Not reported",
+        "original": "fixed bed reactor, continuous operation"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "g",
+        "original": "5 g catalyst mixed with tenfold volume of silicon carbide"
+      },
+      "Product": {
+        "value": "highly branched long chain oligomers",
+        "unit": "Not reported",
+        "original": "highly branched long chain oligomers"
+      },
+      "Conversion rate": {
+        "value": "95.2",
+        "unit": "%",
+        "original": "Ethylene: 95.2%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "77.5",
+        "unit": "%",
+        "original": "Kerosene selectivity: 77.5%"
+      },
+      "Catalyst stability": {
+        "value": "200",
+        "unit": "h",
+        "original": "Deactivation observed over 200 h time-on-stream, but possibility of reactivation shown"
+      },
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "使用串联的双催化剂床（第一个为含镍的20/2Ni催化剂用于乙烯转化，第二个为无镍的40/0Ni催化剂用于合成高支化长链低聚物），在120°C、WHSV为4 h⁻¹、烯烃分压32 bar的条件下，研究C2+C3+C4混合烯烃的共聚反应，以补偿镍催化剂对燃料质量的负面影响。",
+      "experiment_id": 5,
+      "text_snippet": "The negative effects of nickel catalysts on fuel quality can be compensated by two consecutive catalyst beds, the first catalyst bed with a nickel-loaded silicon-aluminum oxide for ethylene conversion followed by a catalyst bed of neat silicon-aluminum oxide for the synthesis of highly branched, lon..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    },
+    {
+      "experiment_id": 4,
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    },
+    {
+      "experiment_id": 5,
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

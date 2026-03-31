@@ -1,0 +1,359 @@
+{
+  "file": "1508_Kriván 等 - 2014 - Application Possibilities of Zeolite Catalysts in Oligomerization of Light Olefins.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "低聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "在ZSM-5沸石催化剂A上，研究轻质FCC汽油中烯烃的低聚反应。考察了温度（80-260°C）、压力（30-60 bar）和液时空速（1.0-2.0 h⁻¹）对烯烃转化率和产物选择性的影响。最佳条件为240°C，50 bar，液时空速2.0 h⁻¹，烯烃转化率为39.8%。",
+        "text_snippet": "Investigating the temperature dependence of oligomerizing activity of zeolite A and B we found that the yield of the liquid products changed in range of 85-100%... The maximum value was achieved at 240°C and 50 bar.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "低聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "在ZSM-5沸石催化剂B上，研究轻质FCC汽油中烯烃的低聚反应。考察了温度（180-300°C）、压力（30-60 bar）和液时空速（1.0-2.0 h⁻¹）对反应的影响。最佳条件为240°C，50 bar，液时空速2.0 h⁻¹，烯烃转化率为38.5%。",
+        "text_snippet": "The results obtained on catalyst B are shown in Figures 6 and 7. The conversion of olefins was between 3% and 38.5%... Increase in pressure favoured for C12+ selectivity.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "低聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "在由催化剂A和B组成的双层床催化剂系统上进行的低聚反应实验。最佳条件为270°C，40 bar，液时空速1.0 h⁻¹。在此条件下，烯烃转化率为33.5%，C12+选择性为18.2%，与单层床相比，中间馏分沸点范围内的低聚物比例大约翻倍。",
+        "text_snippet": "During the two layered bed experiments, however, the C12+ selectivity was higher, at favourable conditions it approximately doubled in comparison to the value obtained with a single zeolite catalyst bed... The largest oligomer share in the product was reached at 270°C, 40 bar and 1.0 h-1 LHSV.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2014",
+        "unit": "year",
+        "original": "2014"
+      },
+      "Feedstock": {
+        "value": "-88.0",
+        "unit": "°C",
+        "original": "light FCC gasoline (boiling point range: 30.6-88.0°C, density at 15.6°C: 0.6561 g/cm³, olefin content: 34.2%)"
+      },
+      "Catalyst type": {
+        "value": "-5",
+        "unit": "zeolite",
+        "original": "ZSM-5 zeolite"
+      },
+      "Catalyst composition": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-260",
+        "unit": "°C",
+        "original": "80-260°C"
+      },
+      "Reaction pressure": {
+        "value": "-60",
+        "unit": "bar",
+        "original": "30-60 bar"
+      },
+      "Flow rate": {
+        "value": "-2.0",
+        "unit": "h",
+        "original": "LHSV: 1.0-2.0 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "80",
+        "unit": "cm",
+        "original": "80 cm³ (single bed)"
+      },
+      "Product": {
+        "value": "C₈-C₁₁ oligomers",
+        "unit": "Not reported",
+        "original": "C₈-C₁₁ oligomers"
+      },
+      "Conversion rate": {
+        "value": "39.8",
+        "unit": "%",
+        "original": "39.8% (optimal for catalyst A)"
+      },
+      "Product yield": {
+        "value": "-100",
+        "unit": "%",
+        "original": "85-100% (liquid yield)"
+      },
+      "Product Selectivity": {
+        "value": "92.0",
+        "unit": "%",
+        "original": "C₈-C₁₁ selectivity: 92.0%"
+      },
+      "Catalyst stability": {
+        "value": "No significant deactivation observed during experiments",
+        "unit": "Not reported",
+        "original": "No significant deactivation observed during experiments"
+      },
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在ZSM-5沸石催化剂A上，研究轻质FCC汽油中烯烃的低聚反应。考察了温度（80-260°C）、压力（30-60 bar）和液时空速（1.0-2.0 h⁻¹）对烯烃转化率和产物选择性的影响。最佳条件为240°C，50 bar，液时空速2.0 h⁻¹，烯烃转化率为39.8%。",
+      "experiment_id": 1,
+      "text_snippet": "Investigating the temperature dependence of oligomerizing activity of zeolite A and B we found that the yield of the liquid products changed in range of 85-100%... The maximum value was achieved at 240°C and 50 bar."
+    },
+    {
+      "Published year": {
+        "value": "2014",
+        "unit": "year",
+        "original": "2014"
+      },
+      "Feedstock": {
+        "value": "light FCC gasoline",
+        "unit": "Not reported",
+        "original": "light FCC gasoline"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "zeolite",
+        "original": "ZSM-5 zeolite catalysts (A and B)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-300",
+        "unit": "°C",
+        "original": "180-300°C"
+      },
+      "Reaction pressure": {
+        "value": "-60",
+        "unit": "bar",
+        "original": "30-60 bar"
+      },
+      "Flow rate": {
+        "value": "-2.0",
+        "unit": "h",
+        "original": "LHSV: 1.0-2.0 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "80",
+        "unit": "cm",
+        "original": "80 cm³ (single bed)"
+      },
+      "Product": {
+        "value": "C₈⁺ hydrocarbons",
+        "unit": "Not reported",
+        "original": "C₈⁺ hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "38.5",
+        "unit": "%",
+        "original": "38.5% (catalyst B at best conditions)"
+      },
+      "Product yield": {
+        "value": "-100",
+        "unit": "%",
+        "original": "Liquid yield: 85-100%"
+      },
+      "Product Selectivity": {
+        "value": "81.8",
+        "unit": "%",
+        "original": "C₈⁻¹₁ selectivity: 81.8%"
+      },
+      "Catalyst stability": {
+        "value": "No significant decrease in activity",
+        "unit": "Not reported",
+        "original": "No significant decrease in activity"
+      },
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在ZSM-5沸石催化剂B上，研究轻质FCC汽油中烯烃的低聚反应。考察了温度（180-300°C）、压力（30-60 bar）和液时空速（1.0-2.0 h⁻¹）对反应的影响。最佳条件为240°C，50 bar，液时空速2.0 h⁻¹，烯烃转化率为38.5%。",
+      "experiment_id": 2,
+      "text_snippet": "The results obtained on catalyst B are shown in Figures 6 and 7. The conversion of olefins was between 3% and 38.5%... Increase in pressure favoured for C12+ selectivity."
+    },
+    {
+      "Published year": {
+        "value": "2014",
+        "unit": "year",
+        "original": "2014"
+      },
+      "Feedstock": {
+        "value": "-88.0",
+        "unit": "°C",
+        "original": "Light FCC naphtha fraction (boiling point range: 30.6-88.0°C, density at 15.6°C: 0.6561 g/cm³)"
+      },
+      "Catalyst type": {
+        "value": "-5",
+        "unit": "zeolite",
+        "original": "ZSM-5 zeolite"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "type",
+        "original": "Catalyst A and Catalyst B (ZSM-5 type zeolites)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "270",
+        "unit": "°C",
+        "original": "270°C (best condition)"
+      },
+      "Reaction pressure": {
+        "value": "40",
+        "unit": "bar",
+        "original": "40 bar (best condition)"
+      },
+      "Flow rate": {
+        "value": "1.0",
+        "unit": "h",
+        "original": "LHSV: 1.0 h⁻¹ (best condition)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "80",
+        "unit": "cm",
+        "original": "Single bed: 80 cm³ (A: 60.8 g, B: 58.1 g)"
+      },
+      "Product": {
+        "value": "Oligomeric hydrocarbon mixtures",
+        "unit": "Not reported",
+        "original": "Oligomeric hydrocarbon mixtures"
+      },
+      "Conversion rate": {
+        "value": "33.5",
+        "unit": "%",
+        "original": "33.5% olefin conversion (best condition)"
+      },
+      "Product yield": {
+        "value": "76",
+        "unit": "%",
+        "original": "76% liquid yield (best condition)"
+      },
+      "Product Selectivity": {
+        "value": "18.2",
+        "unit": "%",
+        "original": "C12+ selectivity: 18.2% (best condition)"
+      },
+      "Catalyst stability": {
+        "value": "No significant decrease in activity observed",
+        "unit": "Not reported",
+        "original": "No significant decrease in activity observed"
+      },
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在由催化剂A和B组成的双层床催化剂系统上进行的低聚反应实验。最佳条件为270°C，40 bar，液时空速1.0 h⁻¹。在此条件下，烯烃转化率为33.5%，C12+选择性为18.2%，与单层床相比，中间馏分沸点范围内的低聚物比例大约翻倍。",
+      "experiment_id": 3,
+      "text_snippet": "During the two layered bed experiments, however, the C12+ selectivity was higher, at favourable conditions it approximately doubled in comparison to the value obtained with a single zeolite catalyst bed... The largest oligomer share in the product was reached at 270°C, 40 bar and 1.0 h-1 LHSV."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

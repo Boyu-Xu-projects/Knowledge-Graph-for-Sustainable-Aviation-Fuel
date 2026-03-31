@@ -1,0 +1,247 @@
+{
+  "file": "1426_Fujitsuka 等 - 2020 - Development of PtZeolite for Selective Conversion of n-Decane and n-Dodecane to i.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢异构化反应",
+        "reaction_type_english": "Hydrogenation reaction / Isomerization reaction",
+        "description": "在固定床流动反应器中，使用不同结构和酸量的Pt/沸石催化剂，在200-250°C和氢气气氛下，进行正癸烷(n-C10)的加氢异构化和轻度裂解反应。",
+        "text_snippet": "Hydroisomerization and mild cracking of n-paraffins were carried out by using a fixed-bed flow reactor at ambient pressure... n-Decane was first used as a reactant... The reaction was conducted... at 200 to 250 °C.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢异构化反应 / 裂解反应",
+        "reaction_type_english": "Hydrogenation reaction / Isomerization reaction / Cracking reaction",
+        "description": "使用优化后的Pt/MFI(200)催化剂以及进一步改性的MgO/Pt/MFI(200)催化剂，在200-250°C和氢气气氛下，进行正十二烷(n-C12)的加氢异构化和轻度裂解反应，旨在抑制过度裂解并提高目标异构烷烃产率。",
+        "text_snippet": "Further modification of the optimized catalyst was performed for isoparaffin production from n-dodecane... hydroisomerization and cracking of n-C12 over Pt(0.5)/MFI(200) with and without 1 wt% MgO loading at 200-250 °C",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "10",
+        "unit": "n-C",
+        "original": "n-decane (n-C10)"
+      },
+      "Catalyst type": {
+        "value": "Pt/Zeolite",
+        "unit": "Not reported",
+        "original": "Pt/Zeolite"
+      },
+      "Catalyst composition": {
+        "value": "Pt(0.5)/MFI(200)",
+        "unit": "Not reported",
+        "original": "Pt(0.5)/MFI(200)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-250",
+        "unit": "°C",
+        "original": "200-250 °C"
+      },
+      "Reaction pressure": {
+        "value": "Ambient pressure",
+        "unit": "MPa",
+        "original": "Ambient pressure"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/n-C",
+        "original": "H2/n-C10 = 9"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed flow reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "-2.4",
+        "unit": "g",
+        "original": "0.24-2.4 g"
+      },
+      "Product": {
+        "value": "6",
+        "unit": "i-C",
+        "original": "i-C6"
+      },
+      "Conversion rate": {
+        "value": "65",
+        "unit": "C-mol%",
+        "original": "~65 C-mol% for n-C10"
+      },
+      "Product yield": {
+        "value": "35",
+        "unit": "C-mol%",
+        "original": "35 C-mol% desired isoparaffins from n-C12 at 250°C with MgO-modified catalyst"
+      },
+      "Product Selectivity": {
+        "value": "10",
+        "unit": "selectivity",
+        "original": "i-C10 selectivity increased with lower solid acid amount"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydrogenation reaction / Isomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床流动反应器中，使用不同结构和酸量的Pt/沸石催化剂，在200-250°C和氢气气氛下，进行正癸烷(n-C10)的加氢异构化和轻度裂解反应。",
+      "experiment_id": 1,
+      "text_snippet": "Hydroisomerization and mild cracking of n-paraffins were carried out by using a fixed-bed flow reactor at ambient pressure... n-Decane was first used as a reactant... The reaction was conducted... at 200 to 250 °C."
+    },
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "12",
+        "unit": "n-C",
+        "original": "n-dodecane (n-C12)"
+      },
+      "Catalyst type": {
+        "value": "Pt loaded zeolite",
+        "unit": "Not reported",
+        "original": "Pt loaded zeolite"
+      },
+      "Catalyst composition": {
+        "value": "Pt(0.5)/MFI(200)",
+        "unit": "Not reported",
+        "original": "Pt(0.5)/MFI(200)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-250",
+        "unit": "°C",
+        "original": "200-250 °C"
+      },
+      "Reaction pressure": {
+        "value": "Ambient pressure",
+        "unit": "MPa",
+        "original": "Ambient pressure"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/n-C",
+        "original": "H2/n-C12 = 13"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed flow reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "-2.4",
+        "unit": "g",
+        "original": "0.24-2.4 g"
+      },
+      "Product": {
+        "value": "7",
+        "unit": "i-C",
+        "original": "Isoparaffins (i-C7, i-C8, i-C9)"
+      },
+      "Conversion rate": {
+        "value": "19.8",
+        "unit": "C-mol%",
+        "original": "19.8 C-mol% (for Pt(0.5)/MFI(200) at 200°C, W/F=0.8 h)"
+      },
+      "Product yield": {
+        "value": "35",
+        "unit": "C-mol%",
+        "original": "35 C-mol% desired isoparaffin yield (for MgO(1)/Pt(0.5)/MFI(200) at 250°C, W/F=0.8 h)"
+      },
+      "Product Selectivity": {
+        "value": "200",
+        "unit": "°C",
+        "original": "For Pt(0.5)/MFI(200) at 200°C: Desired product (i-C7, i-C8, i-C9): 8.2 C-mol%, Isomerized intermediate (i-C12): 1.6 C-mol%, Cracked intermediate (n-C7, n-C8, n-C9): 8.2 C-mol%, Lighter byproduct (C3-C6): 6.6 C-mol%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢异构化反应 / 裂解反应",
+      "reaction_type_english": "Hydrogenation reaction / Isomerization reaction / Cracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用优化后的Pt/MFI(200)催化剂以及进一步改性的MgO/Pt/MFI(200)催化剂，在200-250°C和氢气气氛下，进行正十二烷(n-C12)的加氢异构化和轻度裂解反应，旨在抑制过度裂解并提高目标异构烷烃产率。",
+      "experiment_id": 2,
+      "text_snippet": "Further modification of the optimized catalyst was performed for isoparaffin production from n-dodecane... hydroisomerization and cracking of n-C12 over Pt(0.5)/MFI(200) with and without 1 wt% MgO loading at 200-250 °C"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydrogenation reaction / Isomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢异构化反应 / 裂解反应",
+      "reaction_type_english": "Hydrogenation reaction / Isomerization reaction / Cracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

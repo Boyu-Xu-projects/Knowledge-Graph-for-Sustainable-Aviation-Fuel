@@ -1,0 +1,135 @@
+{
+  "file": "Juárez - 2022 - Self-condensation of levulinic acid into bio-jet fuel precursors over acid zeolites Elucidating the.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "羟醛缩合反应",
+        "reaction_type_english": "Aldol condensation reaction",
+        "description": "在无溶剂条件下，使用酸性沸石催化剂催化乙酰丙酸（LA）的自缩合二聚反应，生成C10二聚体作为生物航空燃料前体。反应在130-150°C温度范围内进行，使用不同Si/Al比的沸石催化剂（MFI、FAU、BEA结构）评估催化性能。",
+        "text_snippet": "The catalytic runs were carried out in ACE pressure glass reactors (20mL) with continuous stirring and with temperature control (oil bath)... Typically, 1.16g (10mmol) of LA, 0.1g of sulfolane (internal standard), and catalyst were put together in the glass reactor.",
+        "reaction_type_classify": "Aldol condensation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Levulinic acid (LA)",
+        "unit": "Not reported",
+        "original": "Levulinic acid (LA)"
+      },
+      "Catalyst type": {
+        "value": "Acid zeolites",
+        "unit": "Not reported",
+        "original": "Acid zeolites"
+      },
+      "Catalyst composition": {
+        "value": "MFI",
+        "unit": "Not reported",
+        "original": "MFI"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-150",
+        "unit": "°C",
+        "original": "130-150°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "6",
+        "unit": "h",
+        "original": "6h"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.1",
+        "unit": "g",
+        "original": "0.1g"
+      },
+      "Product": {
+        "value": "2",
+        "unit": "Tetrahydro-",
+        "original": "Tetrahydro-2-methyl-5,γ-dioxo-2-furanpentanoic acid (TMDFA)"
+      },
+      "Conversion rate": {
+        "value": "79",
+        "unit": "%",
+        "original": "79% (optimized)"
+      },
+      "Product yield": {
+        "value": "77",
+        "unit": "%",
+        "original": "77% (optimized)"
+      },
+      "Product Selectivity": {
+        "value": "90",
+        "unit": "%",
+        "original": ">90%"
+      },
+      "Catalyst stability": {
+        "value": "Good reusability with slight activity loss due to organic deposits",
+        "unit": "Not reported",
+        "original": "Good reusability with slight activity loss due to organic deposits"
+      },
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction",
+      "experiment_description": "在无溶剂条件下，使用酸性沸石催化剂催化乙酰丙酸（LA）的自缩合二聚反应，生成C10二聚体作为生物航空燃料前体。反应在130-150°C温度范围内进行，使用不同Si/Al比的沸石催化剂（MFI、FAU、BEA结构）评估催化性能。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic runs were carried out in ACE pressure glass reactors (20mL) with continuous stirring and with temperature control (oil bath)... Typically, 1.16g (10mmol) of LA, 0.1g of sulfolane (internal standard), and catalyst were put together in the glass reactor."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

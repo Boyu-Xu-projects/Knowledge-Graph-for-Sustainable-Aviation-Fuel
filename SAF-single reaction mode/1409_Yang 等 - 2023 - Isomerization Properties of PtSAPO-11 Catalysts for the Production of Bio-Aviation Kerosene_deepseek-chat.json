@@ -1,0 +1,135 @@
+{
+  "file": "1409_Yang 等 - 2023 - Isomerization Properties of PtSAPO-11 Catalysts for the Production of Bio-Aviation Kerosene.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "异构化反应",
+        "reaction_type_english": "Isomerization reaction",
+        "description": "以生物正十六烷为模型化合物，在Pt/SAPO-11催化剂上评价其加氢异构化性能。考察了温度、空速、氢烃比、压力和金属负载量对正十六烷转化率和异十六烷选择性的影响。",
+        "text_snippet": "The hydroisomerization performance of the catalyst was evaluated with bio-n-hexadecane as the model compound... Under the conditions of 340◦C, 1.5 MPa, WHSV=1.0 h−1, V(H2):V(n-hexadecane)=1000:1, the conversion of n-hexadecane and the selectivity of i-hexadecane were 81.8% and 86.5%, respectively.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "bio-n-hexadecane",
+        "unit": "Not reported",
+        "original": "bio-n-hexadecane"
+      },
+      "Catalyst type": {
+        "value": "11",
+        "unit": "Pt/SAPO-",
+        "original": "Pt/SAPO-11"
+      },
+      "Catalyst composition": {
+        "value": "0.5",
+        "unit": "wt%",
+        "original": "0.5 wt% Pt/SAPO-11"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "340",
+        "unit": "°C",
+        "original": "340 °C"
+      },
+      "Reaction pressure": {
+        "value": "1.5",
+        "unit": "MPa",
+        "original": "1.5 MPa"
+      },
+      "Flow rate": {
+        "value": "1.0",
+        "unit": "h",
+        "original": "WHSV = 1.0 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "1000:1",
+        "unit": ":",
+        "original": "V(H₂):V(n-hexadecane) = 1000:1"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "i-hexadecane",
+        "unit": "Not reported",
+        "original": "i-hexadecane"
+      },
+      "Conversion rate": {
+        "value": "81.8",
+        "unit": "%",
+        "original": "81.8%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "86.5",
+        "unit": "%",
+        "original": "86.5%"
+      },
+      "Catalyst stability": {
+        "value": "60",
+        "unit": "h",
+        "original": "Stable for more than 60 h"
+      },
+      "reaction_type": "异构化反应",
+      "reaction_type_english": "Isomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "以生物正十六烷为模型化合物，在Pt/SAPO-11催化剂上评价其加氢异构化性能。考察了温度、空速、氢烃比、压力和金属负载量对正十六烷转化率和异十六烷选择性的影响。",
+      "experiment_id": 1,
+      "text_snippet": "The hydroisomerization performance of the catalyst was evaluated with bio-n-hexadecane as the model compound... Under the conditions of 340◦C, 1.5 MPa, WHSV=1.0 h−1, V(H2):V(n-hexadecane)=1000:1, the conversion of n-hexadecane and the selectivity of i-hexadecane were 81.8% and 86.5%, respectively."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "异构化反应",
+      "reaction_type_english": "Isomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

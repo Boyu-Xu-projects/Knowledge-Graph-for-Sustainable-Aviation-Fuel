@@ -1,0 +1,135 @@
+{
+  "file": "1432_Panarmasar 等 - 2025 - Biojet Production from Hydroisomerization of Palm Olein Catalyzed by NiMicromesoporous Zeolite Comp.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢异构化反应",
+        "reaction_type_english": "Hydroisomerization reaction",
+        "description": "在连续流动固定床反应器中，在25 bar氢气压力、425°C、0.1 mL/min棕榈油进料速率和5 g催化剂的条件下，对棕榈油进行催化加氢异构化，以生产生物航煤范围的烃类。",
+        "text_snippet": "The hydro-isomerization was conducted in a fixed-bed reactor under 25 bar of H2 pressure at 40 mL/min, 425°C, 0.1 mL/min palm oil feed rate, and 5 g of catalyst.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Palm oil",
+        "unit": "Not reported",
+        "original": "Palm oil"
+      },
+      "Catalyst type": {
+        "value": "Ni-based catalysts",
+        "unit": "Not reported",
+        "original": "Ni-based catalysts"
+      },
+      "Catalyst composition": {
+        "value": "15",
+        "unit": "Ni/SBA-",
+        "original": "Ni/SBA-15-xUSY"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "425",
+        "unit": "°C",
+        "original": "425°C"
+      },
+      "Reaction pressure": {
+        "value": "25",
+        "unit": "bar",
+        "original": "25 bar"
+      },
+      "Flow rate": {
+        "value": "0.1",
+        "unit": "mL/min",
+        "original": "0.1 mL/min"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous flow fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous flow fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "g",
+        "original": "5 g"
+      },
+      "Product": {
+        "value": "Biojet fuel range hydrocarbons (C₈-C₁₆)",
+        "unit": "Not reported",
+        "original": "Biojet fuel range hydrocarbons (C₈-C₁₆)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "54.3",
+        "unit": "wt%",
+        "original": "Liquid yield: 54.3 wt% (Ni/USY)"
+      },
+      "Product Selectivity": {
+        "value": "78.45",
+        "unit": "%",
+        "original": "Biojet fuel selectivity: 78.45% (Ni/USY)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在连续流动固定床反应器中，在25 bar氢气压力、425°C、0.1 mL/min棕榈油进料速率和5 g催化剂的条件下，对棕榈油进行催化加氢异构化，以生产生物航煤范围的烃类。",
+      "experiment_id": 1,
+      "text_snippet": "The hydro-isomerization was conducted in a fixed-bed reactor under 25 bar of H2 pressure at 40 mL/min, 425°C, 0.1 mL/min palm oil feed rate, and 5 g of catalyst."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

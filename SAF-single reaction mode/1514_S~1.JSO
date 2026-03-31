@@ -1,0 +1,359 @@
+{
+  "file": "1514_Saavedra Lopez 等 - 2019 - Oligomerization of ethanol-derived propene and isobutene mixtures to transportation fuels catalyst.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "寡聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "使用二异丁烯（DIB）作为模型原料，在1.38 MPa压力、WHSV为1.1 h⁻¹的条件下，在140°C、200°C和260°C三个温度下，评估了一系列固体酸催化剂（H-ZSM-5、H-Y、H-beta、USY沸石和Amberlyst-36、Purolite-CT275树脂）的催化性能。",
+        "text_snippet": "Two representative model olefin feeds: 1) diisobutene and 2) isobutene/propene (4/1 mol) mixture were used... DIB was used as a model feed for the oligomerization reaction over the series of solid acid catalysts presented in Table 1... Performance evaluations for the oligomerization catalysts were performed in a single fixed-bed reactor... (1.38 MPa, WHSV = 1.1 h−1).",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "寡聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "使用异丁烯/丙烯（4:1 摩尔比）混合物作为模型原料，在1.38 MPa压力、WHSV为1.1 h⁻¹的条件下，在不同温度下（H-beta沸石：140°C, 200°C, 260°C；CT275树脂：100°C, 120°C；Amberlyst-36树脂：140°C）评估了H-beta沸石和聚合物树脂（CT275, Amberlyst-36）的催化性能。",
+        "text_snippet": "Two representative model olefin feeds: 1) diisobutene and 2) isobutene/propene (4/1 mol) mixture were used... an isobutene/propene mixture (4:1 molar ratio) was used as a model feedstock... Oligomerization results are shown in Table 3 and Fig. 4 using, H-beta, the most promising zeolite determined from above, and compared to the polymeric resins CT275 and Amberlyst-36.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "寡聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "集成两步法工艺实验：第一步，在450°C、1.38 MPa压力下，使用Zn₁Zr₂.₅O₂催化剂将50 wt%乙醇/水混合物转化为富含异丁烯和丙烯的烯烃混合物。第二步，在140°C、WHSV为1.1 h⁻¹的条件下，使用Amberlyst-36催化剂将第一步产生的烯烃（经氧合物分离后）进行寡聚，运行时间达350小时。",
+        "text_snippet": "Processing of aqueous ethanol to liquid hydrocarbon product was demonstrated in two sequential catalytic steps: 1)conversion of ethanol to an isobutene/propene-rich gas mixture over ZnZr O catalyst, followed by 2)oligomerization over solid acid resin(Amberlyst-36)... Catalytic activity tests for the conversion of aqueous ethanol to primarily gasoline-range hydrocarbons were conducted in a two-step process using two reactors in series... This reactor was operated at ... WHSV = 1.1 h−1... operated for 350 hours TOS.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "diisobutene (DIB)",
+        "unit": "Not reported",
+        "original": "diisobutene (DIB)"
+      },
+      "Catalyst type": {
+        "value": "zeolite",
+        "unit": "Not reported",
+        "original": "zeolite"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "H-ZSM-",
+        "original": "H-ZSM-5"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "140",
+        "unit": "°C",
+        "original": "140°C"
+      },
+      "Reaction pressure": {
+        "value": "1.38",
+        "unit": "MPa",
+        "original": "1.38 MPa"
+      },
+      "Flow rate": {
+        "value": "1.1",
+        "unit": "h",
+        "original": "WHSV = 1.1 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "4",
+        "unit": "/",
+        "original": "isobutene/propene (4/1 mol)"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "gasoline-range hydrocarbons",
+        "unit": "Not reported",
+        "original": "gasoline-range hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "7",
+        "unit": "%",
+        "original": "Propene conversion: 7% (140°C) to 87% (200°C) over H-beta"
+      },
+      "Product yield": {
+        "value": "70",
+        "unit": "%",
+        "original": "70% mass yield to gasoline-range hydrocarbons"
+      },
+      "Product Selectivity": {
+        "value": "90",
+        "unit": "%",
+        "original": "Jet-distillate range decreased from 90% to 65% when temperature increased from 140°C to 200°C"
+      },
+      "Catalyst stability": {
+        "value": "20",
+        "unit": "h",
+        "original": "Steady performance for 20 hours observed; longer-term deactivation anticipated requiring periodic regeneration"
+      },
+      "reaction_type": "寡聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "使用二异丁烯（DIB）作为模型原料，在1.38 MPa压力、WHSV为1.1 h⁻¹的条件下，在140°C、200°C和260°C三个温度下，评估了一系列固体酸催化剂（H-ZSM-5、H-Y、H-beta、USY沸石和Amberlyst-36、Purolite-CT275树脂）的催化性能。",
+      "experiment_id": 1,
+      "text_snippet": "Two representative model olefin feeds: 1) diisobutene and 2) isobutene/propene (4/1 mol) mixture were used... DIB was used as a model feed for the oligomerization reaction over the series of solid acid catalysts presented in Table 1... Performance evaluations for the oligomerization catalysts were p..."
+    },
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "1",
+        "unit": "mol%",
+        "original": "isobutene/propene (4:1 mol)"
+      },
+      "Catalyst type": {
+        "value": "zeolite",
+        "unit": "Not reported",
+        "original": "zeolite"
+      },
+      "Catalyst composition": {
+        "value": "H-beta",
+        "unit": "Not reported",
+        "original": "H-beta"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "140",
+        "unit": "°C",
+        "original": "140°C"
+      },
+      "Reaction pressure": {
+        "value": "1.38",
+        "unit": "MPa",
+        "original": "1.38 MPa"
+      },
+      "Flow rate": {
+        "value": "1.1",
+        "unit": "h",
+        "original": "WHSV = 1.1 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "4:1",
+        "unit": ":",
+        "original": "isobutene/propene (4:1 mol)"
+      },
+      "Operation mode": {
+        "value": "fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "jet-range hydrocarbons",
+        "unit": "Not reported",
+        "original": "jet-range hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "7.2",
+        "unit": "%",
+        "original": "Propene: 7.2% (140°C), 87.1% (200°C), 83.0% (260°C)"
+      },
+      "Product yield": {
+        "value": "-85",
+        "unit": "%",
+        "original": "Jet-range: 80-85% mass yield"
+      },
+      "Product Selectivity": {
+        "value": "90",
+        "unit": "%",
+        "original": "Jet-distillate range: 90% (140°C), 65% (200°C)"
+      },
+      "Catalyst stability": {
+        "value": "20",
+        "unit": "h",
+        "original": "Steady for 20 hours (no significant deactivation)"
+      },
+      "reaction_type": "寡聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "使用异丁烯/丙烯（4:1 摩尔比）混合物作为模型原料，在1.38 MPa压力、WHSV为1.1 h⁻¹的条件下，在不同温度下（H-beta沸石：140°C, 200°C, 260°C；CT275树脂：100°C, 120°C；Amberlyst-36树脂：140°C）评估了H-beta沸石和聚合物树脂（CT275, Amberlyst-36）的催化性能。",
+      "experiment_id": 2,
+      "text_snippet": "Two representative model olefin feeds: 1) diisobutene and 2) isobutene/propene (4/1 mol) mixture were used... an isobutene/propene mixture (4:1 molar ratio) was used as a model feedstock... Oligomerization results are shown in Table 3 and Fig. 4 using, H-beta, the most promising zeolite determined f..."
+    },
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "4",
+        "unit": "/",
+        "original": "isobutene/propene (4/1 mol) mixture"
+      },
+      "Catalyst type": {
+        "value": "36",
+        "unit": "Amberlyst-",
+        "original": "Amberlyst-36"
+      },
+      "Catalyst composition": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "140",
+        "unit": "°C",
+        "original": "140 °C"
+      },
+      "Reaction pressure": {
+        "value": "1.38",
+        "unit": "MPa",
+        "original": "1.38 MPa"
+      },
+      "Flow rate": {
+        "value": "1.1",
+        "unit": "h",
+        "original": "WHSV = 1.1 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "350",
+        "unit": "h",
+        "original": "350 hours"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "4",
+        "unit": "/",
+        "original": "4/1 (isobutene/propene)"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "70",
+        "unit": "%",
+        "original": "Highly branched olefin product primarily in the gasoline range (70% mass yield based on simulated distillation)"
+      },
+      "Conversion rate": {
+        "value": "89",
+        "unit": "%",
+        "original": "Isobutene: 89%, Propene: 37%"
+      },
+      "Product yield": {
+        "value": "70",
+        "unit": "%",
+        "original": "70% mass yield to gasoline-range hydrocarbons"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "350",
+        "unit": "h",
+        "original": "Stable for 350 hours time-on-stream"
+      },
+      "reaction_type": "寡聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "集成两步法工艺实验：第一步，在450°C、1.38 MPa压力下，使用Zn₁Zr₂.₅O₂催化剂将50 wt%乙醇/水混合物转化为富含异丁烯和丙烯的烯烃混合物。第二步，在140°C、WHSV为1.1 h⁻¹的条件下，使用Amberlyst-36催化剂将第一步产生的烯烃（经氧合物分离后）进行寡聚，运行时间达350小时。",
+      "experiment_id": 3,
+      "text_snippet": "Processing of aqueous ethanol to liquid hydrocarbon product was demonstrated in two sequential catalytic steps: 1)conversion of ethanol to an isobutene/propene-rich gas mixture over ZnZr O catalyst, followed by 2)oligomerization over solid acid resin(Amberlyst-36)... Catalytic activity tests for the..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "寡聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "寡聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "寡聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

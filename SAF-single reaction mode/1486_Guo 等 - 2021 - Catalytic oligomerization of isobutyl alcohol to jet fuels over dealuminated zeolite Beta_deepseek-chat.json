@@ -1,0 +1,135 @@
+{
+  "file": "1486_Guo 等 - 2021 - Catalytic oligomerization of isobutyl alcohol to jet fuels over dealuminated zeolite Beta.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "低聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "在脱铝Beta沸石催化剂上，将异丁醇直接转化为喷气燃料范围（C8-C16）的碳氢化合物。该反应结合了脱水步骤（生成异丁烯）和随后的低聚步骤。",
+        "text_snippet": "Isobutyl alcohol oligomerization reaction was carried out in an 85mL steel batch reactor. In brief, 0.5g of the catalyst and 10mL of isobutyl alcohol were placed into the reactor... Consequently, isobutyl alcohol can be quantitatively oligomerized over dealuminated zeolite Beta with the selectivity of C8–16 exceeding 50 % at a conversion of 98 %.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "Isobutyl alcohol",
+        "unit": "Not reported",
+        "original": "Isobutyl alcohol"
+      },
+      "Catalyst type": {
+        "value": "Dealuminated zeolite Beta",
+        "unit": "Not reported",
+        "original": "Dealuminated zeolite Beta"
+      },
+      "Catalyst composition": {
+        "value": "H-Beta zeolite treated with HCl or EDTA",
+        "unit": "Not reported",
+        "original": "H-Beta zeolite treated with HCl or EDTA"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "240",
+        "unit": "°C",
+        "original": "240°C"
+      },
+      "Reaction pressure": {
+        "value": "1.0",
+        "unit": "MPa",
+        "original": "1.0 MPa N₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "N₂",
+        "unit": "Not reported",
+        "original": "N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g catalyst per 10 mL isobutyl alcohol"
+      },
+      "Product": {
+        "value": "C₈-C₁₆ hydrocarbons",
+        "unit": "Not reported",
+        "original": "C₈-C₁₆ hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "98",
+        "unit": "%",
+        "original": "98%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "59",
+        "unit": "%",
+        "original": "C₈-C₁₆ selectivity: 59%"
+      },
+      "Catalyst stability": {
+        "value": "600",
+        "unit": "°C",
+        "original": "Regenerable by calcination at 600°C in air"
+      },
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在脱铝Beta沸石催化剂上，将异丁醇直接转化为喷气燃料范围（C8-C16）的碳氢化合物。该反应结合了脱水步骤（生成异丁烯）和随后的低聚步骤。",
+      "experiment_id": 1,
+      "text_snippet": "Isobutyl alcohol oligomerization reaction was carried out in an 85mL steel batch reactor. In brief, 0.5g of the catalyst and 10mL of isobutyl alcohol were placed into the reactor... Consequently, isobutyl alcohol can be quantitatively oligomerized over dealuminated zeolite Beta with the selectivity ..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

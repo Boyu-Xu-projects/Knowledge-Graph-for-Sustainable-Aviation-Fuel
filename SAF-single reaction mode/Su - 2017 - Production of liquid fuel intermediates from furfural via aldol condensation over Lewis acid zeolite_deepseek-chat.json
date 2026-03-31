@@ -1,0 +1,247 @@
+{
+  "file": "Su - 2017 - Production of liquid fuel intermediates from furfural via aldol condensation over Lewis acid zeolite.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "羟醛缩合反应",
+        "reaction_type_english": "Aldol condensation reaction",
+        "description": "在Sn-MFI和Sn-Beta沸石催化剂上，糠醛与丙酮进行羟醛缩合反应，生成4-(2-呋喃基)-3-丁烯-2-酮(FAc)和1,5-二-2-呋喃基-1,4-戊二烯-3-酮(F2Ac)",
+        "text_snippet": "Aldol condensation between furfural and acetone produced two main products, 4-(2-furyl)-3-buten-2-one (FAc) and1,5-di-2-furanyl-1,4-pentadien-3-one (F Ac).",
+        "reaction_type_classify": "Aldol condensation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "羟醛缩合反应",
+        "reaction_type_english": "Aldol condensation reaction",
+        "description": "研究水含量对羟醛缩合反应的影响，发现水的存在会降低反应活性但能改变Sn-Beta上的产物选择性",
+        "text_snippet": "the effect of water on aldol condensation over Sn-MFI and Sn-Beta was studied with a different amount of water in the reaction system",
+        "reaction_type_classify": "Aldol condensation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "furfural",
+        "unit": "Not reported",
+        "original": "furfural"
+      },
+      "Catalyst type": {
+        "value": "zeolite",
+        "unit": "Not reported",
+        "original": "zeolite"
+      },
+      "Catalyst composition": {
+        "value": "Sn-MFI",
+        "unit": "Not reported",
+        "original": "Sn-MFI"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "100",
+        "unit": "°C",
+        "original": "100 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "0",
+        "unit": "h",
+        "original": "0 h to 11.5 h"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "1",
+        "unit": "/",
+        "original": "furfural/acetone = 1/10"
+      },
+      "Operation mode": {
+        "value": "batch",
+        "unit": "Not reported",
+        "original": "batch"
+      },
+      "Catalyst loading": {
+        "value": "0.1",
+        "unit": "g",
+        "original": "0.1 g catalyst"
+      },
+      "Product": {
+        "value": "2",
+        "unit": "buten-",
+        "original": "4-(2-furyl)-3-buten-2-one (FAc)"
+      },
+      "Conversion rate": {
+        "value": "80",
+        "unit": "%",
+        "original": "80% (Sn-MFI, 6h)"
+      },
+      "Product yield": {
+        "value": "61",
+        "unit": "%",
+        "original": "61% FAc (Sn-MFI, 6h)"
+      },
+      "Product Selectivity": {
+        "value": "68",
+        "unit": "%",
+        "original": "68% FAc (Sn-MFI)"
+      },
+      "Catalyst stability": {
+        "value": "550",
+        "unit": "°C",
+        "original": "Deactivation due to humin formation, regenerable by calcination at 550°C"
+      },
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction",
+      "experiment_description": "在Sn-MFI和Sn-Beta沸石催化剂上，糠醛与丙酮进行羟醛缩合反应，生成4-(2-呋喃基)-3-丁烯-2-酮(FAc)和1,5-二-2-呋喃基-1,4-戊二烯-3-酮(F2Ac)",
+      "experiment_id": 1,
+      "text_snippet": "Aldol condensation between furfural and acetone produced two main products, 4-(2-furyl)-3-buten-2-one (FAc) and1,5-di-2-furanyl-1,4-pentadien-3-one (F Ac)."
+    },
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "furfural",
+        "unit": "Not reported",
+        "original": "furfural"
+      },
+      "Catalyst type": {
+        "value": "Lewis acid zeolite",
+        "unit": "Not reported",
+        "original": "Lewis acid zeolite"
+      },
+      "Catalyst composition": {
+        "value": "Sn-MFI",
+        "unit": "Not reported",
+        "original": "Sn-MFI"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "100",
+        "unit": "°C",
+        "original": "100 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "0",
+        "unit": "h",
+        "original": "0 h to 11.5 h"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "1",
+        "unit": "/",
+        "original": "furfural/acetone = 1/10"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.1",
+        "unit": "g",
+        "original": "0.1 g catalyst per reaction"
+      },
+      "Product": {
+        "value": "2",
+        "unit": "buten-",
+        "original": "4-(2-furyl)-3-buten-2-one (FAc)"
+      },
+      "Conversion rate": {
+        "value": "99",
+        "unit": "%",
+        "original": "Up to 99% furfural conversion"
+      },
+      "Product yield": {
+        "value": "61",
+        "unit": "%",
+        "original": "FAc yield: 61% over Sn-MFI"
+      },
+      "Product Selectivity": {
+        "value": "40",
+        "unit": "%",
+        "original": "Sn-Beta: FAc 40%, F2Ac 22%"
+      },
+      "Catalyst stability": {
+        "value": "Deactivation due to humin formation",
+        "unit": "Not reported",
+        "original": "Deactivation due to humin formation"
+      },
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction",
+      "experiment_description": "研究水含量对羟醛缩合反应的影响，发现水的存在会降低反应活性但能改变Sn-Beta上的产物选择性",
+      "experiment_id": 2,
+      "text_snippet": "the effect of water on aldol condensation over Sn-MFI and Sn-Beta was studied with a different amount of water in the reaction system"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

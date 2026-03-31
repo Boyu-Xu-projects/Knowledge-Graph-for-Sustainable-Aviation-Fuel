@@ -1,0 +1,247 @@
+{
+  "file": "Fang - 2023 - On the role of Zr to facilitate the synthesis of diesel and jet fuel range intermediates from biomas.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "羟醛缩合反应",
+        "reaction_type_english": "Aldol condensation reaction",
+        "description": "糠醛(FF)与环己酮(CH)在ZrAPO-5催化剂上进行交叉羟醛缩合反应，生成C11和C16燃料前体。",
+        "text_snippet": "Cross- and self-aldol condensation reactions were conducted in 15mL ACE pressure tubes in an oil bath with a magnetic stirrer. A mixture of FF, catalyst and CH, or a mixture of CH and catalyst, was added to the tube and the tube placed in an oil bath (600rpm) with a designated reaction temperature.",
+        "reaction_type_classify": "Aldol condensation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "羟醛缩合反应",
+        "reaction_type_english": "Aldol condensation reaction",
+        "description": "环己酮(CH)在ZrAPO-5催化剂上进行自羟醛缩合反应，生成C12燃料前体。",
+        "text_snippet": "self-aldol condensation of CH",
+        "reaction_type_classify": "Aldol condensation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "furfural (FF)",
+        "unit": "Not reported",
+        "original": "furfural (FF)"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "ZrAPO-",
+        "original": "Zr-doped aluminum phosphate (ZrAPO-5)"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "with",
+        "original": "ZrAPO-5 with Zr/Al = 0.20"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "120",
+        "unit": "°C",
+        "original": "120°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1h"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "1:2.5",
+        "unit": ":",
+        "original": "FF:CH = 1:2.5"
+      },
+      "Operation mode": {
+        "value": "Batch reaction in pressure tubes",
+        "unit": "Not reported",
+        "original": "Batch reaction in pressure tubes"
+      },
+      "Catalyst loading": {
+        "value": "50",
+        "unit": "mg",
+        "original": "50 mg"
+      },
+      "Product": {
+        "value": "11",
+        "unit": "°C",
+        "original": "C11 (E)-2-(furan-2-ylmethylene)cyclohexan-1-one"
+      },
+      "Conversion rate": {
+        "value": "99.2",
+        "unit": "%",
+        "original": "99.2% FF conversion"
+      },
+      "Product yield": {
+        "value": "79.3",
+        "unit": "%",
+        "original": "79.3% C11 yield"
+      },
+      "Product Selectivity": {
+        "value": "11",
+        "unit": "selectivity",
+        "original": "High C11 selectivity at FF:CH = 1:10"
+      },
+      "Catalyst stability": {
+        "value": "550",
+        "unit": "°C",
+        "original": "Good stability with regeneration by calcination at 550°C"
+      },
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction",
+      "experiment_description": "糠醛(FF)与环己酮(CH)在ZrAPO-5催化剂上进行交叉羟醛缩合反应，生成C11和C16燃料前体。",
+      "experiment_id": 1,
+      "text_snippet": "Cross- and self-aldol condensation reactions were conducted in 15mL ACE pressure tubes in an oil bath with a magnetic stirrer. A mixture of FF, catalyst and CH, or a mixture of CH and catalyst, was added to the tube and the tube placed in an oil bath (600rpm) with a designated reaction temperature."
+    },
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "Cyclohexanone",
+        "unit": "Not reported",
+        "original": "Cyclohexanone"
+      },
+      "Catalyst type": {
+        "value": "Zr-doped aluminum phosphate",
+        "unit": "Not reported",
+        "original": "Zr-doped aluminum phosphate"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "ZrAPO-",
+        "original": "ZrAPO-5 (Zr/Al = 0.20)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "140",
+        "unit": "°C",
+        "original": "140°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "72",
+        "unit": "h",
+        "original": "72 hours"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "100",
+        "unit": "mg",
+        "original": "100 mg per 5 mmol cyclohexanone"
+      },
+      "Product": {
+        "value": "12",
+        "unit": "fuel",
+        "original": "C12 fuel precursor ([1,1'-bi(cyclohexylidene)]-2-one and [1,1'-bi(cyclohexan)]-1'-en-2-one)"
+      },
+      "Conversion rate": {
+        "value": "92.2",
+        "unit": "%",
+        "original": "92.2%"
+      },
+      "Product yield": {
+        "value": "83.3",
+        "unit": "%",
+        "original": "83.3%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Good (recyclable with calcination regeneration)",
+        "unit": "Not reported",
+        "original": "Good (recyclable with calcination regeneration)"
+      },
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction",
+      "experiment_description": "环己酮(CH)在ZrAPO-5催化剂上进行自羟醛缩合反应，生成C12燃料前体。",
+      "experiment_id": 2,
+      "text_snippet": "self-aldol condensation of CH"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "羟醛缩合反应",
+      "reaction_type_english": "Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

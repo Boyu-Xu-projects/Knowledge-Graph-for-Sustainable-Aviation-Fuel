@@ -1,0 +1,135 @@
+{
+  "file": "1500_Guo 等 - 2020 - Catalytic Oligomerization of Isobutyl Alcohol to Hydrocarbon Liquid Fuels over Acidic Zeolite Cataly.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "低聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "在酸性沸石催化剂（H-Y、SAPO-34、H-MOR和Al-MCM-41）上催化异丁醇低聚生成液态烃类燃料，反应包括异丁醇脱水生成异丁烯，随后异丁烯低聚生成C5+烃类",
+        "text_snippet": "Catalytic isobutyl alcohol oligomerization to generate hydrocarbon liquid fuels over zeolite has been investigated over H−Y, SAPO-34, H-MOR zeolite and Al-MCM-41 catalysts",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "Isobutyl alcohol",
+        "unit": "Not reported",
+        "original": "Isobutyl alcohol"
+      },
+      "Catalyst type": {
+        "value": "Acidic zeolite catalysts",
+        "unit": "Not reported",
+        "original": "Acidic zeolite catalysts"
+      },
+      "Catalyst composition": {
+        "value": "H-Y",
+        "unit": "Not reported",
+        "original": "H-Y"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "200",
+        "unit": "°C",
+        "original": "200°C"
+      },
+      "Reaction pressure": {
+        "value": "1.0",
+        "unit": "MPa",
+        "original": "1.0 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1h"
+      },
+      "Atmosphere": {
+        "value": "N₂",
+        "unit": "Not reported",
+        "original": "N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g"
+      },
+      "Product": {
+        "value": "C₄ olefin",
+        "unit": "Not reported",
+        "original": "C₄ olefin"
+      },
+      "Conversion rate": {
+        "value": "94",
+        "unit": "%",
+        "original": "94% (H-MOR, 240°C, 10h)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "63",
+        "unit": "%",
+        "original": "C₅⁺ liquid fuels: 63% (H-MOR)"
+      },
+      "Catalyst stability": {
+        "value": "-600",
+        "unit": "°C",
+        "original": "Deactivation due to coke deposition, especially hard coke between 400-600°C"
+      },
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在酸性沸石催化剂（H-Y、SAPO-34、H-MOR和Al-MCM-41）上催化异丁醇低聚生成液态烃类燃料，反应包括异丁醇脱水生成异丁烯，随后异丁烯低聚生成C5+烃类",
+      "experiment_id": 1,
+      "text_snippet": "Catalytic isobutyl alcohol oligomerization to generate hydrocarbon liquid fuels over zeolite has been investigated over H−Y, SAPO-34, H-MOR zeolite and Al-MCM-41 catalysts"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

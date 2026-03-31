@@ -1,0 +1,135 @@
+{
+  "file": "1414_433-Direct synthesis of W-SBA-15 catalysts and their catalytic performance for metathesis of ethylene and 2-butene to propylene.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "歧化反应",
+        "reaction_type_english": "Metathesis reaction",
+        "description": "在固定床反应器中，使用W-SBA-15分子筛催化剂，在300°C、3.0 MPa压力下，催化乙烯与2-丁烯反应生成丙烯。",
+        "text_snippet": "催化剂的活性评价在中压固定床反应器中进行...反应条件为：300°C，3.0 MPa，2-C4H8/C2H4摩尔比为1∶3...乙烯与2-丁烯歧化制丙烯",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2009",
+        "unit": "year",
+        "original": "2009"
+      },
+      "Feedstock": {
+        "value": "ethylene",
+        "unit": "Not reported",
+        "original": "ethylene"
+      },
+      "Catalyst type": {
+        "value": "-15",
+        "unit": "mesoporous",
+        "original": "W-SBA-15 mesoporous molecular sieve"
+      },
+      "Catalyst composition": {
+        "value": "-15",
+        "unit": "with",
+        "original": "W-SBA-15 with Si/W molar ratios of 44, 30, 20"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "300",
+        "unit": "°C",
+        "original": "300°C"
+      },
+      "Reaction pressure": {
+        "value": "3.0",
+        "unit": "MPa",
+        "original": "3.0 MPa"
+      },
+      "Flow rate": {
+        "value": "6.4",
+        "unit": "h",
+        "original": "WHSV = 6.4 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "24",
+        "unit": "h",
+        "original": "24 h"
+      },
+      "Atmosphere": {
+        "value": "N₂ (CH₄/N₂ molar ratio = 1:1)",
+        "unit": "Not reported",
+        "original": "N₂ (CH₄/N₂ molar ratio = 1:1)"
+      },
+      "Reactant molar ratio": {
+        "value": "3:1",
+        "unit": ":",
+        "original": "ethylene/2-butene = 3:1"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1.0",
+        "unit": "g",
+        "original": "1.0 g"
+      },
+      "Product": {
+        "value": "propylene",
+        "unit": "Not reported",
+        "original": "propylene"
+      },
+      "Conversion rate": {
+        "value": "50",
+        "unit": "%",
+        "original": ">50% (butene conversion after 24 h)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "96",
+        "unit": "%",
+        "original": ">96% (propylene selectivity after 24 h)"
+      },
+      "Catalyst stability": {
+        "value": "24",
+        "unit": "h",
+        "original": "Stable for 24 h continuous operation"
+      },
+      "reaction_type": "歧化反应",
+      "reaction_type_english": "Metathesis reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在固定床反应器中，使用W-SBA-15分子筛催化剂，在300°C、3.0 MPa压力下，催化乙烯与2-丁烯反应生成丙烯。",
+      "experiment_id": 1,
+      "text_snippet": "催化剂的活性评价在中压固定床反应器中进行...反应条件为：300°C，3.0 MPa，2-C4H8/C2H4摩尔比为1∶3...乙烯与2-丁烯歧化制丙烯"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "歧化反应",
+      "reaction_type_english": "Metathesis reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

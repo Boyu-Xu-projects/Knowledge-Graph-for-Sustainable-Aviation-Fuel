@@ -1,0 +1,359 @@
+{
+  "file": "Rozmysłowicz - 2019 - Catalytic valorization of the acetate fraction of biomass to aromatics and its integration into the.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "酮化反应与羟醛缩合反应",
+        "reaction_type_english": "Ketonization and Aldol condensation reaction",
+        "description": "在400°C、10 bar H₂条件下，使用2 wt% Cu/ZrO₂催化剂，通过重量时空速度(WHSV)为0.3 h⁻¹，将纯乙酸升级转化为芳香烃和环烯烃。反应涉及乙酸酮化为丙酮，随后进行羟醛缩合和环化反应。",
+        "text_snippet": "We first carried out the upgrading of pure acetic acid as a model feed over 2 g of 2 wt% Cu/ZrO₂ at a weight hourly space velocity (WHSV) of 0.3 h⁻¹... The process resulted in a liquid product stream that spontaneously separated into an organic oil phase and an aqueous phase, in addition to a gas stream.",
+        "reaction_type_classify": "Aldol condensation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "酮化反应与羟醛缩合反应",
+        "reaction_type_english": "Ketonization and Aldol condensation reaction",
+        "description": "在相同反应条件下，使用0.5 wt% Cu/ZrO₂催化剂升级50 wt%乙酸水溶液。降低铜负载量是为了减少丙酮加氢副反应，促进羟醛缩合。",
+        "text_snippet": "Therefore, we used a catalyst for upgrading the dilute acetic acid feed that had a lower copper loading (0.5 wt%) compared to previous experiments (2 wt%)... At these reaction conditions, the conversion of acetone was reduced to 59.2%.",
+        "reaction_type_classify": "Aldol condensation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "交叉酮化反应与羟醛缩合反应",
+        "reaction_type_english": "Cross-Ketonization and Aldol condensation reaction",
+        "description": "在400°C、10 bar H₂条件下，使用0.5 wt% Cu/ZrO₂催化剂，通过WHSV为0.2 h⁻¹，升级28/12 wt%乙酸/丁酸水溶液混合物。交叉酮化反应生成戊酮等中间体，进一步缩合形成更长碳链的产物。",
+        "text_snippet": "We also performed cross-ketonization of acetic and butanoic acid to further increase the average carbon number of the organic oil... An initial model feed of 28/12 wt% aqueous acetic/butanoic acid feed was used... with a reduced WHSV of 0.2 h⁻¹, because longer chain ketones were slower to condense and required a longer residence time.",
+        "reaction_type_classify": "Aldol condensation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "Acetic acid",
+        "unit": "Not reported",
+        "original": "Acetic acid"
+      },
+      "Catalyst type": {
+        "value": "Cu/ZrO₂",
+        "unit": "Not reported",
+        "original": "Cu/ZrO₂"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "wt%",
+        "original": "2 wt% Cu/ZrO₂"
+      },
+      "Solvent": {
+        "value": "Water",
+        "unit": "Not reported",
+        "original": "Water"
+      },
+      "Reaction temperature": {
+        "value": "400",
+        "unit": "°C",
+        "original": "400°C"
+      },
+      "Reaction pressure": {
+        "value": "10",
+        "unit": "bar",
+        "original": "10 bar"
+      },
+      "Flow rate": {
+        "value": "0.3",
+        "unit": "h",
+        "original": "WHSV = 0.3 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous flow",
+        "unit": "Not reported",
+        "original": "Continuous flow"
+      },
+      "Catalyst loading": {
+        "value": "2",
+        "unit": "g",
+        "original": "2 g"
+      },
+      "Product": {
+        "value": "Aromatics",
+        "unit": "Not reported",
+        "original": "Aromatics"
+      },
+      "Conversion rate": {
+        "value": "Complete conversion of acetic acid",
+        "unit": "%",
+        "original": "Complete conversion of acetic acid"
+      },
+      "Product yield": {
+        "value": "23.7",
+        "unit": "wt%",
+        "original": "23.7 wt% organic oil"
+      },
+      "Product Selectivity": {
+        "value": "C₈-C₁₅ hydrocarbons",
+        "unit": "Not reported",
+        "original": "C₈-C₁₅ hydrocarbons"
+      },
+      "Catalyst stability": {
+        "value": "150",
+        "unit": "h",
+        "original": "Stable for 150 h time on stream with minor deactivation"
+      },
+      "reaction_type": "酮化反应与羟醛缩合反应",
+      "reaction_type_english": "Ketonization and Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction",
+      "experiment_description": "在400°C、10 bar H₂条件下，使用2 wt% Cu/ZrO₂催化剂，通过重量时空速度(WHSV)为0.3 h⁻¹，将纯乙酸升级转化为芳香烃和环烯烃。反应涉及乙酸酮化为丙酮，随后进行羟醛缩合和环化反应。",
+      "experiment_id": 1,
+      "text_snippet": "We first carried out the upgrading of pure acetic acid as a model feed over 2 g of 2 wt% Cu/ZrO₂ at a weight hourly space velocity (WHSV) of 0.3 h⁻¹... The process resulted in a liquid product stream that spontaneously separated into an organic oil phase and an aqueous phase, in addition to a gas st..."
+    },
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "50",
+        "unit": "wt%",
+        "original": "50 wt% acetic acid aqueous solution"
+      },
+      "Catalyst type": {
+        "value": "Cu/ZrO₂",
+        "unit": "Not reported",
+        "original": "Cu/ZrO₂"
+      },
+      "Catalyst composition": {
+        "value": "0.5",
+        "unit": "wt%",
+        "original": "0.5 wt% Cu/ZrO₂"
+      },
+      "Solvent": {
+        "value": "Water",
+        "unit": "Not reported",
+        "original": "Water"
+      },
+      "Reaction temperature": {
+        "value": "400",
+        "unit": "°C",
+        "original": "400 °C"
+      },
+      "Reaction pressure": {
+        "value": "10",
+        "unit": "bar",
+        "original": "10 bar H₂"
+      },
+      "Flow rate": {
+        "value": "0.3",
+        "unit": "h",
+        "original": "WHSV = 0.3 h⁻¹ (for acetic acid), WHSV = 0.2 h⁻¹ (for acetic/butanoic acid mixture)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed continuous flow reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed continuous flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "2",
+        "unit": "g",
+        "original": "2 g"
+      },
+      "Product": {
+        "value": "Aromatics (xylenes, mesitylene)",
+        "unit": "Not reported",
+        "original": "Aromatics (xylenes, mesitylene)"
+      },
+      "Conversion rate": {
+        "value": "Complete conversion of acetic acid",
+        "unit": "%",
+        "original": "Complete conversion of acetic acid"
+      },
+      "Product yield": {
+        "value": "21.2",
+        "unit": "wt%",
+        "original": "Organic oil yield: 21.2 wt% (model acetic acid)"
+      },
+      "Product Selectivity": {
+        "value": "C₈-C₁₅ hydrocarbons (primarily C₉ and C₁₀)",
+        "unit": "Not reported",
+        "original": "C₈-C₁₅ hydrocarbons (primarily C₉ and C₁₀)"
+      },
+      "Catalyst stability": {
+        "value": "150",
+        "unit": "h",
+        "original": "Stable for 150 h time on stream with minor deactivation (acetone conversion dropped from 94.2% to 86.7%); regeneration restored activity"
+      },
+      "reaction_type": "酮化反应与羟醛缩合反应",
+      "reaction_type_english": "Ketonization and Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction",
+      "experiment_description": "在相同反应条件下，使用0.5 wt% Cu/ZrO₂催化剂升级50 wt%乙酸水溶液。降低铜负载量是为了减少丙酮加氢副反应，促进羟醛缩合。",
+      "experiment_id": 2,
+      "text_snippet": "Therefore, we used a catalyst for upgrading the dilute acetic acid feed that had a lower copper loading (0.5 wt%) compared to previous experiments (2 wt%)... At these reaction conditions, the conversion of acetone was reduced to 59.2%."
+    },
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "28",
+        "unit": "/",
+        "original": "28/12 wt% acetic acid/butanoic acid aqueous solution mixture"
+      },
+      "Catalyst type": {
+        "value": "Cu/ZrO₂",
+        "unit": "Not reported",
+        "original": "Cu/ZrO₂"
+      },
+      "Catalyst composition": {
+        "value": "0.5",
+        "unit": "wt%",
+        "original": "0.5 wt% Cu/ZrO₂"
+      },
+      "Solvent": {
+        "value": "Water",
+        "unit": "Not reported",
+        "original": "Water"
+      },
+      "Reaction temperature": {
+        "value": "400",
+        "unit": "°C",
+        "original": "400°C"
+      },
+      "Reaction pressure": {
+        "value": "10",
+        "unit": "bar",
+        "original": "10 bar H₂"
+      },
+      "Flow rate": {
+        "value": "0.2",
+        "unit": "h",
+        "original": "WHSV = 0.2 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous flow",
+        "unit": "Not reported",
+        "original": "Continuous flow"
+      },
+      "Catalyst loading": {
+        "value": "3",
+        "unit": "g",
+        "original": "3 g"
+      },
+      "Product": {
+        "value": "aromatics",
+        "unit": "Not reported",
+        "original": "aromatics"
+      },
+      "Conversion rate": {
+        "value": "Complete conversion of carboxylic acids",
+        "unit": "%",
+        "original": "Complete conversion of carboxylic acids"
+      },
+      "Product yield": {
+        "value": "17.8",
+        "unit": "wt%",
+        "original": "17.8 wt% organic oil (model feed), 16.0 wt% organic oil (biomass-derived feed)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported for cross-ketonization experiments",
+        "unit": "Not reported",
+        "original": "Not reported for cross-ketonization experiments"
+      },
+      "reaction_type": "交叉酮化反应与羟醛缩合反应",
+      "reaction_type_english": "Cross-Ketonization and Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction",
+      "experiment_description": "在400°C、10 bar H₂条件下，使用0.5 wt% Cu/ZrO₂催化剂，通过WHSV为0.2 h⁻¹，升级28/12 wt%乙酸/丁酸水溶液混合物。交叉酮化反应生成戊酮等中间体，进一步缩合形成更长碳链的产物。",
+      "experiment_id": 3,
+      "text_snippet": "We also performed cross-ketonization of acetic and butanoic acid to further increase the average carbon number of the organic oil... An initial model feed of 28/12 wt% aqueous acetic/butanoic acid feed was used... with a reduced WHSV of 0.2 h⁻¹, because longer chain ketones were slower to condense a..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "酮化反应与羟醛缩合反应",
+      "reaction_type_english": "Ketonization and Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "酮化反应与羟醛缩合反应",
+      "reaction_type_english": "Ketonization and Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "交叉酮化反应与羟醛缩合反应",
+      "reaction_type_english": "Cross-Ketonization and Aldol condensation reaction",
+      "reaction_type_classify": "Aldol condensation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

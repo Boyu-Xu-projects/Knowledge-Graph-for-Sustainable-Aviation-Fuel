@@ -1,0 +1,135 @@
+{
+  "file": "1444_Choi 等 - 2022 - Hydro-isomerization of n-dodecane on Pt–LaBeta catalyst for the production of high quality bio-jet.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "异构化反应",
+        "reaction_type_english": "Isomerization reaction",
+        "description": "在连续固定床反应系统中，使用Pt-La/B38催化剂对正十二烷进行低温加氢异构化反应，以生产高质量生物航空燃料。反应在160-340°C、常压和5.85 h⁻¹重时空速下进行。",
+        "text_snippet": "Low-temperature hydro-isomerization was conducted with low temperature and atmospheric pressure in a continuous fixed bed reaction system. The prepared catalyst (400 mg) was inserted into the tubular reactor (quartz, I.D. 5 mm)... As a model compound, n-dodecane (Sigma-Aldrich, >99%) was employed and pumped into the reaction system with 5.85 h⁻¹ weight hourly space velocity (WHSV)...",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "n-dodecane",
+        "unit": "Not reported",
+        "original": "n-dodecane"
+      },
+      "Catalyst type": {
+        "value": "Pt-La/Beta",
+        "unit": "Not reported",
+        "original": "Pt-La/Beta"
+      },
+      "Catalyst composition": {
+        "value": "Pt",
+        "unit": "Not reported",
+        "original": "Pt"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-340",
+        "unit": "°C",
+        "original": "160-340°C"
+      },
+      "Reaction pressure": {
+        "value": "Atmospheric pressure",
+        "unit": "MPa",
+        "original": "Atmospheric pressure"
+      },
+      "Flow rate": {
+        "value": "5.85",
+        "unit": "h",
+        "original": "5.85 h⁻¹ WHSV"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed bed",
+        "unit": "Not reported",
+        "original": "Continuous fixed bed"
+      },
+      "Catalyst loading": {
+        "value": "400",
+        "unit": "mg",
+        "original": "400 mg"
+      },
+      "Product": {
+        "value": "12",
+        "unit": "iso-C",
+        "original": "iso-C12 (branched dodecane isomers)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "Up to 100%"
+      },
+      "Product yield": {
+        "value": "-56.2",
+        "unit": "%",
+        "original": "59.2-56.2% (iso-C12 yield)"
+      },
+      "Product Selectivity": {
+        "value": "12",
+        "unit": "in",
+        "original": "High selectivity to iso-C12 in range of 200-250°C"
+      },
+      "Catalyst stability": {
+        "value": "Stable performance maintained after regeneration by acetone washing",
+        "unit": "Not reported",
+        "original": "Stable performance maintained after regeneration by acetone washing"
+      },
+      "reaction_type": "异构化反应",
+      "reaction_type_english": "Isomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在连续固定床反应系统中，使用Pt-La/B38催化剂对正十二烷进行低温加氢异构化反应，以生产高质量生物航空燃料。反应在160-340°C、常压和5.85 h⁻¹重时空速下进行。",
+      "experiment_id": 1,
+      "text_snippet": "Low-temperature hydro-isomerization was conducted with low temperature and atmospheric pressure in a continuous fixed bed reaction system. The prepared catalyst (400 mg) was inserted into the tubular reactor (quartz, I.D. 5 mm)... As a model compound, n-dodecane (Sigma-Aldrich, >99%) was employed an..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "异构化反应",
+      "reaction_type_english": "Isomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

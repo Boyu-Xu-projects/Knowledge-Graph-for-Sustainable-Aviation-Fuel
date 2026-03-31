@@ -1,0 +1,247 @@
+{
+  "file": "1442_Chintakanan 等 - 2021 - Bio-jet fuel range in biofuels derived from hydroconversion of palm olein over Nizeolite catalysts.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢异构化反应",
+        "reaction_type_english": "Hydroisomerization reaction",
+        "description": "在300 mL间歇式反应器中，使用Ni/沸石催化剂（基于进料棕榈油精的5.7 wt%）进行棕榈油精的加氢转化。催化剂在400°C、10 bar初始H2压力下原位还原2小时。反应在360°C、30-40 bar初始H2压力下进行4小时，搅拌速率为400 rpm。目的是生产具有高异构烷烃含量的生物航煤范围燃料。",
+        "text_snippet": "The hydroconversion of palm olein was performed in a 300-mL batch reactor (Parr Instrument Company). The calcined catalyst (5.7 wt% based on fed palm olein) was loaded into the reactor and in situ reduced under a 10 bar initial H2 pressure (99.99% purity) at 400 °C for 2 h. After cooling down to room temperature, the pressure inside the reactor was released to slightly above 1 bar and 25 mL palm olein was injected into the reactor. The reaction was operated under desired conditions with a constant stirring rate of 400 rpm for 4 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrocracking reaction",
+        "description": "在相同的加氢转化实验装置和条件下，通过改变反应温度（300-380°C）、初始H2压力（25-40 bar）和反应时间（2-8小时）等参数，研究其对产品分布和组成的影响。较高的温度和压力促进了C-C键的断裂，将大分子甘油三酯裂解成更小的生物汽油和生物航煤范围的烃类分子。",
+        "text_snippet": "To maximize the yield of bio-jet containing a high iso-alkanes fraction, the effect of various parameters on the product yields in terms of liquid, solid and gas were calculated based on the amount of fed palm olein... The effect of reaction temperature was evaluated since it directly controls the cracking severity... A higher reaction temperature not only increased the cracking severity, but it also influenced the type of compounds produced during the reaction.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "Palm olein",
+        "unit": "Not reported",
+        "original": "Palm olein"
+      },
+      "Catalyst type": {
+        "value": "Ni/zeolite",
+        "unit": "Not reported",
+        "original": "Ni/zeolite"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "Ni/zeolite (Ni content = 10 wt%)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "360",
+        "unit": "°C",
+        "original": "360°C"
+      },
+      "Reaction pressure": {
+        "value": "-40",
+        "unit": "bar",
+        "original": "30-40 bar initial H2 pressure"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "5.7",
+        "unit": "wt%",
+        "original": "5.7 wt% (based on fed palm olein)"
+      },
+      "Product": {
+        "value": "Bio-jet fuel range hydrocarbons",
+        "unit": "Not reported",
+        "original": "Bio-jet fuel range hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "20.8",
+        "unit": "wt%",
+        "original": "20.8 wt% bio-jet yield (Ni/NH4-Beta, 40 bar)"
+      },
+      "Product Selectivity": {
+        "value": "40",
+        "unit": "bar",
+        "original": "iso-/n-alkane ratio = 1.67 (Ni/NH4-Beta, 40 bar)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在300 mL间歇式反应器中，使用Ni/沸石催化剂（基于进料棕榈油精的5.7 wt%）进行棕榈油精的加氢转化。催化剂在400°C、10 bar初始H2压力下原位还原2小时。反应在360°C、30-40 bar初始H2压力下进行4小时，搅拌速率为400 rpm。目的是生产具有高异构烷烃含量的生物航煤范围燃料。",
+      "experiment_id": 1,
+      "text_snippet": "The hydroconversion of palm olein was performed in a 300-mL batch reactor (Parr Instrument Company). The calcined catalyst (5.7 wt% based on fed palm olein) was loaded into the reactor and in situ reduced under a 10 bar initial H2 pressure (99.99% purity) at 400 °C for 2 h. After cooling down to roo..."
+    },
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "palm olein",
+        "unit": "Not reported",
+        "original": "palm olein"
+      },
+      "Catalyst type": {
+        "value": "Ni/zeolite",
+        "unit": "Not reported",
+        "original": "Ni/zeolite"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "Ni/NH4-Beta (Ni content = 10 wt%)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-380",
+        "unit": "°C",
+        "original": "300-380 °C"
+      },
+      "Reaction pressure": {
+        "value": "-40",
+        "unit": "bar",
+        "original": "25-40 bar initial H2 pressure"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "-8",
+        "unit": "h",
+        "original": "2-8 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "5.7",
+        "unit": "wt%",
+        "original": "5.7 wt% (based on fed palm olein)"
+      },
+      "Product": {
+        "value": "bio-gasoline",
+        "unit": "Not reported",
+        "original": "bio-gasoline"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "-28.7",
+        "unit": "wt%",
+        "original": "Bio-jet yield: 20.8-28.7 wt%"
+      },
+      "Product Selectivity": {
+        "value": "iso-alkanes",
+        "unit": "Not reported",
+        "original": "iso-alkanes"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在相同的加氢转化实验装置和条件下，通过改变反应温度（300-380°C）、初始H2压力（25-40 bar）和反应时间（2-8小时）等参数，研究其对产品分布和组成的影响。较高的温度和压力促进了C-C键的断裂，将大分子甘油三酯裂解成更小的生物汽油和生物航煤范围的烃类分子。",
+      "experiment_id": 2,
+      "text_snippet": "To maximize the yield of bio-jet containing a high iso-alkanes fraction, the effect of various parameters on the product yields in terms of liquid, solid and gas were calculated based on the amount of fed palm olein... The effect of reaction temperature was evaluated since it directly controls the c..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢异构化反应",
+      "reaction_type_english": "Hydroisomerization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

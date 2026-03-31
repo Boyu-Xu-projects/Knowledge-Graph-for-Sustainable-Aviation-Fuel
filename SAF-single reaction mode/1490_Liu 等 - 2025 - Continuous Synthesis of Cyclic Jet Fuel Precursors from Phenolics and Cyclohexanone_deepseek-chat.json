@@ -1,0 +1,583 @@
+{
+  "file": "1490_Liu 等 - 2025 - Continuous Synthesis of Cyclic Jet Fuel Precursors from Phenolics and Cyclohexanone.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 5,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "烷基化反应",
+        "reaction_type_english": "Alkylation reaction",
+        "description": "在氮气氛围下，使用HUSY催化剂研究苯酚和环己酮体系中酸催化的C-C偶联反应网络",
+        "text_snippet": "HUSY was used as a catalyst in a N2 atmosphere to exclude the influence of metal-catalyzed hydrogenation reactions. The C−C coupling reactions in the phenol and cyclohexanone system were conducted by adjusting the reactant composition.",
+        "reaction_type_classify": "Alkylation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "烷基化反应",
+        "reaction_type_english": "Alkylation reaction",
+        "description": "研究金属-酸位点整合方式（0.2Pd/Y、0.2Pd/Al、0.2Pd/Al|Y和0.2Pd/Al−Y）对苯酚和环己酮反应性能的影响",
+        "text_snippet": "the effect of the integration manner of different catalysts on the performance... Reaction conditions: 0.5g of 0.2Pd/Y or 0.5g of 0.2Pd/Al or 1g of 0.2Pd/Al|Y or 1g of 0.2Pd/Al−Y, T=160°C, P=2MPa, LHSV=3mL/(gcat·h), 60 mL/min H2, phenol/cyclohexanone (molar)= 2.5:1.",
+        "reaction_type_classify": "Alkylation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "烷基化反应",
+        "reaction_type_english": "Alkylation reaction",
+        "description": "研究0.2Pd/Al|Y催化剂中0.2Pd/Al与HUSY不同质量比对催化性能的影响",
+        "text_snippet": "we fixed the dosage of 0.2Pd/Al|Y to 1.0 g and varied the mass ratio of 0.2Pd/Al and HUSY components.",
+        "reaction_type_classify": "Alkylation reaction"
+      },
+      {
+        "experiment_id": 4,
+        "reaction_type": "烷基化反应",
+        "reaction_type_english": "Alkylation reaction",
+        "description": "研究xPd/Al|Y催化剂中不同Pd负载量（0.2, 0.3, 0.4, 0.6, 1.0 wt%）对催化性能的影响",
+        "text_snippet": "we varied the Pd loading in Pd/Al while fixing a mass ratio of Pd/Al and Y in xPd/Al|Y to 1. We prepared xPd/Al series catalysts with different Pd loadings: 0.2, 0.3, 0.4, 0.6, and 1.0 wt%.",
+        "reaction_type_classify": "Alkylation reaction"
+      },
+      {
+        "experiment_id": 5,
+        "reaction_type": "烷基化反应",
+        "reaction_type_english": "Alkylation reaction",
+        "description": "研究0.2Pd/Al|Y催化剂对不同木质素衍生酚类（愈创木酚、2,6-二甲氧基苯酚、丁子香酚）与环己酮反应的适用性",
+        "text_snippet": "0.2Pd/Al|Y was employed for the hydrogenation and C−C coupling reaction of other lignin-derived phenolics (including guaiacol, 2,6-dimethoxyphenol, and eugenol) to produce high-density fuel precursors.",
+        "reaction_type_classify": "Alkylation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Phenol",
+        "unit": "Not reported",
+        "original": "Phenol"
+      },
+      "Catalyst type": {
+        "value": "Zeolite",
+        "unit": "Not reported",
+        "original": "Zeolite"
+      },
+      "Catalyst composition": {
+        "value": "HUSY",
+        "unit": "Not reported",
+        "original": "HUSY"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "160",
+        "unit": "°C",
+        "original": "160 °C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "3",
+        "unit": "mL/",
+        "original": "3 mL/(g_cat·h)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "2.5:1",
+        "unit": ":",
+        "original": "Phenol:Cyclohexanone = 2.5:1"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "-1.0",
+        "unit": "g",
+        "original": "0.5-1.0 g"
+      },
+      "Product": {
+        "value": "Bi- and tricyclic jet fuel precursors",
+        "unit": "Not reported",
+        "original": "Bi- and tricyclic jet fuel precursors"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "91.37",
+        "unit": "%",
+        "original": "91.37% (0.2Pd/Y), 91.17% (0.2Pd/Al|Y), 88.53% (0.2Pd/Al-Y)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Pd/Al|Y exhibited the best stability",
+        "unit": "Not reported",
+        "original": "Pd/Al|Y exhibited the best stability"
+      },
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction",
+      "experiment_description": "在氮气氛围下，使用HUSY催化剂研究苯酚和环己酮体系中酸催化的C-C偶联反应网络",
+      "experiment_id": 1,
+      "text_snippet": "HUSY was used as a catalyst in a N2 atmosphere to exclude the influence of metal-catalyzed hydrogenation reactions. The C−C coupling reactions in the phenol and cyclohexanone system were conducted by adjusting the reactant composition."
+    },
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Phenol",
+        "unit": "Not reported",
+        "original": "Phenol"
+      },
+      "Catalyst type": {
+        "value": "Metal-acid bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Metal-acid bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "0.2",
+        "unit": "Pd/Y",
+        "original": "0.2Pd/Y"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "160",
+        "unit": "°C",
+        "original": "160 °C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "60",
+        "unit": "mL/min",
+        "original": "60 mL/min H₂"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "2.5:1",
+        "unit": ":",
+        "original": "Phenol:Cyclohexanone = 2.5:1"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g of 0.2Pd/Y or 0.5 g of 0.2Pd/Al or 1.0 g of 0.2Pd/Al|Y or 1.0 g of 0.2Pd/Al−Y"
+      },
+      "Product": {
+        "value": "Bi- and tricyclic jet fuel precursors",
+        "unit": "Not reported",
+        "original": "Bi- and tricyclic jet fuel precursors"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "91.37",
+        "unit": "%",
+        "original": "91.37% for 0.2Pd/Y"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "0.2",
+        "unit": "Pd/Al",
+        "original": "0.2Pd/Al|Y exhibited the best stability"
+      },
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction",
+      "experiment_description": "研究金属-酸位点整合方式（0.2Pd/Y、0.2Pd/Al、0.2Pd/Al|Y和0.2Pd/Al−Y）对苯酚和环己酮反应性能的影响",
+      "experiment_id": 2,
+      "text_snippet": "the effect of the integration manner of different catalysts on the performance... Reaction conditions: 0.5g of 0.2Pd/Y or 0.5g of 0.2Pd/Al or 1g of 0.2Pd/Al|Y or 1g of 0.2Pd/Al−Y, T=160°C, P=2MPa, LHSV=3mL/(gcat·h), 60 mL/min H2, phenol/cyclohexanone (molar)= 2.5:1."
+    },
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Phenol",
+        "unit": "Not reported",
+        "original": "Phenol"
+      },
+      "Catalyst type": {
+        "value": "Metal-acid bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Metal-acid bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "Pd",
+        "unit": "Not reported",
+        "original": "Pd"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "160",
+        "unit": "°C",
+        "original": "160 °C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "60",
+        "unit": "mL/min",
+        "original": "60 mL/min H₂"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "2.5:1",
+        "unit": ":",
+        "original": "Phenol/cyclohexanone = 2.5:1"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g"
+      },
+      "Product": {
+        "value": "Bicyclic compounds",
+        "unit": "Not reported",
+        "original": "Bicyclic compounds"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "Phenol: ~100%"
+      },
+      "Product yield": {
+        "value": "-91.37",
+        "unit": "%",
+        "original": "Target products carbon yield: 57.24-91.37%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "0.2",
+        "unit": "Pd/Al",
+        "original": "0.2Pd/Al|Y exhibited the best stability among tested catalysts"
+      },
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction",
+      "experiment_description": "研究0.2Pd/Al|Y催化剂中0.2Pd/Al与HUSY不同质量比对催化性能的影响",
+      "experiment_id": 3,
+      "text_snippet": "we fixed the dosage of 0.2Pd/Al|Y to 1.0 g and varied the mass ratio of 0.2Pd/Al and HUSY components."
+    },
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Phenol",
+        "unit": "Not reported",
+        "original": "Phenol"
+      },
+      "Catalyst type": {
+        "value": "Metal-acid bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Metal-acid bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "Pd",
+        "unit": "Not reported",
+        "original": "Pd"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "160",
+        "unit": "°C",
+        "original": "160 °C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "60",
+        "unit": "mL/min",
+        "original": "60 mL/min H₂"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "2.5:1",
+        "unit": ":",
+        "original": "Phenol/cyclohexanone = 2.5:1"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.2",
+        "unit": "wt%",
+        "original": "0.2 wt%"
+      },
+      "Product": {
+        "value": "Bicyclic compounds",
+        "unit": "Not reported",
+        "original": "Bicyclic compounds"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "Phenol: ~100%"
+      },
+      "Product yield": {
+        "value": "-91.37",
+        "unit": "%",
+        "original": "68.51-91.37% carbon yield"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "0.2",
+        "unit": "Pd/Al",
+        "original": "0.2Pd/Al|Y showed best stability with slower deactivation rate"
+      },
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction",
+      "experiment_description": "研究xPd/Al|Y催化剂中不同Pd负载量（0.2, 0.3, 0.4, 0.6, 1.0 wt%）对催化性能的影响",
+      "experiment_id": 4,
+      "text_snippet": "we varied the Pd loading in Pd/Al while fixing a mass ratio of Pd/Al and Y in xPd/Al|Y to 1. We prepared xPd/Al series catalysts with different Pd loadings: 0.2, 0.3, 0.4, 0.6, and 1.0 wt%."
+    },
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "guaiacol",
+        "unit": "Not reported",
+        "original": "guaiacol"
+      },
+      "Catalyst type": {
+        "value": "Metal-acid bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Metal-acid bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "Pd and HUSY",
+        "unit": "Not reported",
+        "original": "Pd and HUSY"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "220",
+        "unit": "°C",
+        "original": "220 °C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "60",
+        "unit": "mL/min",
+        "original": "60 mL/min H₂"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "1:1",
+        "unit": ":",
+        "original": "Phenolics/cyclohexanone (weight) = 1:1"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "g",
+        "original": "1 g of 0.2Pd/Al|Y"
+      },
+      "Product": {
+        "value": "bi- and tricyclic jet fuel precursors",
+        "unit": "Not reported",
+        "original": "bi- and tricyclic jet fuel precursors"
+      },
+      "Conversion rate": {
+        "value": "58.03",
+        "unit": "%",
+        "original": "{'guaiacol': '58.03%', '2,6-dimethoxyphenol': '53.59%', 'eugenol': '100%'}"
+      },
+      "Product yield": {
+        "value": "68.51",
+        "unit": "%",
+        "original": "{'guaiacol': '68.51% carbon yield', '2,6-dimethoxyphenol': '57.24% carbon yield', 'eugenol': '68.79% carbon yield'}"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "0.2",
+        "unit": "Pd/Al",
+        "original": "0.2Pd/Al|Y exhibited the best stability among tested catalysts"
+      },
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction",
+      "experiment_description": "研究0.2Pd/Al|Y催化剂对不同木质素衍生酚类（愈创木酚、2,6-二甲氧基苯酚、丁子香酚）与环己酮反应的适用性",
+      "experiment_id": 5,
+      "text_snippet": "0.2Pd/Al|Y was employed for the hydrogenation and C−C coupling reaction of other lignin-derived phenolics (including guaiacol, 2,6-dimethoxyphenol, and eugenol) to produce high-density fuel precursors."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction"
+    },
+    {
+      "experiment_id": 4,
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction"
+    },
+    {
+      "experiment_id": 5,
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

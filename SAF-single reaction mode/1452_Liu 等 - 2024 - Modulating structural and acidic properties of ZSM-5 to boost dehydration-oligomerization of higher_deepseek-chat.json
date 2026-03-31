@@ -1,0 +1,135 @@
+{
+  "file": "1452_Liu 等 - 2024 - Modulating structural and acidic properties of ZSM-5 to boost dehydration-oligomerization of higher.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "脱水-低聚反应",
+        "reaction_type_english": "Dehydration-oligomerization",
+        "description": "在连续固定床反应器中，使用分级多孔板状HZSM-5催化剂（P40(0.2)）催化C4+高级醇（如正丁醇、正己醇、2-乙基丁醇、2-乙基-1-己醇及其混合物）的脱水-低聚反应，生成C8-C16喷气燃料前体。反应条件为260°C、2 MPa氮气压力、0.2 h⁻¹液时空速。",
+        "text_snippet": "Dehydration-oligomerization of the C4+ higher alcohols was performed in a continuous fixed bed device with a stainless-steel tube reactor... The C4+higher alcohols were then pumped into the reactor, then the generated samples were taken for analysis with time on stream (TOS).",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "n-butanol",
+        "unit": "Not reported",
+        "original": "n-butanol"
+      },
+      "Catalyst type": {
+        "value": "-5",
+        "unit": "zeolite",
+        "original": "HZSM-5 zeolite"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "Hierarchically porous plate-like HZSM-5 (P40(0.2))"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "260",
+        "unit": "°C",
+        "original": "260°C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "0.2",
+        "unit": "h",
+        "original": "0.2 h⁻¹ LHSV"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "g",
+        "original": "1 g"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "jet",
+        "original": "C8-C16 jet fuel precursors"
+      },
+      "Conversion rate": {
+        "value": "95",
+        "unit": "%",
+        "original": ">95% (for various alcohols)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "66.4",
+        "unit": "%",
+        "original": "66.4% (C8-C16 products selectivity for n-butanol)"
+      },
+      "Catalyst stability": {
+        "value": "94",
+        "unit": "%",
+        "original": "Good stability with >94% conversion after 48 hours for plate-like catalysts"
+      },
+      "reaction_type": "脱水-低聚反应",
+      "reaction_type_english": "Dehydration-oligomerization",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在连续固定床反应器中，使用分级多孔板状HZSM-5催化剂（P40(0.2)）催化C4+高级醇（如正丁醇、正己醇、2-乙基丁醇、2-乙基-1-己醇及其混合物）的脱水-低聚反应，生成C8-C16喷气燃料前体。反应条件为260°C、2 MPa氮气压力、0.2 h⁻¹液时空速。",
+      "experiment_id": 1,
+      "text_snippet": "Dehydration-oligomerization of the C4+ higher alcohols was performed in a continuous fixed bed device with a stainless-steel tube reactor... The C4+higher alcohols were then pumped into the reactor, then the generated samples were taken for analysis with time on stream (TOS)."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "脱水-低聚反应",
+      "reaction_type_english": "Dehydration-oligomerization",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

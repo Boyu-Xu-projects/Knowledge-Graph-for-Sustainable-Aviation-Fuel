@@ -1,0 +1,359 @@
+{
+  "file": "1454_Li 等 - 2025 - Aromatization-free strategy for sustainable aviation fuel Co-upcycling waste oils and polystyrene p.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用Pd/SBA-15、Pd/HZSM-5和Pd/USY催化剂对月桂酸进行气相催化氢化，评估催化剂酸度对C8-C16航空燃料范围烃类选择性的影响。",
+        "text_snippet": "Gas-phase catalytic hydrogenation (GCH) experiments were conducted using a two-stage pressurized fixed-bed reactor. In the first stage, lauric acid was vaporized, and the vapor was then introduced into the second-stage reactor for catalytic hydrogenation. The reaction was performed under the following conditions: 320 ◦C, 0.15 MPa, with 5 mg of catalyst, ensuring a catalyst-to-feed (C/F) mass ratio of 10:1.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用Pd/SBA-15、Pd/HZSM-5和Pd/USY催化剂对苯乙烯进行气相催化氢化，评估催化剂对芳香烃选择性的影响。",
+        "text_snippet": "Styrene, which represents the aromatic-rich structure of waste plastics such as PS, was subjected to gas-phase catalytic hydrogenation under identical reaction conditions. As shown in Fig. 4and S7, all three catalysts achieved complete styrene conversion, demonstrating high catalytic activity.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "共氢化反应",
+        "reaction_type_english": "Co-hydrogenation reaction",
+        "description": "使用Pd/SBA-15、Pd/HZSM-5和Pd/USY催化剂对月桂酸和苯乙烯混合物进行共处理，模拟废油和PS废塑料的同时升级，评估催化剂对C8-C16烃类选择性的影响。",
+        "text_snippet": "The co-processing of lauric acid and styrene was studied to model the concurrent upgrading of waste oils and PS waste plastics. As shown in Fig. 5and S8, all three catalysts achieved high conversion of both model compounds.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Lauric acid",
+        "unit": "Not reported",
+        "original": "Lauric acid"
+      },
+      "Catalyst type": {
+        "value": "15",
+        "unit": "Pd/SBA-",
+        "original": "Pd/SBA-15"
+      },
+      "Catalyst composition": {
+        "value": "1.5",
+        "unit": "wt%",
+        "original": "1.5 wt% Pd on SBA-15"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350 °C"
+      },
+      "Reaction pressure": {
+        "value": "0.15",
+        "unit": "MPa",
+        "original": "0.15 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Gas-phase catalytic hydrogenation in a pressurized fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Gas-phase catalytic hydrogenation in a pressurized fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "mg",
+        "original": "5 mg"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "hydrocarbons",
+        "original": "C8-C16 hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "Complete conversion achieved with all catalysts",
+        "unit": "%",
+        "original": "Complete conversion achieved with all catalysts"
+      },
+      "Product yield": {
+        "value": "71.0",
+        "unit": "wt%",
+        "original": "71.0 wt% C8-C16 jet fuel components with Pd/SBA-15"
+      },
+      "Product Selectivity": {
+        "value": "84.5",
+        "unit": "%",
+        "original": "84.5% selectivity for C8-C16 jet fuel with Pd/SBA-15"
+      },
+      "Catalyst stability": {
+        "value": "-15",
+        "unit": "maintained",
+        "original": "Pd/SBA-15 maintained consistent performance over 10 repeated cycles, with jet fuel yield remaining above 63.0 wt% after 10 cycles"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用Pd/SBA-15、Pd/HZSM-5和Pd/USY催化剂对月桂酸进行气相催化氢化，评估催化剂酸度对C8-C16航空燃料范围烃类选择性的影响。",
+      "experiment_id": 1,
+      "text_snippet": "Gas-phase catalytic hydrogenation (GCH) experiments were conducted using a two-stage pressurized fixed-bed reactor. In the first stage, lauric acid was vaporized, and the vapor was then introduced into the second-stage reactor for catalytic hydrogenation. The reaction was performed under the followi..."
+    },
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "waste oils",
+        "unit": "Not reported",
+        "original": "waste oils"
+      },
+      "Catalyst type": {
+        "value": "15",
+        "unit": "Pd/SBA-",
+        "original": "Pd/SBA-15"
+      },
+      "Catalyst composition": {
+        "value": "1.5",
+        "unit": "wt%",
+        "original": "1.5 wt% Pd supported on SBA-15, HZSM-5, or USY"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "480",
+        "unit": "°C",
+        "original": "480 °C (co-hydropyrolysis)"
+      },
+      "Reaction pressure": {
+        "value": "0.15",
+        "unit": "MPa",
+        "original": "0.15 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "2.5",
+        "unit": "of",
+        "original": "PKO to PS foam mass ratio of 2.5"
+      },
+      "Operation mode": {
+        "value": "Two-stage pressurized fixed-bed reactor system",
+        "unit": "Not reported",
+        "original": "Two-stage pressurized fixed-bed reactor system"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "mg",
+        "original": "5 mg"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "jet",
+        "original": "C8-C16 jet fuel components"
+      },
+      "Conversion rate": {
+        "value": "Complete conversion of styrene achieved with all catalysts",
+        "unit": "%",
+        "original": "Complete conversion of styrene achieved with all catalysts"
+      },
+      "Product yield": {
+        "value": "71.0",
+        "unit": "wt%",
+        "original": "71.0 wt% (Pd/SBA-15)"
+      },
+      "Product Selectivity": {
+        "value": "84.5",
+        "unit": "%",
+        "original": "84.5% selectivity for C8-C16 jet fuel components with Pd/SBA-15"
+      },
+      "Catalyst stability": {
+        "value": "-15",
+        "unit": "maintained",
+        "original": "Pd/SBA-15 maintained consistent catalytic performance over 10 repeated cycles"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用Pd/SBA-15、Pd/HZSM-5和Pd/USY催化剂对苯乙烯进行气相催化氢化，评估催化剂对芳香烃选择性的影响。",
+      "experiment_id": 2,
+      "text_snippet": "Styrene, which represents the aromatic-rich structure of waste plastics such as PS, was subjected to gas-phase catalytic hydrogenation under identical reaction conditions. As shown in Fig. 4and S7, all three catalysts achieved complete styrene conversion, demonstrating high catalytic activity."
+    },
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "lauric acid",
+        "unit": "Not reported",
+        "original": "lauric acid"
+      },
+      "Catalyst type": {
+        "value": "15",
+        "unit": "Pd/SBA-",
+        "original": "Pd/SBA-15"
+      },
+      "Catalyst composition": {
+        "value": "1.5",
+        "unit": "wt%",
+        "original": "1.5 wt% Pd"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "480",
+        "unit": "°C",
+        "original": "480 °C (co-hydropyrolysis)"
+      },
+      "Reaction pressure": {
+        "value": "0.15",
+        "unit": "MPa",
+        "original": "0.15 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "2.5",
+        "unit": "of",
+        "original": "PKO to PS foam mass ratio of 2.5"
+      },
+      "Operation mode": {
+        "value": "Two-stage pressurized fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Two-stage pressurized fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "mg",
+        "original": "5 mg"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "hydrocarbons",
+        "original": "C8-C16 hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "Complete conversion achieved for all catalysts",
+        "unit": "%",
+        "original": "Complete conversion achieved for all catalysts"
+      },
+      "Product yield": {
+        "value": "71.0",
+        "unit": "wt%",
+        "original": "71.0 wt% C8-C16 jet fuel components"
+      },
+      "Product Selectivity": {
+        "value": "84.5",
+        "unit": "%",
+        "original": "84.5% selectivity for C8-C16 jet fuel"
+      },
+      "Catalyst stability": {
+        "value": "10",
+        "unit": "repeated",
+        "original": "Excellent stability, maintaining consistent catalytic performance over 10 repeated cycles"
+      },
+      "reaction_type": "共氢化反应",
+      "reaction_type_english": "Co-hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用Pd/SBA-15、Pd/HZSM-5和Pd/USY催化剂对月桂酸和苯乙烯混合物进行共处理，模拟废油和PS废塑料的同时升级，评估催化剂对C8-C16烃类选择性的影响。",
+      "experiment_id": 3,
+      "text_snippet": "The co-processing of lauric acid and styrene was studied to model the concurrent upgrading of waste oils and PS waste plastics. As shown in Fig. 5and S8, all three catalysts achieved high conversion of both model compounds."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "共氢化反应",
+      "reaction_type_english": "Co-hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

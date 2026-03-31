@@ -1,0 +1,135 @@
+{
+  "file": "1550_Wang 等 - 2024 - Kinetic study of H-abstraction and preliminary pyrolysis of n-decane in post-injection fuels.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在射流搅拌反应器(JSR)中研究正癸烷的燃烧和热解过程，测量各种重要产物的摩尔分数分布",
+        "text_snippet": "The modified model exhibited good agreement with experimental measurements of the mole fractions of various significant products in Jet-stirred reactor (JSR) experiments.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "n-decane",
+        "unit": "Not reported",
+        "original": "n-decane"
+      },
+      "Catalyst type": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst composition": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "2000",
+        "unit": "K",
+        "original": "300–2000 K"
+      },
+      "Reaction pressure": {
+        "value": "100",
+        "unit": "atm",
+        "original": "0.01–100 atm"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Ar",
+        "unit": "Not reported",
+        "original": "Ar"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Jet-stirred reactor (JSR)",
+        "unit": "Not reported",
+        "original": "Jet-stirred reactor (JSR)"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "decyl radicals",
+        "unit": "Not reported",
+        "original": "decyl radicals"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在射流搅拌反应器(JSR)中研究正癸烷的燃烧和热解过程，测量各种重要产物的摩尔分数分布",
+      "experiment_id": 1,
+      "text_snippet": "The modified model exhibited good agreement with experimental measurements of the mole fractions of various significant products in Jet-stirred reactor (JSR) experiments."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

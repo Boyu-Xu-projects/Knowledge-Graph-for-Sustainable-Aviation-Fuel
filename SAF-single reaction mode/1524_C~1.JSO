@@ -1,0 +1,135 @@
+{
+  "file": "1524_Corbetta M. 等 - 2014 - Multi-scale simulation of propane aromatization as a recovery process in the microalgae-to-oil conve.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "芳构化反应",
+        "reaction_type_english": "Aromatization reaction",
+        "description": "在H-ZSM-5催化剂上进行丙烷芳构化反应，将丙烷转化为芳烃（BTX）和氢气，同时产生轻质燃料气体",
+        "text_snippet": "Kinetic studies of propane aromatization over H-ZSM-5 at 500 °C and atmospheric pressure in a wide range of conversions are reported in the literature (Nguyen et al., 2006). Based on these and similar results (Bhan et al., 2005), a general kinetic model for propane aromatization has been developed.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2014",
+        "unit": "year",
+        "original": "2014"
+      },
+      "Feedstock": {
+        "value": "Propane",
+        "unit": "Not reported",
+        "original": "Propane"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "H-ZSM-",
+        "original": "H-ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "H-ZSM-",
+        "original": "H-ZSM-5 (with potential gallium promoter mentioned but not specified for this reaction)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500",
+        "unit": "°C",
+        "original": "500 °C"
+      },
+      "Reaction pressure": {
+        "value": "Atmospheric pressure",
+        "unit": "MPa",
+        "original": "Atmospheric pressure"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor (annular moving-bed catalytic reactor)",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor (annular moving-bed catalytic reactor)"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "BTX (benzene, toluene, xylene)",
+        "unit": "Not reported",
+        "original": "BTX (benzene, toluene, xylene)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "0.484",
+        "unit": "t/h",
+        "original": "Benzene: 0.484 t/h"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "High resistance to deactivation by coke deposition and pore blocking",
+        "unit": "Not reported",
+        "original": "High resistance to deactivation by coke deposition and pore blocking"
+      },
+      "reaction_type": "芳构化反应",
+      "reaction_type_english": "Aromatization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在H-ZSM-5催化剂上进行丙烷芳构化反应，将丙烷转化为芳烃（BTX）和氢气，同时产生轻质燃料气体",
+      "experiment_id": 1,
+      "text_snippet": "Kinetic studies of propane aromatization over H-ZSM-5 at 500 °C and atmospheric pressure in a wide range of conversions are reported in the literature (Nguyen et al., 2006). Based on these and similar results (Bhan et al., 2005), a general kinetic model for propane aromatization has been developed."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "芳构化反应",
+      "reaction_type_english": "Aromatization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

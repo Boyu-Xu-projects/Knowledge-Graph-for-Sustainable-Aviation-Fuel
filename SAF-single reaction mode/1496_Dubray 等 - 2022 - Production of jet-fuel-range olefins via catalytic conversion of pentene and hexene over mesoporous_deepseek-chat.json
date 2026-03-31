@@ -1,0 +1,135 @@
+{
+  "file": "1496_Dubray 等 - 2022 - Production of jet-fuel-range olefins via catalytic conversion of pentene and hexene over mesoporous.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "低聚反应",
+        "reaction_type_english": "Oligomerization reaction",
+        "description": "在连续操作模式下，使用酸性介孔Al-SBA-15催化剂，研究戊烯和己烯混合物的低聚反应，评估不同工艺参数（温度、压力、重时空速、进料组成）对转化率和选择性的影响。",
+        "text_snippet": "oligomerization of pentene and hexene mixtures was studied over acidic mesoporous Al–SBA–15 catalyst in continuous operation, and the impact of different process parameters on conversion and selectivity is thoroughly evaluated.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "pentene",
+        "unit": "Not reported",
+        "original": "pentene"
+      },
+      "Catalyst type": {
+        "value": "15",
+        "unit": "Al-SBA-",
+        "original": "Al-SBA-15"
+      },
+      "Catalyst composition": {
+        "value": "Si/Al≈30",
+        "unit": "Not reported",
+        "original": "Si/Al≈30"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-523",
+        "unit": "K",
+        "original": "423-523 K"
+      },
+      "Reaction pressure": {
+        "value": "-65",
+        "unit": "bar",
+        "original": "35-65 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "1:1",
+        "unit": ":",
+        "original": "1:1 (volume ratio)"
+      },
+      "Operation mode": {
+        "value": "continuous",
+        "unit": "Not reported",
+        "original": "continuous"
+      },
+      "Catalyst loading": {
+        "value": "0.250",
+        "unit": "g",
+        "original": "0.250 g"
+      },
+      "Product": {
+        "value": "10",
+        "unit": "°C",
+        "original": "dimers (C10-C12)"
+      },
+      "Conversion rate": {
+        "value": "10",
+        "unit": "%",
+        "original": "<10% to 90%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "98",
+        "unit": "%",
+        "original": ">98% at <50% conversion"
+      },
+      "Catalyst stability": {
+        "value": "28",
+        "unit": "h",
+        "original": "Deactivation observed over 28 hours (conversion dropped from 90% to 50%)"
+      },
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "在连续操作模式下，使用酸性介孔Al-SBA-15催化剂，研究戊烯和己烯混合物的低聚反应，评估不同工艺参数（温度、压力、重时空速、进料组成）对转化率和选择性的影响。",
+      "experiment_id": 1,
+      "text_snippet": "oligomerization of pentene and hexene mixtures was studied over acidic mesoporous Al–SBA–15 catalyst in continuous operation, and the impact of different process parameters on conversion and selectivity is thoroughly evaluated."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "低聚反应",
+      "reaction_type_english": "Oligomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

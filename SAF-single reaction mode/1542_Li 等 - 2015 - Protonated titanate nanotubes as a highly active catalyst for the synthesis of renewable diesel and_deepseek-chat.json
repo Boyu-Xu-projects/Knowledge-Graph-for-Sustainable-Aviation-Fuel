@@ -1,0 +1,247 @@
+{
+  "file": "1542_Li 等 - 2015 - Protonated titanate nanotubes as a highly active catalyst for the synthesis of renewable diesel and.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "羟烷基化/烷基化反应",
+        "reaction_type_english": "Hydroxyalkylation/alkylation reaction",
+        "description": "使用质子化钛酸盐纳米管（PTNT）作为催化剂，在温和条件下（323K，4-8小时），催化2-甲基呋喃（2-MF）与正丁醛（n-butanal）的羟烷基化/烷基化反应，以高产率（77%）获得HAA产物5,5'-(丁烷-1,1-二基)双(2-甲基呋喃)。该实验还探索了PTNT催化2-MF与其他生物质羰基化合物（如糠醛、丙酮、异丙又丙酮）的反应。",
+        "text_snippet": "The hydroxyalkylation/alkylation (HAA) of 2-methylfuran (2-MF) and n-butanal from lignocellulose... Over it, high yield of HAA product (77%) was achieved under mild reaction conditions. PTNT is also effective for the HAA (or alkylation) reactions between 2-MF and other lignocellulosic carbonyl compounds.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "将实验1中得到的HAA产物（1a）在固定床反应器中，使用沸石分子筛（H-ZSM-5, H-MOR, H-β）负载的镍催化剂（Ni/H-ZSM-5, Ni/H-MOR, Ni/H-β）上进行加氢脱氧（HDO）反应。反应条件为533K，6MPa氢气压力。目的是将含氧的HAA产物转化为可再生柴油和喷气燃料范围的支链烷烃。其中Ni/H-ZSM-5表现出最佳的催化性能和稳定性。",
+        "text_snippet": "The HAA product of 2-MF and n-butanal was converted to diesel and jet fuel range branched alkanes by the hydrodeoxygenation (HDO) over zeolite loaded Ni catalysts. Among them, Ni/H-ZSM-5 demonstrated the best catalytic performance and good stability.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran (2-MF)",
+        "unit": "Not reported",
+        "original": "2-methylfuran (2-MF)"
+      },
+      "Catalyst type": {
+        "value": "Solid acid",
+        "unit": "Not reported",
+        "original": "Solid acid"
+      },
+      "Catalyst composition": {
+        "value": "Protonated titanate nanotube (PTNT)",
+        "unit": "Not reported",
+        "original": "Protonated titanate nanotube (PTNT)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "323",
+        "unit": "K",
+        "original": "323 K"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "-8",
+        "unit": "h",
+        "original": "4-8 hours"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "2:1",
+        "unit": ":",
+        "original": "2-MF to carbonyl compound = 2:1 (for n-butanal, furfural, acetone); 1:1 (for mesityl oxide)"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.15",
+        "unit": "g",
+        "original": "0.15 g per 40 mmol 2-MF and 20 mmol carbonyl compound"
+      },
+      "Product": {
+        "value": "1",
+        "unit": "a",
+        "original": "5,5'-(butane-1,1-diyl)bis(2-methylfuran) (1a)"
+      },
+      "Conversion rate": {
+        "value": "81.5",
+        "unit": "%",
+        "original": "81.5% (2-MF conversion at optimized conditions)"
+      },
+      "Product yield": {
+        "value": "77",
+        "unit": "%",
+        "original": "77% (yield of 1a at optimized conditions)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Slight deactivation observed upon recycling; attributed to pore blocking by polymeric molecules",
+        "unit": "Not reported",
+        "original": "Slight deactivation observed upon recycling; attributed to pore blocking by polymeric molecules"
+      },
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用质子化钛酸盐纳米管（PTNT）作为催化剂，在温和条件下（323K，4-8小时），催化2-甲基呋喃（2-MF）与正丁醛（n-butanal）的羟烷基化/烷基化反应，以高产率（77%）获得HAA产物5,5'-(丁烷-1,1-二基)双(2-甲基呋喃)。该实验还探索了PTNT催化2-MF与其他生物质羰基化合物（如糠醛、丙酮、异丙又丙酮）的反应。",
+      "experiment_id": 1,
+      "text_snippet": "The hydroxyalkylation/alkylation (HAA) of 2-methylfuran (2-MF) and n-butanal from lignocellulose... Over it, high yield of HAA product (77%) was achieved under mild reaction conditions. PTNT is also effective for the HAA (or alkylation) reactions between 2-MF and other lignocellulosic carbonyl compo..."
+    },
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "1",
+        "unit": "a",
+        "original": "HAA product (1a) from hydroxyalkylation/alkylation of 2-methylfuran and n-butanal"
+      },
+      "Catalyst type": {
+        "value": "Zeolite-loaded nickel catalysts",
+        "unit": "Not reported",
+        "original": "Zeolite-loaded nickel catalysts"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "Ni/H-ZSM-",
+        "original": "Ni/H-ZSM-5"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "533",
+        "unit": "K",
+        "original": "533 K"
+      },
+      "Reaction pressure": {
+        "value": "6",
+        "unit": "MPa",
+        "original": "6 MPa"
+      },
+      "Flow rate": {
+        "value": "0.04",
+        "unit": "mL/min",
+        "original": "0.04 mL/min (liquid feedstock), 120 mL/min (H₂ flow)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1.80",
+        "unit": "g",
+        "original": "1.80 g"
+      },
+      "Product": {
+        "value": "Renewable diesel and jet fuel range branched alkanes",
+        "unit": "Not reported",
+        "original": "Renewable diesel and jet fuel range branched alkanes"
+      },
+      "Conversion rate": {
+        "value": "-5",
+        "unit": "and",
+        "original": "Complete conversion (for Ni/H-ZSM-5 and Ni/H-MOR)"
+      },
+      "Product yield": {
+        "value": "90",
+        "unit": "%",
+        "original": "90% (carbon yield for Ni/H-ZSM-5), 79% (carbon yield for Ni/H-MOR)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "-5",
+        "unit": "demonstrated",
+        "original": "Good stability (Ni/H-ZSM-5 demonstrated best catalytic performance and stability)"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "将实验1中得到的HAA产物（1a）在固定床反应器中，使用沸石分子筛（H-ZSM-5, H-MOR, H-β）负载的镍催化剂（Ni/H-ZSM-5, Ni/H-MOR, Ni/H-β）上进行加氢脱氧（HDO）反应。反应条件为533K，6MPa氢气压力。目的是将含氧的HAA产物转化为可再生柴油和喷气燃料范围的支链烷烃。其中Ni/H-ZSM-5表现出最佳的催化性能和稳定性。",
+      "experiment_id": 2,
+      "text_snippet": "The HAA product of 2-MF and n-butanal was converted to diesel and jet fuel range branched alkanes by the hydrodeoxygenation (HDO) over zeolite loaded Ni catalysts. Among them, Ni/H-ZSM-5 demonstrated the best catalytic performance and good stability."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

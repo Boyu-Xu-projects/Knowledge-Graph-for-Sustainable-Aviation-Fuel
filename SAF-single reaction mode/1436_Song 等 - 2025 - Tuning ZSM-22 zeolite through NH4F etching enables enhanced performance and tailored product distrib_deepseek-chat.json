@@ -1,0 +1,135 @@
+{
+  "file": "1436_Song 等 - 2025 - Tuning ZSM-22 zeolite through NH4F etching enables enhanced performance and tailored product distrib.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "异构化反应",
+        "reaction_type_english": "Isomerization reaction",
+        "description": "使用经NH4F蚀刻处理的Pt/ZSM-22催化剂，在固定床反应器中催化正癸烷(n-decane)的异构化反应，以生产可持续航空燃料(SAF)。反应条件为：H2与正癸烷体积比800，液时空速(LHSV)为2 h⁻¹，压力2.0 MPa，通过改变温度来评估催化性能。",
+        "text_snippet": "n-Decane (n-C10) isomerization was used as a probe reaction to investigate the catalytic performance of various catalysts. The catalytic performance toward n-decane isomerization was evaluated in a fixed-bed reactor... Reaction conditions for various catalysts were controlled as follows: 800 vol ratios of H2 to n-decane, 2 h⁻¹ vol hourly space velocity (LHSV), and 2.0 MPa pressure.",
+        "reaction_type_classify": "Oligomer-Isomer reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "n-decane",
+        "unit": "Not reported",
+        "original": "n-decane"
+      },
+      "Catalyst type": {
+        "value": "22",
+        "unit": "Pt/ZSM-",
+        "original": "Pt/ZSM-22"
+      },
+      "Catalyst composition": {
+        "value": "0.5",
+        "unit": "wt%",
+        "original": "Pt/ZSM-22 (0.5 wt% Pt loading)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "Variable (changed to assess catalytic performance)",
+        "unit": "°C",
+        "original": "Variable (changed to assess catalytic performance)"
+      },
+      "Reaction pressure": {
+        "value": "2.0",
+        "unit": "MPa",
+        "original": "2.0 MPa"
+      },
+      "Flow rate": {
+        "value": "2",
+        "unit": "h",
+        "original": "LHSV = 2 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "H₂ to n-decane volume ratio = 800",
+        "unit": "Not reported",
+        "original": "H₂ to n-decane volume ratio = 800"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "Isomers of n-decane",
+        "unit": "Not reported",
+        "original": "Isomers of n-decane"
+      },
+      "Conversion rate": {
+        "value": "91.4",
+        "unit": "%",
+        "original": "Up to 91.4% (highest achieved)"
+      },
+      "Product yield": {
+        "value": "82.1",
+        "unit": "%",
+        "original": "Isomer yield up to 82.1% (highest achieved)"
+      },
+      "Product Selectivity": {
+        "value": "Mono-branched isomers",
+        "unit": "Not reported",
+        "original": "Mono-branched isomers"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "异构化反应",
+      "reaction_type_english": "Isomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction",
+      "experiment_description": "使用经NH4F蚀刻处理的Pt/ZSM-22催化剂，在固定床反应器中催化正癸烷(n-decane)的异构化反应，以生产可持续航空燃料(SAF)。反应条件为：H2与正癸烷体积比800，液时空速(LHSV)为2 h⁻¹，压力2.0 MPa，通过改变温度来评估催化性能。",
+      "experiment_id": 1,
+      "text_snippet": "n-Decane (n-C10) isomerization was used as a probe reaction to investigate the catalytic performance of various catalysts. The catalytic performance toward n-decane isomerization was evaluated in a fixed-bed reactor... Reaction conditions for various catalysts were controlled as follows: 800 vol rat..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "异构化反应",
+      "reaction_type_english": "Isomerization reaction",
+      "reaction_type_classify": "Oligomer-Isomer reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}
