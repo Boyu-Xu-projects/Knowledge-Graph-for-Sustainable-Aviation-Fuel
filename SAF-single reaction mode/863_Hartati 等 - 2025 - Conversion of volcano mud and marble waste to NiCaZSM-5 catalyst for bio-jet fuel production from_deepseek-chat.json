@@ -1,0 +1,135 @@
+{
+  "file": "863_Hartati 等 - 2025 - Conversion of volcano mud and marble waste to NiCaZSM-5 catalyst for bio-jet fuel production from.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "脱氧反应",
+        "reaction_type_english": "Deoxygenation reaction",
+        "description": "使用Ni/Ca/ZSM-5催化剂，在380°C下对废食用油进行催化脱氧反应，生产生物航空燃料。反应在100 mL三颈烧瓶中进行，持续4小时，催化剂负载量为3 wt%。",
+        "text_snippet": "The deoxygenation reaction was carried out in a 100 mL three-neck flask... Weighed 10 g of waste cooking oil was mixed with 3 wt% of catalyst. The mixture was stirred and heated at 380 ◦C. The reaction was carried out for 4.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Waste cooking oil",
+        "unit": "Not reported",
+        "original": "Waste cooking oil"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "Ni/Ca/ZSM-",
+        "original": "Ni/Ca/ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "Ni",
+        "unit": "Not reported",
+        "original": "Ni"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "380",
+        "unit": "°C",
+        "original": "380°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "3",
+        "unit": "wt%",
+        "original": "3 wt%"
+      },
+      "Product": {
+        "value": "Bio-jet fuel",
+        "unit": "Not reported",
+        "original": "Bio-jet fuel"
+      },
+      "Conversion rate": {
+        "value": "96.65",
+        "unit": "%",
+        "original": "96.65%"
+      },
+      "Product yield": {
+        "value": "81.74",
+        "unit": "%",
+        "original": "81.74%"
+      },
+      "Product Selectivity": {
+        "value": "66.6",
+        "unit": "%",
+        "original": "66.6% towards C15-C17 hydrocarbons"
+      },
+      "Catalyst stability": {
+        "value": "86.14",
+        "unit": "%",
+        "original": "86.14% conversion after sixth reaction cycle"
+      },
+      "reaction_type": "脱氧反应",
+      "reaction_type_english": "Deoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用Ni/Ca/ZSM-5催化剂，在380°C下对废食用油进行催化脱氧反应，生产生物航空燃料。反应在100 mL三颈烧瓶中进行，持续4小时，催化剂负载量为3 wt%。",
+      "experiment_id": 1,
+      "text_snippet": "The deoxygenation reaction was carried out in a 100 mL three-neck flask... Weighed 10 g of waste cooking oil was mixed with 3 wt% of catalyst. The mixture was stirred and heated at 380 ◦C. The reaction was carried out for 4."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "脱氧反应",
+      "reaction_type_english": "Deoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}
