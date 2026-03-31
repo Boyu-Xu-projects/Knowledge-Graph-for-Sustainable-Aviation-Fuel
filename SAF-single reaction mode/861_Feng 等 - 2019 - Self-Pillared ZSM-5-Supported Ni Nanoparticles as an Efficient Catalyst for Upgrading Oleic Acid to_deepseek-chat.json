@@ -1,0 +1,38 @@
+{
+  "file": "Feng - 2019 - SSelf-Pillared ZSM-5-Supported Ni Nanoparticles as an Efficient Catalyst for Upgrading Oleic Acid to Aviation-Fuel-Range-Alkanes",
+  "model": "deepseek-chat",
+  "experiments": [
+    {
+      "reaction_mode": "Hydrogenation reaction",
+      "Year": {"original": "2019"},
+      "Feedstock": {"original": "Oleic acid"},
+      "Catalyst": {"original": "Ni (10 wt%) on ZSM-5 with Si/Al ratios of 100, 200, 300"},
+      "Solvent": {"original": "Cyclohexane"},
+      "Reaction temperature": {"original": "260°C"},
+      "Reaction pressure": {"original": "3.0 MPa"},
+      "Flow rate": {"original": "0.40 mL/min"},
+      "Reaction time": {"original": "Not reported"},
+      "Atmosphere": {"original": "H₂"},
+      "Reactant molar ratio": {"original": "H₂/Oil (Nml·mL⁻¹) ratio of 750"},
+      "Product": {"original": "C9-C15 alkanes (aviation-fuel-range alkanes)"},
+      "Conversion rate": {"original": "60-100% (depending on catalyst and temperature)"},
+      "Product yield": {"original": "AFRA yield: 36-40% (max 40% for Ni/SZ(100) at 260°C)"},
+      "Product Selectivity": {"original": "C9-C15 selectivity: ~30-40%"},
+      "Catalyst stability": {"original": "Excellent (100% conversion maintained for 360 min for SP catalysts)"}
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Conversion rate": "%",
+    "Product selectivity": "%",
+    "Product yield": "%"
+  }
+}
+
+
+
+
+
