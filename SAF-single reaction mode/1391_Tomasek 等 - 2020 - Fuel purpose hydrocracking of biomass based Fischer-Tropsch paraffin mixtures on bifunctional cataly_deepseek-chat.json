@@ -1,0 +1,135 @@
+{
+  "file": "1391_Tomasek 等 - 2020 - Fuel purpose hydrocracking of biomass based Fischer-Tropsch paraffin mixtures on bifunctional cataly.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrocracking reaction",
+        "description": "在Pt/H-Mordenite和Pt/ZrO2(W)双功能催化剂上，对两种生物质基费托石蜡混合物（WAXA: C16-C46; WAXB: C11-C45）进行加氢裂化。反应在300-350°C、40 bar压力、H2/烃体积比600的条件下进行，液体空速(LHSV)在0.5-2.0 h⁻¹范围内变化。研究了C21+转化率以及气体、汽油、喷气燃料和柴油馏分的产率和组成。",
+        "text_snippet": "Two biomass-based Fischer-Tropsch paraffins comprising of 16–46 and11–45carbon number range alkanes werehydrocrackedoverzeolitemordeniteandtungstated-zirconia-supportedplatinumcatalysts.Thereaction wascarriedoutinthetemperaturerangeof300–350°C,at40barpressureandhydrogen/hydrocarbonvolumeratioof600.Theliquidhourlyspacevelocitywasvariedintherangeof0.5and2.0h−1.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "16",
+        "unit": "°C",
+        "original": "WAXA: C16-C46"
+      },
+      "Catalyst type": {
+        "value": "Pt/H-Mordenite",
+        "unit": "Not reported",
+        "original": "Pt/H-Mordenite"
+      },
+      "Catalyst composition": {
+        "value": "1.0",
+        "unit": "wt%",
+        "original": "1.0 wt% Pt on H-Mordenite zeolite"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-350",
+        "unit": "°C",
+        "original": "300-350°C"
+      },
+      "Reaction pressure": {
+        "value": "40",
+        "unit": "bar",
+        "original": "40 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/hydrocarbon",
+        "original": "H2/hydrocarbon volume ratio = 600"
+      },
+      "Operation mode": {
+        "value": "Continuous",
+        "unit": "Not reported",
+        "original": "Continuous"
+      },
+      "Catalyst loading": {
+        "value": "1.0",
+        "unit": "g",
+        "original": "1.0 g catalyst"
+      },
+      "Product": {
+        "value": "1",
+        "unit": "°C",
+        "original": "Gas (C1-C4)"
+      },
+      "Conversion rate": {
+        "value": "-63.1",
+        "unit": "wt%",
+        "original": "C21+ conversion: 0.7-63.1 wt%"
+      },
+      "Product yield": {
+        "value": "-31.3",
+        "unit": "wt%",
+        "original": "Gas: 0.5-31.3 wt%"
+      },
+      "Product Selectivity": {
+        "value": "-85.0",
+        "unit": "wt%",
+        "original": "Isoparaffin content in C1-C21: 5.0-85.0 wt%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Pt/H-Mordenite和Pt/ZrO2(W)双功能催化剂上，对两种生物质基费托石蜡混合物（WAXA: C16-C46; WAXB: C11-C45）进行加氢裂化。反应在300-350°C、40 bar压力、H2/烃体积比600的条件下进行，液体空速(LHSV)在0.5-2.0 h⁻¹范围内变化。研究了C21+转化率以及气体、汽油、喷气燃料和柴油馏分的产率和组成。",
+      "experiment_id": 1,
+      "text_snippet": "Two biomass-based Fischer-Tropsch paraffins comprising of 16–46 and11–45carbon number range alkanes werehydrocrackedoverzeolitemordeniteandtungstated-zirconia-supportedplatinumcatalysts.Thereaction wascarriedoutinthetemperaturerangeof300–350°C,at40barpressureandhydrogen/hydrocarbonvolumeratioof600.T..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

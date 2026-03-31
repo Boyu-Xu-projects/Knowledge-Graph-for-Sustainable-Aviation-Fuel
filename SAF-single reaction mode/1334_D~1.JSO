@@ -1,0 +1,247 @@
+{
+  "file": "1334_Dorogochinskii 等 - 1972 - Operation of the 43-102 type industrial catalytic cracking units using the zeolite-containing cataly.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "使用Tseokar-2沸石催化剂对煤油-瓦斯油馏分进行两阶段催化裂化，生产汽油和航空汽油组分",
+        "text_snippet": "the cracking of the kerosine-gasoil fraction using the zeolite-containing catalyst Tseokar-2",
+        "reaction_type_classify": "Cracking reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "使用Tseokar-2催化剂对车用汽油进行精制（第二阶段裂化），提高航空汽油组分的产率",
+        "text_snippet": "the process of refining motor gasoline with the use of Tseokar-2",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "1972",
+        "unit": "year",
+        "original": "1972"
+      },
+      "Feedstock": {
+        "value": "-350",
+        "unit": "°C",
+        "original": "kerosine-gasoil fraction of the Groznyi crudes with an initial boiling point (ibp) of 200-350°C and sulfur content of about 0.12%"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "Tseokar-",
+        "original": "Tseokar-2"
+      },
+      "Catalyst composition": {
+        "value": "16",
+        "unit": "%",
+        "original": "about 16% 'U' type zeolite, 2.3% rare-earth elements, 0.34% sodium oxide, and 0.15% ferric oxide"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "450",
+        "unit": "°C",
+        "original": "450°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Two-stage catalytic cracking",
+        "unit": "Not reported",
+        "original": "Two-stage catalytic cracking"
+      },
+      "Catalyst loading": {
+        "value": "1.6",
+        "unit": ":",
+        "original": "Catalyst:feed volume ratio 1.6:1"
+      },
+      "Product": {
+        "value": "240",
+        "unit": "°C",
+        "original": "motor gasoline (fraction boiling up to 240°C)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "43.80",
+        "unit": "wt%",
+        "original": "{'motor gasoline': ['43.80 wt% (amorphous)', '61.8 wt% (Tseokar-2)'], 'aviation gasoline': ['58.30 wt% (amorphous)', '70.3 wt% (Tseokar-2)'], 'gas': ['21.4-24.9 wt%', '19.0 wt%'], 'coke': ['2.5-4.3 wt%']}"
+      },
+      "Product Selectivity": {
+        "value": "2",
+        "unit": "Tseokar-",
+        "original": "{'motor gasoline to gas ratio': ['3.4 (amorphous)', '5.8 (Tseokar-2)'], 'motor gasoline to coke ratio': ['19.7 (amorphous)', '23.7 (Tseokar-2)']}"
+      },
+      "Catalyst stability": {
+        "value": "2800",
+        "unit": "h",
+        "original": "Catalytic properties did not change during 2800 h of operation"
+      },
+      "reaction_type": "裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "使用Tseokar-2沸石催化剂对煤油-瓦斯油馏分进行两阶段催化裂化，生产汽油和航空汽油组分",
+      "experiment_id": 1,
+      "text_snippet": "the cracking of the kerosine-gasoil fraction using the zeolite-containing catalyst Tseokar-2"
+    },
+    {
+      "Published year": {
+        "value": "1972",
+        "unit": "year",
+        "original": "1972"
+      },
+      "Feedstock": {
+        "value": "-350",
+        "unit": "°C",
+        "original": "kerosine-gasoil fraction of the Groznyi crudes with an initial boiling point (ibp) of 200-350°C and sulfur content of about 0.12%"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "Tseokar-",
+        "original": "Tseokar-2"
+      },
+      "Catalyst composition": {
+        "value": "16",
+        "unit": "%",
+        "original": "about 16% \"U\" type zeolite"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "450",
+        "unit": "°C",
+        "original": "450°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "0.68",
+        "unit": "h",
+        "original": "Space velocity: 0.68 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Two-stage catalytic cracking",
+        "unit": "Not reported",
+        "original": "Two-stage catalytic cracking"
+      },
+      "Catalyst loading": {
+        "value": "Catalyst:feed volume ratio: 1.6:1",
+        "unit": "wt%",
+        "original": "Catalyst:feed volume ratio: 1.6:1"
+      },
+      "Product": {
+        "value": "240",
+        "unit": "°C",
+        "original": "Motor gasoline (fraction boiling up to 240°C)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "61.8",
+        "unit": "wt%",
+        "original": "Motor gasoline yield: 61.8 wt.% (Tseokar-2) vs 43.8 wt.% (amorphous)"
+      },
+      "Product Selectivity": {
+        "value": "2",
+        "unit": "Tseokar-",
+        "original": "Ratio between motor gasoline and gas yields: 5.8 (Tseokar-2) vs 3.4 (amorphous)"
+      },
+      "Catalyst stability": {
+        "value": "2800",
+        "unit": "h",
+        "original": "Catalytic properties did not change during 2800 h of operation"
+      },
+      "reaction_type": "裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "使用Tseokar-2催化剂对车用汽油进行精制（第二阶段裂化），提高航空汽油组分的产率",
+      "experiment_id": 2,
+      "text_snippet": "the process of refining motor gasoline with the use of Tseokar-2"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1141_Chen 等 - 2016 - Catalytic hydroprocessing of fatty acid methyl esters to renewable alkane fuels over NiHZSM-5 catal.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢处理",
+        "reaction_type_english": "Hydroprocessing",
+        "description": "在高压固定床反应器中，使用不同Ni负载量和Si/Al比的Ni/HZSM-5催化剂，对长链不饱和脂肪酸甲酯（FAMEs）进行催化加氢处理，以生产可再生烷烃燃料（C5-C18）。研究了温度、压力、H2/油摩尔比和液时空速（LHSV）等反应条件对转化率和选择性的影响。",
+        "text_snippet": "their catalytic performance was investigated for the hydroprocessing of long-chain unsaturated fatty acid methyl esters (FAMEs) to renewable alkane fuels using a high-pressure fixed bed reactor system... The different Ni loading and Si/Al ratios of the catalysts, as well as the influence of reaction conditions such as temperature, pressure, H2/oil molar ratio, and liquid hourly space velocity (LHSV), were studied in detail.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "Long-chain unsaturated fatty acid methyl esters (FAMEs)",
+        "unit": "Not reported",
+        "original": "Long-chain unsaturated fatty acid methyl esters (FAMEs)"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "Ni/HZSM-",
+        "original": "Ni/HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "with",
+        "original": "Ni/HZSM-5 with different Ni loading (1-15 wt%) and Si/Al ratios (25, 50, 150, 360)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "260",
+        "unit": "°C",
+        "original": "260°C"
+      },
+      "Reaction pressure": {
+        "value": "0.4",
+        "unit": "MPa",
+        "original": "0.4 MPa"
+      },
+      "Flow rate": {
+        "value": "4",
+        "unit": "h",
+        "original": "LHSV = 4 h⁻¹ (optimum)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "H₂/oil molar ratio = 15 (optimum)",
+        "unit": "Not reported",
+        "original": "H₂/oil molar ratio = 15 (optimum)"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.8",
+        "unit": "g",
+        "original": "0.8 g catalyst (40-60 mesh)"
+      },
+      "Product": {
+        "value": "C₅–C₁₈ liquid alkanes",
+        "unit": "Not reported",
+        "original": "C₅–C₁₈ liquid alkanes"
+      },
+      "Conversion rate": {
+        "value": "85.1",
+        "unit": "%",
+        "original": "85.1% (optimum conditions)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "88.2",
+        "unit": "%",
+        "original": "88.2% selectivity for C₅–C₁₈ liquid alkanes"
+      },
+      "Catalyst stability": {
+        "value": "30.1",
+        "unit": "%",
+        "original": "Conversion decreased to 30.1% after 80 h operation due to carbon deposition"
+      },
+      "reaction_type": "加氢处理",
+      "reaction_type_english": "Hydroprocessing",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在高压固定床反应器中，使用不同Ni负载量和Si/Al比的Ni/HZSM-5催化剂，对长链不饱和脂肪酸甲酯（FAMEs）进行催化加氢处理，以生产可再生烷烃燃料（C5-C18）。研究了温度、压力、H2/油摩尔比和液时空速（LHSV）等反应条件对转化率和选择性的影响。",
+      "experiment_id": 1,
+      "text_snippet": "their catalytic performance was investigated for the hydroprocessing of long-chain unsaturated fatty acid methyl esters (FAMEs) to renewable alkane fuels using a high-pressure fixed bed reactor system... The different Ni loading and Si/Al ratios of the catalysts, as well as the influence of reaction..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢处理",
+      "reaction_type_english": "Hydroprocessing",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

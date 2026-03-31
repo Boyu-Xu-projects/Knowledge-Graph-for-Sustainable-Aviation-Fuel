@@ -1,0 +1,135 @@
+{
+  "file": "1387_Hangbing 等 - Fischer-Tropsch synthesis of aviation fuel.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "费托合成",
+        "reaction_type_english": "Fischer-Tropsch synthesis",
+        "description": "在固定床反应器中，使用三种不同的钴基分子筛结构催化剂（Co/H-ZSM-5（微孔）、Co/H-Y（微孔）和Co/H-Y（介孔）），在230-240°C、2.0 MPa、空速3000-6000 h⁻¹的条件下，将合成气（H₂/CO = 2）转化为烃类燃料，并重点评估其对航空煤油（C₈–C₁₆）的选择性。",
+        "text_snippet": "催化剂性能采用费托合成反应系统进行评价...将结构催化剂填充进反应器后，首先使用H₂对催化剂在400℃下还原6h，随后冷却反应器至230℃，通人合成气[n(H₂)/n(CO）=2]，调节气瓶减压阀和装置尾部的背压阀，反应压力为2.0MPa，调节反应温度和压力进行实验。",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "合成气（H₂/CO = 2）",
+        "unit": "Not reported",
+        "original": "合成气（H₂/CO = 2）"
+      },
+      "Catalyst type": {
+        "value": "钴基分子筛结构催化剂",
+        "unit": "Not reported",
+        "original": "钴基分子筛结构催化剂"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "Co/H-ZSM-",
+        "original": "Co/H-ZSM-5（微孔）"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-240",
+        "unit": "°C",
+        "original": "230-240°C"
+      },
+      "Reaction pressure": {
+        "value": "2.0",
+        "unit": "MPa",
+        "original": "2.0 MPa"
+      },
+      "Flow rate": {
+        "value": "-6000",
+        "unit": "h",
+        "original": "3000-6000 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "合成气（H₂/CO = 2）",
+        "unit": "Not reported",
+        "original": "合成气（H₂/CO = 2）"
+      },
+      "Reactant molar ratio": {
+        "value": "H₂/CO = 2",
+        "unit": "Not reported",
+        "original": "H₂/CO = 2"
+      },
+      "Operation mode": {
+        "value": "固定床反应器",
+        "unit": "Not reported",
+        "original": "固定床反应器"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "烃类燃料",
+        "unit": "Not reported",
+        "original": "烃类燃料"
+      },
+      "Conversion rate": {
+        "value": "28.95",
+        "unit": "%",
+        "original": "28.95% (Co/H-Y(介孔), 230°C, 3000 h⁻¹)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "52.12",
+        "unit": "%",
+        "original": "52.12% (Co/H-Y(介孔), 230°C, 3000 h⁻¹)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "费托合成",
+      "reaction_type_english": "Fischer-Tropsch synthesis",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床反应器中，使用三种不同的钴基分子筛结构催化剂（Co/H-ZSM-5（微孔）、Co/H-Y（微孔）和Co/H-Y（介孔）），在230-240°C、2.0 MPa、空速3000-6000 h⁻¹的条件下，将合成气（H₂/CO = 2）转化为烃类燃料，并重点评估其对航空煤油（C₈–C₁₆）的选择性。",
+      "experiment_id": 1,
+      "text_snippet": "催化剂性能采用费托合成反应系统进行评价...将结构催化剂填充进反应器后，首先使用H₂对催化剂在400℃下还原6h，随后冷却反应器至230℃，通人合成气[n(H₂)/n(CO）=2]，调节气瓶减压阀和装置尾部的背压阀，反应压力为2.0MPa，调节反应温度和压力进行实验。"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "费托合成",
+      "reaction_type_english": "Fischer-Tropsch synthesis",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

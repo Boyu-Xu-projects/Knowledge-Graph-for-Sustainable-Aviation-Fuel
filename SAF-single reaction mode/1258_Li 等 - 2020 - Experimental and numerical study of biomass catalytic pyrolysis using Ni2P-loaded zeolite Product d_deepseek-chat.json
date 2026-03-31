@@ -1,0 +1,471 @@
+{
+  "file": "1258_Li 等 - 2020 - Experimental and numerical study of biomass catalytic pyrolysis using Ni2P-loaded zeolite Product d.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 4,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在N2气流下进行非催化热解，考察温度、水葫芦比例等条件对生物油、生物炭和生物气产率及特性的影响。",
+        "text_snippet": "Non-catalytic pyrolysis with only N2 flow",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "催化热解反应",
+        "reaction_type_english": "Catalytic pyrolysis reaction",
+        "description": "在N2气流下，使用Ni2P负载沸石催化剂进行催化热解，研究催化剂比例对产物升级（如脱氧、脱氮）的影响。",
+        "text_snippet": "Catalytic pyrolysis with N2 flow",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "催化热解反应",
+        "reaction_type_english": "Catalytic pyrolysis reaction",
+        "description": "在CO2/N2混合气流下进行催化热解，研究CO2共进料对生物炭比表面积（SSA）和生物气组成（如H2、CO、C2H6）的增强作用。",
+        "text_snippet": "Catalytic pyrolysis with CO2/N2 flow",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 4,
+        "reaction_type": "催化热解反应",
+        "reaction_type_english": "Catalytic pyrolysis reaction",
+        "description": "在蒸汽和CO2/N2混合气流下进行催化热解，研究蒸汽共进料对脂肪烃生成和生物油高热值（HHV）的改善作用。",
+        "text_snippet": "Catalytic pyrolysis with both steam and CO2/N2 flow",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "Water hyacinth (WH)",
+        "unit": "Not reported",
+        "original": "Water hyacinth (WH)"
+      },
+      "Catalyst type": {
+        "value": "Ni₂P-loaded zeolite",
+        "unit": "Not reported",
+        "original": "Ni₂P-loaded zeolite"
+      },
+      "Catalyst composition": {
+        "value": "Ni₂P-loaded zeolite (Si/Al=30)",
+        "unit": "Not reported",
+        "original": "Ni₂P-loaded zeolite (Si/Al=30)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500",
+        "unit": "°C",
+        "original": "350–500 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "100",
+        "unit": "mL/min",
+        "original": "100 mL/min (N₂)"
+      },
+      "Reaction time": {
+        "value": "30",
+        "unit": "min",
+        "original": "30 min"
+      },
+      "Atmosphere": {
+        "value": "N₂",
+        "unit": "Not reported",
+        "original": "N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed quartz reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed quartz reactor"
+      },
+      "Catalyst loading": {
+        "value": "0",
+        "unit": "of",
+        "original": "Catalyst to biomass ratio of 0–1"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "43",
+        "unit": "%",
+        "original": "Bio-oil yield: 25–43%"
+      },
+      "Product Selectivity": {
+        "value": "65.28",
+        "unit": "%",
+        "original": "Hydrocarbons in bio-oil: 5–65.28%"
+      },
+      "Catalyst stability": {
+        "value": "Fresh catalyst used in each experiment",
+        "unit": "Not reported",
+        "original": "Fresh catalyst used in each experiment"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在N2气流下进行非催化热解，考察温度、水葫芦比例等条件对生物油、生物炭和生物气产率及特性的影响。",
+      "experiment_id": 1,
+      "text_snippet": "Non-catalytic pyrolysis with only N2 flow"
+    },
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "Water hyacinth (WH)",
+        "unit": "Not reported",
+        "original": "Water hyacinth (WH)"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "P-loaded",
+        "original": "Ni2P-loaded zeolite"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "P",
+        "original": "Ni2P loaded on zeolite (Si/Al=30)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "100",
+        "unit": "mL/min",
+        "original": "100 mL/min N2"
+      },
+      "Reaction time": {
+        "value": "30",
+        "unit": "min",
+        "original": "30 min"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "N",
+        "original": "N2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed quartz reactor, catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Fixed-bed quartz reactor, catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "0",
+        "unit": "wt%",
+        "original": "0"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "25",
+        "unit": "%",
+        "original": "{'Bio-oil': ['25%', '40%', '41%', '43%'], 'Bio-char': ['30%', '37%', '44%', '60%'], 'Bio-gas': ['15%', '20%', '29%', '32%']}"
+      },
+      "Product Selectivity": {
+        "value": "5",
+        "unit": "%",
+        "original": "{'Bio-oil hydrocarbons': ['5%', '24.84%', '55.42%', '65.28%'], 'Bio-oil aliphatic hydrocarbons': ['2.5%', '15.42%', '34.13%', '48.44%'], 'Bio-oil aromatic hydrocarbons': ['2.5%', '10.82%', '22.21%', '16.84%'], 'Bio-gas composition': ['CO2: 50-69%', 'CO: 18-36%', 'CH4: 3-13%', 'H2: 1-6%', 'C2H6: 2-9%']}"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在N2气流下，使用Ni2P负载沸石催化剂进行催化热解，研究催化剂比例对产物升级（如脱氧、脱氮）的影响。",
+      "experiment_id": 2,
+      "text_snippet": "Catalytic pyrolysis with N2 flow"
+    },
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "Water hyacinth (WH)",
+        "unit": "Not reported",
+        "original": "Water hyacinth (WH)"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "P-loaded",
+        "original": "Ni2P-loaded zeolite"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "P",
+        "original": "Ni2P on zeolite (Si/Al=30)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "100",
+        "unit": "mL/min",
+        "original": "100 mL/min (N2 or CO2/N2 mixture)"
+      },
+      "Reaction time": {
+        "value": "30",
+        "unit": "min",
+        "original": "30 min"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "N",
+        "original": "N2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed quartz reactor, batch",
+        "unit": "Not reported",
+        "original": "Fixed-bed quartz reactor, batch"
+      },
+      "Catalyst loading": {
+        "value": "0",
+        "unit": "of",
+        "original": "Catalyst to biomass ratio of 0–1"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "43",
+        "unit": "%",
+        "original": "Bio-oil yield: 25–43%"
+      },
+      "Product Selectivity": {
+        "value": "65.28",
+        "unit": "%",
+        "original": "Hydrocarbons in bio-oil: 5–65.28%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在CO2/N2混合气流下进行催化热解，研究CO2共进料对生物炭比表面积（SSA）和生物气组成（如H2、CO、C2H6）的增强作用。",
+      "experiment_id": 3,
+      "text_snippet": "Catalytic pyrolysis with CO2/N2 flow"
+    },
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "Water hyacinth (WH)",
+        "unit": "Not reported",
+        "original": "Water hyacinth (WH)"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "P-loaded",
+        "original": "Ni2P-loaded zeolite"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "P",
+        "original": "Ni2P on zeolite (Si/Al=30)"
+      },
+      "Solvent": {
+        "value": "Chloroform",
+        "unit": "Not reported",
+        "original": "Chloroform"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "100",
+        "unit": "mL/min",
+        "original": "100 mL/min (N2 or CO2/N2 mixture)"
+      },
+      "Reaction time": {
+        "value": "30",
+        "unit": "min",
+        "original": "30 min"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "N",
+        "original": "N2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed quartz reactor, batch",
+        "unit": "Not reported",
+        "original": "Fixed-bed quartz reactor, batch"
+      },
+      "Catalyst loading": {
+        "value": "0",
+        "unit": "of",
+        "original": "Catalyst to biomass ratio of 0–1"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "43",
+        "unit": "%",
+        "original": "Bio-oil yield: 25–43%"
+      },
+      "Product Selectivity": {
+        "value": "65.28",
+        "unit": "%",
+        "original": "Hydrocarbons in bio-oil: 5–65.28%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在蒸汽和CO2/N2混合气流下进行催化热解，研究蒸汽共进料对脂肪烃生成和生物油高热值（HHV）的改善作用。",
+      "experiment_id": 4,
+      "text_snippet": "Catalytic pyrolysis with both steam and CO2/N2 flow"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 4,
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

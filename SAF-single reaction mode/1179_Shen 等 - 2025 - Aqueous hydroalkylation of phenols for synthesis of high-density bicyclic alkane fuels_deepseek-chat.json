@@ -1,0 +1,247 @@
+{
+  "file": "1179_Shen 等 - 2025 - Aqueous hydroalkylation of phenols for synthesis of high-density bicyclic alkane fuels.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢烷基化反应",
+        "reaction_type_english": "Hydroalkylation reaction",
+        "description": "在Pd/C + Hβ催化体系下，于水相中进行愈创木酚的加氢烷基化反应。反应条件：愈创木酚(2.4 g, 20 mmol)，Pd/C (5 wt%, 0.024 g)，Hβ (1.2 g)，H₂O (12 mL)，140-200°C，4-6 MPa H₂压力。",
+        "text_snippet": "Hydroalkylation of guaiacol was conducted in a 50 mL autoclave (EasyChem SLM50). Typically, reactants, catalysts and solvents were put into the reactor and the reaction was carried out at the desired temperature under stirring in the presence of H2.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢烷基化反应",
+        "reaction_type_english": "Hydroalkylation reaction",
+        "description": "将底物扩展至模拟木质素油（包含愈创木酚、苯酚、香兰素、4-乙基愈创木酚等复杂酚类混合物），在Pd/C + Hβ-60催化体系下进行加氢烷基化反应。反应条件：反应物(4.8 g)，Pd/C (5 wt%, 0.024 g)，Hβ-60 (1.2 g)，H₂O (12 mL)，6 MPa H₂。",
+        "text_snippet": "Furthermore, the feedstock was extended to other complex phenolic compounds and simulated lignin oil... The results are shown in Fig. 6. A total of 64.3 % of alkylated products were finally produced",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Guaiacol",
+        "unit": "Not reported",
+        "original": "Guaiacol"
+      },
+      "Catalyst type": {
+        "value": "Pd/C",
+        "unit": "Not reported",
+        "original": "Pd/C"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "Pd/C (5 wt%)"
+      },
+      "Solvent": {
+        "value": "2",
+        "unit": "O",
+        "original": "H2O"
+      },
+      "Reaction temperature": {
+        "value": "-200",
+        "unit": "°C",
+        "original": "140-200°C"
+      },
+      "Reaction pressure": {
+        "value": "-6",
+        "unit": "MPa",
+        "original": "4-6 MPa H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "-6",
+        "unit": "h",
+        "original": "4-6 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.024",
+        "unit": "g",
+        "original": "Pd/C: 0.024 g"
+      },
+      "Product": {
+        "value": "2-methoxycyclohexanone",
+        "unit": "Not reported",
+        "original": "2-methoxycyclohexanone"
+      },
+      "Conversion rate": {
+        "value": "96.3",
+        "unit": "%",
+        "original": "96.3%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "71.4",
+        "unit": "%",
+        "original": "71.4%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢烷基化反应",
+      "reaction_type_english": "Hydroalkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Pd/C + Hβ催化体系下，于水相中进行愈创木酚的加氢烷基化反应。反应条件：愈创木酚(2.4 g, 20 mmol)，Pd/C (5 wt%, 0.024 g)，Hβ (1.2 g)，H₂O (12 mL)，140-200°C，4-6 MPa H₂压力。",
+      "experiment_id": 1,
+      "text_snippet": "Hydroalkylation of guaiacol was conducted in a 50 mL autoclave (EasyChem SLM50). Typically, reactants, catalysts and solvents were put into the reactor and the reaction was carried out at the desired temperature under stirring in the presence of H2."
+    },
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Guaiacol",
+        "unit": "Not reported",
+        "original": "Guaiacol"
+      },
+      "Catalyst type": {
+        "value": "Metal catalyst",
+        "unit": "Not reported",
+        "original": "Metal catalyst"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "Pd/C (5 wt%)"
+      },
+      "Solvent": {
+        "value": "H₂O",
+        "unit": "Not reported",
+        "original": "H₂O"
+      },
+      "Reaction temperature": {
+        "value": "-200",
+        "unit": "°C",
+        "original": "140-200 °C"
+      },
+      "Reaction pressure": {
+        "value": "6",
+        "unit": "MPa",
+        "original": "6 MPa H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.024",
+        "unit": "g",
+        "original": "Pd/C: 0.024 g"
+      },
+      "Product": {
+        "value": "Alkylated products",
+        "unit": "Not reported",
+        "original": "Alkylated products"
+      },
+      "Conversion rate": {
+        "value": "96.3",
+        "unit": "%",
+        "original": "96.3% (for guaiacol)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "71.4",
+        "unit": "%",
+        "original": "71.4% (alkylated products for guaiacol)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢烷基化反应",
+      "reaction_type_english": "Hydroalkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "将底物扩展至模拟木质素油（包含愈创木酚、苯酚、香兰素、4-乙基愈创木酚等复杂酚类混合物），在Pd/C + Hβ-60催化体系下进行加氢烷基化反应。反应条件：反应物(4.8 g)，Pd/C (5 wt%, 0.024 g)，Hβ-60 (1.2 g)，H₂O (12 mL)，6 MPa H₂。",
+      "experiment_id": 2,
+      "text_snippet": "Furthermore, the feedstock was extended to other complex phenolic compounds and simulated lignin oil... The results are shown in Fig. 6. A total of 64.3 % of alkylated products were finally produced"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢烷基化反应",
+      "reaction_type_english": "Hydroalkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢烷基化反应",
+      "reaction_type_english": "Hydroalkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1346_Luo 等 - 2014 - n-Hexane cracking at high pressures on H-ZSM-5, H-BEA, H-MOR, and USY for endothermic reforming.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在1至137 bar的压力范围和573至673 K的温度范围内，使用H-ZSM-5、H-BEA、H-MOR和USY沸石催化剂研究正己烷的催化裂解，用于航空发动机的吸热重整冷却应用。",
+        "text_snippet": "Catalytic cracking of n-hexane was studied over H-ZSM-5, H-BEA, H-MOR, and USY zeolites at pressures between 1 and 137 bar and temperatures between 573 and 673 K, for application to endothermic reforming for cooling of aircraft engines.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2014",
+        "unit": "year",
+        "original": "2014"
+      },
+      "Feedstock": {
+        "value": "n-hexane",
+        "unit": "Not reported",
+        "original": "n-hexane"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "H-ZSM-",
+        "original": "H-ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "H-ZSM-",
+        "original": "H-ZSM-5 (Si/Al2=60)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-673",
+        "unit": "K",
+        "original": "573-673 K"
+      },
+      "Reaction pressure": {
+        "value": "-137",
+        "unit": "bar",
+        "original": "1-137 bar"
+      },
+      "Flow rate": {
+        "value": "0.3",
+        "unit": "mL/min",
+        "original": "0.3 mL/min"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Flow reactor",
+        "unit": "Not reported",
+        "original": "Flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "-30",
+        "unit": "mg",
+        "original": "10-30 mg"
+      },
+      "Product": {
+        "value": "methane",
+        "unit": "Not reported",
+        "original": "methane"
+      },
+      "Conversion rate": {
+        "value": "-9.2",
+        "unit": "%",
+        "original": "6.1-9.2% at 1 bar"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "2",
+        "unit": "and",
+        "original": "See Table 2 and Table 3 for detailed molar selectivities"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "H-ZSM-",
+        "original": "H-ZSM-5: stable for at least several hours at all pressures"
+      },
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在1至137 bar的压力范围和573至673 K的温度范围内，使用H-ZSM-5、H-BEA、H-MOR和USY沸石催化剂研究正己烷的催化裂解，用于航空发动机的吸热重整冷却应用。",
+      "experiment_id": 1,
+      "text_snippet": "Catalytic cracking of n-hexane was studied over H-ZSM-5, H-BEA, H-MOR, and USY zeolites at pressures between 1 and 137 bar and temperatures between 573 and 673 K, for application to endothermic reforming for cooling of aircraft engines."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

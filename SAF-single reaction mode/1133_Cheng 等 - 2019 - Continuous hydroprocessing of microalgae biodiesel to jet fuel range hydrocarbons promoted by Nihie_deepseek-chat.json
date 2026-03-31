@@ -1,0 +1,135 @@
+{
+  "file": "1133_Cheng 等 - 2019 - Continuous hydroprocessing of microalgae biodiesel to jet fuel range hydrocarbons promoted by Nihie.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢处理",
+        "reaction_type_english": "Hydroprocessing",
+        "description": "在固定床连续加氢处理系统中，使用Ni/分级介孔Y沸石催化剂，在不同反应温度（255-295°C）和不同原料注入速率（0.01-0.05 mL/min）下，对微藻生物柴油进行催化加氢处理，以生产喷气燃料范围的烃类。过程涉及加氢脱氧（HDO）和加氢裂化步骤。",
+        "text_snippet": "The catalytic hydroprocessing was carried out on a fixed bed continuous flow reaction system... Ni/meso-Y catalyst (5g) was placed on the catalyst bed in the reactor... the reaction was carried out at various reaction temperature (255e295 (cid:1)C) and feedstock injection rates (0.01e0.05 mL/min).",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "Nannochloropsis oceanica microalgae biodiesel",
+        "unit": "Not reported",
+        "original": "Nannochloropsis oceanica microalgae biodiesel"
+      },
+      "Catalyst type": {
+        "value": "Ni/hierarchical mesoporous Y zeolite",
+        "unit": "Not reported",
+        "original": "Ni/hierarchical mesoporous Y zeolite"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "10 wt% Ni/meso-Y zeolite (Si/Al molar ratio = 9.0)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "255",
+        "unit": "°C",
+        "original": "255°C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "0.01",
+        "unit": "mL/min",
+        "original": "0.01 mL/min"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed bed continuous flow",
+        "unit": "Not reported",
+        "original": "Fixed bed continuous flow"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "g",
+        "original": "5 g"
+      },
+      "Product": {
+        "value": "Alkanes",
+        "unit": "Not reported",
+        "original": "Alkanes"
+      },
+      "Conversion rate": {
+        "value": "91.5",
+        "unit": "%",
+        "original": "91.5% (at 275°C, 0.02 mL/min)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "56.2",
+        "unit": "%",
+        "original": "56.2% jet fuel range hydrocarbons (at 275°C, 0.02 mL/min)"
+      },
+      "Catalyst stability": {
+        "value": "25",
+        "unit": ":",
+        "original": "XRD showed unchanged crystallinity of zeolite; Ni nanoparticle size increased from 25 to 54 nm; Catalyst maintained stable performance over three runs"
+      },
+      "reaction_type": "加氢处理",
+      "reaction_type_english": "Hydroprocessing",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床连续加氢处理系统中，使用Ni/分级介孔Y沸石催化剂，在不同反应温度（255-295°C）和不同原料注入速率（0.01-0.05 mL/min）下，对微藻生物柴油进行催化加氢处理，以生产喷气燃料范围的烃类。过程涉及加氢脱氧（HDO）和加氢裂化步骤。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic hydroprocessing was carried out on a fixed bed continuous flow reaction system... Ni/meso-Y catalyst (5g) was placed on the catalyst bed in the reactor... the reaction was carried out at various reaction temperature (255e295 (cid:1)C) and feedstock injection rates (0.01e0.05 mL/min)."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢处理",
+      "reaction_type_english": "Hydroprocessing",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

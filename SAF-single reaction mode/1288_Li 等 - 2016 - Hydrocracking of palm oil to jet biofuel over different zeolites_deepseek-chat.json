@@ -1,0 +1,359 @@
+{
+  "file": "1288_Li 等 - 2016 - Hydrocracking of palm oil to jet biofuel over different zeolites.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "使用不同Si/Al比（5和11）和Ni含量（5%至20%）的Ni/HY催化剂，在390°C和3MPa条件下将棕榈油转化为航空生物燃料，研究催化剂组成对烷烃和芳烃选择性的影响。",
+        "text_snippet": "Conversion of palm oil into jet biofuel using Ni/HY catalysts of different Si/Al ratios and Ni contents... when the Si/Al ratio of the zeolite HY was increased from 5 to 11... the ratio of alkane in the fuel decreased from 80 to 71%, and the arene ratio increased from 20 to 29%.",
+        "reaction_type_classify": "Cracking reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在390°C和3MPa条件下，使用五种不同的沸石催化剂（Ni/SAPO-34, Ni/MCM-41, Ni/HY, Ni/SAPO-11, Ni/Hbeta）催化棕榈油转化，评估它们生产航空生物燃料（C8-C16）的烷烃和芳烃选择性及产率。",
+        "text_snippet": "Conversion of palm oil into high-quality jet biofuel using different zeolite catalysts... five kinds of zeolites were tested as catalysts in the conversion of palm oil into jet fuel at 390°C under 3 MPa.",
+        "reaction_type_classify": "Cracking reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在370°C至410°C的温度范围内，使用催化剂（文中未指定具体催化剂，但上下文指向Ni/SAPO-34或类似催化剂）进行棕榈油转化，研究温度对航空生物燃料产率、柴油选择性和中间体选择性的影响。",
+        "text_snippet": "Effect of reaction temperature on jet biofuel production... when the reaction temperature was increased from 370 to 380°C... when the reaction temperature was increased from 380 to 390°C, the selectivity for jet fuel increased from 40 to 69%...",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "Palm oil",
+        "unit": "Not reported",
+        "original": "Palm oil"
+      },
+      "Catalyst type": {
+        "value": "Ni/HY",
+        "unit": "Not reported",
+        "original": "Ni/HY"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "%",
+        "original": "Ni content: 5% to 20%"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "390",
+        "unit": "°C",
+        "original": "390°C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "8",
+        "unit": "h",
+        "original": "8 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "mass",
+        "original": "20:1 mass ratio (palm oil to catalyst)"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "hydrocarbons",
+        "original": "Jet biofuel (C8-C16 hydrocarbons)"
+      },
+      "Conversion rate": {
+        "value": "95.7",
+        "unit": "%",
+        "original": "95.7% (at 390°C)"
+      },
+      "Product yield": {
+        "value": "42.03",
+        "unit": "%",
+        "original": "42.03% (jet fuel yield at 390°C)"
+      },
+      "Product Selectivity": {
+        "value": "80",
+        "unit": "%",
+        "original": "Alkane selectivity: 80% (Si/Al=5) to 71% (Si/Al=11)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "使用不同Si/Al比（5和11）和Ni含量（5%至20%）的Ni/HY催化剂，在390°C和3MPa条件下将棕榈油转化为航空生物燃料，研究催化剂组成对烷烃和芳烃选择性的影响。",
+      "experiment_id": 1,
+      "text_snippet": "Conversion of palm oil into jet biofuel using Ni/HY catalysts of different Si/Al ratios and Ni contents... when the Si/Al ratio of the zeolite HY was increased from 5 to 11... the ratio of alkane in the fuel decreased from 80 to 71%, and the arene ratio increased from 20 to 29%."
+    },
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "Palm oil",
+        "unit": "Not reported",
+        "original": "Palm oil"
+      },
+      "Catalyst type": {
+        "value": "Zeolite",
+        "unit": "Not reported",
+        "original": "Zeolite"
+      },
+      "Catalyst composition": {
+        "value": "34",
+        "unit": "Ni/SAPO-",
+        "original": "Ni/SAPO-34"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-410",
+        "unit": "°C",
+        "original": "370-410°C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "8",
+        "unit": "h",
+        "original": "8 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "20:1 (mass ratio of palm oil to catalyst)",
+        "unit": "wt%",
+        "original": "20:1 (mass ratio of palm oil to catalyst)"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "hydrocarbons",
+        "original": "Jet biofuel (C8-C16 hydrocarbons)"
+      },
+      "Conversion rate": {
+        "value": "95.7",
+        "unit": "%",
+        "original": "95.7% (at 390°C)"
+      },
+      "Product yield": {
+        "value": "-42.0",
+        "unit": "%",
+        "original": "21.1-42.0% (jet fuel yield, temperature dependent)"
+      },
+      "Product Selectivity": {
+        "value": "65",
+        "unit": "%",
+        "original": "65% alkane selectivity (Ni/SAPO-34)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在390°C和3MPa条件下，使用五种不同的沸石催化剂（Ni/SAPO-34, Ni/MCM-41, Ni/HY, Ni/SAPO-11, Ni/Hbeta）催化棕榈油转化，评估它们生产航空生物燃料（C8-C16）的烷烃和芳烃选择性及产率。",
+      "experiment_id": 2,
+      "text_snippet": "Conversion of palm oil into high-quality jet biofuel using different zeolite catalysts... five kinds of zeolites were tested as catalysts in the conversion of palm oil into jet fuel at 390°C under 3 MPa."
+    },
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "Palm oil",
+        "unit": "Not reported",
+        "original": "Palm oil"
+      },
+      "Catalyst type": {
+        "value": "Zeolite",
+        "unit": "Not reported",
+        "original": "Zeolite"
+      },
+      "Catalyst composition": {
+        "value": "34",
+        "unit": "Ni/SAPO-",
+        "original": "Ni/SAPO-34"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "370",
+        "unit": "°C",
+        "original": "370°C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "8",
+        "unit": "h",
+        "original": "8 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "mass",
+        "original": "20:1 mass ratio (palm oil to catalyst)"
+      },
+      "Product": {
+        "value": "8",
+        "unit": "°C",
+        "original": "Jet biofuel (C8-C16)"
+      },
+      "Conversion rate": {
+        "value": "95.7",
+        "unit": "%",
+        "original": "95.7% (at 390°C)"
+      },
+      "Product yield": {
+        "value": "21.1",
+        "unit": "%",
+        "original": "21.1% (at 370°C)"
+      },
+      "Product Selectivity": {
+        "value": "65",
+        "unit": "%",
+        "original": "{'Ni/SAPO-34': ['Alkane: 65%', 'Mono arene: 3.9%', 'Polycyclic arene: 7.1%'], 'Ni/HY': ['Alkane: 52.6%', 'Mono arene: 9.6%', 'Polycyclic arene: 11.9%'], 'Ni/Hbeta': ['Alkane: 38.2%', 'Mono arene: 19%', 'Polycyclic arene: 22.5%'], 'Ni/MCM-41': ['Alkane: 62%', 'Mono arene: 3.7%', 'Polycyclic arene: 8.7%'], 'Ni/SAPO-11': ['Alkane: 47.4%', 'Mono arene: 4.2%', 'Polycyclic arene: 18.9%']}"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在370°C至410°C的温度范围内，使用催化剂（文中未指定具体催化剂，但上下文指向Ni/SAPO-34或类似催化剂）进行棕榈油转化，研究温度对航空生物燃料产率、柴油选择性和中间体选择性的影响。",
+      "experiment_id": 3,
+      "text_snippet": "Effect of reaction temperature on jet biofuel production... when the reaction temperature was increased from 370 to 380°C... when the reaction temperature was increased from 380 to 390°C, the selectivity for jet fuel increased from 40 to 69%..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

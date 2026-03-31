@@ -1,0 +1,135 @@
+{
+  "file": "1383_Hanaoka 等 - 2015 - Effects of Catalyst Preparation on Hydrocarbon Product Distribution in Hydrocracking of the Fischer-.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在250°C、初始H₂压力0.5 MPa、反应时间1小时的条件下，使用低Pt负载催化剂（Pt含量0.01-0.1 wt.%）对费托合成产物进行加氢裂化，以生产碳数为9-15的航空燃料。",
+        "text_snippet": "the catalytic performance of Pt-loaded catalysts with low Pt content was investigated using an autoclave at 250 °C, an initial H2 pressure of 0.5 MPa, and a reaction time of 1 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "Fischer-Tropsch product",
+        "unit": "Not reported",
+        "original": "Fischer-Tropsch product"
+      },
+      "Catalyst type": {
+        "value": "Pt-loaded zeolite catalysts",
+        "unit": "Not reported",
+        "original": "Pt-loaded zeolite catalysts"
+      },
+      "Catalyst composition": {
+        "value": "-0.1",
+        "unit": "wt%",
+        "original": "Pt (0.01-0.1 wt.%) on various supports (SiO₂-Al₂O₃, sulfated zirconia, FAU, MOR, BEA zeolites)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "250",
+        "unit": "°C",
+        "original": "250 °C"
+      },
+      "Reaction pressure": {
+        "value": "0.5",
+        "unit": "MPa",
+        "original": "Initial H₂ pressure 0.5 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 hour"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch autoclave",
+        "unit": "Not reported",
+        "original": "Batch autoclave"
+      },
+      "Catalyst loading": {
+        "value": "0.2",
+        "unit": "g",
+        "original": "0.2 g catalyst per 5 g feedstock"
+      },
+      "Product": {
+        "value": "1",
+        "unit": "°C",
+        "original": "Hydrocarbons C1-C8"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "-37.4",
+        "unit": "%",
+        "original": "{'C1-C8': '0.2-37.4%', 'C9-C15': '9.2-24.7%', 'C16+': '37.5-90.6%'}"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在250°C、初始H₂压力0.5 MPa、反应时间1小时的条件下，使用低Pt负载催化剂（Pt含量0.01-0.1 wt.%）对费托合成产物进行加氢裂化，以生产碳数为9-15的航空燃料。",
+      "experiment_id": 1,
+      "text_snippet": "the catalytic performance of Pt-loaded catalysts with low Pt content was investigated using an autoclave at 250 °C, an initial H2 pressure of 0.5 MPa, and a reaction time of 1 h."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

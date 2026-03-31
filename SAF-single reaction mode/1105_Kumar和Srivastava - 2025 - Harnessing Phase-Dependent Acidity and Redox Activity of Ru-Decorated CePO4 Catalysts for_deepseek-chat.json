@@ -1,0 +1,247 @@
+{
+  "file": "1105_Kumar和Srivastava - 2025 - Harnessing Phase-Dependent Acidity and Redox Activity of Ru-Decorated CePO4 Catalysts for.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化转移氢化反应",
+        "reaction_type_english": "Catalytic transfer hydrogenation reaction",
+        "description": "在150°C、1 MPa N₂压力下，使用Ru(2%)/CePO₄−H催化剂和异丙醇作为氢供体溶剂，对木质素模型化合物苯乙基苯基醚(PPE)进行催化转移氢化(CTH)，选择性断裂β-O-4醚键，生成乙苯和环己醇。",
+        "text_snippet": "The catalytic transfer hydrogenolysis of phenethyl phenyl ether (PPE) was conducted using a 50 mL stainless steel Parr reactor... In a typical experiment, 1 mmol of PPE in 10 mL of isopropanol (IPA) and 40 mg of catalyst were introduced into the reactor. The reactor was then sealed, purged with N₂ gas, and pressurized to 1.0 MPa with N₂ gas. The reaction was conducted at a temperature of 150 °C for 6 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在220°C、3 MPa H₂压力下，使用Ru(2%)/CePO₄−H催化剂，将来自软木生物质的木质素生物油在乙醇/正己烷(1:4)溶剂中几乎完全转化为完全饱和的C₆–C₉环状烃（适用于航空燃料应用）。",
+        "text_snippet": "Furthermore, Ru(2%)/CePO₄−H offered nearly complete conversion (99%) of lignin bio-oil into fully saturated cyclic C₆–C₉ products (suitable for aviation fuel applications) with up to 99% selectivity under catalytic hydrogenation conditions (220 °C, 3 MPa H₂)... Reaction conditions: lignin bio-oil (200 mg) in 10 mL of 1:4 ethanol and n-hexane solvent at 220 °C, 3 MPa H₂ pressure for 10 h using 100 mg of Ru(2%)/CePO₄−H catalyst.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "phenethyl phenyl ether (PPE)",
+        "unit": "Not reported",
+        "original": "phenethyl phenyl ether (PPE)"
+      },
+      "Catalyst type": {
+        "value": "Ru-decorated cerium phosphate",
+        "unit": "Not reported",
+        "original": "Ru-decorated cerium phosphate"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "%",
+        "original": "Ru(2%)/CePO₄−H"
+      },
+      "Solvent": {
+        "value": "isopropanol (IPA)",
+        "unit": "Not reported",
+        "original": "isopropanol (IPA)"
+      },
+      "Reaction temperature": {
+        "value": "150",
+        "unit": "°C",
+        "original": "150 °C"
+      },
+      "Reaction pressure": {
+        "value": "1",
+        "unit": "MPa",
+        "original": "1 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "6",
+        "unit": "h",
+        "original": "6 h"
+      },
+      "Atmosphere": {
+        "value": "N₂",
+        "unit": "Not reported",
+        "original": "N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "40",
+        "unit": "mg",
+        "original": "40 mg catalyst per 1 mmol PPE in 10 mL solvent"
+      },
+      "Product": {
+        "value": "ethylbenzene",
+        "unit": "Not reported",
+        "original": "ethylbenzene"
+      },
+      "Conversion rate": {
+        "value": "99",
+        "unit": "%",
+        "original": "99%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "48",
+        "unit": "%",
+        "original": "48% ethylbenzene"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "cycles",
+        "original": "Stable over 5 cycles with minimal activity loss"
+      },
+      "reaction_type": "催化转移氢化反应",
+      "reaction_type_english": "Catalytic transfer hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在150°C、1 MPa N₂压力下，使用Ru(2%)/CePO₄−H催化剂和异丙醇作为氢供体溶剂，对木质素模型化合物苯乙基苯基醚(PPE)进行催化转移氢化(CTH)，选择性断裂β-O-4醚键，生成乙苯和环己醇。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic transfer hydrogenolysis of phenethyl phenyl ether (PPE) was conducted using a 50 mL stainless steel Parr reactor... In a typical experiment, 1 mmol of PPE in 10 mL of isopropanol (IPA) and 40 mg of catalyst were introduced into the reactor. The reactor was then sealed, purged with N₂ g..."
+    },
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "lignin bio-oil derived from softwood biomass",
+        "unit": "Not reported",
+        "original": "lignin bio-oil derived from softwood biomass"
+      },
+      "Catalyst type": {
+        "value": "Ru-decorated cerium phosphate",
+        "unit": "Not reported",
+        "original": "Ru-decorated cerium phosphate"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "%",
+        "original": "Ru(2%)/CePO₄−H"
+      },
+      "Solvent": {
+        "value": "ethanol/hexane (1:4)",
+        "unit": "Not reported",
+        "original": "ethanol/hexane (1:4)"
+      },
+      "Reaction temperature": {
+        "value": "220",
+        "unit": "°C",
+        "original": "220 °C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "10",
+        "unit": "h",
+        "original": "10 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "100",
+        "unit": "mg",
+        "original": "100 mg catalyst per 200 mg lignin oil in 10 mL solvent"
+      },
+      "Product": {
+        "value": "fully saturated C₆–C₉ cyclic hydrocarbons",
+        "unit": "Not reported",
+        "original": "fully saturated C₆–C₉ cyclic hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "99",
+        "unit": "%",
+        "original": "99%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "99",
+        "unit": "%",
+        "original": "99%"
+      },
+      "Catalyst stability": {
+        "value": "3",
+        "unit": "cycles",
+        "original": "Stable for 3 cycles with minimal activity loss"
+      },
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在220°C、3 MPa H₂压力下，使用Ru(2%)/CePO₄−H催化剂，将来自软木生物质的木质素生物油在乙醇/正己烷(1:4)溶剂中几乎完全转化为完全饱和的C₆–C₉环状烃（适用于航空燃料应用）。",
+      "experiment_id": 2,
+      "text_snippet": "Furthermore, Ru(2%)/CePO₄−H offered nearly complete conversion (99%) of lignin bio-oil into fully saturated cyclic C₆–C₉ products (suitable for aviation fuel applications) with up to 99% selectivity under catalytic hydrogenation conditions (220 °C, 3 MPa H₂)... Reaction conditions: lignin bio-oil (2..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化转移氢化反应",
+      "reaction_type_english": "Catalytic transfer hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

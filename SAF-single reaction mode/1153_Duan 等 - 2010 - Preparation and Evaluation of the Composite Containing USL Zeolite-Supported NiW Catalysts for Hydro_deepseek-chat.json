@@ -1,0 +1,247 @@
+{
+  "file": "1153_Duan 等 - 2010 - Preparation and Evaluation of the Composite Containing USL Zeolite-Supported NiW Catalysts for Hydro.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱硫反应",
+        "reaction_type_english": "Hydrodesulfurization reaction",
+        "description": "在高压微反应器系统中，使用NiW/Al₂O₃-USL系列催化剂对FCC柴油进行加氢脱硫（HDS）活性评价。最佳催化剂（10% USL，原位法制备）的HDS转化率达到99.3%。",
+        "text_snippet": "the activities of these catalysts for FCC diesel hydrodesulfurization (HDS) and hydrodenitrogenation (HDN) were evaluated in a high-pressure microreactor system. The assessment results indicated that the catalyst with 10 m% USL in the support prepared by the in situ method showed the highest HDS and HDN conversions, which reached a maximum of 99.3% and 94.1% for HDS and HDN, respectively.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氮反应",
+        "reaction_type_english": "Hydrodenitrogenation reaction",
+        "description": "在高压微反应器系统中，使用NiW/Al₂O₃-USL系列催化剂对FCC柴油进行加氢脱氮（HDN）活性评价。最佳催化剂（10% USL，原位法制备）的HDN转化率达到94.1%。",
+        "text_snippet": "the activities of these catalysts for FCC diesel hydrodesulfurization (HDS) and hydrodenitrogenation (HDN) were evaluated in a high-pressure microreactor system. The assessment results indicated that the catalyst with 10 m% USL in the support prepared by the in situ method showed the highest HDS and HDN conversions, which reached a maximum of 99.3% and 94.1% for HDS and HDN, respectively.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2010",
+        "unit": "year",
+        "original": "2010"
+      },
+      "Feedstock": {
+        "value": "FCC diesel",
+        "unit": "Not reported",
+        "original": "FCC diesel"
+      },
+      "Catalyst type": {
+        "value": "NiW/Al₂O₃-USL series catalysts",
+        "unit": "Not reported",
+        "original": "NiW/Al₂O₃-USL series catalysts"
+      },
+      "Catalyst composition": {
+        "value": "27",
+        "unit": "%",
+        "original": "NiW/γ-Al₂O₃-USL (27% WO₃, 3.5% NiO)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350 °C"
+      },
+      "Reaction pressure": {
+        "value": "5.0",
+        "unit": "MPa",
+        "original": "5.0 MPa"
+      },
+      "Flow rate": {
+        "value": "1.0",
+        "unit": "h",
+        "original": "LHSV = 1.0 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "600",
+        "unit": "mL/mL",
+        "original": "H₂/feed = 600 mL/mL"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "2",
+        "unit": "g",
+        "original": "2 g"
+      },
+      "Product": {
+        "value": "Hydrotreated diesel",
+        "unit": "Not reported",
+        "original": "Hydrotreated diesel"
+      },
+      "Conversion rate": {
+        "value": "99.3",
+        "unit": "%",
+        "original": "HDS: 99.3%, HDN: 94.1%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱硫反应",
+      "reaction_type_english": "Hydrodesulfurization reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在高压微反应器系统中，使用NiW/Al₂O₃-USL系列催化剂对FCC柴油进行加氢脱硫（HDS）活性评价。最佳催化剂（10% USL，原位法制备）的HDS转化率达到99.3%。",
+      "experiment_id": 1,
+      "text_snippet": "the activities of these catalysts for FCC diesel hydrodesulfurization (HDS) and hydrodenitrogenation (HDN) were evaluated in a high-pressure microreactor system. The assessment results indicated that the catalyst with 10 m% USL in the support prepared by the in situ method showed the highest HDS and..."
+    },
+    {
+      "Published year": {
+        "value": "2010",
+        "unit": "year",
+        "original": "2010"
+      },
+      "Feedstock": {
+        "value": "FCC diesel",
+        "unit": "Not reported",
+        "original": "FCC diesel"
+      },
+      "Catalyst type": {
+        "value": "NiW/Al₂O₃-USL series catalysts",
+        "unit": "Not reported",
+        "original": "NiW/Al₂O₃-USL series catalysts"
+      },
+      "Catalyst composition": {
+        "value": "27",
+        "unit": "%",
+        "original": "NiW/γ-Al₂O₃-USL (27% WO₃, 3.5% NiO)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350 °C"
+      },
+      "Reaction pressure": {
+        "value": "5.0",
+        "unit": "MPa",
+        "original": "5.0 MPa"
+      },
+      "Flow rate": {
+        "value": "1.0",
+        "unit": "h",
+        "original": "LHSV = 1.0 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "13",
+        "unit": "h",
+        "original": "13 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "600",
+        "unit": "mL/mL",
+        "original": "H₂/feed = 600 mL/mL"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "2",
+        "unit": "g",
+        "original": "2 g"
+      },
+      "Product": {
+        "value": "Hydrotreated diesel",
+        "unit": "Not reported",
+        "original": "Hydrotreated diesel"
+      },
+      "Conversion rate": {
+        "value": "94.1",
+        "unit": "%",
+        "original": "94.1%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氮反应",
+      "reaction_type_english": "Hydrodenitrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在高压微反应器系统中，使用NiW/Al₂O₃-USL系列催化剂对FCC柴油进行加氢脱氮（HDN）活性评价。最佳催化剂（10% USL，原位法制备）的HDN转化率达到94.1%。",
+      "experiment_id": 2,
+      "text_snippet": "the activities of these catalysts for FCC diesel hydrodesulfurization (HDS) and hydrodenitrogenation (HDN) were evaluated in a high-pressure microreactor system. The assessment results indicated that the catalyst with 10 m% USL in the support prepared by the in situ method showed the highest HDS and..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱硫反应",
+      "reaction_type_english": "Hydrodesulfurization reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氮反应",
+      "reaction_type_english": "Hydrodenitrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

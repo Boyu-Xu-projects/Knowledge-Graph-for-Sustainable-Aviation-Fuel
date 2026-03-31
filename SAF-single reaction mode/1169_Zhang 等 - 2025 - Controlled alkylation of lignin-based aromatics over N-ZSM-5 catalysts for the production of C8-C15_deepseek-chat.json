@@ -1,0 +1,135 @@
+{
+  "file": "1169_Zhang 等 - 2025 - Controlled alkylation of lignin-based aromatics over N-ZSM-5 catalysts for the production of C8-C15.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "烷基化反应",
+        "reaction_type_english": "Alkylation reaction",
+        "description": "在微型固定床条件下，使用N-ZSM-5纳米催化剂进行气相烷基化反应，将木质素衍生的苯与混合烯烃（15%乙烯，10%丙烯）反应生成C8-C15芳烃",
+        "text_snippet": "Gas-phase alkylation reactions between mixed ethylene and propylene and benzene were carried out under micro fixed – bed conditions.",
+        "reaction_type_classify": "Alkylation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "lignin-derived benzene",
+        "unit": "Not reported",
+        "original": "lignin-derived benzene"
+      },
+      "Catalyst type": {
+        "value": "-5",
+        "unit": "nano",
+        "original": "N-ZSM-5 nano catalyst"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "molecular",
+        "original": "MFI-type nano ZSM-5 molecular sieves with tunable Si/Al ratios (6-300)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "250",
+        "unit": "°C",
+        "original": "250°C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "1.017",
+        "unit": "h",
+        "original": "1.017 h⁻¹ space velocity"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 h"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "1.5:1.0",
+        "unit": ":",
+        "original": "benzene:ethylene:propylene = 1.5:1.0:0.67"
+      },
+      "Operation mode": {
+        "value": "micro fixed-bed conditions, gas-phase alkylation",
+        "unit": "Not reported",
+        "original": "micro fixed-bed conditions, gas-phase alkylation"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "15",
+        "unit": "aromatics",
+        "original": "C8-C15 aromatics"
+      },
+      "Conversion rate": {
+        "value": "84.5",
+        "unit": "%",
+        "original": "84.5% benzene conversion"
+      },
+      "Product yield": {
+        "value": "50.6",
+        "unit": "%",
+        "original": "50.6% yield"
+      },
+      "Product Selectivity": {
+        "value": "84.75",
+        "unit": "%",
+        "original": "84.75% high-carbon aromatic selectivity"
+      },
+      "Catalyst stability": {
+        "value": "Improved stability due to nano-zeolites helping aromatic hydrocarbons and carbon deposit precursors escape faster from zeolite pores",
+        "unit": "Not reported",
+        "original": "Improved stability due to nano-zeolites helping aromatic hydrocarbons and carbon deposit precursors escape faster from zeolite pores"
+      },
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction",
+      "experiment_description": "在微型固定床条件下，使用N-ZSM-5纳米催化剂进行气相烷基化反应，将木质素衍生的苯与混合烯烃（15%乙烯，10%丙烯）反应生成C8-C15芳烃",
+      "experiment_id": 1,
+      "text_snippet": "Gas-phase alkylation reactions between mixed ethylene and propylene and benzene were carried out under micro fixed – bed conditions."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

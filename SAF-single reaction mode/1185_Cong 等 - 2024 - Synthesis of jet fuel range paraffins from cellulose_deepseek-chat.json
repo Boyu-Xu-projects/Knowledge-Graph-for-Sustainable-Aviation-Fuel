@@ -1,0 +1,471 @@
+{
+  "file": "1185_Cong 等 - 2024 - Synthesis of jet fuel range paraffins from cellulose.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 4,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "水解/异构化/脱水/氯化反应",
+        "reaction_type_english": "Hydrolysis/Isomerization/Dehydration/Chlorination reaction",
+        "description": "在甲苯/氯化钠水溶液双相体系中，将纤维素转化为5-氯甲基糠醛(CMF)",
+        "text_snippet": "cellulose was selectively converted to 5-methylfurfural (MFA) by a cascade hydrolysis/isomerization/dehydration/chlorination reaction in a toluene/NaCl aqueous solution biphasic system",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氯反应",
+        "reaction_type_english": "Hydrodechlorination reaction",
+        "description": "在Pd/C催化剂作用下，室温下将CMF加氢脱氯转化为5-甲基糠醛(MFA)",
+        "text_snippet": "followed by the hydrodechlorination over Pd/C catalyst at room temperature",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 4,
+        "reaction_type": "羟烷基化/烷基化反应",
+        "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+        "description": "在无溶剂条件下，使用酸性树脂催化剂催化MFA和2-MF进行羟烷基化/烷基化反应生成三(5-甲基呋喃-2-基)甲烷(TMFM)",
+        "text_snippet": "tris(5-methylfuran-2-yl)methane (TMFM) was obtained by the solvent-free hydroxyalkylation/alkylation (HAA) reaction of MFA and 2-MF over a series of acidic resins",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 5,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation (HDO) reaction",
+        "description": "在Ni/羟基磷灰石和H-ZSM-5共同催化下，将TMFM加氢脱氧转化为喷气燃料范围的C16和C11烷烃",
+        "text_snippet": "the TMFM as obtained was hydrodeoxygenated to jet fuel range C16 and C11 paraffins under the co-catalysis of Ni/hydroxyapatite (Ni/HAP) and H-ZSM-5",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "cellulose",
+        "unit": "Not reported",
+        "original": "cellulose"
+      },
+      "Catalyst type": {
+        "value": "Heterogeneous",
+        "unit": "Not reported",
+        "original": "Heterogeneous"
+      },
+      "Catalyst composition": {
+        "value": "Pd/C",
+        "unit": "Not reported",
+        "original": "Pd/C"
+      },
+      "Solvent": {
+        "value": "Toluene",
+        "unit": "Not reported",
+        "original": "Toluene"
+      },
+      "Reaction temperature": {
+        "value": "473",
+        "unit": "K",
+        "original": "473 K"
+      },
+      "Reaction pressure": {
+        "value": "1",
+        "unit": "MPa",
+        "original": "1 MPa N₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "8",
+        "unit": "h",
+        "original": "8 h (first stage)"
+      },
+      "Atmosphere": {
+        "value": "N₂ (first stage)",
+        "unit": "Not reported",
+        "original": "N₂ (first stage)"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.03",
+        "unit": "g",
+        "original": "0.03 g Pd/C (for hydrodechlorination step)"
+      },
+      "Product": {
+        "value": "5-chloromethylfurfural (CMF)",
+        "unit": "Not reported",
+        "original": "5-chloromethylfurfural (CMF)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% (cellulose conversion)"
+      },
+      "Product yield": {
+        "value": "77.5",
+        "unit": "%",
+        "original": "77.5% carbon yield (MFA)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported for hydrolysis/isomerization/dehydration/chlorination step",
+        "unit": "Not reported",
+        "original": "Not reported for hydrolysis/isomerization/dehydration/chlorination step"
+      },
+      "reaction_type": "水解/异构化/脱水/氯化反应",
+      "reaction_type_english": "Hydrolysis/Isomerization/Dehydration/Chlorination reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在甲苯/氯化钠水溶液双相体系中，将纤维素转化为5-氯甲基糠醛(CMF)",
+      "experiment_id": 1,
+      "text_snippet": "cellulose was selectively converted to 5-methylfurfural (MFA) by a cascade hydrolysis/isomerization/dehydration/chlorination reaction in a toluene/NaCl aqueous solution biphasic system"
+    },
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "CMF",
+        "unit": "Not reported",
+        "original": "CMF"
+      },
+      "Catalyst type": {
+        "value": "Pd/C",
+        "unit": "Not reported",
+        "original": "Pd/C"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5 wt% Pd/C"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "303",
+        "unit": "K",
+        "original": "303 K"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.03",
+        "unit": "g",
+        "original": "0.03 g"
+      },
+      "Product": {
+        "value": "5-methylfurfural (MFA)",
+        "unit": "Not reported",
+        "original": "5-methylfurfural (MFA)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "70.1",
+        "unit": "%",
+        "original": "70.1% carbon yield"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氯反应",
+      "reaction_type_english": "Hydrodechlorination reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Pd/C催化剂作用下，室温下将CMF加氢脱氯转化为5-甲基糠醛(MFA)",
+      "experiment_id": 2,
+      "text_snippet": "followed by the hydrodechlorination over Pd/C catalyst at room temperature"
+    },
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "MFA",
+        "unit": "Not reported",
+        "original": "MFA"
+      },
+      "Catalyst type": {
+        "value": "Acidic resin",
+        "unit": "Not reported",
+        "original": "Acidic resin"
+      },
+      "Catalyst composition": {
+        "value": "Nafion resin",
+        "unit": "Not reported",
+        "original": "Nafion resin"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "323",
+        "unit": "K",
+        "original": "323 K"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 h"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "1:2",
+        "unit": ":",
+        "original": "MFA:2-MF = 1:2"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.05",
+        "unit": "g",
+        "original": "0.05 g, 0.09 g"
+      },
+      "Product": {
+        "value": "2",
+        "unit": "methylfuran-",
+        "original": "tris(5-methylfuran-2-yl)methane (TMFM)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "84",
+        "unit": "%",
+        "original": "84% TMFM"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "reuses",
+        "original": "Nafion resin stable after 5 reuses"
+      },
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在无溶剂条件下，使用酸性树脂催化剂催化MFA和2-MF进行羟烷基化/烷基化反应生成三(5-甲基呋喃-2-基)甲烷(TMFM)",
+      "experiment_id": 4,
+      "text_snippet": "tris(5-methylfuran-2-yl)methane (TMFM) was obtained by the solvent-free hydroxyalkylation/alkylation (HAA) reaction of MFA and 2-MF over a series of acidic resins"
+    },
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "2",
+        "unit": "methylfuran-",
+        "original": "TMFM (tris(5-methylfuran-2-yl)methane)"
+      },
+      "Catalyst type": {
+        "value": "Ni/HAP",
+        "unit": "Not reported",
+        "original": "Ni/HAP"
+      },
+      "Catalyst composition": {
+        "value": "Ni/hydroxyapatite",
+        "unit": "Not reported",
+        "original": "Ni/hydroxyapatite"
+      },
+      "Solvent": {
+        "value": "cyclohexane",
+        "unit": "Not reported",
+        "original": "cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "493",
+        "unit": "K",
+        "original": "493 K"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "24",
+        "unit": "h",
+        "original": "24 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.1",
+        "unit": "g",
+        "original": "0.1 g Ni/HAP"
+      },
+      "Product": {
+        "value": "C₁₆ alkane",
+        "unit": "Not reported",
+        "original": "C₁₆ alkane"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "83.5",
+        "unit": "%",
+        "original": "83.5% total carbon yield for C₁₆ and C₁₁ alkanes"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation (HDO) reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Ni/羟基磷灰石和H-ZSM-5共同催化下，将TMFM加氢脱氧转化为喷气燃料范围的C16和C11烷烃",
+      "experiment_id": 5,
+      "text_snippet": "the TMFM as obtained was hydrodeoxygenated to jet fuel range C16 and C11 paraffins under the co-catalysis of Ni/hydroxyapatite (Ni/HAP) and H-ZSM-5"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "水解/异构化/脱水/氯化反应",
+      "reaction_type_english": "Hydrolysis/Isomerization/Dehydration/Chlorination reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氯反应",
+      "reaction_type_english": "Hydrodechlorination reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 4,
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 5,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation (HDO) reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

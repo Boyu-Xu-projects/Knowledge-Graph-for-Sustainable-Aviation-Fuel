@@ -1,0 +1,135 @@
+{
+  "file": "1262_Fanani 等 - 2024 - Efficient Catalytic Hydrocracking of Crude Palm Oil Over EDTA Template-assisted SiO2-Al2O3NiMo Cata.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在350°C、20 bar H₂压力、1500 rpm搅拌条件下，使用SiO₂-Al₂O₃-x/NiMo催化剂对粗棕榈油(CPO)进行2小时的催化加氢裂化，生产生物航空煤油和生物汽油。",
+        "text_snippet": "Catalytic activity of catalysts on hydrocracking of CPO was evaluated at 350 °C for 2 h, H₂ gas pressure of 20 bar, and mixed at 1500 rpm.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Crude palm oil (CPO)",
+        "unit": "Not reported",
+        "original": "Crude palm oil (CPO)"
+      },
+      "Catalyst type": {
+        "value": "SiO₂-Al₂O₃-x/NiMo",
+        "unit": "Not reported",
+        "original": "SiO₂-Al₂O₃-x/NiMo"
+      },
+      "Catalyst composition": {
+        "value": "SiO₂",
+        "unit": "Not reported",
+        "original": "SiO₂"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350 °C"
+      },
+      "Reaction pressure": {
+        "value": "20",
+        "unit": "bar",
+        "original": "20 bar H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.6",
+        "unit": "g",
+        "original": "0.6 g catalyst per 20 g CPO"
+      },
+      "Product": {
+        "value": "Bio-aviation fuel",
+        "unit": "Not reported",
+        "original": "Bio-aviation fuel"
+      },
+      "Conversion rate": {
+        "value": "91.20",
+        "unit": "%",
+        "original": "91.20% to 92.99%"
+      },
+      "Product yield": {
+        "value": "2.28",
+        "unit": "%",
+        "original": "Biogasoline (C5-C9): 2.28% to 18.47%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在350°C、20 bar H₂压力、1500 rpm搅拌条件下，使用SiO₂-Al₂O₃-x/NiMo催化剂对粗棕榈油(CPO)进行2小时的催化加氢裂化，生产生物航空煤油和生物汽油。",
+      "experiment_id": 1,
+      "text_snippet": "Catalytic activity of catalysts on hydrocracking of CPO was evaluated at 350 °C for 2 h, H₂ gas pressure of 20 bar, and mixed at 1500 rpm."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

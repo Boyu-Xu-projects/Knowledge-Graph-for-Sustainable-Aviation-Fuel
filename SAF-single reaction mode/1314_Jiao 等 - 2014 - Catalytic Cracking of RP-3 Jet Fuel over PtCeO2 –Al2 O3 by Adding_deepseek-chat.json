@@ -1,0 +1,135 @@
+{
+  "file": "1314_Jiao 等 - 2014 - Catalytic Cracking of RP-3 Jet Fuel over PtCeO2 –Al2 O3 by Adding.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在3.5 MPa压力、600-750°C温度范围内，使用PCA、PCA+CZ和CZ三种催化剂，对中国3号喷气燃料（RP-3）进行催化裂解实验，评估催化活性和热稳定性",
+        "text_snippet": "Catalytic cracking of Chinese number 3 jet fuel (RP-3) was used to examine the catalytic activities and thermal stabilities of the as-prepared catalysts... The catalytic performance measurement was carried out from 600 to 750 °C, and the pressure was kept at 3.5 MPa.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2014",
+        "unit": "year",
+        "original": "2014"
+      },
+      "Feedstock": {
+        "value": "3",
+        "unit": "jet",
+        "original": "Chinese number 3 jet fuel (RP-3)"
+      },
+      "Catalyst type": {
+        "value": "Pt/CeO₂–Al₂O₃ (PCA)",
+        "unit": "Not reported",
+        "original": "Pt/CeO₂–Al₂O₃ (PCA)"
+      },
+      "Catalyst composition": {
+        "value": "0.50",
+        "unit": "wt%",
+        "original": "Pt (0.50 wt%) on CeO₂–Al₂O₃"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-750",
+        "unit": "°C",
+        "original": "600-750 °C"
+      },
+      "Reaction pressure": {
+        "value": "3.5",
+        "unit": "MPa",
+        "original": "3.5 MPa"
+      },
+      "Flow rate": {
+        "value": "76",
+        "unit": "mL/min",
+        "original": "76 mL/min"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous flow reactor",
+        "unit": "Not reported",
+        "original": "Continuous flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.005",
+        "unit": "g/",
+        "original": "0.2 ± 0.005 g/70 cm (tube coating)"
+      },
+      "Product": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "56.9",
+        "unit": "%",
+        "original": "{'Gas yield': ['56.9% at 750°C for PCA+CZ', 'Increased by 284%, 33%, 64% at 600, 650, 700°C respectively for PCA vs thermal', 'Increased by ~30% at each temperature for PCA+CZ vs PCA'], 'Liquid product distribution': 'Reported in Table 2 of the text (mass percentages of alkenes, alkanes, cycloalkanes, arenes at 600, 650, 700°C)'}"
+      },
+      "Product Selectivity": {
+        "value": "600",
+        "unit": "°C",
+        "original": "{'Alkene/alkane ratio': {'600°C': ['Thermal: 0.594', 'PCA: 0.625', 'PCA+CZ: 0.755', 'CZ: 1.150'], '650°C': ['Thermal: 0.396', 'PCA: 0.609', 'PCA+CZ: 0.761', 'CZ: 0.876'], '700°C': ['Thermal: 0.620', 'PCA: 0.710', 'PCA+CZ: 1.014', 'CZ: 0.775'], '750°C': ['PCA: 0.712', 'PCA+CZ: 0.929']}}"
+      },
+      "Catalyst stability": {
+        "value": "650",
+        "unit": "°C",
+        "original": "{'Thermal stability': ['PCA+CZ had better high-temperature stabilities (>650 °C) compared to other catalysts', 'Rapid deactivation of CZ at 700 °C due to poor stabilities under high temperatures', 'PCA inhibits crystallization and collapse of CZ pore structure at high temperatures'], 'Coking': ['Carbon deposition blocked microchannel for CZ catalytic cracking at 700°C', 'Passivation of inner wall decreased carbon deposition for thermal cracking']}"
+      },
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在3.5 MPa压力、600-750°C温度范围内，使用PCA、PCA+CZ和CZ三种催化剂，对中国3号喷气燃料（RP-3）进行催化裂解实验，评估催化活性和热稳定性",
+      "experiment_id": 1,
+      "text_snippet": "Catalytic cracking of Chinese number 3 jet fuel (RP-3) was used to examine the catalytic activities and thermal stabilities of the as-prepared catalysts... The catalytic performance measurement was carried out from 600 to 750 °C, and the pressure was kept at 3.5 MPa."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1240_Hu 等 - 2022 - Utilization of illumination and thermal field in the preparation of jet–fuel components The phototh.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在光照和加热条件下，使用Pt/TiO2-HZSM5或Pd/TiO2-HZSM5催化剂，在120°C和0.4 MPa氢气压力下，将麻风树油转化为C8-C17烷烃（航空燃油组分）。",
+        "text_snippet": "Undersimultaneousilluminationandheating,Jatrophaoilwasconvertedintojetefuelcomponentsovermodifiedcatalysts... ThephotothermiccatalysisreactionofJatrophaoiloverthereducedcatalystswithdifferentactivemetals(Pt,Pd)wascarriedoutinaminiaturetankreactorat120(cid:1)Cfor12hunderahydrogenpressureof0.4MPawithcontinuousmagneticstirring.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Jatropha oil",
+        "unit": "Not reported",
+        "original": "Jatropha oil"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "M/TiO",
+        "original": "M/TiO2-HZSM5"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "Pt/TiO",
+        "original": "Pt/TiO2-HZSM5"
+      },
+      "Solvent": {
+        "value": "Cyclohexane",
+        "unit": "Not reported",
+        "original": "Cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "120",
+        "unit": "°C",
+        "original": "120°C"
+      },
+      "Reaction pressure": {
+        "value": "0.4",
+        "unit": "MPa",
+        "original": "0.4 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "12",
+        "unit": "h",
+        "original": "12 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "8:5",
+        "unit": ":",
+        "original": "Jatropha oil:catalyst = 8:5"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g catalyst per 0.8 g Jatropha oil"
+      },
+      "Product": {
+        "value": "17",
+        "unit": "alkanes",
+        "original": "C8-C17 alkanes"
+      },
+      "Conversion rate": {
+        "value": "93.20",
+        "unit": "%",
+        "original": "93.20% (for Pt/TiO2-HZSM5)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "54.92",
+        "unit": "%",
+        "original": "54.92% (for Pt/TiO2-HZSM5)"
+      },
+      "Catalyst stability": {
+        "value": "Decreased selectivity after regeneration",
+        "unit": "Not reported",
+        "original": "Decreased selectivity after regeneration"
+      },
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在光照和加热条件下，使用Pt/TiO2-HZSM5或Pd/TiO2-HZSM5催化剂，在120°C和0.4 MPa氢气压力下，将麻风树油转化为C8-C17烷烃（航空燃油组分）。",
+      "experiment_id": 1,
+      "text_snippet": "Undersimultaneousilluminationandheating,Jatrophaoilwasconvertedintojetefuelcomponentsovermodifiedcatalysts... ThephotothermiccatalysisreactionofJatrophaoiloverthereducedcatalystswithdifferentactivemetals(Pt,Pd)wascarriedoutinaminiaturetankreactorat120(cid:1)Cfor12hunderahydrogenpressureof0.4MPawithc..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

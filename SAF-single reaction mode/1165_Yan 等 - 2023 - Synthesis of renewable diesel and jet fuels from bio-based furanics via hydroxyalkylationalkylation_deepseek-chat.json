@@ -1,0 +1,247 @@
+{
+  "file": "1165_Yan 等 - 2023 - Synthesis of renewable diesel and jet fuels from bio-based furanics via hydroxyalkylationalkylation.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "羟烷基化/烷基化反应",
+        "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+        "description": "使用SO₄²⁻/TiO₂固体酸催化剂，在80°C、无溶剂条件下催化2-甲基呋喃与糠醛进行羟烷基化/烷基化反应，生成C15燃料前体FMBM。",
+        "text_snippet": "The HAA reaction of 2-MF with furfural to FMBM was performed in a 10 mL thick-walled glass tube heated by an oil bath. Typically, 10–15 mmol 2-MF, 5 mmol furfural and different amounts of S/Ti-T catalyst were mixed to form the reaction solution, which was heated to the specified temperature with a stirring rate of 400 rpm.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation (HDO) reaction",
+        "description": "使用Pd/NbOPO₄催化剂，在200°C、5 MPa H₂压力下，于环己烷溶剂中对HAA反应得到的C15燃料前体FMBM进行加氢脱氧反应，生成柴油和喷气燃料范围的C10、C11和C15烷烃。",
+        "text_snippet": "The HDO reaction of FMBM to alkanes was carried out in a 50 mL autoclave... In a typical reaction, 0.3 g FMBM, a certain amount of Pd/NbOPO4, and 6 mL cyclohexane were transformed into the autoclave. The reaction was then hydrodeoxygenated at the desired temperature (200 ◦C) and H2 pressure (5 MPa) and allowed to react for a certain time (12 h).",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran",
+        "unit": "Not reported",
+        "original": "2-methylfuran"
+      },
+      "Catalyst type": {
+        "value": "Solid acid catalyst",
+        "unit": "Not reported",
+        "original": "Solid acid catalyst"
+      },
+      "Catalyst composition": {
+        "value": "SO₄²⁻/TiO₂",
+        "unit": "Not reported",
+        "original": "SO₄²⁻/TiO₂"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "80",
+        "unit": "°C",
+        "original": "80°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "3",
+        "unit": "h",
+        "original": "3 h"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "2.25:1",
+        "unit": ":",
+        "original": "2.25:1 (2-MF:furfural)"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "50",
+        "unit": "mg",
+        "original": "50 mg"
+      },
+      "Product": {
+        "value": "FMBM (2,2′-(2-Furylmethylene)bis(5-methylfuran))",
+        "unit": "Not reported",
+        "original": "FMBM (2,2′-(2-Furylmethylene)bis(5-methylfuran))"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "97.9",
+        "unit": "%",
+        "original": "97.9%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Reusable after regeneration",
+        "unit": "Not reported",
+        "original": "Reusable after regeneration"
+      },
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用SO₄²⁻/TiO₂固体酸催化剂，在80°C、无溶剂条件下催化2-甲基呋喃与糠醛进行羟烷基化/烷基化反应，生成C15燃料前体FMBM。",
+      "experiment_id": 1,
+      "text_snippet": "The HAA reaction of 2-MF with furfural to FMBM was performed in a 10 mL thick-walled glass tube heated by an oil bath. Typically, 10–15 mmol 2-MF, 5 mmol furfural and different amounts of S/Ti-T catalyst were mixed to form the reaction solution, which was heated to the specified temperature with a s..."
+    },
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "15",
+        "unit": "fuel",
+        "original": "C15 fuel precursor FMBM (2,2′-(2-Furyl-methylene)bis(5-methylfuran))"
+      },
+      "Catalyst type": {
+        "value": "Metal/acid bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "Metal/acid bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "4",
+        "unit": "Pd/NbOPO",
+        "original": "Pd/NbOPO4"
+      },
+      "Solvent": {
+        "value": "cyclohexane",
+        "unit": "Not reported",
+        "original": "cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "200",
+        "unit": "°C",
+        "original": "200°C"
+      },
+      "Reaction pressure": {
+        "value": "5",
+        "unit": "MPa",
+        "original": "5 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "12",
+        "unit": "h",
+        "original": "12 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "120",
+        "unit": "mg",
+        "original": "120 mg (for 0.3 g FMBM)"
+      },
+      "Product": {
+        "value": "10",
+        "unit": "alkane",
+        "original": "C10 alkane (decane)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "8.7",
+        "unit": "%",
+        "original": "8.7% (C10)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported for HDO reaction",
+        "unit": "Not reported",
+        "original": "Not reported for HDO reaction"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation (HDO) reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用Pd/NbOPO₄催化剂，在200°C、5 MPa H₂压力下，于环己烷溶剂中对HAA反应得到的C15燃料前体FMBM进行加氢脱氧反应，生成柴油和喷气燃料范围的C10、C11和C15烷烃。",
+      "experiment_id": 2,
+      "text_snippet": "The HDO reaction of FMBM to alkanes was carried out in a 50 mL autoclave... In a typical reaction, 0.3 g FMBM, a certain amount of Pd/NbOPO4, and 6 mL cyclohexane were transformed into the autoclave. The reaction was then hydrodeoxygenated at the desired temperature (200 ◦C) and H2 pressure (5 MPa) ..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation (HDO) reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

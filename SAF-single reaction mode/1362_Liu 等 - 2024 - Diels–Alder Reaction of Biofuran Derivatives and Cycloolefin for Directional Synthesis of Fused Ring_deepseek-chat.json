@@ -1,0 +1,247 @@
+{
+  "file": "1362_Liu 等 - 2024 - Diels–Alder Reaction of Biofuran Derivatives and Cycloolefin for Directional Synthesis of Fused Ring.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "狄尔斯-阿尔德反应",
+        "reaction_type_english": "Diels-Alder reaction",
+        "description": "2-甲基呋喃与降冰片烯在MCM-22分子筛催化剂作用下的反应，探究了催化剂类型、温度、反应物比例、反应时间和催化剂用量的影响。",
+        "text_snippet": "The Diels−Alder reaction was carried out in a 25 mL autoclave reactor with magnetic agitation... The typical experimental mixtures include combinations of 2-MF (80 mmol, 6.56 g) with NBE (80 mmol, 7.52 g)... The influences of the catalyst, reaction temperature, and reactant ratio on the reaction were explored.",
+        "reaction_type_classify": "Diels-Alder reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "狄尔斯-阿尔德反应",
+        "reaction_type_english": "Diels-Alder reaction",
+        "description": "2-甲基呋喃与茚在MCM-22分子筛催化剂作用下的反应，探究了催化剂类型、温度、反应物比例、反应时间和催化剂用量的影响。",
+        "text_snippet": "The Diels−Alder reaction of 2-MF and IND is carried out under similar reaction conditions... The Diels−Alder reaction of 2-MF and IND is similar to that of 2-MF and NBE... the effect of reaction conditions on the reaction is similar to the rule in the Diels−Alder reaction of 2-MF and NBE.",
+        "reaction_type_classify": "Diels-Alder reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran",
+        "unit": "Not reported",
+        "original": "2-methylfuran"
+      },
+      "Catalyst type": {
+        "value": "22",
+        "unit": "MCM-",
+        "original": "MCM-22"
+      },
+      "Catalyst composition": {
+        "value": "25",
+        "unit": "for",
+        "original": "SiO₂/Al₂O₃ = 25 for MCM-22, HZSM-5, Hβ, Al-MCM-41; SiO₂/Al₂O₃ = 20 for HY"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "150",
+        "unit": "°C",
+        "original": "150°C"
+      },
+      "Reaction pressure": {
+        "value": "0.5",
+        "unit": "MPa",
+        "original": "0.5 MPa N₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "N₂",
+        "unit": "Not reported",
+        "original": "N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "0.8:1",
+        "unit": ":",
+        "original": "n(2-MF):n(NBE) = 0.8:1"
+      },
+      "Operation mode": {
+        "value": "25",
+        "unit": "mL",
+        "original": "Batch (25 mL autoclave reactor with magnetic agitation)"
+      },
+      "Catalyst loading": {
+        "value": "0.4",
+        "unit": "g",
+        "original": "0.4 g"
+      },
+      "Product": {
+        "value": "4",
+        "unit": "a",
+        "original": "MFNB (1-methyl-1,4,4a,5,6,7,8,8a-octahydro-1H-1,4-epoxy-5,8-methylnaphthalen)"
+      },
+      "Conversion rate": {
+        "value": "84.9",
+        "unit": "%",
+        "original": "84.9% for 2-MF"
+      },
+      "Product yield": {
+        "value": "58.45",
+        "unit": "%",
+        "original": "58.45% MFNB at 180°C with 1:1 molar ratio"
+      },
+      "Product Selectivity": {
+        "value": "67.1",
+        "unit": "%",
+        "original": "67.1% MFNB under optimal conditions"
+      },
+      "Catalyst stability": {
+        "value": "10",
+        "unit": "%",
+        "original": "Recyclability tests showed marginal decline (10%) for 2-MF/NBE reaction but significant decline (>50%) for 2-MF/IND reaction after three cycles"
+      },
+      "reaction_type": "狄尔斯-阿尔德反应",
+      "reaction_type_english": "Diels-Alder reaction",
+      "reaction_type_classify": "Diels-Alder reaction",
+      "experiment_description": "2-甲基呋喃与降冰片烯在MCM-22分子筛催化剂作用下的反应，探究了催化剂类型、温度、反应物比例、反应时间和催化剂用量的影响。",
+      "experiment_id": 1,
+      "text_snippet": "The Diels−Alder reaction was carried out in a 25 mL autoclave reactor with magnetic agitation... The typical experimental mixtures include combinations of 2-MF (80 mmol, 6.56 g) with NBE (80 mmol, 7.52 g)... The influences of the catalyst, reaction temperature, and reactant ratio on the reaction wer..."
+    },
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran",
+        "unit": "Not reported",
+        "original": "2-methylfuran"
+      },
+      "Catalyst type": {
+        "value": "zeolite",
+        "unit": "Not reported",
+        "original": "zeolite"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "/Al",
+        "original": "MCM-22 (SiO2/Al2O3 = 25)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "180",
+        "unit": "°C",
+        "original": "180 °C"
+      },
+      "Reaction pressure": {
+        "value": "0.5",
+        "unit": "MPa",
+        "original": "0.5 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "-7",
+        "unit": "h",
+        "original": "5-7 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "N",
+        "original": "N2"
+      },
+      "Reactant molar ratio": {
+        "value": "1:1",
+        "unit": ":",
+        "original": "1:1 (2-methylfuran:indene)"
+      },
+      "Operation mode": {
+        "value": "batch",
+        "unit": "Not reported",
+        "original": "batch"
+      },
+      "Catalyst loading": {
+        "value": "1.0",
+        "unit": "g",
+        "original": "1.0 g"
+      },
+      "Product": {
+        "value": "4",
+        "unit": "a",
+        "original": "1-methyl-1,4,4a,9b-tetrahydro-1H-1,4-epoxy-fluorene (MFIN)"
+      },
+      "Conversion rate": {
+        "value": "94.7",
+        "unit": "%",
+        "original": "94.7% (2-methylfuran)"
+      },
+      "Product yield": {
+        "value": "70.0",
+        "unit": "%",
+        "original": "70.0%"
+      },
+      "Product Selectivity": {
+        "value": "73.6",
+        "unit": "%",
+        "original": "73.6%"
+      },
+      "Catalyst stability": {
+        "value": "50",
+        "unit": "%",
+        "original": "Decreased conversion by over 50% after three cycles"
+      },
+      "reaction_type": "狄尔斯-阿尔德反应",
+      "reaction_type_english": "Diels-Alder reaction",
+      "reaction_type_classify": "Diels-Alder reaction",
+      "experiment_description": "2-甲基呋喃与茚在MCM-22分子筛催化剂作用下的反应，探究了催化剂类型、温度、反应物比例、反应时间和催化剂用量的影响。",
+      "experiment_id": 2,
+      "text_snippet": "The Diels−Alder reaction of 2-MF and IND is carried out under similar reaction conditions... The Diels−Alder reaction of 2-MF and IND is similar to that of 2-MF and NBE... the effect of reaction conditions on the reaction is similar to the rule in the Diels−Alder reaction of 2-MF and NBE."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "狄尔斯-阿尔德反应",
+      "reaction_type_english": "Diels-Alder reaction",
+      "reaction_type_classify": "Diels-Alder reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "狄尔斯-阿尔德反应",
+      "reaction_type_english": "Diels-Alder reaction",
+      "reaction_type_classify": "Diels-Alder reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

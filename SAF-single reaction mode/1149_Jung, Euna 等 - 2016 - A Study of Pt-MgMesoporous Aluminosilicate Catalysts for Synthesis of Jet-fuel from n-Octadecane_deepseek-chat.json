@@ -1,0 +1,135 @@
+{
+  "file": "1149_Jung, Euna 等 - 2016 - A Study of Pt-MgMesoporous Aluminosilicate Catalysts for Synthesis of Jet-fuel from n-Octadecane.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "水热升级反应",
+        "reaction_type_english": "Hydroupgrading reaction",
+        "description": "在固定床催化反应器中，使用Pt-Mg/MMZHY催化剂，在氢气氛围下对n-十八烷进行水热升级反应，以生产航空燃油范围的烃类（C8-C17）。反应涉及裂解和异构化。",
+        "text_snippet": "n-Octadecane의 hydroupgrading 반응은 상압 조건 하에서 연속식 고정층 반응기에서 수행하였다... 반응물인 n-octadecane의 유량을 syringe pump를 사용하여 1.2 ml/h, (액상 기준)로 투입하였다. MFC를 사용하여 수소 유량을 10 ml/min로 유지하였다.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "n-octadecane",
+        "unit": "Not reported",
+        "original": "n-octadecane"
+      },
+      "Catalyst type": {
+        "value": "Pt-Mg/mesoporous aluminosilicate",
+        "unit": "Not reported",
+        "original": "Pt-Mg/mesoporous aluminosilicate"
+      },
+      "Catalyst composition": {
+        "value": "0.5",
+        "unit": "wt%",
+        "original": "Pt 0.5 wt%"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350°C"
+      },
+      "Reaction pressure": {
+        "value": "Atmospheric pressure",
+        "unit": "MPa",
+        "original": "Atmospheric pressure"
+      },
+      "Flow rate": {
+        "value": "2",
+        "unit": "flow",
+        "original": "H2 flow: 10 ml/min"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "Hydrogen (H2)"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.48",
+        "unit": "g",
+        "original": "0.48 g"
+      },
+      "Product": {
+        "value": "8",
+        "unit": "°C",
+        "original": "Jet-fuel range hydrocarbons (C8-C17)"
+      },
+      "Conversion rate": {
+        "value": "Reported as function of temperature and catalyst (Fig. 8)",
+        "unit": "%",
+        "original": "Reported as function of temperature and catalyst (Fig. 8)"
+      },
+      "Product yield": {
+        "value": "56",
+        "unit": "%",
+        "original": "56% jet-fuel yield at 350°C over PtMg(2.0)/MMZHY"
+      },
+      "Product Selectivity": {
+        "value": "80",
+        "unit": "%",
+        "original": "Jet-fuel selectivity: >80%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "水热升级反应",
+      "reaction_type_english": "Hydroupgrading reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床催化反应器中，使用Pt-Mg/MMZHY催化剂，在氢气氛围下对n-十八烷进行水热升级反应，以生产航空燃油范围的烃类（C8-C17）。反应涉及裂解和异构化。",
+      "experiment_id": 1,
+      "text_snippet": "n-Octadecane의 hydroupgrading 반응은 상압 조건 하에서 연속식 고정층 반응기에서 수행하였다... 반응물인 n-octadecane의 유량을 syringe pump를 사용하여 1.2 ml/h, (액상 기준)로 투입하였다. MFC를 사용하여 수소 유량을 10 ml/min로 유지하였다."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "水热升级反应",
+      "reaction_type_english": "Hydroupgrading reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

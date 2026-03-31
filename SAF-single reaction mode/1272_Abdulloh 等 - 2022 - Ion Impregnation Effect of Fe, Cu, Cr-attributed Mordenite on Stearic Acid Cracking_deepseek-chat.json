@@ -1,0 +1,135 @@
+{
+  "file": "1272_Abdulloh 等 - 2022 - Ion Impregnation Effect of Fe, Cu, Cr-attributed Mordenite on Stearic Acid Cracking.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在190°C和真空条件下，使用Fe、Cu、Cr浸渍的丝光沸石催化剂催化硬脂酸裂解，反应产物通过气相色谱-质谱联用仪进行分析。",
+        "text_snippet": "The adjustment on catalytic activity was carried out by simply reacting the catalyst with stearic acid at 190 °C and investigating cracking products with Gas Chromatography-Mass Spectroscopy.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Stearic acid",
+        "unit": "Not reported",
+        "original": "Stearic acid"
+      },
+      "Catalyst type": {
+        "value": "Mordenite",
+        "unit": "Not reported",
+        "original": "Mordenite"
+      },
+      "Catalyst composition": {
+        "value": "Fe",
+        "unit": "Not reported",
+        "original": "Fe"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "190",
+        "unit": "°C",
+        "original": "190 °C"
+      },
+      "Reaction pressure": {
+        "value": "Vacuum condition",
+        "unit": "MPa",
+        "original": "Vacuum condition"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "0.5",
+        "unit": "h",
+        "original": "0.5 h"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "1:50",
+        "unit": ":",
+        "original": "Catalyst:stearic acid = 1:50"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "Alkane",
+        "unit": "Not reported",
+        "original": "Alkane"
+      },
+      "Conversion rate": {
+        "value": "83.78",
+        "unit": "%",
+        "original": "83.78% (0.5 h)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "30.27",
+        "unit": "%",
+        "original": "30.27% BAF (FeCuCr/mordenite)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在190°C和真空条件下，使用Fe、Cu、Cr浸渍的丝光沸石催化剂催化硬脂酸裂解，反应产物通过气相色谱-质谱联用仪进行分析。",
+      "experiment_id": 1,
+      "text_snippet": "The adjustment on catalytic activity was carried out by simply reacting the catalyst with stearic acid at 190 °C and investigating cracking products with Gas Chromatography-Mass Spectroscopy."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1109_Shamanaev 等 - 2025 - Ni phosphide catalysts on  Al2 O3 spa.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢转化反应",
+        "reaction_type_english": "Hydroconversion reaction",
+        "description": "在连续流动固定床反应器中，于290–340°C、2MPa压力、H2/进料=600 Ncm³/cm³和液时空速(LHSV)=5.3 h⁻¹的条件下，研究Ni2P/Al2O3-沸石催化剂在甲基棕榈酸酯加氢转化（一步加氢脱氧-异构化-加氢裂化）中的性能。",
+        "text_snippet": "The catalysts were studied in methyl palmitate hydroconversion (one-stage hydrodeoxygenation-isomerization-hydrocracking) in a continuous-flow fixed bed reactor at 290–340°C, 2MPa, H2/feed=600Ncm3/cm3 and LHSV=5.3h−1.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Methyl palmitate",
+        "unit": "Not reported",
+        "original": "Methyl palmitate"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "P/Al",
+        "original": "Ni2P/Al2O3-zeolite"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "P",
+        "original": "Ni2P"
+      },
+      "Solvent": {
+        "value": "n-dodecane",
+        "unit": "Not reported",
+        "original": "n-dodecane"
+      },
+      "Reaction temperature": {
+        "value": "290",
+        "unit": "°C",
+        "original": "290°C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "5.3",
+        "unit": "h",
+        "original": "LHSV=5.3 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/feed",
+        "original": "H2/feed=600 Ncm³/cm³"
+      },
+      "Operation mode": {
+        "value": "Continuous-flow fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous-flow fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "n-alkanes",
+        "unit": "Not reported",
+        "original": "n-alkanes"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "2",
+        "unit": "P/AS",
+        "original": "{'Ni2P/AS at 340°C': '63% selectivity to C15 and C16 iso-alkanes', 'Ni2P/AZ-5 at 340°C': '100% selectivity to cracked C5–C9 products', 'Ni2P/AZ-22 at 340°C': '55% selectivity to cracked C5–C9 products', 'Ni2P/AZ-23 at 340°C': '85% selectivity to cracked C5–C9 products', 'Ni2P/AZ-12 at 340°C': '85% selectivity to cracked C5–C9 products'}"
+      },
+      "Catalyst stability": {
+        "value": "30",
+        "unit": "h",
+        "original": "Stable for 30 h on stream"
+      },
+      "reaction_type": "加氢转化反应",
+      "reaction_type_english": "Hydroconversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在连续流动固定床反应器中，于290–340°C、2MPa压力、H2/进料=600 Ncm³/cm³和液时空速(LHSV)=5.3 h⁻¹的条件下，研究Ni2P/Al2O3-沸石催化剂在甲基棕榈酸酯加氢转化（一步加氢脱氧-异构化-加氢裂化）中的性能。",
+      "experiment_id": 1,
+      "text_snippet": "The catalysts were studied in methyl palmitate hydroconversion (one-stage hydrodeoxygenation-isomerization-hydrocracking) in a continuous-flow fixed bed reactor at 290–340°C, 2MPa, H2/feed=600Ncm3/cm3 and LHSV=5.3h−1."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢转化反应",
+      "reaction_type_english": "Hydroconversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

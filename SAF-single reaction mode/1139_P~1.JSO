@@ -1,0 +1,135 @@
+{
+  "file": "1139_Panarmasar 等 - 2022 - Catalytic hydrotreating of palm oil for bio-jet fuel production over Ni supported on mesoporous zeol.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢处理",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在连续流动固定床反应器中，使用不同Ni/脱硅介孔沸石催化剂（10Ni/Hbeta, 10Ni/NH4-ZSM-5, 10Ni/USY及其脱硅变体），在375–475°C温度和15–25 bar氢气压力下，对棕榈油进行催化加氢处理，生产生物航煤（C8-C16烃类）。",
+        "text_snippet": "The experiments were carried out in a continuous-flow fixed-bed reactor at different conditions; temperatures of 375–475°C and hydrogen pressures of 15–25bar... focused on the bio-jet fuel production from hydroprocessing of palm oil over different types of Ni/desilicated mesoporous zeolites",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Palm oil",
+        "unit": "Not reported",
+        "original": "Palm oil"
+      },
+      "Catalyst type": {
+        "value": "Ni/desilicated mesoporous zeolites",
+        "unit": "Not reported",
+        "original": "Ni/desilicated mesoporous zeolites"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "10 wt% Ni loading"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "475",
+        "unit": "°C",
+        "original": "375–475 °C"
+      },
+      "Reaction pressure": {
+        "value": "25",
+        "unit": "bar",
+        "original": "15–25 bar"
+      },
+      "Flow rate": {
+        "value": "0.1",
+        "unit": "mL/min",
+        "original": "0.1 mL/min"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous-flow fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous-flow fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "g",
+        "original": "5 g"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "hydrocarbons",
+        "original": "Bio-jet fuel (C8-C16 hydrocarbons)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "56.83",
+        "unit": "%",
+        "original": "56.83% (10Ni/USY)"
+      },
+      "Product Selectivity": {
+        "value": "79.97",
+        "unit": "%",
+        "original": "79.97% jet-fuel range selectivity (10Ni/USY)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢处理",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在连续流动固定床反应器中，使用不同Ni/脱硅介孔沸石催化剂（10Ni/Hbeta, 10Ni/NH4-ZSM-5, 10Ni/USY及其脱硅变体），在375–475°C温度和15–25 bar氢气压力下，对棕榈油进行催化加氢处理，生产生物航煤（C8-C16烃类）。",
+      "experiment_id": 1,
+      "text_snippet": "The experiments were carried out in a continuous-flow fixed-bed reactor at different conditions; temperatures of 375–475°C and hydrogen pressures of 15–25bar... focused on the bio-jet fuel production from hydroprocessing of palm oil over different types of Ni/desilicated mesoporous zeolites"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢处理",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

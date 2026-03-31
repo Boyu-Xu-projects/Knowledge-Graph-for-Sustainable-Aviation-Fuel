@@ -1,0 +1,135 @@
+{
+  "file": "1107_Liu 等 - 2025 - Rational design of hierarchical porous structure of ZSM-22 for boosting high-efficiency selective hy.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在固定床反应器中，使用Ni/HZ-x催化剂，在300-380°C、4 MPa压力、H2/油比为400、重时空速(WHSV)为10 h⁻¹的条件下，将5 wt%的油酸环己烷溶液选择性加氢生成生物航煤。",
+        "text_snippet": "5 wt% oleic acid dissolved in cyclohexane solution was used as feedstock and the activity was evaluated on a fixed bed reactor... The reaction was carried out at 300–380 ◦C, the pressure of 4 MPa, H2/oil of 400 and weight hour space velocities (WHSVs) of 10 h (cid:0) 1.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "oleic acid",
+        "unit": "Not reported",
+        "original": "oleic acid"
+      },
+      "Catalyst type": {
+        "value": "Ni/HZ-x",
+        "unit": "Not reported",
+        "original": "Ni/HZ-x"
+      },
+      "Catalyst composition": {
+        "value": "22",
+        "unit": "ZSM-",
+        "original": "Ni species immobilized on hierarchical porous ZSM-22 (HZ-x)"
+      },
+      "Solvent": {
+        "value": "cyclohexane",
+        "unit": "Not reported",
+        "original": "cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "-380",
+        "unit": "°C",
+        "original": "300-380 °C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "10",
+        "unit": "h",
+        "original": "WHSV of 10 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "400",
+        "unit": "of",
+        "original": "H₂/oil of 400"
+      },
+      "Operation mode": {
+        "value": "fixed bed reactor",
+        "unit": "Not reported",
+        "original": "fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "bio-jet fuel",
+        "unit": "Not reported",
+        "original": "bio-jet fuel"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "49.9",
+        "unit": "%",
+        "original": "49.9% jet fuel yield at 340 °C"
+      },
+      "Product Selectivity": {
+        "value": "3.82",
+        "unit": "at",
+        "original": "iso/n alkanes ratio of 3.82 at 340 °C"
+      },
+      "Catalyst stability": {
+        "value": "-3",
+        "unit": "exhibited",
+        "original": "Ni/HZ-3 exhibited the lowest coke deposition"
+      },
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床反应器中，使用Ni/HZ-x催化剂，在300-380°C、4 MPa压力、H2/油比为400、重时空速(WHSV)为10 h⁻¹的条件下，将5 wt%的油酸环己烷溶液选择性加氢生成生物航煤。",
+      "experiment_id": 1,
+      "text_snippet": "5 wt% oleic acid dissolved in cyclohexane solution was used as feedstock and the activity was evaluated on a fixed bed reactor... The reaction was carried out at 300–380 ◦C, the pressure of 4 MPa, H2/oil of 400 and weight hour space velocities (WHSVs) of 10 h (cid:0) 1."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1371_440-H&#x003b2; Modified Co_SiO2 Catalysts for Fischer-Tropsch Synthesis of Jet Fuel-range Hydrocarbons.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "费托合成",
+        "reaction_type_english": "Fischer-Tropsch synthesis",
+        "description": "在微型固定床反应器中，使用Co/SG/Hβ系列催化剂，在250°C、2.0 MPa压力下，用合成气（CO和H2）进行催化反应，合成C8-C18航空燃油类烃。",
+        "text_snippet": "催化剂评价在φ＝8 mm 的微型固定床反应器上进行。实验中, 1.00 g催化剂在400℃下用还原气还原8 h, 冷却至180℃切换为合成气, 缓慢升温至反应温度。操作条件为: T=250℃, P=2.0 MPa, W/F=12 (g ·h)/mol, cat在达到稳定态后采集数据。",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2014",
+        "unit": "year",
+        "original": "2014"
+      },
+      "Feedstock": {
+        "value": "合成气 (CO和H₂)",
+        "unit": "Not reported",
+        "original": "合成气 (CO和H₂)"
+      },
+      "Catalyst type": {
+        "value": "Co/SG/Hβ系列催化剂",
+        "unit": "Not reported",
+        "original": "Co/SG/Hβ系列催化剂"
+      },
+      "Catalyst composition": {
+        "value": "Co/SG/Hβ(25)",
+        "unit": "Not reported",
+        "original": "Co/SG/Hβ(25)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "250",
+        "unit": "°C",
+        "original": "250°C"
+      },
+      "Reaction pressure": {
+        "value": "2.0",
+        "unit": "MPa",
+        "original": "2.0 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "合成气 (CO和H₂)",
+        "unit": "Not reported",
+        "original": "合成气 (CO和H₂)"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "微型固定床反应器",
+        "unit": "Not reported",
+        "original": "微型固定床反应器"
+      },
+      "Catalyst loading": {
+        "value": "1.00",
+        "unit": "g",
+        "original": "1.00 g"
+      },
+      "Product": {
+        "value": "C₈-C₁₈航空燃油类烃",
+        "unit": "Not reported",
+        "original": "C₈-C₁₈航空燃油类烃"
+      },
+      "Conversion rate": {
+        "value": "95.7",
+        "unit": "%",
+        "original": "Co/SG/Hβ(80): 95.7%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "42.3",
+        "unit": "%",
+        "original": "航空燃油类烃 (C₈-C₁₈): Co/SG/Hβ(80): 42.3% (其中异构烃为27.6%)"
+      },
+      "Catalyst stability": {
+        "value": "Co/SG/Hβ(80)的稳定CO转化率高于Co/SG/Hβ(25)和Co/SG/Hβ(60)",
+        "unit": "Not reported",
+        "original": "Co/SG/Hβ(80)的稳定CO转化率高于Co/SG/Hβ(25)和Co/SG/Hβ(60)"
+      },
+      "reaction_type": "费托合成",
+      "reaction_type_english": "Fischer-Tropsch synthesis",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在微型固定床反应器中，使用Co/SG/Hβ系列催化剂，在250°C、2.0 MPa压力下，用合成气（CO和H2）进行催化反应，合成C8-C18航空燃油类烃。",
+      "experiment_id": 1,
+      "text_snippet": "催化剂评价在φ＝8 mm 的微型固定床反应器上进行。实验中, 1.00 g催化剂在400℃下用还原气还原8 h, 冷却至180℃切换为合成气, 缓慢升温至反应温度。操作条件为: T=250℃, P=2.0 MPa, W/F=12 (g ·h)/mol, cat在达到稳定态后采集数据。"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "费托合成",
+      "reaction_type_english": "Fischer-Tropsch synthesis",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

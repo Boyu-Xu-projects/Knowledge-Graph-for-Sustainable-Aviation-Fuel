@@ -1,0 +1,20 @@
+{
+  "file": "1379_Atsonios 等 - 2023 - Process analysis and comparative assessment of advanced thermochemical pathways for e-kerosene produ.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 0,
+    "experiments": []
+  },
+  "experiments": [],
+  "reaction_types_summary": [],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1246_Cheng 等 - 2019 - Sulfonated mesoporous Y zeolite with nickel to catalyze hydrocracking of microalgae biodiesel into j.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在固定床连续流动反应系统中，使用10% Ni/磺化介孔Y沸石催化剂，在275°C和2 MPa氢气压力下，将微藻生物柴油（FAMEs）催化转化为喷气燃料范围（C8-C16）的烃类。",
+        "text_snippet": "The conversion was conducted on a fixed bed continuous flow reaction system... The reaction temperature was 275 °C and hydrogen was continuously supplied at a rate of 10 sccm to maintain 2 MPa. The LHSV of microalgae biodiesel feedstock was 0.15 h−1 and the ratio of H2 to liquid feedstock was 500 mL/mL.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "Microalgae biodiesel (FAMEs)",
+        "unit": "Not reported",
+        "original": "Microalgae biodiesel (FAMEs)"
+      },
+      "Catalyst type": {
+        "value": "Sulfonated mesoporous Y zeolite with nickel",
+        "unit": "Not reported",
+        "original": "Sulfonated mesoporous Y zeolite with nickel"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "%",
+        "original": "10% Ni/sulfonated meso-Y zeolite"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "275",
+        "unit": "°C",
+        "original": "275°C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "10",
+        "unit": "sccm",
+        "original": "10 sccm hydrogen flow rate, 0.15 h⁻¹ LHSV for feedstock"
+      },
+      "Reaction time": {
+        "value": "8",
+        "unit": "h",
+        "original": "8 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "500",
+        "unit": "mL/mL",
+        "original": "H₂ to liquid feedstock ratio: 500 mL/mL"
+      },
+      "Operation mode": {
+        "value": "Fixed bed continuous flow",
+        "unit": "Not reported",
+        "original": "Fixed bed continuous flow"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "8",
+        "unit": "°C",
+        "original": "Jet fuel range hydrocarbons (C8-C16)"
+      },
+      "Conversion rate": {
+        "value": "99.7",
+        "unit": "%",
+        "original": "99.7%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "52.3",
+        "unit": "%",
+        "original": "52.3% alkanes selectivity"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在固定床连续流动反应系统中，使用10% Ni/磺化介孔Y沸石催化剂，在275°C和2 MPa氢气压力下，将微藻生物柴油（FAMEs）催化转化为喷气燃料范围（C8-C16）的烃类。",
+      "experiment_id": 1,
+      "text_snippet": "The conversion was conducted on a fixed bed continuous flow reaction system... The reaction temperature was 275 °C and hydrogen was continuously supplied at a rate of 10 sccm to maintain 2 MPa. The LHSV of microalgae biodiesel feedstock was 0.15 h−1 and the ratio of H2 to liquid feedstock was 500 mL..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

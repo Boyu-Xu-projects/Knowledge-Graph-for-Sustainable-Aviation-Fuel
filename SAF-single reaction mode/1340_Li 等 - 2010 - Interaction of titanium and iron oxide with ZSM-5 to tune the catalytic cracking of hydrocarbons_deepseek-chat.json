@@ -1,0 +1,247 @@
+{
+  "file": "1340_Li 等 - 2010 - Interaction of titanium and iron oxide with ZSM-5 to tune the catalytic cracking of hydrocarbons.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在固定床MAT装置中，使用n-癸烷作为模型化合物，在625°C下评估金属改性ZSM-5催化剂的裂化性能。催化剂与油的质量比为3.0，重时空速(WHSV)为20 h⁻¹。",
+        "text_snippet": "2.3.1. Catalyticcrackingofn-decane... The catalyst performance was evaluated in a fixed-bedMATunit... catalyticpyrolysisreactionwasperformedat6258C, withacontacttimeonstreamof60s, acatalysttooilratio(wt/wt) of3.0, andaWHSVof20h(cid:5)1.",
+        "reaction_type_classify": "Cracking reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "催化裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在石英微反应器中，使用异丙苯作为模型化合物，在240°C下研究催化剂对芳烃物种的裂解性能。催化剂重量约为100mg，在氮气流(80 ml/min)中进行反应。",
+        "text_snippet": "2.3.2. Catalyticcrackingofisopropylbenzene... Approximately100mgofeachpre-calcinedsamplewas put in a quartz micro-reactor... the samples were measured at 2408C with 80ml/min nitrogen flow. Isopropyl benzene was brought by a 80ml/min nitrogen flow into the quartz micro-reactor",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2010",
+        "unit": "year",
+        "original": "2010"
+      },
+      "Feedstock": {
+        "value": "n-decane",
+        "unit": "Not reported",
+        "original": "n-decane"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "metal-modified ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "/Al",
+        "original": "ZSM-5 (SiO2/Al2O3=36)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "625",
+        "unit": "°C",
+        "original": "625 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "80",
+        "unit": "mL/min",
+        "original": "80 ml/min"
+      },
+      "Reaction time": {
+        "value": "60",
+        "unit": "s",
+        "original": "60 s"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed",
+        "unit": "Not reported",
+        "original": "Fixed-bed"
+      },
+      "Catalyst loading": {
+        "value": "3.0",
+        "unit": "of",
+        "original": "Catalyst to oil mass ratio of 3.0"
+      },
+      "Product": {
+        "value": "ethylene",
+        "unit": "Not reported",
+        "original": "ethylene"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "6.8",
+        "unit": "wt%",
+        "original": "Dry gas: 6.8 wt%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在固定床MAT装置中，使用n-癸烷作为模型化合物，在625°C下评估金属改性ZSM-5催化剂的裂化性能。催化剂与油的质量比为3.0，重时空速(WHSV)为20 h⁻¹。",
+      "experiment_id": 1,
+      "text_snippet": "2.3.1. Catalyticcrackingofn-decane... The catalyst performance was evaluated in a fixed-bedMATunit... catalyticpyrolysisreactionwasperformedat6258C, withacontacttimeonstreamof60s, acatalysttooilratio(wt/wt) of3.0, andaWHSVof20h(cid:5)1."
+    },
+    {
+      "Published year": {
+        "value": "2010",
+        "unit": "year",
+        "original": "2010"
+      },
+      "Feedstock": {
+        "value": "n-decane",
+        "unit": "Not reported",
+        "original": "n-decane"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "/Al",
+        "original": "ZSM-5 (SiO2/Al2O3=36)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "625",
+        "unit": "°C",
+        "original": "625°C (n-decane)"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "80",
+        "unit": "mL/min",
+        "original": "80 ml/min (N2 for isopropylbenzene)"
+      },
+      "Reaction time": {
+        "value": "60",
+        "unit": "s",
+        "original": "60 s (n-decane)"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "100",
+        "unit": "mg",
+        "original": "100 mg (isopropylbenzene)"
+      },
+      "Product": {
+        "value": "Ethylene",
+        "unit": "Not reported",
+        "original": "Ethylene"
+      },
+      "Conversion rate": {
+        "value": "54.0",
+        "unit": "%",
+        "original": "54.0% (isopropylbenzene over Fe-Ti/ZSM-5 at 240°C)"
+      },
+      "Product yield": {
+        "value": "4.6",
+        "unit": "wt%",
+        "original": "Ethylene: 4.6 wt.%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在石英微反应器中，使用异丙苯作为模型化合物，在240°C下研究催化剂对芳烃物种的裂解性能。催化剂重量约为100mg，在氮气流(80 ml/min)中进行反应。",
+      "experiment_id": 2,
+      "text_snippet": "2.3.2. Catalyticcrackingofisopropylbenzene... Approximately100mgofeachpre-calcinedsamplewas put in a quartz micro-reactor... the samples were measured at 2408C with 80ml/min nitrogen flow. Isopropyl benzene was brought by a 80ml/min nitrogen flow into the quartz micro-reactor"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "file": "1167_Zhang 等 - 2017 - Hydrophobic mesoporous acidic resin for hydroxyalkylationalkylation of 2‐methylfuran and ketone to.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "羟基烷基化/烷基化反应",
+        "reaction_type_english": "Hydroxyalkylation/Alkylation reaction",
+        "description": "2-甲基呋喃与环戊酮在55°C下，使用PS或PCS树脂催化剂进行羟基烷基化/烷基化反应9小时",
+        "text_snippet": "The hydroxyalkylation/alkylation reaction was carried out in a round-bottom flask... 160 mmol (14.4 mL) 2-MF and 80 mmol cyclic ketone (cyclopentanone or cyclopentanone) were heated to 55°C in oil bath, and then 0.75 g (for the reaction of cyclopentanone) catalyst was added. The reaction was allowed to proceed for 9 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "羟基烷基化/烷基化反应",
+        "reaction_type_english": "Hydroxyalkylation/Alkylation reaction",
+        "description": "2-甲基呋喃与环己酮在55°C下，使用PS或PCS树脂催化剂进行羟基烷基化/烷基化反应9小时",
+        "text_snippet": "The hydroxyalkylation/alkylation reaction was carried out in a round-bottom flask... 160 mmol (14.4 mL) 2-MF and 80 mmol cyclic ketone (cyclopentanone or cyclopentanone) were heated to 55°C in oil bath, and then 0.375 g (for the reaction of cyclohexanone) catalyst was added. The reaction was allowed to proceed for 9 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "缩合产物在280°C和8MPa氢气压力下，使用5wt% Pd/Hβ催化剂进行加氢脱氧24小时",
+        "text_snippet": "The hydrodeoxygenation of condensed product was carried out in a 500 mL batch autoclave reactor... The reactor was loaded with condensed product (15.0 g), cyclohexane (300.0 mL) and 5 wt% Pd/Hβ (4.0 g) catalyst... Then the reaction was conducted at 280°C and 8 MPa of H₂ for 24 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran",
+        "unit": "Not reported",
+        "original": "2-methylfuran"
+      },
+      "Catalyst type": {
+        "value": "PS resin",
+        "unit": "Not reported",
+        "original": "PS resin"
+      },
+      "Catalyst composition": {
+        "value": "Sulfonic acid functional resin (PS)",
+        "unit": "Not reported",
+        "original": "Sulfonic acid functional resin (PS)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "55",
+        "unit": "°C",
+        "original": "55°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "9",
+        "unit": "h",
+        "original": "9 hours"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "2:1",
+        "unit": ":",
+        "original": "2-MF:ketone = 2:1 (160 mmol:80 mmol)"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.75",
+        "unit": "g",
+        "original": "0.75 g (for cyclopentanone) or 0.375 g (for cyclohexanone)"
+      },
+      "Product": {
+        "value": "FCF (monocyclic target product)",
+        "unit": "Not reported",
+        "original": "FCF (monocyclic target product)"
+      },
+      "Conversion rate": {
+        "value": "60.7",
+        "unit": "%",
+        "original": "60.7% (4.28 wt% PS with cyclopentanone), 81.2% (2.34 wt% PCS with cyclopentanone), 78.6% (4.28 wt% PS with cyclohexanone), 90.4% (1.47 wt% PCS with cyclohexanone)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "83.5",
+        "unit": "%",
+        "original": "83.5% FCF (4.28 wt% PS with cyclopentanone), 84.4% FCF (2.34 wt% PCS with cyclopentanone), 93.0% FCF (4.28 wt% PS with cyclohexanone), 97.3% FCF (1.47 wt% PCS with cyclohexanone)"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "runs",
+        "original": "Good recycling stability in consecutive 5 runs (conversion decreases only 5.9% and 7.4% for PS and PCS respectively after 5 cycles)"
+      },
+      "reaction_type": "羟基烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/Alkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "2-甲基呋喃与环戊酮在55°C下，使用PS或PCS树脂催化剂进行羟基烷基化/烷基化反应9小时",
+      "experiment_id": 1,
+      "text_snippet": "The hydroxyalkylation/alkylation reaction was carried out in a round-bottom flask... 160 mmol (14.4 mL) 2-MF and 80 mmol cyclic ketone (cyclopentanone or cyclopentanone) were heated to 55°C in oil bath, and then 0.75 g (for the reaction of cyclopentanone) catalyst was added. The reaction was allowed..."
+    },
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran",
+        "unit": "Not reported",
+        "original": "2-methylfuran"
+      },
+      "Catalyst type": {
+        "value": "PS resin",
+        "unit": "Not reported",
+        "original": "PS resin"
+      },
+      "Catalyst composition": {
+        "value": "sulfonic acid functional resin",
+        "unit": "Not reported",
+        "original": "sulfonic acid functional resin"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "55",
+        "unit": "°C",
+        "original": "55°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "9",
+        "unit": "h",
+        "original": "9 hours"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "2:1",
+        "unit": ":",
+        "original": "2:1 (2-MF:ketone)"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.75",
+        "unit": "g",
+        "original": "0.75 g (for cyclopentanone)"
+      },
+      "Product": {
+        "value": "FCF (monocyclic target product)",
+        "unit": "Not reported",
+        "original": "FCF (monocyclic target product)"
+      },
+      "Conversion rate": {
+        "value": "60.7",
+        "unit": "%",
+        "original": "60.7% (4.28 wt% PS with cyclopentanone)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "83.5",
+        "unit": "%",
+        "original": "83.5% FCF (4.28 wt% PS with cyclopentanone)"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "runs",
+        "original": "Good recycling stability in consecutive 5 runs (conversion decreases only 5.9% and 7.4% for PS and PCS respectively after 5 cycles)"
+      },
+      "reaction_type": "羟基烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/Alkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "2-甲基呋喃与环己酮在55°C下，使用PS或PCS树脂催化剂进行羟基烷基化/烷基化反应9小时",
+      "experiment_id": 2,
+      "text_snippet": "The hydroxyalkylation/alkylation reaction was carried out in a round-bottom flask... 160 mmol (14.4 mL) 2-MF and 80 mmol cyclic ketone (cyclopentanone or cyclopentanone) were heated to 55°C in oil bath, and then 0.375 g (for the reaction of cyclohexanone) catalyst was added. The reaction was allowed..."
+    },
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "condensed product",
+        "unit": "Not reported",
+        "original": "condensed product"
+      },
+      "Catalyst type": {
+        "value": "Pd/Hβ",
+        "unit": "Not reported",
+        "original": "Pd/Hβ"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5wt% Pd/Hβ"
+      },
+      "Solvent": {
+        "value": "cyclohexane",
+        "unit": "Not reported",
+        "original": "cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "280",
+        "unit": "°C",
+        "original": "280°C"
+      },
+      "Reaction pressure": {
+        "value": "8",
+        "unit": "MPa",
+        "original": "8 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "24",
+        "unit": "h",
+        "original": "24 hours"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "4.0",
+        "unit": "g",
+        "original": "4.0 g"
+      },
+      "Product": {
+        "value": "C₁₅-C₁₆ naphthenes",
+        "unit": "Not reported",
+        "original": "C₁₅-C₁₆ naphthenes"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "缩合产物在280°C和8MPa氢气压力下，使用5wt% Pd/Hβ催化剂进行加氢脱氧24小时",
+      "experiment_id": 3,
+      "text_snippet": "The hydrodeoxygenation of condensed product was carried out in a 500 mL batch autoclave reactor... The reactor was loaded with condensed product (15.0 g), cyclohexane (300.0 mL) and 5 wt% Pd/Hβ (4.0 g) catalyst... Then the reaction was conducted at 280°C and 8 MPa of H₂ for 24 h."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "羟基烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/Alkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "羟基烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/Alkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

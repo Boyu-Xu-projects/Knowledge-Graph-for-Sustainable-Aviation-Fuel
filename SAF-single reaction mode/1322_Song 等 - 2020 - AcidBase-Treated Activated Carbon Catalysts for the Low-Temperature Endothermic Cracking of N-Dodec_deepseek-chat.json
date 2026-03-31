@@ -1,0 +1,135 @@
+{
+  "file": "1322_Song 等 - 2020 - AcidBase-Treated Activated Carbon Catalysts for the Low-Temperature Endothermic Cracking of N-Dodec.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在4 MPa和450°C的超临界条件下，使用酸/碱处理的活性炭催化剂（AC-3Na-N等）和ZSM-5沸石催化剂催化裂解正十二烷（n-dodecane）。",
+        "text_snippet": "The catalytic cracking of n-dodecane was carried out under supercritical reaction conditions using a fixed-bed reactor. The reaction was carried out at 450 °C and 4 MPa... The use of the catalysts clearly improved the liquid fuel conversion, as well as gas yield and heat sink capacity.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "n-dodecane",
+        "unit": "Not reported",
+        "original": "n-dodecane"
+      },
+      "Catalyst type": {
+        "value": "acid/碱处理的活性炭催化剂",
+        "unit": "Not reported",
+        "original": "acid/碱处理的活性炭催化剂"
+      },
+      "Catalyst composition": {
+        "value": "-3",
+        "unit": "Na-N",
+        "original": "AC-3Na-N"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "450",
+        "unit": "°C",
+        "original": "450°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "0.2",
+        "unit": "mL/min",
+        "original": "0.2 mL/min"
+      },
+      "Reaction time": {
+        "value": "30",
+        "unit": "min",
+        "original": "30 min"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.1",
+        "unit": "g",
+        "original": "0.1 g"
+      },
+      "Product": {
+        "value": "methane",
+        "unit": "Not reported",
+        "original": "methane"
+      },
+      "Conversion rate": {
+        "value": "-3",
+        "unit": "Na-N",
+        "original": "AC-3Na-N (77.4%)"
+      },
+      "Product yield": {
+        "value": "-3",
+        "unit": "Na-N",
+        "original": "Gas production yield: AC-3Na-N (61.1%)"
+      },
+      "Product Selectivity": {
+        "value": "-3",
+        "unit": "Na-N",
+        "original": "AC-3Na-N showed the highest gaseous olefin product selectivity of 32.7%"
+      },
+      "Catalyst stability": {
+        "value": "30",
+        "unit": "min",
+        "original": "Stability confirmed over a time-on-stream of 30 min"
+      },
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在4 MPa和450°C的超临界条件下，使用酸/碱处理的活性炭催化剂（AC-3Na-N等）和ZSM-5沸石催化剂催化裂解正十二烷（n-dodecane）。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic cracking of n-dodecane was carried out under supercritical reaction conditions using a fixed-bed reactor. The reaction was carried out at 450 °C and 4 MPa... The use of the catalysts clearly improved the liquid fuel conversion, as well as gas yield and heat sink capacity."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

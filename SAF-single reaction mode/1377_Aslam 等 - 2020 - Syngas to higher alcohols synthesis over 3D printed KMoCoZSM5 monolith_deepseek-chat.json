@@ -1,0 +1,135 @@
+{
+  "file": "1377_Aslam 等 - 2020 - Syngas to higher alcohols synthesis over 3D printed KMoCoZSM5 monolith.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在连续高压不锈钢管式反应器中，使用3D打印的KMoCo/ZSM5整体式催化剂，在270°C和60 bar压力下，用合成气（H2/CO = 2）进行一氧化碳加氢反应，合成高碳数醇（乙醇、丙醇、丁醇）。",
+        "text_snippet": "The catalysts were evaluated for higher alcohols synthesis reaction in a continuous high-pressure stainless steel tubular reactor. Prior to the reaction, the catalysts were reduced at 450 °C under hydrogen flow. The reaction was carried out at 270 °C and 60 bar with syngas (H2/CO = 2), the space velocity was maintained at 3000 h−1 (0.8 g catalyst and 40 ml/min of syngas).",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "Synthesis gas (syngas)",
+        "unit": "Not reported",
+        "original": "Synthesis gas (syngas)"
+      },
+      "Catalyst type": {
+        "value": "3",
+        "unit": "D",
+        "original": "3D printed KMoCo/ZSM5 monolith"
+      },
+      "Catalyst composition": {
+        "value": "K",
+        "unit": "Not reported",
+        "original": "K"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "270",
+        "unit": "°C",
+        "original": "270 °C"
+      },
+      "Reaction pressure": {
+        "value": "60",
+        "unit": "bar",
+        "original": "60 bar"
+      },
+      "Flow rate": {
+        "value": "40",
+        "unit": "mL/min",
+        "original": "40 ml/min"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "/CO",
+        "original": "Syngas (H2/CO = 2)"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/CO",
+        "original": "H2/CO = 2"
+      },
+      "Operation mode": {
+        "value": "Continuous",
+        "unit": "Not reported",
+        "original": "Continuous"
+      },
+      "Catalyst loading": {
+        "value": "0.8",
+        "unit": "g",
+        "original": "0.8 g"
+      },
+      "Product": {
+        "value": "Ethanol",
+        "unit": "Not reported",
+        "original": "Ethanol"
+      },
+      "Conversion rate": {
+        "value": "54",
+        "unit": "%",
+        "original": "54%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "34",
+        "unit": "%",
+        "original": "C2+OH: 34%"
+      },
+      "Catalyst stability": {
+        "value": "6000",
+        "unit": "h",
+        "original": "Structured catalyst retained catalytic performance at higher space velocities (6000 h⁻¹ and above)"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在连续高压不锈钢管式反应器中，使用3D打印的KMoCo/ZSM5整体式催化剂，在270°C和60 bar压力下，用合成气（H2/CO = 2）进行一氧化碳加氢反应，合成高碳数醇（乙醇、丙醇、丁醇）。",
+      "experiment_id": 1,
+      "text_snippet": "The catalysts were evaluated for higher alcohols synthesis reaction in a continuous high-pressure stainless steel tubular reactor. Prior to the reaction, the catalysts were reduced at 450 °C under hydrogen flow. The reaction was carried out at 270 °C and 60 bar with syngas (H2/CO = 2), the space vel..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

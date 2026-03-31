@@ -1,0 +1,20 @@
+{
+  "file": "1348_Alborzi 等 - 2024 - Effect of Zeolite 3.7 ̊ A coated monoliths on improvement of aviation fuel thermal oxidative stabili.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 0,
+    "experiments": []
+  },
+  "experiments": [],
+  "reaction_types_summary": [],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

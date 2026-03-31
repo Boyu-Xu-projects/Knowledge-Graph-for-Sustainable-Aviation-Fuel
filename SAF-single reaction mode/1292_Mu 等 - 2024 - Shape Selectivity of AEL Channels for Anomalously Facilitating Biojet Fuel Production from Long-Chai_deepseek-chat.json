@@ -1,0 +1,135 @@
+{
+  "file": "1292_Mu 等 - 2024 - Shape Selectivity of AEL Channels for Anomalously Facilitating Biojet Fuel Production from Long-Chai.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrocracking reaction",
+        "description": "以正十六烷（n-C16）为模型反应物，在Pt/SAPO-11和Pt/HUSY等催化剂上进行加氢裂化反应，用于生产生物航煤（C9-C15馏分）。实验评估了不同催化剂的裂化产物分布和航空煤油产率。",
+        "text_snippet": "SAPO-11 optionally produces heavy jet fuel fractions in hydrocracking of the model reactant n-C16... Compared to 10-MR Si−Al ZSM-22, ZSM-23, ZSM-5, and ZSM-35 zeolites, SAPO-11 significantly improves the jet fuel production performance... To simplify the reaction system, n-C16 was used as a model reactant for green diesel.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "16",
+        "unit": "n-C",
+        "original": "n-hexadecane (n-C16)"
+      },
+      "Catalyst type": {
+        "value": "11",
+        "unit": "Pt/SAPO-",
+        "original": "Pt/SAPO-11"
+      },
+      "Catalyst composition": {
+        "value": "1",
+        "unit": "wt%",
+        "original": "1 wt % Pt on SAPO-11"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen (implied by hydrocracking reaction)",
+        "unit": "Not reported",
+        "original": "Hydrogen (implied by hydrocracking reaction)"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "1",
+        "unit": "°C",
+        "original": "C1-C4 (light hydrocarbon fractions)"
+      },
+      "Conversion rate": {
+        "value": "1",
+        "unit": "a",
+        "original": "Not reported (conversion vs temperature data shown in Figure 1a but specific values not provided in text)"
+      },
+      "Product yield": {
+        "value": "35.9",
+        "unit": "%",
+        "original": "Maximum jet fuel yield: 35.9% for Pt/SAPO-11"
+      },
+      "Product Selectivity": {
+        "value": "9",
+        "unit": "°C",
+        "original": "Jet fuel fractions (C9-C14) selectivity enhanced on Pt/SAPO-11"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "以正十六烷（n-C16）为模型反应物，在Pt/SAPO-11和Pt/HUSY等催化剂上进行加氢裂化反应，用于生产生物航煤（C9-C15馏分）。实验评估了不同催化剂的裂化产物分布和航空煤油产率。",
+      "experiment_id": 1,
+      "text_snippet": "SAPO-11 optionally produces heavy jet fuel fractions in hydrocracking of the model reactant n-C16... Compared to 10-MR Si−Al ZSM-22, ZSM-23, ZSM-5, and ZSM-35 zeolites, SAPO-11 significantly improves the jet fuel production performance... To simplify the reaction system, n-C16 was used as a model re..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "file": "1399_Street 等 - 2012 - Gasoline-range hydrocarbon production using biomass derived synthesis gas over MoH+ZSM-5.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "合成气转化反应",
+        "reaction_type_english": "Syngas conversion reaction",
+        "description": "使用2:1 H₂/CO合成气（40% H₂, 20% CO, 12% CO₂, 2% CH₄, 26% N₂）在8.96 MPa压力和773 K温度下，通过Mo/H+ZSM-5催化剂进行反应，生成汽油范围的烃类化合物",
+        "text_snippet": "Contaminate-free synthesis gas composed of 40% H₂, 20% CO, 12% CO₂, 2% CH₄, and 26% N₂ (2:1 H₂–CO) was used to test near ideal stoichiometric molar values... The test was run for a period of 9h while liquid samples were taken periodically.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "合成气转化反应",
+        "reaction_type_english": "Syngas conversion reaction",
+        "description": "使用1:1 H₂/CO合成气（19% H₂, 20% CO, 12% CO₂, 2% CH₄, 47% N₂）在相同条件下进行反应，模拟生产者气体的理想无污染情况",
+        "text_snippet": "The second type of syngas had a molar ratio of gases comparable to the molar ratio of the producer gas and consisted of a near 1:1 mol ratio of H₂ to CO (19% H₂, 20% CO, 12% CO₂, 2% CH₄, 47% N₂).",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "合成气转化反应",
+        "reaction_type_english": "Syngas conversion reaction",
+        "description": "使用从木材芯片气化得到的生产者气体（19% H₂, 20% CO, 12% CO₂, 2% CH₄, 46% N₂, 1% O₂）在相同条件下进行反应，测试实际生物质气化气的转化效果",
+        "text_snippet": "Producer gas was prepared from a feedstock of wood chips converted to gas with a down-draft gasifier... This producer gas was made up of a near 1:1 mol ratio of H₂–CO (19% H₂, 20% CO, 12% CO₂, 2% CH₄, and 46% N₂).",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2012",
+        "unit": "year",
+        "original": "2012"
+      },
+      "Feedstock": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "Mo/H+ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "%",
+        "original": "5% Mo loading on H+ZSM-5 (SiO₂/Al₂O₃=50)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "773",
+        "unit": "K",
+        "original": "773 K"
+      },
+      "Reaction pressure": {
+        "value": "8.96",
+        "unit": "MPa",
+        "original": "8.96 MPa"
+      },
+      "Flow rate": {
+        "value": "4.5",
+        "unit": "SLPM",
+        "original": "4.5 SLPM"
+      },
+      "Reaction time": {
+        "value": "9",
+        "unit": "h",
+        "original": "9 h"
+      },
+      "Atmosphere": {
+        "value": "Synthesis gas",
+        "unit": "Not reported",
+        "original": "Synthesis gas"
+      },
+      "Reactant molar ratio": {
+        "value": "2:1",
+        "unit": ":",
+        "original": "2:1 H₂/CO"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "125",
+        "unit": "mL",
+        "original": "125 mL (52.4 g)"
+      },
+      "Product": {
+        "value": "Gasoline-range hydrocarbons",
+        "unit": "Not reported",
+        "original": "Gasoline-range hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "0.00844",
+        "unit": "%",
+        "original": "{'Organic phase': '0.00844%', 'Aqueous phase': '29.9 mL'}"
+      },
+      "Product Selectivity": {
+        "value": "{'CO₂': 'Not reported', 'CH₄': 'Not reported', 'C₂-C₄': 'Not reported', 'Gasoline-range': 'Not reported'}",
+        "unit": "Not reported",
+        "original": "{'CO₂': 'Not reported', 'CH₄': 'Not reported', 'C₂-C₄': 'Not reported', 'Gasoline-range': 'Not reported'}"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "合成气转化反应",
+      "reaction_type_english": "Syngas conversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用2:1 H₂/CO合成气（40% H₂, 20% CO, 12% CO₂, 2% CH₄, 26% N₂）在8.96 MPa压力和773 K温度下，通过Mo/H+ZSM-5催化剂进行反应，生成汽油范围的烃类化合物",
+      "experiment_id": 1,
+      "text_snippet": "Contaminate-free synthesis gas composed of 40% H₂, 20% CO, 12% CO₂, 2% CH₄, and 26% N₂ (2:1 H₂–CO) was used to test near ideal stoichiometric molar values... The test was run for a period of 9h while liquid samples were taken periodically."
+    },
+    {
+      "Published year": {
+        "value": "2012",
+        "unit": "year",
+        "original": "2012"
+      },
+      "Feedstock": {
+        "value": "1",
+        "unit": "h",
+        "original": "1:1 H₂/CO synthesis gas"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "Mo/H+ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "%",
+        "original": "5% Mo loading on H+ZSM-5 (SiO₂/Al₂O₃=50)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "773",
+        "unit": "K",
+        "original": "773 K"
+      },
+      "Reaction pressure": {
+        "value": "-9.18",
+        "unit": "MPa",
+        "original": "8.96-9.18 MPa"
+      },
+      "Flow rate": {
+        "value": "4.5",
+        "unit": "SLPM",
+        "original": "4.5 SLPM"
+      },
+      "Reaction time": {
+        "value": "9",
+        "unit": "h",
+        "original": "9 h"
+      },
+      "Atmosphere": {
+        "value": "40",
+        "unit": "%",
+        "original": "40% H₂, 20% CO, 12% CO₂, 2% CH₄, 26% N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "2:1",
+        "unit": ":",
+        "original": "2:1 H₂/CO"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "125",
+        "unit": "mL",
+        "original": "125 mL (52.4 g)"
+      },
+      "Product": {
+        "value": "Gasoline-range hydrocarbons",
+        "unit": "Not reported",
+        "original": "Gasoline-range hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "0.00315",
+        "unit": "%",
+        "original": "Organic phase yield: 0.00844±0.00315% (2:1 syngas)"
+      },
+      "Product Selectivity": {
+        "value": "CO₂ selectivity highest for producer gas",
+        "unit": "Not reported",
+        "original": "CO₂ selectivity highest for producer gas"
+      },
+      "Catalyst stability": {
+        "value": "Negligible coking for syngas tests, more heavily deposited on upstream portion for producer gas",
+        "unit": "Not reported",
+        "original": "Negligible coking for syngas tests, more heavily deposited on upstream portion for producer gas"
+      },
+      "reaction_type": "合成气转化反应",
+      "reaction_type_english": "Syngas conversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用1:1 H₂/CO合成气（19% H₂, 20% CO, 12% CO₂, 2% CH₄, 47% N₂）在相同条件下进行反应，模拟生产者气体的理想无污染情况",
+      "experiment_id": 2,
+      "text_snippet": "The second type of syngas had a molar ratio of gases comparable to the molar ratio of the producer gas and consisted of a near 1:1 mol ratio of H₂ to CO (19% H₂, 20% CO, 12% CO₂, 2% CH₄, 47% N₂)."
+    },
+    {
+      "Published year": {
+        "value": "2012",
+        "unit": "year",
+        "original": "2012"
+      },
+      "Feedstock": {
+        "value": "Wood chips",
+        "unit": "Not reported",
+        "original": "Wood chips"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "Mo/H+ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "%",
+        "original": "5% Mo loading on H+ZSM-5 (SiO2/Al2O3=50)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "773",
+        "unit": "K",
+        "original": "773 K"
+      },
+      "Reaction pressure": {
+        "value": "-9.18",
+        "unit": "MPa",
+        "original": "8.96-9.18 MPa"
+      },
+      "Flow rate": {
+        "value": "4.5",
+        "unit": "SLPM",
+        "original": "4.5 SLPM"
+      },
+      "Reaction time": {
+        "value": "9",
+        "unit": "h",
+        "original": "9 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "2:1",
+        "unit": ":",
+        "original": "2:1 H2:CO (40% H2, 20% CO, 12% CO2, 2% CH4, 26% N2)"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "125",
+        "unit": "mL",
+        "original": "125 mL (52.4 g)"
+      },
+      "Product": {
+        "value": "Gasoline-range hydrocarbons",
+        "unit": "Not reported",
+        "original": "Gasoline-range hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "0.00315",
+        "unit": "%",
+        "original": "Organic phase yield: 0.00844±0.00315% (2:1 syngas)"
+      },
+      "Product Selectivity": {
+        "value": "2",
+        "unit": "selectivity",
+        "original": "CO2 selectivity highest for producer gas"
+      },
+      "Catalyst stability": {
+        "value": "CO conversion decreased over time for all gas mixes",
+        "unit": "Not reported",
+        "original": "CO conversion decreased over time for all gas mixes"
+      },
+      "reaction_type": "合成气转化反应",
+      "reaction_type_english": "Syngas conversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用从木材芯片气化得到的生产者气体（19% H₂, 20% CO, 12% CO₂, 2% CH₄, 46% N₂, 1% O₂）在相同条件下进行反应，测试实际生物质气化气的转化效果",
+      "experiment_id": 3,
+      "text_snippet": "Producer gas was prepared from a feedstock of wood chips converted to gas with a down-draft gasifier... This producer gas was made up of a near 1:1 mol ratio of H₂–CO (19% H₂, 20% CO, 12% CO₂, 2% CH₄, and 46% N₂)."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "合成气转化反应",
+      "reaction_type_english": "Syngas conversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "合成气转化反应",
+      "reaction_type_english": "Syngas conversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "合成气转化反应",
+      "reaction_type_english": "Syngas conversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

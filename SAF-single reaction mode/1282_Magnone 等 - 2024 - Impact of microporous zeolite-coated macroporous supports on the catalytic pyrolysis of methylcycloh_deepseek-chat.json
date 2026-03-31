@@ -1,0 +1,247 @@
+{
+  "file": "1282_Magnone 等 - 2024 - Impact of microporous zeolite-coated macroporous supports on the catalytic pyrolysis of methylcycloh.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在超临界条件（550°C，50 bar）下，使用ZSM-5涂层的NiCrFeAl金属泡沫催化剂对甲基环己烷（MCH）进行催化热解，并分析其转化率和产物组成。",
+        "text_snippet": "ZSM-5-coated NiCrFeAl metal foam and ZSM-5-coated Al2O3 hollow fiber were both tested using an isothermal constant-pressure continuous-flow heterogeneous catalytic reactor at high temperature (550 ◦C) and pressure (50 bar)... The MCH pyrolysis conversions and post-pyrolysis products were determined by gas chromatography",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在超临界条件（550°C，50 bar）下，使用ZSM-5涂层的Al2O3中空纤维催化剂对甲基环己烷（MCH）进行催化热解，并分析其转化率和产物组成。",
+        "text_snippet": "ZSM-5-coated NiCrFeAl metal foam and ZSM-5-coated Al2O3 hollow fiber were both tested using an isothermal constant-pressure continuous-flow heterogeneous catalytic reactor at high temperature (550 ◦C) and pressure (50 bar)... The MCH pyrolysis conversions and post-pyrolysis products were determined by gas chromatography",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Methylcyclohexane (MCH)",
+        "unit": "Not reported",
+        "original": "Methylcyclohexane (MCH)"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "ZSM-5-coated NiCrFeAl metal foam"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "/Al",
+        "original": "ZSM-5 (SiO2/Al2O3 mole ratio = 23)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "550",
+        "unit": "°C",
+        "original": "550 °C"
+      },
+      "Reaction pressure": {
+        "value": "50",
+        "unit": "bar",
+        "original": "50 bar"
+      },
+      "Flow rate": {
+        "value": "3",
+        "unit": "mL/min",
+        "original": "3 ml/min"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "N",
+        "original": "Nitrogen (N2)"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous-flow",
+        "unit": "Not reported",
+        "original": "Continuous-flow"
+      },
+      "Catalyst loading": {
+        "value": "0.101",
+        "unit": "g",
+        "original": "0.099–0.101 g"
+      },
+      "Product": {
+        "value": "Benzene",
+        "unit": "Not reported",
+        "original": "Benzene"
+      },
+      "Conversion rate": {
+        "value": "89.7",
+        "unit": "%",
+        "original": "89.7% to 65.7% (ZSM-5-coated NiCrFeAl metal foam)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "27.0",
+        "unit": "%",
+        "original": "27.0% BTX, 21.9% cyclic hydrocarbons, 13.2% cycloalkenes, 6.7% linear olefins, 3.2% naphthalene, 0.7% paraffins (ZSM-5-coated NiCrFeAl metal foam at t=0)"
+      },
+      "Catalyst stability": {
+        "value": "2.0",
+        "unit": "%",
+        "original": "Coke deposition: ~2.0% (ZSM-5-coated NiCrFeAl metal foam)"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在超临界条件（550°C，50 bar）下，使用ZSM-5涂层的NiCrFeAl金属泡沫催化剂对甲基环己烷（MCH）进行催化热解，并分析其转化率和产物组成。",
+      "experiment_id": 1,
+      "text_snippet": "ZSM-5-coated NiCrFeAl metal foam and ZSM-5-coated Al2O3 hollow fiber were both tested using an isothermal constant-pressure continuous-flow heterogeneous catalytic reactor at high temperature (550 ◦C) and pressure (50 bar)... The MCH pyrolysis conversions and post-pyrolysis products were determined ..."
+    },
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Methylcyclohexane (MCH)",
+        "unit": "Not reported",
+        "original": "Methylcyclohexane (MCH)"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "O",
+        "original": "ZSM-5-coated Al2O3 hollow fiber"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "/Al",
+        "original": "ZSM-5 (SiO2/Al2O3 mole ratio = 23)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "550",
+        "unit": "°C",
+        "original": "550 °C"
+      },
+      "Reaction pressure": {
+        "value": "50",
+        "unit": "bar",
+        "original": "50 bar"
+      },
+      "Flow rate": {
+        "value": "3",
+        "unit": "mL/min",
+        "original": "3 ml/min"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "N",
+        "original": "Nitrogen (N2)"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous-flow",
+        "unit": "Not reported",
+        "original": "Continuous-flow"
+      },
+      "Catalyst loading": {
+        "value": "0.101",
+        "unit": "g",
+        "original": "0.099–0.101 g (zeolite catalyst weight)"
+      },
+      "Product": {
+        "value": "Linear hydrocarbons (paraffins, olefins)",
+        "unit": "Not reported",
+        "original": "Linear hydrocarbons (paraffins, olefins)"
+      },
+      "Conversion rate": {
+        "value": "89.7",
+        "unit": "%",
+        "original": "ZSM-5-coated NiCrFeAl metal foam: 89.7% to 65.7%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "5",
+        "unit": "ZSM-",
+        "original": "ZSM-5-coated NiCrFeAl metal foam: Higher BTX and cyclic hydrocarbons"
+      },
+      "Catalyst stability": {
+        "value": "2.0",
+        "unit": "%",
+        "original": "Coke deposition: ~2.0% on ZSM-5-coated NiCrFeAl metal foam"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在超临界条件（550°C，50 bar）下，使用ZSM-5涂层的Al2O3中空纤维催化剂对甲基环己烷（MCH）进行催化热解，并分析其转化率和产物组成。",
+      "experiment_id": 2,
+      "text_snippet": "ZSM-5-coated NiCrFeAl metal foam and ZSM-5-coated Al2O3 hollow fiber were both tested using an isothermal constant-pressure continuous-flow heterogeneous catalytic reactor at high temperature (550 ◦C) and pressure (50 bar)... The MCH pyrolysis conversions and post-pyrolysis products were determined ..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

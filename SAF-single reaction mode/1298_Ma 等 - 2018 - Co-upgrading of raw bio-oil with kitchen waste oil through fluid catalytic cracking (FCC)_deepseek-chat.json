@@ -1,0 +1,359 @@
+{
+  "file": "1298_Ma 等 - 2018 - Co-upgrading of raw bio-oil with kitchen waste oil through fluid catalytic cracking (FCC).txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在550°C下，使用HZSM-5催化剂对100%纯生物油进行流化催化裂化（FCC）升级实验。",
+        "text_snippet": "The raw bio-oil mixed with kitchen waste oil with different ratio by weight (100:0, 50:50, 0:100) was pumped using peristaltic pump at the 0.5mL/min, and the single reaction time was 1.5h. All experiments were performed at 550°C... The zeolite catalyst in this study is a commercially available zeolite HZSM-5",
+        "reaction_type_classify": "Cracking reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "催化裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在550°C下，使用HZSM-5催化剂对50%生物油和50%餐厨废油混合物进行共催化裂化升级实验。",
+        "text_snippet": "The mixture of bio-oil and kitchen waste oil with different ratio by weight (100:0, 50:50, 0:100) was pumped using peristaltic pump at the 0.5mL/min... All experiments were performed at 550°C... over HZSM-5",
+        "reaction_type_classify": "Cracking reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "催化裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在550°C下，使用HZSM-5催化剂对100%餐厨废油进行催化裂化实验。",
+        "text_snippet": "The raw bio-oil mixed with kitchen waste oil with different ratio by weight (100:0, 50:50, 0:100) was pumped using peristaltic pump at the 0.5mL/min... All experiments were performed at 550°C... over HZSM-5",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2018",
+        "unit": "year",
+        "original": "2018"
+      },
+      "Feedstock": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% pure bio-oil"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "with",
+        "original": "HZSM-5 with Si/Al ratio of 50"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "550",
+        "unit": "°C",
+        "original": "550°C"
+      },
+      "Reaction pressure": {
+        "value": "Atmospheric pressure",
+        "unit": "MPa",
+        "original": "Atmospheric pressure"
+      },
+      "Flow rate": {
+        "value": "0.5",
+        "unit": "mL/min",
+        "original": "0.5 mL/min"
+      },
+      "Reaction time": {
+        "value": "1.5",
+        "unit": "h",
+        "original": "1.5 h"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fluidized catalytic cracking",
+        "unit": "Not reported",
+        "original": "Fluidized catalytic cracking"
+      },
+      "Catalyst loading": {
+        "value": "60",
+        "unit": "g",
+        "original": "60 g"
+      },
+      "Product": {
+        "value": "Organic phase",
+        "unit": "Not reported",
+        "original": "Organic phase"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "15.32",
+        "unit": "wt%",
+        "original": "{'Coke': ['15.32 wt.%', '9.07 wt.%', '2.73 wt.%'], 'Organic phase': ['33.82 wt.%', '51.15 wt.%', '22.68 wt.%'], 'Aqueous phase': ['8.99 wt.%', '30.11 wt.%', '17.90 wt.%'], 'Gas': ['41.87 wt.%', '9.67 wt.%', '56.69 wt.%']}"
+      },
+      "Product Selectivity": {
+        "value": "22.36",
+        "unit": "%",
+        "original": "{'Olefins': ['Not reported', '22.36%', '17.73%'], 'Aromatics': ['73.33%', '97.44%', '69.83%']}"
+      },
+      "Catalyst stability": {
+        "value": "-10.0",
+        "unit": "wt%",
+        "original": "Deactivation observed with coke deposition (5.5-10.0 wt.%)"
+      },
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在550°C下，使用HZSM-5催化剂对100%纯生物油进行流化催化裂化（FCC）升级实验。",
+      "experiment_id": 1,
+      "text_snippet": "The raw bio-oil mixed with kitchen waste oil with different ratio by weight (100:0, 50:50, 0:100) was pumped using peristaltic pump at the 0.5mL/min, and the single reaction time was 1.5h. All experiments were performed at 550°C... The zeolite catalyst in this study is a commercially available zeoli..."
+    },
+    {
+      "Published year": {
+        "value": "2018",
+        "unit": "year",
+        "original": "2018"
+      },
+      "Feedstock": {
+        "value": "50",
+        "unit": "%",
+        "original": "50% bio-oil from pine sawdust"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "with",
+        "original": "HZSM-5 with Si/Al ratio of 50"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "550",
+        "unit": "°C",
+        "original": "550°C"
+      },
+      "Reaction pressure": {
+        "value": "Atmospheric pressure",
+        "unit": "MPa",
+        "original": "Atmospheric pressure"
+      },
+      "Flow rate": {
+        "value": "0.5",
+        "unit": "mL/min",
+        "original": "0.5 mL/min"
+      },
+      "Reaction time": {
+        "value": "1.5",
+        "unit": "h",
+        "original": "1.5 h"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed fluidized catalytic cracking",
+        "unit": "Not reported",
+        "original": "Fixed-bed fluidized catalytic cracking"
+      },
+      "Catalyst loading": {
+        "value": "60",
+        "unit": "g",
+        "original": "60 g"
+      },
+      "Product": {
+        "value": "Organic phase bio-oil",
+        "unit": "Not reported",
+        "original": "Organic phase bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "9.07",
+        "unit": "wt%",
+        "original": "{'Coke': '9.07 wt%', 'Organic phase': '51.15 wt%', 'Aqueous phase': '30.11 wt%', 'Gas': '9.67 wt%'}"
+      },
+      "Product Selectivity": {
+        "value": "22.36",
+        "unit": "%",
+        "original": "{'Olefins': '22.36%', 'Alkyl benzenes': '30.79%', 'Naphthalenes': '38.14%', 'Anthracenes': '6.15%', 'Phenols': 'Not reported', 'Benzene esters': 'Not reported', 'Others': '2.56%'}"
+      },
+      "Catalyst stability": {
+        "value": "8.2",
+        "unit": "wt%",
+        "original": "Deactivation observed with coke deposition (8.2 wt% weight loss in TG analysis)"
+      },
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在550°C下，使用HZSM-5催化剂对50%生物油和50%餐厨废油混合物进行共催化裂化升级实验。",
+      "experiment_id": 2,
+      "text_snippet": "The mixture of bio-oil and kitchen waste oil with different ratio by weight (100:0, 50:50, 0:100) was pumped using peristaltic pump at the 0.5mL/min... All experiments were performed at 550°C... over HZSM-5"
+    },
+    {
+      "Published year": {
+        "value": "2018",
+        "unit": "year",
+        "original": "2018"
+      },
+      "Feedstock": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% kitchen waste oil"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "with",
+        "original": "HZSM-5 with a Si/Al ratio of 50"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "550",
+        "unit": "°C",
+        "original": "550°C"
+      },
+      "Reaction pressure": {
+        "value": "Atmospheric pressure",
+        "unit": "MPa",
+        "original": "Atmospheric pressure"
+      },
+      "Flow rate": {
+        "value": "0.5",
+        "unit": "mL/min",
+        "original": "0.5 mL/min"
+      },
+      "Reaction time": {
+        "value": "1.5",
+        "unit": "h",
+        "original": "1.5 h"
+      },
+      "Atmosphere": {
+        "value": "10",
+        "unit": "mL/min",
+        "original": "Nitrogen (initially 10 mL/min to remove air, then shutdown during reaction)"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed fluidized catalytic cracking (FCC)",
+        "unit": "Not reported",
+        "original": "Fixed-bed fluidized catalytic cracking (FCC)"
+      },
+      "Catalyst loading": {
+        "value": "60",
+        "unit": "g",
+        "original": "60 g"
+      },
+      "Product": {
+        "value": "Coke",
+        "unit": "Not reported",
+        "original": "Coke"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "100",
+        "unit": "%",
+        "original": "{'100% kitchen waste oil': {'Coke': '2.73 wt%', 'Organic phase': '22.68 wt%', 'Aqueous phase': '17.90 wt%', 'Gas': '56.69 wt%'}, '50:50 mixture': {'Coke': '9.07 wt%', 'Organic phase': '51.15 wt%', 'Aqueous phase': '30.11 wt%', 'Gas': '9.67 wt%'}, '100% raw bio-oil': {'Coke': '15.32 wt%', 'Organic phase': '33.82 wt%', 'Aqueous phase': '8.99 wt%', 'Gas': '41.87 wt%'}}"
+      },
+      "Product Selectivity": {
+        "value": "100",
+        "unit": "%",
+        "original": "{'100% kitchen waste oil': {'Olefins': '17.73%', 'Aromatic hydrocarbons': '52.10%', 'Benzene esters': '1.20%', 'Others': '28.97%'}, '50:50 mixture': {'Olefins': '22.36%', 'Aromatic hydrocarbons': '68.93%', 'Phenols': '4.53%', 'Others': '2.56%'}, '100% raw bio-oil': {'Olefins': 'Not reported', 'Aromatic hydrocarbons': '73.33%', 'Phenols': 'Not reported', 'Others': '22.14%'}}"
+      },
+      "Catalyst stability": {
+        "value": "-10.0",
+        "unit": "wt%",
+        "original": "{'Coke deposition': '5.5-10.0 wt% (from TG analysis)', 'Deactivation': 'Coke composed of macromolecular aromatic compounds, with maximum weight loss at ~530°C'}"
+      },
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在550°C下，使用HZSM-5催化剂对100%餐厨废油进行催化裂化实验。",
+      "experiment_id": 3,
+      "text_snippet": "The raw bio-oil mixed with kitchen waste oil with different ratio by weight (100:0, 50:50, 0:100) was pumped using peristaltic pump at the 0.5mL/min... All experiments were performed at 550°C... over HZSM-5"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

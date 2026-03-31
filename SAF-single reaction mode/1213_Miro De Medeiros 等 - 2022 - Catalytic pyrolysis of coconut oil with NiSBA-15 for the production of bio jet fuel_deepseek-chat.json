@@ -1,0 +1,247 @@
+{
+  "file": "1213_Miro De Medeiros 等 - 2022 - Catalytic pyrolysis of coconut oil with NiSBA-15 for the production of bio jet fuel.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "使用热重分析（TGA）在5、15和20°C/min的加热速率下，研究椰子油在30-600°C温度范围内的热解和催化热解（使用1%和5% Ni/SBA-15催化剂）行为。",
+        "text_snippet": "The TG curves of vegetable oil with (10%) and without catalysts were obtained at heating rates of 5, 15 and 20°C min⁻¹, in the temperature range between 30 and 600°C.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "催化热解反应",
+        "reaction_type_english": "Catalytic pyrolysis reaction",
+        "description": "在500°C的单级管式反应器中，使用10 wt%的催化剂（基于油质量）进行椰子油的催化热解实验，以生产生物航空燃料。使用5% Ni/SBA-15催化剂时，烃类产率更高，脱水过程主要通过脱羰基进行。",
+        "text_snippet": "Catalytic pyrolysis experiments were performed in a one-stage tubular reactor at 500°C with a catalyst loading of 10 wt% on the basis of mass of oil. The catalyst with 5% Ni showed greater presence of hydrocarbons and greater formation of water, indicating that the deoxygenation process occurred through decarbonylation.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Coconut oil",
+        "unit": "Not reported",
+        "original": "Coconut oil"
+      },
+      "Catalyst type": {
+        "value": "15",
+        "unit": "Ni/SBA-",
+        "original": "Ni/SBA-15"
+      },
+      "Catalyst composition": {
+        "value": "1",
+        "unit": "%",
+        "original": "1% Ni/SBA-15"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500",
+        "unit": "°C",
+        "original": "500°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "100",
+        "unit": "mL/min",
+        "original": "100 mL/min"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "N₂",
+        "unit": "Not reported",
+        "original": "N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "10 wt%"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "5",
+        "unit": "%",
+        "original": "{'Bio-oil': 'Not reported', 'Water': 'Increased with 5% Ni/SBA-15', 'Gases': 'Increased with catalysts'}"
+      },
+      "Product Selectivity": {
+        "value": "16",
+        "unit": "range",
+        "original": "{'Hydrocarbons': ['C11-C16 range (kerosene)'], 'Oxygenates': ['Carboxylic acids', 'Ketones', 'Esters', 'Alcohols']}"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "使用热重分析（TGA）在5、15和20°C/min的加热速率下，研究椰子油在30-600°C温度范围内的热解和催化热解（使用1%和5% Ni/SBA-15催化剂）行为。",
+      "experiment_id": 1,
+      "text_snippet": "The TG curves of vegetable oil with (10%) and without catalysts were obtained at heating rates of 5, 15 and 20°C min⁻¹, in the temperature range between 30 and 600°C."
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Coconut oil",
+        "unit": "Not reported",
+        "original": "Coconut oil"
+      },
+      "Catalyst type": {
+        "value": "15",
+        "unit": "Ni/SBA-",
+        "original": "Ni/SBA-15"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "%",
+        "original": "5% Ni/SBA-15"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500",
+        "unit": "°C",
+        "original": "500°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "100",
+        "unit": "mL",
+        "original": "100 mL min⁻¹ (N₂ flow)"
+      },
+      "Reaction time": {
+        "value": "10",
+        "unit": "min",
+        "original": "10 min (at 500°C)"
+      },
+      "Atmosphere": {
+        "value": "N₂",
+        "unit": "Not reported",
+        "original": "N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "10 wt% (based on oil mass)"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "5",
+        "unit": "%",
+        "original": "{'Bio-oil': 'Not reported', 'Water': 'Higher with 5% Ni/SBA-15', 'Gases': 'Increased with catalysts'}"
+      },
+      "Product Selectivity": {
+        "value": "20",
+        "unit": "%",
+        "original": "{'Hydrocarbons': '>20% increase with catalysts', 'Kerosene range (C11-C16)': '73.17-78.08% selectivity', 'Oxygenates': 'Reduced with catalysts'}"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在500°C的单级管式反应器中，使用10 wt%的催化剂（基于油质量）进行椰子油的催化热解实验，以生产生物航空燃料。使用5% Ni/SBA-15催化剂时，烃类产率更高，脱水过程主要通过脱羰基进行。",
+      "experiment_id": 2,
+      "text_snippet": "Catalytic pyrolysis experiments were performed in a one-stage tubular reactor at 500°C with a catalyst loading of 10 wt% on the basis of mass of oil. The catalyst with 5% Ni showed greater presence of hydrocarbons and greater formation of water, indicating that the deoxygenation process occurred thr..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

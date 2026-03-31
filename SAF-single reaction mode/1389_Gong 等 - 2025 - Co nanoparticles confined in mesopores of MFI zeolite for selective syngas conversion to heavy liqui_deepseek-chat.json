@@ -1,0 +1,135 @@
+{
+  "file": "1389_Gong 等 - 2025 - Co nanoparticles confined in mesopores of MFI zeolite for selective syngas conversion to heavy liqui.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "费托合成",
+        "reaction_type_english": "Fischer-Tropsch synthesis",
+        "description": "在513K、2.0MPa压力下，使用H2/CO/Ar=9:9:1的合成气，在Co基催化剂上进行费托合成反应，生成液态烃燃料。通过调控Co纳米颗粒在MFI分子筛微孔和介孔中的分布，研究其对产物碳数分布和选择性的影响。",
+        "text_snippet": "0.33 g catalyst (40–80 mesh) was located at the constant temperature zone of a stainless-steel reactor (inner diameter 10 mm). The catalyst was reduced with 50 mL min–1 H2 gas at 673 K for 5 hours with a heating rate of 3 K min–1. After the temperature was cooled to 373 K, syngas (H2/CO/Ar = 9:9:1) with a flow rate of 20 mL min–1 was introduced into the reactor. Then, the temperature and pressure were raised to 513 K and 2 MPa, respectively, to start the Fischer-Tropsch synthesis reaction.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "2",
+        "unit": "/CO/Ar",
+        "original": "H2/CO/Ar=9:9:1"
+      },
+      "Catalyst type": {
+        "value": "Co-based catalyst",
+        "unit": "Not reported",
+        "original": "Co-based catalyst"
+      },
+      "Catalyst composition": {
+        "value": "Co nanoparticles on MFI zeolite (Na-OMMZ, H-OMMZ)",
+        "unit": "Not reported",
+        "original": "Co nanoparticles on MFI zeolite (Na-OMMZ, H-OMMZ)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "513",
+        "unit": "K",
+        "original": "513 K"
+      },
+      "Reaction pressure": {
+        "value": "2.0",
+        "unit": "MPa",
+        "original": "2.0 MPa"
+      },
+      "Flow rate": {
+        "value": "20",
+        "unit": "mL",
+        "original": "20 mL min⁻¹"
+      },
+      "Reaction time": {
+        "value": "10",
+        "unit": "h",
+        "original": "10 h (standard test), 120 h (stability test)"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "/CO/Ar",
+        "original": "syngas (H2/CO/Ar=9:9:1)"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/CO",
+        "original": "H2/CO = 1.0"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.33",
+        "unit": "g",
+        "original": "0.33 g (40–80 mesh)"
+      },
+      "Product": {
+        "value": "5",
+        "unit": "°C",
+        "original": "Liquid hydrocarbon fuels (gasoline C5–C11, jet C8–C16, diesel C10–C20, wax C21+)"
+      },
+      "Conversion rate": {
+        "value": "38.2",
+        "unit": "%",
+        "original": "10.1–38.2% (CO conversion, varies by catalyst)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "76.7",
+        "unit": "%",
+        "original": "Gasoline: up to 76.7%"
+      },
+      "Catalyst stability": {
+        "value": "120",
+        "unit": "h",
+        "original": "Stable for 120 h (CO conversion and selectivity maintained)"
+      },
+      "reaction_type": "费托合成",
+      "reaction_type_english": "Fischer-Tropsch synthesis",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在513K、2.0MPa压力下，使用H2/CO/Ar=9:9:1的合成气，在Co基催化剂上进行费托合成反应，生成液态烃燃料。通过调控Co纳米颗粒在MFI分子筛微孔和介孔中的分布，研究其对产物碳数分布和选择性的影响。",
+      "experiment_id": 1,
+      "text_snippet": "0.33 g catalyst (40–80 mesh) was located at the constant temperature zone of a stainless-steel reactor (inner diameter 10 mm). The catalyst was reduced with 50 mL min–1 H2 gas at 673 K for 5 hours with a heating rate of 3 K min–1. After the temperature was cooled to 373 K, syngas (H2/CO/Ar = 9:9:1) ..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "费托合成",
+      "reaction_type_english": "Fischer-Tropsch synthesis",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1274_Fukumasa 等 - 2025 - Shape selective cracking of polypropylene on an H- MFI type zeolite catalyst with recovery of.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在H-MFI型沸石催化剂上，使用环辛烷作为溶剂，对聚丙烯进行形状选择性裂解。反应在663-693K下进行1小时，将聚丙烯选择性转化为C3-27脂肪族和单环芳香族化合物（相当于液化石油气、石脑油、煤油、喷气燃料和柴油），同时回收大部分环辛烷溶剂。",
+        "text_snippet": "With an H-MFI type zeolite catalyst combined with cyclooctane as the solvent, polypropylene was selectively converted without cyclooctane reactivity. In a typical case, 84% of polypropylene was converted into C3-27 aliphatic and monocyclic aromatic compounds (equivalent to liquid petroleum gas, naphtha, kerosene, jet and diesel) with 79% selectivity, while 95% of cyclooctane was recovered.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "polypropylene",
+        "unit": "Not reported",
+        "original": "polypropylene"
+      },
+      "Catalyst type": {
+        "value": "H-MFI type zeolite",
+        "unit": "Not reported",
+        "original": "H-MFI type zeolite"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "zeolite",
+        "original": "H-ZSM-5 zeolite (Si/Al molar ratio of 15)"
+      },
+      "Solvent": {
+        "value": "cyclooctane",
+        "unit": "Not reported",
+        "original": "cyclooctane"
+      },
+      "Reaction temperature": {
+        "value": "-693",
+        "unit": "K",
+        "original": "663-693 K"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 hour"
+      },
+      "Atmosphere": {
+        "value": "N₂",
+        "unit": "Not reported",
+        "original": "N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.05",
+        "unit": "g",
+        "original": "0.05 g catalyst per 0.25 g polymer"
+      },
+      "Product": {
+        "value": "-27",
+        "unit": "aliphatic",
+        "original": "C3-27 aliphatic compounds"
+      },
+      "Conversion rate": {
+        "value": "84",
+        "unit": "%",
+        "original": "84% (polypropylene at 693 K)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "79",
+        "unit": "%",
+        "original": "79% (C3-27 aliphatic and monocyclic aromatic compounds)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在H-MFI型沸石催化剂上，使用环辛烷作为溶剂，对聚丙烯进行形状选择性裂解。反应在663-693K下进行1小时，将聚丙烯选择性转化为C3-27脂肪族和单环芳香族化合物（相当于液化石油气、石脑油、煤油、喷气燃料和柴油），同时回收大部分环辛烷溶剂。",
+      "experiment_id": 1,
+      "text_snippet": "With an H-MFI type zeolite catalyst combined with cyclooctane as the solvent, polypropylene was selectively converted without cyclooctane reactivity. In a typical case, 84% of polypropylene was converted into C3-27 aliphatic and monocyclic aromatic compounds (equivalent to liquid petroleum gas, naph..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

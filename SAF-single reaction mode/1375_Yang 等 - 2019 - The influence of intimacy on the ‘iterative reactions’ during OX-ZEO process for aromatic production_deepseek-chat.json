@@ -1,0 +1,359 @@
+{
+  "file": "1375_Yang 等 - 2019 - The influence of intimacy on the ‘iterative reactions’ during OX-ZEO process for aromatic production.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在ZnCrOₓ和MnZnCrOₓ氧化物上进行二甲醚（CH₃OCH₃）的氢化反应测试。MnZnCrOₓ表现出更强的氢化能力，二甲醚转化率更高（25%），甲烷选择性达89%。",
+        "text_snippet": "the hydrogenation reactions of CH₃OCH₃ are tested over both oxides (Fig. S9). For ZnCrOₓ oxide, the CH₄ selectivity reaches 87% at a CH₃OCH₃ conversion of 10%... When it comes to MnZnCrOₓ, a much higher conversion of 25% and CH₄ selectivity of 89% are acquired due to its stronger hydrogenation ability.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在两种氧化物上进行乙烯（C₂H₄）的氢化反应测试，乙烯完全转化为乙烷（C₂H₆）。",
+        "text_snippet": "the hydrogenation of a model alkene, C₂H₄, is also conducted, which is completely converted into C₂H₆ over both oxides (Fig. S10).",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在模拟反应气氛下进行合成气转化实验，将二甲醚与合成气的混合气体通过双床层配置（ZSM-5在上，氧化物在下）来研究反应环境对迭代加氢程度的影响。",
+        "text_snippet": "the syngas conversion under a simulated reaction aero-environment is designed... the gas mixture of CH₃OCH₃ and syngas is adopted to pass a dual-bed configuration with ZSM-5 packed above oxides which is separated by quartz wool (Fig. 3b).",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "CH₃OCH₃",
+        "unit": "Not reported",
+        "original": "CH₃OCH₃"
+      },
+      "Catalyst type": {
+        "value": "Oxide",
+        "unit": "Not reported",
+        "original": "Oxide"
+      },
+      "Catalyst composition": {
+        "value": "ZnCrOₓ",
+        "unit": "Not reported",
+        "original": "ZnCrOₓ"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "CH₄",
+        "unit": "Not reported",
+        "original": "CH₄"
+      },
+      "Conversion rate": {
+        "value": "10",
+        "unit": "%",
+        "original": "10% (ZnCrOₓ, CH₃OCH₃)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "87",
+        "unit": "%",
+        "original": "87% CH₄ (ZnCrOₓ)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在ZnCrOₓ和MnZnCrOₓ氧化物上进行二甲醚（CH₃OCH₃）的氢化反应测试。MnZnCrOₓ表现出更强的氢化能力，二甲醚转化率更高（25%），甲烷选择性达89%。",
+      "experiment_id": 1,
+      "text_snippet": "the hydrogenation reactions of CH₃OCH₃ are tested over both oxides (Fig. S9). For ZnCrOₓ oxide, the CH₄ selectivity reaches 87% at a CH₃OCH₃ conversion of 10%... When it comes to MnZnCrOₓ, a much higher conversion of 25% and CH₄ selectivity of 89% are acquired due to its stronger hydrogenation abili..."
+    },
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "C₂H₄",
+        "unit": "Not reported",
+        "original": "C₂H₄"
+      },
+      "Catalyst type": {
+        "value": "Oxide",
+        "unit": "Not reported",
+        "original": "Oxide"
+      },
+      "Catalyst composition": {
+        "value": "ZnCrOₓ",
+        "unit": "Not reported",
+        "original": "ZnCrOₓ"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "C₂H₆",
+        "unit": "Not reported",
+        "original": "C₂H₆"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在两种氧化物上进行乙烯（C₂H₄）的氢化反应测试，乙烯完全转化为乙烷（C₂H₆）。",
+      "experiment_id": 2,
+      "text_snippet": "the hydrogenation of a model alkene, C₂H₄, is also conducted, which is completely converted into C₂H₆ over both oxides (Fig. S10)."
+    },
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "syngas (CO/H₂)",
+        "unit": "Not reported",
+        "original": "syngas (CO/H₂)"
+      },
+      "Catalyst type": {
+        "value": "Composite catalyst",
+        "unit": "Not reported",
+        "original": "Composite catalyst"
+      },
+      "Catalyst composition": {
+        "value": "ZnCrOₓ",
+        "unit": "Not reported",
+        "original": "ZnCrOₓ"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "400",
+        "unit": "°C",
+        "original": "300–400 °C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "1200",
+        "unit": "mL",
+        "original": "1200 mL gcat⁻¹ h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "/",
+        "original": "H₂/CO = 2/1"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/",
+        "original": "H₂/CO = 2/1"
+      },
+      "Operation mode": {
+        "value": "Continuous flow fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous flow fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "600",
+        "unit": "mg",
+        "original": "600 mg total (300 mg oxide + 300 mg zeolite)"
+      },
+      "Product": {
+        "value": "CH₄",
+        "unit": "Not reported",
+        "original": "CH₄"
+      },
+      "Conversion rate": {
+        "value": "16.1",
+        "unit": "%",
+        "original": "CO conversion: 14.5–16.1%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "74",
+        "unit": "%",
+        "original": "Aromatics: 25–74%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在模拟反应气氛下进行合成气转化实验，将二甲醚与合成气的混合气体通过双床层配置（ZSM-5在上，氧化物在下）来研究反应环境对迭代加氢程度的影响。",
+      "experiment_id": 3,
+      "text_snippet": "the syngas conversion under a simulated reaction aero-environment is designed... the gas mixture of CH₃OCH₃ and syngas is adopted to pass a dual-bed configuration with ZSM-5 packed above oxides which is separated by quartz wool (Fig. 3b)."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

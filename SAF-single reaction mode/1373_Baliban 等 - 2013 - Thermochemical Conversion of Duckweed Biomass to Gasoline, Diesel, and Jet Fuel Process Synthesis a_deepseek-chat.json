@@ -1,0 +1,20 @@
+{
+  "file": "1373_Baliban 等 - 2013 - Thermochemical Conversion of Duckweed Biomass to Gasoline, Diesel, and Jet Fuel Process Synthesis a.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 0,
+    "experiments": []
+  },
+  "experiments": [],
+  "reaction_types_summary": [],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

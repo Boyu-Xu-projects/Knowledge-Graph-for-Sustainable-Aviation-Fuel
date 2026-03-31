@@ -1,0 +1,247 @@
+{
+  "file": "1352_Nascimento 等 - 2016 - CERIUM INCORPORATED INTO A MESOPOROUS MOLECULAR SIEVE (MCM-41).txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "水热合成",
+        "reaction_type_english": "Hydrothermal synthesis",
+        "description": "使用水热法合成纯MCM-41介孔分子筛，以硅胶和硅酸钠为硅源，CTMABr为结构导向剂",
+        "text_snippet": "The pure mesoporous molecular sieve MCM-41 was also synthesized using the same method. The synthesis was conducted at 100 °C in a Teflon-jacketed stainless steel autoclave for a period of five days",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "水热合成",
+        "reaction_type_english": "Hydrothermal synthesis",
+        "description": "使用水热法合成掺铈MCM-41介孔分子筛(Ce-MCM-41)，添加硝酸铈作为过渡金属源，凝胶摩尔组成为1CTMABr:4SiO₂:1Na₂O:0.2Ce₂O₃:200H₂O",
+        "text_snippet": "Ce-MCM-41 was synthesized using the hydrothermal method...cerium nitrate as a transition metal source. The molar composition of the gel obtained was 1CTMABr:4SiO₂:1Na₂O:0.2Ce₂O₃:200H₂O",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "silica gel",
+        "unit": "Not reported",
+        "original": "silica gel"
+      },
+      "Catalyst type": {
+        "value": "Mesoporous molecular sieve",
+        "unit": "Not reported",
+        "original": "Mesoporous molecular sieve"
+      },
+      "Catalyst composition": {
+        "value": "41",
+        "unit": "Ce-MCM-",
+        "original": "Ce-MCM-41"
+      },
+      "Solvent": {
+        "value": "distilled water",
+        "unit": "Not reported",
+        "original": "distilled water"
+      },
+      "Reaction temperature": {
+        "value": "100",
+        "unit": "°C",
+        "original": "100 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "100",
+        "unit": "mL",
+        "original": "100 mL min⁻¹ (during calcination)"
+      },
+      "Reaction time": {
+        "value": "5",
+        "unit": "days",
+        "original": "5 days"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen and synthetic air (during calcination)",
+        "unit": "Not reported",
+        "original": "Nitrogen and synthetic air (during calcination)"
+      },
+      "Reactant molar ratio": {
+        "value": "1",
+        "unit": "CTMABr",
+        "original": "1CTMABr: 4SiO₂: 1Na₂O: 0.2Ce₂O₃: 200H₂O"
+      },
+      "Operation mode": {
+        "value": "Batch (hydrothermal synthesis in autoclave)",
+        "unit": "Not reported",
+        "original": "Batch (hydrothermal synthesis in autoclave)"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "-41",
+        "unit": "mesoporous",
+        "original": "Ce-MCM-41 mesoporous molecular sieve"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "92",
+        "unit": "%",
+        "original": "Good thermal stability with 92% residual weight at 900 °C"
+      },
+      "reaction_type": "水热合成",
+      "reaction_type_english": "Hydrothermal synthesis",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用水热法合成纯MCM-41介孔分子筛，以硅胶和硅酸钠为硅源，CTMABr为结构导向剂",
+      "experiment_id": 1,
+      "text_snippet": "The pure mesoporous molecular sieve MCM-41 was also synthesized using the same method. The synthesis was conducted at 100 °C in a Teflon-jacketed stainless steel autoclave for a period of five days"
+    },
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "silica gel",
+        "unit": "Not reported",
+        "original": "silica gel"
+      },
+      "Catalyst type": {
+        "value": "-41",
+        "unit": "mesoporous",
+        "original": "Ce-MCM-41 mesoporous molecular sieve"
+      },
+      "Catalyst composition": {
+        "value": "41",
+        "unit": "Ce-MCM-",
+        "original": "Ce-MCM-41"
+      },
+      "Solvent": {
+        "value": "distilled water",
+        "unit": "Not reported",
+        "original": "distilled water"
+      },
+      "Reaction temperature": {
+        "value": "100",
+        "unit": "°C",
+        "original": "100 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "5",
+        "unit": "days",
+        "original": "5 days"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "1",
+        "unit": "CTMABr",
+        "original": "1CTMABr:4SiO₂:1Na₂O:0.2Ce₂O₃:200H₂O"
+      },
+      "Operation mode": {
+        "value": "Hydrothermal synthesis in Teflon-jacketed stainless steel autoclave",
+        "unit": "Not reported",
+        "original": "Hydrothermal synthesis in Teflon-jacketed stainless steel autoclave"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "-41",
+        "unit": "mesoporous",
+        "original": "Ce-MCM-41 mesoporous molecular sieve"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "-41",
+        "unit": "exhibited",
+        "original": "Ce-MCM-41 exhibited good thermal stability with residual weight of 92% at 900 °C"
+      },
+      "reaction_type": "水热合成",
+      "reaction_type_english": "Hydrothermal synthesis",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用水热法合成掺铈MCM-41介孔分子筛(Ce-MCM-41)，添加硝酸铈作为过渡金属源，凝胶摩尔组成为1CTMABr:4SiO₂:1Na₂O:0.2Ce₂O₃:200H₂O",
+      "experiment_id": 2,
+      "text_snippet": "Ce-MCM-41 was synthesized using the hydrothermal method...cerium nitrate as a transition metal source. The molar composition of the gel obtained was 1CTMABr:4SiO₂:1Na₂O:0.2Ce₂O₃:200H₂O"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "水热合成",
+      "reaction_type_english": "Hydrothermal synthesis",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "水热合成",
+      "reaction_type_english": "Hydrothermal synthesis",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

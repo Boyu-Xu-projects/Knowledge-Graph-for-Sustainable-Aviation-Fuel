@@ -1,0 +1,135 @@
+{
+  "file": "1302_Seyed Mousavi 等 - 2022 - Catalytic pyrolysis of municipal plastic waste over nano MIL-53 (Cu) derived @ zeolite Y for gasolin.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在固定床反应器中使用不同结晶度的Y沸石催化剂（以及MIL-53(Cu)衍生物改性的Y沸石催化剂）对城市塑料废物进行催化热解，生产汽油、喷气燃料和柴油范围的燃料。反应在氮气气氛下于400°C、450°C和500°C进行。",
+        "text_snippet": "Catalytic pyrolysis of municipal plastic waste over nano MIL-53 (Cu) derived @ zeolite Y for gasoline, jet fuel, and diesel range fuel production... The test results in a fixed bed reactor for every twelve samples of catalyst and their effect on the efficiency of different sections of liquid fuel show a significant improvement in the desired product.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "municipal plastic waste (composition: HDPE, LDPE, PP, PS, PVC, PET)",
+        "unit": "Not reported",
+        "original": "municipal plastic waste (composition: HDPE, LDPE, PP, PS, PVC, PET)"
+      },
+      "Catalyst type": {
+        "value": "Y zeolite",
+        "unit": "Not reported",
+        "original": "Y zeolite"
+      },
+      "Catalyst composition": {
+        "value": "nano zeolite Y with different crystallinity percentages",
+        "unit": "Not reported",
+        "original": "nano zeolite Y with different crystallinity percentages"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "400",
+        "unit": "°C",
+        "original": "400°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "100",
+        "unit": "mL/min",
+        "original": "100 mL/min (N2 carrier gas)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "10 wt% (catalyst to feed ratio)"
+      },
+      "Product": {
+        "value": "Gasoline",
+        "unit": "Not reported",
+        "original": "Gasoline"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "37.00",
+        "unit": "%",
+        "original": "{'Gasoline': '37.00% (max at 400°C with MZY18 catalyst)', 'Jet fuel': '48.64% (max at 500°C with low crystallinity catalyst)', 'Diesel': '36.40% (max at 450°C with MSA catalyst)', 'Liquid fuel': '81.1% (max at 450°C with modified catalyst)'}"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Decrease in activity observed after multiple reuses (reproducibility tests shown in Fig. 13)",
+        "unit": "Not reported",
+        "original": "Decrease in activity observed after multiple reuses (reproducibility tests shown in Fig. 13)"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在固定床反应器中使用不同结晶度的Y沸石催化剂（以及MIL-53(Cu)衍生物改性的Y沸石催化剂）对城市塑料废物进行催化热解，生产汽油、喷气燃料和柴油范围的燃料。反应在氮气气氛下于400°C、450°C和500°C进行。",
+      "experiment_id": 1,
+      "text_snippet": "Catalytic pyrolysis of municipal plastic waste over nano MIL-53 (Cu) derived @ zeolite Y for gasoline, jet fuel, and diesel range fuel production... The test results in a fixed bed reactor for every twelve samples of catalyst and their effect on the efficiency of different sections of liquid fuel sh..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1381_Zhai 等 - 2023 - Preparation of Hierarchical CoBeta Catalyst and Its Application in Hydrogenation of CO to Aviation.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用熔融法制备的10CB-MM分级Co/Beta双功能催化剂，在230°C、3MPa压力下，以H2/CO=2的合成气为原料，进行费托合成反应，高选择性生产航空煤油组分（C8-C16）。",
+        "text_snippet": "Fischer–Tropsch synthesis was performed in a stainless-steel reactor... syngas with a H2/CO ratio of 2 and a flow rate of 26 mL/min was introduced into the reactor... the pressure was raised to 3 MPa to start the Fischer–Tropsch reaction.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "2",
+        "unit": "h",
+        "original": "syngas (CO and H2)"
+      },
+      "Catalyst type": {
+        "value": "hierarchical Co/Beta metal-zeolite bifunctional catalyst",
+        "unit": "Not reported",
+        "original": "hierarchical Co/Beta metal-zeolite bifunctional catalyst"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "10 wt% Co on Beta zeolite (SiO2/Al2O3 = 25)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "230",
+        "unit": "°C",
+        "original": "230°C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "26",
+        "unit": "mL/min",
+        "original": "26 mL/min (syngas flow rate), GHSV = 3120 mL/(gcat·h)"
+      },
+      "Reaction time": {
+        "value": "24",
+        "unit": "h",
+        "original": "24 h"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "/CO",
+        "original": "H2/CO = 2"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/CO",
+        "original": "H2/CO = 2"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g catalyst mixed with 1.0 g quartz sand"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "aviation",
+        "original": "C8-C16 aviation kerosene components"
+      },
+      "Conversion rate": {
+        "value": "34.6",
+        "unit": "%",
+        "original": "34.6% (CO conversion)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "40.2",
+        "unit": "%",
+        "original": "40.2% (C8-C16 selectivity)"
+      },
+      "Catalyst stability": {
+        "value": "24",
+        "unit": "h",
+        "original": "Stable over 24 h reaction time (slower deactivation rate compared to impregnated catalyst)"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用熔融法制备的10CB-MM分级Co/Beta双功能催化剂，在230°C、3MPa压力下，以H2/CO=2的合成气为原料，进行费托合成反应，高选择性生产航空煤油组分（C8-C16）。",
+      "experiment_id": 1,
+      "text_snippet": "Fischer–Tropsch synthesis was performed in a stainless-steel reactor... syngas with a H2/CO ratio of 2 and a flow rate of 26 mL/min was introduced into the reactor... the pressure was raised to 3 MPa to start the Fischer–Tropsch reaction."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

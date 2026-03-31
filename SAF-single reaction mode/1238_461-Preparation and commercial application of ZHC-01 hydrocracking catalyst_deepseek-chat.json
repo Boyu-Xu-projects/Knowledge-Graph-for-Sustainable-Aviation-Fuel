@@ -1,0 +1,247 @@
+{
+  "file": "1238_461-Preparation and commercial application of ZHC-01 hydrocracking catalyst.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在CA2中试装置上，使用ZHC-01催化剂，以阿拉伯中质原油的VGO为原料，在模拟140万吨/年工业加氢裂化装置满负荷操作的条件下，进行串联加氢裂化工艺第一阶段的测试。",
+        "text_snippet": "the catalyst was tested on the CA2 pilot unit in the first stage of the serially connected hydrocracking process using the VGO derived from the Arabian medium (AM)crude as the feedstock under conditions simulating the fuU load operation of the 1.4 Mt/a hydrocracking unit.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "ZHC-01催化剂在中国石化齐鲁分公司140万吨/年工业加氢裂化装置上进行工业应用试验，处理中东含硫VGO、胜利VGO和胜利CGO的混合油，稳定运行41个月。",
+        "text_snippet": "The commercial test results showed that the ZHC-01 catalyst, featuring good activity, stability, and flexibility in production, not only could meet the demand for producing environmentally friendly middle distillates, but could also increase the resource of optimized steam cracking feedstock.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Feedstock": {
+        "value": "VGO derived from Arabian medium crude",
+        "unit": "Not reported",
+        "original": "VGO derived from Arabian medium crude"
+      },
+      "Catalyst type": {
+        "value": "01",
+        "unit": "ZHC-",
+        "original": "ZHC-01"
+      },
+      "Catalyst composition": {
+        "value": "W/Ni metals on NTY zeolite and amorphous aluminosilicate",
+        "unit": "Not reported",
+        "original": "W/Ni metals on NTY zeolite and amorphous aluminosilicate"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "375",
+        "unit": "°C",
+        "original": "375°C"
+      },
+      "Reaction pressure": {
+        "value": "15.1",
+        "unit": "MPa",
+        "original": "15.1 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "1200:1",
+        "unit": ":",
+        "original": "H₂/oil volume ratio: 1200:1"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed",
+        "unit": "Not reported",
+        "original": "Fixed-bed"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "80",
+        "unit": "°C",
+        "original": "<80°C light naphtha"
+      },
+      "Conversion rate": {
+        "value": "60",
+        "unit": "%",
+        "original": "60% (370°C+ fraction)"
+      },
+      "Product yield": {
+        "value": "60",
+        "unit": "%",
+        "original": "{'60% conversion': ['Light naphtha: 4.1%', 'Heavy naphtha: 14.5%', 'Jet fuel: 23.9%', 'Diesel: 16.2%', 'Tail oil: 39.4%'], '65% conversion': ['Light naphtha: 5.7%', 'Heavy naphtha: 17.5%', 'Jet fuel: 25.2%', 'Diesel: 15.6%', 'Tail oil: 33.6%']}"
+      },
+      "Product Selectivity": {
+        "value": "-65",
+        "unit": "%",
+        "original": "{'Heavy naphtha': ['Potential aromatic content: 66-65%'], 'Jet fuel': ['Freezing point: < -60°C', 'Smoke point: 24-25 mm', 'Aromatics: 8.8-7.4%'], 'Diesel': ['Freezing point: -6°C to -4°C', 'Cetane number: 64-60'], 'Tail oil': ['BMCI value: 11.6-11.0']}"
+      },
+      "Catalyst stability": {
+        "value": "20",
+        "unit": "°C",
+        "original": "Good stability with temperature increase of only 20°C over 41 months of operation"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在CA2中试装置上，使用ZHC-01催化剂，以阿拉伯中质原油的VGO为原料，在模拟140万吨/年工业加氢裂化装置满负荷操作的条件下，进行串联加氢裂化工艺第一阶段的测试。",
+      "experiment_id": 1,
+      "text_snippet": "the catalyst was tested on the CA2 pilot unit in the first stage of the serially connected hydrocracking process using the VGO derived from the Arabian medium (AM)crude as the feedstock under conditions simulating the fuU load operation of the 1.4 Mt/a hydrocracking unit."
+    },
+    {
+      "Published year": {
+        "value": "2007",
+        "unit": "year",
+        "original": "2007"
+      },
+      "Feedstock": {
+        "value": "中东含硫VGO",
+        "unit": "Not reported",
+        "original": "中东含硫VGO"
+      },
+      "Catalyst type": {
+        "value": "-01",
+        "unit": "hydrocracking",
+        "original": "ZHC-01 hydrocracking catalyst"
+      },
+      "Catalyst composition": {
+        "value": "NTY zeolite",
+        "unit": "Not reported",
+        "original": "NTY zeolite"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-390",
+        "unit": "°C",
+        "original": "373-390°C (commercial)"
+      },
+      "Reaction pressure": {
+        "value": "-15.7",
+        "unit": "MPa",
+        "original": "15.6-15.7 MPa (commercial R401 inlet)"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "1290:1",
+        "unit": ":",
+        "original": "H₂/oil volume ratio: 1290:1 (pilot)"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed-bed",
+        "unit": "Not reported",
+        "original": "Continuous fixed-bed"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "LPG",
+        "unit": "Not reported",
+        "original": "LPG"
+      },
+      "Conversion rate": {
+        "value": "-65",
+        "unit": "%",
+        "original": "60-65% (370°C+ fraction conversion, pilot)"
+      },
+      "Product yield": {
+        "value": "-2.3",
+        "unit": "%",
+        "original": "{'LPG': '1.7-2.3%', 'Naphtha': '10.6-17.6%', 'Jet fuel': '16.6-25.4%', 'Diesel': '19.5-27.9%', 'HC tail oil': '33.6-42.4%'}"
+      },
+      "Product Selectivity": {
+        "value": "Good selectivity for middle distillates",
+        "unit": "Not reported",
+        "original": "Good selectivity for middle distillates"
+      },
+      "Catalyst stability": {
+        "value": "41",
+        "unit": "months",
+        "original": "Stable operation for 41 months in commercial unit"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "ZHC-01催化剂在中国石化齐鲁分公司140万吨/年工业加氢裂化装置上进行工业应用试验，处理中东含硫VGO、胜利VGO和胜利CGO的混合油，稳定运行41个月。",
+      "experiment_id": 2,
+      "text_snippet": "The commercial test results showed that the ZHC-01 catalyst, featuring good activity, stability, and flexibility in production, not only could meet the demand for producing environmentally friendly middle distillates, but could also increase the resource of optimized steam cracking feedstock."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

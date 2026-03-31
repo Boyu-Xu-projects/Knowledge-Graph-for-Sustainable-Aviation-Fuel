@@ -1,0 +1,135 @@
+{
+  "file": "1175_Liu 等 - 2024 - Continuous liquid-phase alkylation of lignocellulose-derived phenolics and cyclopentanol under large.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "烷基化反应",
+        "reaction_type_english": "Alkylation reaction",
+        "description": "在连续流动固定床反应器中，使用HUSY沸石催化剂，在氮气压力下，无溶剂条件下进行木质素衍生物酚类与纤维素衍生物环戊醇的液相烷基化反应",
+        "text_snippet": "lignin-derived phenolics can be alkylated by cellulose-derived cyclopentanol in a continuous-flow fixed-bed reactor packed with HUSY zeolite without the use of solvents. Under nitrogen pressure, the liquid-phase reaction was achieved.",
+        "reaction_type_classify": "Alkylation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "lignin-derived phenolics",
+        "unit": "Not reported",
+        "original": "lignin-derived phenolics"
+      },
+      "Catalyst type": {
+        "value": "HUSY zeolite",
+        "unit": "Not reported",
+        "original": "HUSY zeolite"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "/Al",
+        "original": "SiO2/Al2O3 = 150"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "140",
+        "unit": "°C",
+        "original": "140 °C"
+      },
+      "Reaction pressure": {
+        "value": "1",
+        "unit": "MPa",
+        "original": "1 MPa"
+      },
+      "Flow rate": {
+        "value": "-36",
+        "unit": "mL/",
+        "original": "4.8-36 mL/(gcat·h) (LHSV)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "N",
+        "original": "N2"
+      },
+      "Reactant molar ratio": {
+        "value": "1:1",
+        "unit": ":",
+        "original": "phenol/cyclopentanol = 1:1"
+      },
+      "Operation mode": {
+        "value": "continuous-flow fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "continuous-flow fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1.0",
+        "unit": "g",
+        "original": "1.0 g catalyst"
+      },
+      "Product": {
+        "value": "10",
+        "unit": "°C",
+        "original": "1-cyclopentylcyclopentene (Bicyclic C10)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "cyclopentanol conversion: ~100%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "95",
+        "unit": "%",
+        "original": "polycyclic product selectivity: >95%"
+      },
+      "Catalyst stability": {
+        "value": "14",
+        "unit": "h",
+        "original": "stable for 14 h at LHSV of 4.8 mL/(gcat·h); activity decreased after 12 h at LHSV of 36 mL/(gcat·h) but could be regenerated"
+      },
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction",
+      "experiment_description": "在连续流动固定床反应器中，使用HUSY沸石催化剂，在氮气压力下，无溶剂条件下进行木质素衍生物酚类与纤维素衍生物环戊醇的液相烷基化反应",
+      "experiment_id": 1,
+      "text_snippet": "lignin-derived phenolics can be alkylated by cellulose-derived cyclopentanol in a continuous-flow fixed-bed reactor packed with HUSY zeolite without the use of solvents. Under nitrogen pressure, the liquid-phase reaction was achieved."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "烷基化反应",
+      "reaction_type_english": "Alkylation reaction",
+      "reaction_type_classify": "Alkylation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

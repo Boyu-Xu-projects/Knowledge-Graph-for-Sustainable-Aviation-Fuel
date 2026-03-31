@@ -1,0 +1,135 @@
+{
+  "file": "1290_Zhao 等 - 2015 - Optimization of catalytic cracking process for upgrading camelina oil to hydrocarbon biofuel.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在固定床管式反应器中，使用Zn/ZSM-5催化剂对亚麻荠油进行催化裂化，以生产烃类生物燃料。研究考察了反应温度、液时空速和榨油机频率三个主要操作条件对产物收率和质量的影响。",
+        "text_snippet": "Catalytic cracking of camelina oil over Zn/ZSM-5 catalyst in a fixed-bed tubular reactor was investigated. An optimization study on the catalytic cracking conditions based on nine well-planned orthogonal experiments was carried out.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "Camelina oil",
+        "unit": "Not reported",
+        "original": "Camelina oil"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "Zn/ZSM-",
+        "original": "Zn/ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "doped",
+        "original": "ZSM-5 doped with 20 wt.% Zn"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "450",
+        "unit": "°C",
+        "original": "450°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed tubular reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed tubular reactor"
+      },
+      "Catalyst loading": {
+        "value": "25",
+        "unit": "g",
+        "original": "25 g"
+      },
+      "Product": {
+        "value": "Hydrocarbon biofuel",
+        "unit": "Not reported",
+        "original": "Hydrocarbon biofuel"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "45.74",
+        "unit": "%",
+        "original": "45.74%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "17.49",
+        "unit": "%",
+        "original": "Used catalyst retained major structural elements, carbon content 17.49%"
+      },
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在固定床管式反应器中，使用Zn/ZSM-5催化剂对亚麻荠油进行催化裂化，以生产烃类生物燃料。研究考察了反应温度、液时空速和榨油机频率三个主要操作条件对产物收率和质量的影响。",
+      "experiment_id": 1,
+      "text_snippet": "Catalytic cracking of camelina oil over Zn/ZSM-5 catalyst in a fixed-bed tubular reactor was investigated. An optimization study on the catalytic cracking conditions based on nine well-planned orthogonal experiments was carried out."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

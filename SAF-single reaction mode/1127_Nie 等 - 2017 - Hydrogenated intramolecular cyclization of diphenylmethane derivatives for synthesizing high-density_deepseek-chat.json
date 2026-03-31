@@ -1,0 +1,583 @@
+{
+  "file": "1127_Nie 等 - 2017 - Hydrogenated intramolecular cyclization of diphenylmethane derivatives for synthesizing high-density.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 5,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用Pd/C和HZSM-5双催化剂对2-苄基苯酚进行加氢，发生加氢脱氧和分子内环化竞争反应，生成二环己基甲烷和全氢芴。",
+        "text_snippet": "The hydrogenation of 2-benzylphenol (i.e. 1) catalyzed by mixture of Pd/C and HZSM-5... about 29.1% dicyclohexylmethane (i.e. 6) and 68.9% perhydrofluorene (i.e. 9) are produced.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "仅使用Pd/C催化剂对2-苄基苯酚进行加氢，选择性发生分子内环化反应，高产率（96.7%）生成全氢芴。",
+        "text_snippet": "when only Pd/C is used, 9 with yield of 96.7% is produced",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用Pd/C和HY催化剂对2-苄基苯酚进行加氢，主要发生加氢脱氧反应，生成二环己基甲烷（产率97.1%）。",
+        "text_snippet": "when HY with more and stronger acidity is used... 6 is produced with yield of 97.1%",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 4,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用HZSM-5和Pd/C催化剂对2-苄基环己醇进行两步加氢脱氧反应，生成二环己基甲烷。",
+        "text_snippet": "The time-dependent product distribution and proposed pathway are shown in Fig.4... 6 is the final product",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 5,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用Pd/C催化剂对环己基(苯基)甲醇进行加氢，发生脱氢和加氢反应，生成(环己基甲基)苯和二环己基甲烷，未发生环化。",
+        "text_snippet": "when only Pd/C is used as the catalyst, 6 is still the final product without any 9 formed. 7 is converted to 12 and 4 in parallel ways",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "2-benzylphenol",
+        "unit": "Not reported",
+        "original": "2-benzylphenol"
+      },
+      "Catalyst type": {
+        "value": "Pd/C",
+        "unit": "Not reported",
+        "original": "Pd/C"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5 wt% Pd/C"
+      },
+      "Solvent": {
+        "value": "Water",
+        "unit": "Not reported",
+        "original": "Water"
+      },
+      "Reaction temperature": {
+        "value": "453",
+        "unit": "K",
+        "original": "453 K"
+      },
+      "Reaction pressure": {
+        "value": "6",
+        "unit": "MPa",
+        "original": "6 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "10",
+        "unit": "h",
+        "original": "10 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.08",
+        "unit": "g",
+        "original": "0.08 g Pd/C"
+      },
+      "Product": {
+        "value": "Dicyclohexylmethane",
+        "unit": "Not reported",
+        "original": "Dicyclohexylmethane"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "29.13",
+        "unit": "%",
+        "original": "29.13% (Dicyclohexylmethane)"
+      },
+      "Product Selectivity": {
+        "value": "96.0",
+        "unit": "%",
+        "original": "96.0% (Perhydrofluorene)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用Pd/C和HZSM-5双催化剂对2-苄基苯酚进行加氢，发生加氢脱氧和分子内环化竞争反应，生成二环己基甲烷和全氢芴。",
+      "experiment_id": 1,
+      "text_snippet": "The hydrogenation of 2-benzylphenol (i.e. 1) catalyzed by mixture of Pd/C and HZSM-5... about 29.1% dicyclohexylmethane (i.e. 6) and 68.9% perhydrofluorene (i.e. 9) are produced."
+    },
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "2-benzylphenol",
+        "unit": "Not reported",
+        "original": "2-benzylphenol"
+      },
+      "Catalyst type": {
+        "value": "Pd/C",
+        "unit": "Not reported",
+        "original": "Pd/C"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5 wt% Pd/C"
+      },
+      "Solvent": {
+        "value": "water",
+        "unit": "Not reported",
+        "original": "water"
+      },
+      "Reaction temperature": {
+        "value": "453",
+        "unit": "K",
+        "original": "453 K"
+      },
+      "Reaction pressure": {
+        "value": "6",
+        "unit": "MPa",
+        "original": "6 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "10",
+        "unit": "h",
+        "original": "10 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.08",
+        "unit": "g",
+        "original": "0.08 g Pd/C per 10 mmol substrate"
+      },
+      "Product": {
+        "value": "perhydrofluorene",
+        "unit": "Not reported",
+        "original": "perhydrofluorene"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "96.7",
+        "unit": "%",
+        "original": "96.7%"
+      },
+      "Product Selectivity": {
+        "value": "96.7",
+        "unit": "%",
+        "original": "96.7%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "仅使用Pd/C催化剂对2-苄基苯酚进行加氢，选择性发生分子内环化反应，高产率（96.7%）生成全氢芴。",
+      "experiment_id": 2,
+      "text_snippet": "when only Pd/C is used, 9 with yield of 96.7% is produced"
+    },
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "2-benzylphenol",
+        "unit": "Not reported",
+        "original": "2-benzylphenol"
+      },
+      "Catalyst type": {
+        "value": "Pd/C",
+        "unit": "Not reported",
+        "original": "Pd/C"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "Pd/C (5 wt%)"
+      },
+      "Solvent": {
+        "value": "Water",
+        "unit": "Not reported",
+        "original": "Water"
+      },
+      "Reaction temperature": {
+        "value": "453",
+        "unit": "K",
+        "original": "453 K"
+      },
+      "Reaction pressure": {
+        "value": "6",
+        "unit": "MPa",
+        "original": "6 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "10",
+        "unit": "h",
+        "original": "10 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.04",
+        "unit": "g",
+        "original": "0.04 g Pd/C"
+      },
+      "Product": {
+        "value": "Dicyclohexylmethane",
+        "unit": "Not reported",
+        "original": "Dicyclohexylmethane"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "97.1",
+        "unit": "%",
+        "original": "97.1%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用Pd/C和HY催化剂对2-苄基苯酚进行加氢，主要发生加氢脱氧反应，生成二环己基甲烷（产率97.1%）。",
+      "experiment_id": 3,
+      "text_snippet": "when HY with more and stronger acidity is used... 6 is produced with yield of 97.1%"
+    },
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "2-benzylphenol",
+        "unit": "Not reported",
+        "original": "2-benzylphenol"
+      },
+      "Catalyst type": {
+        "value": "Pd/C",
+        "unit": "Not reported",
+        "original": "Pd/C"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5 wt% Pd/C"
+      },
+      "Solvent": {
+        "value": "Water",
+        "unit": "Not reported",
+        "original": "Water"
+      },
+      "Reaction temperature": {
+        "value": "453",
+        "unit": "K",
+        "original": "453 K"
+      },
+      "Reaction pressure": {
+        "value": "6",
+        "unit": "MPa",
+        "original": "6 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "10",
+        "unit": "h",
+        "original": "10 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.08",
+        "unit": "g",
+        "original": "0.08 g Pd/C"
+      },
+      "Product": {
+        "value": "Dicyclohexylmethane",
+        "unit": "Not reported",
+        "original": "Dicyclohexylmethane"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "-97.1",
+        "unit": "%",
+        "original": "29.1-97.1% Dicyclohexylmethane"
+      },
+      "Product Selectivity": {
+        "value": "96.0",
+        "unit": "%",
+        "original": "Up to 96.0% Perhydrofluorene"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用HZSM-5和Pd/C催化剂对2-苄基环己醇进行两步加氢脱氧反应，生成二环己基甲烷。",
+      "experiment_id": 4,
+      "text_snippet": "The time-dependent product distribution and proposed pathway are shown in Fig.4... 6 is the final product"
+    },
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "Cyclohexyl(phenyl)methanol",
+        "unit": "Not reported",
+        "original": "Cyclohexyl(phenyl)methanol"
+      },
+      "Catalyst type": {
+        "value": "Pd/C",
+        "unit": "Not reported",
+        "original": "Pd/C"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5 wt% Pd/C"
+      },
+      "Solvent": {
+        "value": "Water",
+        "unit": "Not reported",
+        "original": "Water"
+      },
+      "Reaction temperature": {
+        "value": "453",
+        "unit": "K",
+        "original": "453 K"
+      },
+      "Reaction pressure": {
+        "value": "6",
+        "unit": "MPa",
+        "original": "6 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "10",
+        "unit": "h",
+        "original": "10 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.08",
+        "unit": "g",
+        "original": "0.08 g Pd/C per 10 mmol substrate"
+      },
+      "Product": {
+        "value": "(cyclohexylmethyl)benzene",
+        "unit": "Not reported",
+        "original": "(cyclohexylmethyl)benzene"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用Pd/C催化剂对环己基(苯基)甲醇进行加氢，发生脱氢和加氢反应，生成(环己基甲基)苯和二环己基甲烷，未发生环化。",
+      "experiment_id": 5,
+      "text_snippet": "when only Pd/C is used as the catalyst, 6 is still the final product without any 9 formed. 7 is converted to 12 and 4 in parallel ways"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 4,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 5,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

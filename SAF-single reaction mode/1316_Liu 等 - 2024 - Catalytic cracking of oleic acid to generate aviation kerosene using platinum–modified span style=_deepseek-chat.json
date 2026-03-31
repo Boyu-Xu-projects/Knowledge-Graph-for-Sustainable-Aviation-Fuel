@@ -1,0 +1,135 @@
+{
+  "file": "1316_Liu 等 - 2024 - Catalytic cracking of oleic acid to generate aviation kerosene using platinum–modified span style=.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在CO₂气氛下，使用Pt@NZSM–5和Pt/NZSM–5纳米片催化剂催化裂解油酸，生成C8-C17烷烃。反应条件为：温度320°C，压力18 bar，反应时间5小时。",
+        "text_snippet": "The oleic acid decarboxylation reaction was carried out using these materials under CO₂ atmosphere... The Pt@NZSM–5 nanosheets demonstrated excellent catalytic activity during the cracking of oleic acid under a CO₂ atmosphere, giving a yield of C8–C17 alkanes as high as 83.8% after 5h at 320°C.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "oleic acid",
+        "unit": "Not reported",
+        "original": "oleic acid"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "nanosheets",
+        "original": "Pt@NZSM–5 nanosheets"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "nanosheets",
+        "original": "Pt modified ZSM-5 nanosheets with different Si/Al ratios (25, 50, 100, 150)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "320",
+        "unit": "°C",
+        "original": "320 °C"
+      },
+      "Reaction pressure": {
+        "value": "18",
+        "unit": "bar",
+        "original": "18 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "5",
+        "unit": "h",
+        "original": "5 hours"
+      },
+      "Atmosphere": {
+        "value": "CO₂",
+        "unit": "Not reported",
+        "original": "CO₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "batch reactor",
+        "unit": "Not reported",
+        "original": "batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "of",
+        "original": "catalyst-to-oleic acid ratio of 1:10"
+      },
+      "Product": {
+        "value": "17",
+        "unit": "alkanes",
+        "original": "C8-C17 alkanes"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "83.8",
+        "unit": "%",
+        "original": "83.8% (C8-C17 alkanes)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "nanosheets",
+        "original": "Pt@NZSM–5 nanosheets showed greater stability than Pt/NZSM–5 specimens"
+      },
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在CO₂气氛下，使用Pt@NZSM–5和Pt/NZSM–5纳米片催化剂催化裂解油酸，生成C8-C17烷烃。反应条件为：温度320°C，压力18 bar，反应时间5小时。",
+      "experiment_id": 1,
+      "text_snippet": "The oleic acid decarboxylation reaction was carried out using these materials under CO₂ atmosphere... The Pt@NZSM–5 nanosheets demonstrated excellent catalytic activity during the cracking of oleic acid under a CO₂ atmosphere, giving a yield of C8–C17 alkanes as high as 83.8% after 5h at 320°C."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

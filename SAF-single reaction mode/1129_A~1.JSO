@@ -1,0 +1,135 @@
+{
+  "file": "1129_Ayandiran 等 - 2019 - Hydroprocessing of Oleic Acid for Production of Jet-Fuel Range Hydrocarbons over Cu and FeCu Catalys.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢处理",
+        "reaction_type_english": "Hydroprocessing",
+        "description": "在间歇式反应器中，使用一系列Cu/SiO₂-Al₂O₃和FeCu双金属催化剂（负载于SiO₂-Al₂O₃、ZSM-5和HZSM-5载体上），在300–340°C、2.07 MPa氢气压力下，对油酸进行催化加氢处理，以生产喷气燃料范围的烃类（C₈–C₁₆）。",
+        "text_snippet": "The catalytic reactions were carried out in a Parr stirred batch reactor... Two g of each of the catalyst samples and 40 g of oleic acid were placed in the reactor and hydrogen gas was used to pressurize the reactor to 2.07 MPa... Cu/SiO₂-Al₂O₃ and FeCu/SiO₂-Al₂O₃ catalysts were evaluated at 340 °C. The temperatures of the reaction involving support optimization studies were set at 300, 320 and 340 °C.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "Oleic acid",
+        "unit": "Not reported",
+        "original": "Oleic acid"
+      },
+      "Catalyst type": {
+        "value": "Cu/SiO₂-Al₂O₃",
+        "unit": "Not reported",
+        "original": "Cu/SiO₂-Al₂O₃"
+      },
+      "Catalyst composition": {
+        "value": "-15",
+        "unit": "wt%",
+        "original": "Cu (5-15 wt%)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "300",
+        "unit": "°C",
+        "original": "300°C"
+      },
+      "Reaction pressure": {
+        "value": "2.07",
+        "unit": "MPa",
+        "original": "2.07 MPa H₂"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "5",
+        "unit": "%",
+        "original": "5% catalyst/feed ratio"
+      },
+      "Product": {
+        "value": "Jet-fuel range hydrocarbons (C₈–C₁₆)",
+        "unit": "Not reported",
+        "original": "Jet-fuel range hydrocarbons (C₈–C₁₆)"
+      },
+      "Conversion rate": {
+        "value": "98",
+        "unit": "%",
+        "original": "Up to 98% (Fe(3)-Cu(13)/SiO₂-Al₂O₃ at 10 h, 340°C)"
+      },
+      "Product yield": {
+        "value": "51.8",
+        "unit": "%",
+        "original": "51.8% (Fe(3)-Cu(13)/SiO₂-Al₂O₃ at 340°C, 10 h)"
+      },
+      "Product Selectivity": {
+        "value": "53.8",
+        "unit": "%",
+        "original": "53.8% (Fe(3)-Cu(13)/SiO₂-Al₂O₃ at 340°C, 10 h)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢处理",
+      "reaction_type_english": "Hydroprocessing",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在间歇式反应器中，使用一系列Cu/SiO₂-Al₂O₃和FeCu双金属催化剂（负载于SiO₂-Al₂O₃、ZSM-5和HZSM-5载体上），在300–340°C、2.07 MPa氢气压力下，对油酸进行催化加氢处理，以生产喷气燃料范围的烃类（C₈–C₁₆）。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic reactions were carried out in a Parr stirred batch reactor... Two g of each of the catalyst samples and 40 g of oleic acid were placed in the reactor and hydrogen gas was used to pressurize the reactor to 2.07 MPa... Cu/SiO₂-Al₂O₃ and FeCu/SiO₂-Al₂O₃ catalysts were evaluated at 340 °C...."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢处理",
+      "reaction_type_english": "Hydroprocessing",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

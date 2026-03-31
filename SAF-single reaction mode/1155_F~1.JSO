@@ -1,0 +1,247 @@
+{
+  "file": "1155_Farooqui 等 - 2021 - Noble metal encapsulated sulfide catalyst for the production of aviation biofuel from the hydroproce.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢处理反应",
+        "reaction_type_english": "Hydroprocessing reaction",
+        "description": "在固定床反应器中，使用Pt@SOD-NiMo-SiO₂-Al₂O₃催化剂对麻风树油进行加氢转化，生产航空生物燃料。反应条件包括温度380-440°C，压力100 bar，H₂/进料比2200 (vol/vol)，液时空速1 h⁻¹。",
+        "text_snippet": "Experimental results showed platinum encapsulated sulfided nickel and molybdenum supported on silica-alumina (Pt@SOD-NiMo(S)-SiO₂-Al₂O₃) had a substantial effect on the product composition, yield, and hydrogen consumption compared with the conventional NiMo(S)/SiO₂-Al₂O₃ catalyst for the hydroconversion reaction of jatropha oil to produce carbon–neutral green fuels.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢处理反应",
+        "reaction_type_english": "Hydroprocessing reaction",
+        "description": "在固定床反应器中，使用常规NiMo/SiO₂-Al₂O₃催化剂对麻风树油进行加氢转化，作为对比实验。反应条件与实验1相同。",
+        "text_snippet": "compared with the conventional NiMo(S)/SiO₂-Al₂O₃ catalyst for the hydroconversion reaction of jatropha oil",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "Jatropha oil",
+        "unit": "Not reported",
+        "original": "Jatropha oil"
+      },
+      "Catalyst type": {
+        "value": "Pt@SOD-NiMo-SiO₂-Al₂O₃",
+        "unit": "Not reported",
+        "original": "Pt@SOD-NiMo-SiO₂-Al₂O₃"
+      },
+      "Catalyst composition": {
+        "value": "Platinum encapsulated in sodalite cage",
+        "unit": "Not reported",
+        "original": "Platinum encapsulated in sodalite cage"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-440",
+        "unit": "°C",
+        "original": "380-440°C"
+      },
+      "Reaction pressure": {
+        "value": "100",
+        "unit": "bar",
+        "original": "100 bar"
+      },
+      "Flow rate": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h⁻¹ (LHSV)"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "2200",
+        "unit": ":",
+        "original": "H₂/feed ratio 2200 (vol/vol)"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "Aviation biofuel",
+        "unit": "Not reported",
+        "original": "Aviation biofuel"
+      },
+      "Conversion rate": {
+        "value": "99",
+        "unit": "%",
+        "original": ">99%"
+      },
+      "Product yield": {
+        "value": "-45",
+        "unit": "%",
+        "original": "Mid-range (C9-C15): ~40-45%"
+      },
+      "Product Selectivity": {
+        "value": "0.6",
+        "unit": "%",
+        "original": "Aromatics: <0.6%"
+      },
+      "Catalyst stability": {
+        "value": "600",
+        "unit": "h",
+        "original": "Stable activity for >600 hours"
+      },
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydroprocessing reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床反应器中，使用Pt@SOD-NiMo-SiO₂-Al₂O₃催化剂对麻风树油进行加氢转化，生产航空生物燃料。反应条件包括温度380-440°C，压力100 bar，H₂/进料比2200 (vol/vol)，液时空速1 h⁻¹。",
+      "experiment_id": 1,
+      "text_snippet": "Experimental results showed platinum encapsulated sulfided nickel and molybdenum supported on silica-alumina (Pt@SOD-NiMo(S)-SiO₂-Al₂O₃) had a substantial effect on the product composition, yield, and hydrogen consumption compared with the conventional NiMo(S)/SiO₂-Al₂O₃ catalyst for the hydroconver..."
+    },
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "Jatropha oil",
+        "unit": "Not reported",
+        "original": "Jatropha oil"
+      },
+      "Catalyst type": {
+        "value": "Conventional NiMo/SiO₂-Al₂O₃",
+        "unit": "Not reported",
+        "original": "Conventional NiMo/SiO₂-Al₂O₃"
+      },
+      "Catalyst composition": {
+        "value": "NiMo/SiO₂-Al₂O₃",
+        "unit": "Not reported",
+        "original": "NiMo/SiO₂-Al₂O₃"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "420",
+        "unit": "°C",
+        "original": "380–420 °C"
+      },
+      "Reaction pressure": {
+        "value": "100",
+        "unit": "bar",
+        "original": "60–100 bar"
+      },
+      "Flow rate": {
+        "value": "3",
+        "unit": "h",
+        "original": "Liquid hourly space velocity (LHSV) of 0.5–3 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "1500",
+        "unit": "and",
+        "original": "H₂/feed ratio between 1500 and 3000 NL/L"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "4",
+        "unit": "%",
+        "original": "4% NiO, 18% MoO₃/SiO₂-Al₂O₃"
+      },
+      "Product": {
+        "value": "9",
+        "unit": "°C",
+        "original": "Lighter components (<C9)"
+      },
+      "Conversion rate": {
+        "value": "99",
+        "unit": "%",
+        "original": ">99%"
+      },
+      "Product yield": {
+        "value": "50",
+        "unit": "%",
+        "original": "Lighter: 5–50% (NiMo/SiO₂-Al₂O₃), 1–6% (Pt@SOD-NiMo-SiO₂-Al₂O₃)"
+      },
+      "Product Selectivity": {
+        "value": "3",
+        "unit": "%",
+        "original": "Aromatics: 0.2–3% (NiMo/SiO₂-Al₂O₃), <0.6% (Pt@SOD-NiMo-SiO₂-Al₂O₃)"
+      },
+      "Catalyst stability": {
+        "value": "600",
+        "unit": "h",
+        "original": ">600 h for Pt@SOD-NiMo-SiO₂-Al₂O₃, >900 h in stability test"
+      },
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydroprocessing reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床反应器中，使用常规NiMo/SiO₂-Al₂O₃催化剂对麻风树油进行加氢转化，作为对比实验。反应条件与实验1相同。",
+      "experiment_id": 2,
+      "text_snippet": "compared with the conventional NiMo(S)/SiO₂-Al₂O₃ catalyst for the hydroconversion reaction of jatropha oil"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydroprocessing reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢处理反应",
+      "reaction_type_english": "Hydroprocessing reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

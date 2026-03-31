@@ -1,0 +1,20 @@
+{
+  "file": "1223_Michailos和Bridgwater - 2019 - A comparative techno‐economic assessment of three bio‐oil upgrading routes for aviation biofuel prod.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 0,
+    "experiments": []
+  },
+  "experiments": [],
+  "reaction_types_summary": [],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

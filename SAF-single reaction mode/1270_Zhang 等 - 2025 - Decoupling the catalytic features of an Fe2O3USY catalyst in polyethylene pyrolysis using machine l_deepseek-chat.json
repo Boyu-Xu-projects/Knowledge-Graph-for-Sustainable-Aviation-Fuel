@@ -1,0 +1,135 @@
+{
+  "file": "1270_Zhang 等 - 2025 - Decoupling the catalytic features of an Fe2O3USY catalyst in polyethylene pyrolysis using machine l.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在石英固定床反应器中使用Fe₂O₃/USY催化剂催化热解聚乙烯(PE)，温度500°C，无外部反应物(如H₂)",
+        "text_snippet": "The catalytic pyrolysis experiments were conducted in a quartz fixed bed reactor... 10 g PE samples and 1 g catalyst were loaded in the reactor, which was heated by a preheated furnace to 500◦C.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Polyethylene (PE)",
+        "unit": "Not reported",
+        "original": "Polyethylene (PE)"
+      },
+      "Catalyst type": {
+        "value": "Fe₂O₃/USY",
+        "unit": "Not reported",
+        "original": "Fe₂O₃/USY"
+      },
+      "Catalyst composition": {
+        "value": "80",
+        "unit": "and",
+        "original": "Fe₂O₃ impregnated on USY zeolite with Si/Al ratios of 20, 60, 80 and 120"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500",
+        "unit": "°C",
+        "original": "500°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Argon (Ar) purged, oxygen-free environment",
+        "unit": "Not reported",
+        "original": "Argon (Ar) purged, oxygen-free environment"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "g",
+        "original": "1 g catalyst per 10 g PE"
+      },
+      "Product": {
+        "value": "Oil",
+        "unit": "Not reported",
+        "original": "Oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "78.8",
+        "unit": "%",
+        "original": "Oil: 52.5–78.8%"
+      },
+      "Product Selectivity": {
+        "value": "64.0",
+        "unit": "%",
+        "original": "Gasoline (C₅-C₁₂): 46.0–64.0%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在石英固定床反应器中使用Fe₂O₃/USY催化剂催化热解聚乙烯(PE)，温度500°C，无外部反应物(如H₂)",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic pyrolysis experiments were conducted in a quartz fixed bed reactor... 10 g PE samples and 1 g catalyst were loaded in the reactor, which was heated by a preheated furnace to 500◦C."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

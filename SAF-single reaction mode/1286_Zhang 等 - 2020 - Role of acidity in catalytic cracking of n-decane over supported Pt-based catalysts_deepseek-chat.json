@@ -1,0 +1,135 @@
+{
+  "file": "1286_Zhang 等 - 2020 - Role of acidity in catalytic cracking of n-decane over supported Pt-based catalysts.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在Pt基催化剂（Pt/SiO2-Al2O3, Pt/MgO-Al2O3, Pt/SiO2, Pt/MgO-SiO2, Pt/MgO, Pt/Al2O3）上，于550-750°C和3.5 MPa条件下催化裂解正癸烷（n-decane），以研究催化剂酸性对裂解活性和结焦行为的影响。",
+        "text_snippet": "the cracking of n-decane over the prepared catalyst coatings was carried out on tubular reactor apparatus... Reaction temperature... ranging from 550°C to 750 °C... and the quasi-steady state was maintained at least 5 min at each target temperature.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "n-decane",
+        "unit": "Not reported",
+        "original": "n-decane"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "O",
+        "original": "Pt/SiO2-Al2O3"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "O",
+        "original": "Pt/SiO2-Al2O3 (0.71 wt% Pt)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "550",
+        "unit": "°C",
+        "original": "550°C"
+      },
+      "Reaction pressure": {
+        "value": "3.5",
+        "unit": "MPa",
+        "original": "3.5 MPa"
+      },
+      "Flow rate": {
+        "value": "1.0",
+        "unit": "g/s",
+        "original": "1.0 g/s"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous flow",
+        "unit": "Not reported",
+        "original": "Continuous flow"
+      },
+      "Catalyst loading": {
+        "value": "0.01",
+        "unit": "g/",
+        "original": "0.2 ± 0.01 g/800 mm"
+      },
+      "Product": {
+        "value": "hydrogen",
+        "unit": "Not reported",
+        "original": "hydrogen"
+      },
+      "Conversion rate": {
+        "value": "85.5",
+        "unit": "%",
+        "original": "85.5% (for Pt/SiO2-Al2O3 at 750°C)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "alkenes selectivity evaluated by the ratio of alkenes to alkanes (ene/ane)",
+        "unit": "Not reported",
+        "original": "alkenes selectivity evaluated by the ratio of alkenes to alkanes (ene/ane)"
+      },
+      "Catalyst stability": {
+        "value": "Catalyst deactivation due to coverage of active sites by coke deposition and carburization of Pt metals",
+        "unit": "Not reported",
+        "original": "Catalyst deactivation due to coverage of active sites by coke deposition and carburization of Pt metals"
+      },
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在Pt基催化剂（Pt/SiO2-Al2O3, Pt/MgO-Al2O3, Pt/SiO2, Pt/MgO-SiO2, Pt/MgO, Pt/Al2O3）上，于550-750°C和3.5 MPa条件下催化裂解正癸烷（n-decane），以研究催化剂酸性对裂解活性和结焦行为的影响。",
+      "experiment_id": 1,
+      "text_snippet": "the cracking of n-decane over the prepared catalyst coatings was carried out on tubular reactor apparatus... Reaction temperature... ranging from 550°C to 750 °C... and the quasi-steady state was maintained at least 5 min at each target temperature."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

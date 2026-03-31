@@ -1,0 +1,359 @@
+{
+  "file": "1225_Zhang 等 - 2016 - The production of bio-jet fuel from Botryococcus braunii liquid over a RuCeO2 catalyst.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 3,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "使用不同方法制备的Ru/CeO2催化剂（沉淀法、浸渍法和醇热法）对角鲨烷进行加氢裂化反应，评估其催化活性。醇热法制备的催化剂活性最高，转化率超过90%。",
+        "text_snippet": "Squalane hydrocracking over (a) Ru/CeO2 catalysts prepared by different methods; conditions: squalane, 4 g; catalyst, 0.1 g; H2, 3.5 MPa; T, 513 K.",
+        "reaction_type_classify": "Cracking reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "使用醇热法制备的Ru/CeO2催化剂对纯化的B. braunii液体（B. braunii liquid-P）进行加氢裂化，转化率接近100%，成功生成生物航空燃料范围的烃类。",
+        "text_snippet": "B. braunii liquid-P hydrocracking over 'Ru/CeO2-alcohol thermal' catalyst; conditions: B. braunii liquid-P, 4 g; catalyst, 0.1 g; H2, 3.5 MPa; T, 513 K.",
+        "reaction_type_classify": "Cracking reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "优化反应过程：先用H2预处理粗B. braunii液体以去除氧化合物，然后将反应时间延长至8小时，最终成功实现从粗B. braunii液体生产生物航空燃料，C8-C16烃类含量达到40%。",
+        "text_snippet": "B. braunii liquid (pretreated by H2) hydrocracking over 'Ru/CeO2-alcohol thermal'; conditions: B. braunii liquid, 4 g; catalyst, 0.1 g; H2, 3.5 MPa; T, 513 K; reaction time, 8 h.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "squalane",
+        "unit": "Not reported",
+        "original": "squalane"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "Ru/CeO",
+        "original": "Ru/CeO2"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5 wt% Ru"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "513",
+        "unit": "K",
+        "original": "513 K"
+      },
+      "Reaction pressure": {
+        "value": "3.5",
+        "unit": "MPa",
+        "original": "3.5 MPa H2"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.1",
+        "unit": "g",
+        "original": "0.1 g catalyst per 4 g feedstock"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "hydrocarbons",
+        "original": "C8-C16 hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "90",
+        "unit": "%",
+        "original": ">90% for squalane over Ru/CeO2-alcohol thermal"
+      },
+      "Product yield": {
+        "value": "16",
+        "unit": "yield",
+        "original": "C8-C16 yield >60%"
+      },
+      "Product Selectivity": {
+        "value": "2",
+        "unit": "bonds",
+        "original": "Selective dissociation of CH2–CH2 bonds between branches"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "runs",
+        "original": "Stable after 5 runs (conversion 89-93%)"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "使用不同方法制备的Ru/CeO2催化剂（沉淀法、浸渍法和醇热法）对角鲨烷进行加氢裂化反应，评估其催化活性。醇热法制备的催化剂活性最高，转化率超过90%。",
+      "experiment_id": 1,
+      "text_snippet": "Squalane hydrocracking over (a) Ru/CeO2 catalysts prepared by different methods; conditions: squalane, 4 g; catalyst, 0.1 g; H2, 3.5 MPa; T, 513 K."
+    },
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "B. braunii liquid-P",
+        "unit": "Not reported",
+        "original": "B. braunii liquid-P"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "Ru/CeO",
+        "original": "Ru/CeO2"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5 wt% Ru on CeO2"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "513",
+        "unit": "K",
+        "original": "513 K"
+      },
+      "Reaction pressure": {
+        "value": "3.5",
+        "unit": "MPa",
+        "original": "3.5 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.1",
+        "unit": "g",
+        "original": "0.1 g catalyst per 4 g feedstock"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "hydrocarbons",
+        "original": "C8-C16 hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "Approaching 100%"
+      },
+      "Product yield": {
+        "value": "59",
+        "unit": "%",
+        "original": "C8-C16: 59%"
+      },
+      "Product Selectivity": {
+        "value": "2",
+        "unit": "bonds",
+        "original": "Selective dissociation of CH2–CH2 bonds between branches"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "runs",
+        "original": "Stable after 5 runs (conversion still above 90%)"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "使用醇热法制备的Ru/CeO2催化剂对纯化的B. braunii液体（B. braunii liquid-P）进行加氢裂化，转化率接近100%，成功生成生物航空燃料范围的烃类。",
+      "experiment_id": 2,
+      "text_snippet": "B. braunii liquid-P hydrocracking over 'Ru/CeO2-alcohol thermal' catalyst; conditions: B. braunii liquid-P, 4 g; catalyst, 0.1 g; H2, 3.5 MPa; T, 513 K."
+    },
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "Botryococcus braunii liquid",
+        "unit": "Not reported",
+        "original": "Botryococcus braunii liquid"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "Ru/CeO",
+        "original": "Ru/CeO2"
+      },
+      "Catalyst composition": {
+        "value": "5",
+        "unit": "wt%",
+        "original": "5 wt% Ru loaded on CeO2"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "513",
+        "unit": "K",
+        "original": "513 K (240 °C)"
+      },
+      "Reaction pressure": {
+        "value": "3.5",
+        "unit": "MPa",
+        "original": "3.5 MPa H2"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 hours / 8 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.1",
+        "unit": "g",
+        "original": "0.1 g catalyst per 4 g feedstock (2.5 wt%)"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "hydrocarbons",
+        "original": "C8-C16 hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "90",
+        "unit": "%",
+        "original": ">90% for squalane"
+      },
+      "Product yield": {
+        "value": "16",
+        "unit": "yield",
+        "original": "C8-C16 yield: 40% from B. braunii liquid"
+      },
+      "Product Selectivity": {
+        "value": "2",
+        "unit": "bonds",
+        "original": "Selective dissociation of CH2-CH2 bonds between branches"
+      },
+      "Catalyst stability": {
+        "value": "5",
+        "unit": "runs",
+        "original": "Stable after 5 runs (conversion maintained >89%)"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "优化反应过程：先用H2预处理粗B. braunii液体以去除氧化合物，然后将反应时间延长至8小时，最终成功实现从粗B. braunii液体生产生物航空燃料，C8-C16烃类含量达到40%。",
+      "experiment_id": 3,
+      "text_snippet": "B. braunii liquid (pretreated by H2) hydrocracking over 'Ru/CeO2-alcohol thermal'; conditions: B. braunii liquid, 4 g; catalyst, 0.1 g; H2, 3.5 MPa; T, 513 K; reaction time, 8 h."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

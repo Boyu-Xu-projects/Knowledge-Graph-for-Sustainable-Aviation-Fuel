@@ -1,0 +1,135 @@
+{
+  "file": "1237_Lu 等 - 2016 - Hydrocracking of bio-alkanes over PtAl-MCM-41 mesoporous molecular sieves for bio-jet fuel producti.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在Pt/Al-MCM-41介孔分子筛催化剂上，对由生物柴油加氢脱氧产生的生物烷烃（n-十六烷和n-十八烷的混合物）进行加氢裂化，以生产生物航煤。系统考察了温度、压力、重时空速(WHSV)和H2/正构烷烃重量比对转化率和产物分布的影响。",
+        "text_snippet": "The catalysts were tested in the hydrocracking of bio-alkanes, produced from biodiesel hydrodeoxygenation and composed of n-hexadecane and n-octadecane, for the production of bio-jet fuel. The effects of temperature, pressure, weight hourly space velocity (WHSV), and H2/n-paraffin weight ratio on bio-alkanes conversion and product distribution were examined.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2016",
+        "unit": "year",
+        "original": "2016"
+      },
+      "Feedstock": {
+        "value": "40",
+        "unit": "%",
+        "original": "n-hexadecane (40% wt/wt)"
+      },
+      "Catalyst type": {
+        "value": "-41",
+        "unit": "mesoporous",
+        "original": "Pt/Al-MCM-41 mesoporous molecular sieves"
+      },
+      "Catalyst composition": {
+        "value": "0.7",
+        "unit": "wt%",
+        "original": "Platinum (0.7 wt.%)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "-370",
+        "unit": "°C",
+        "original": "310-370°C"
+      },
+      "Reaction pressure": {
+        "value": "-5",
+        "unit": "MPa",
+        "original": "1-5 MPa"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "-8",
+        "unit": "h",
+        "original": "5-8 h on stream (stable period)"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Tubular trickle packed-bed reactor, continuous flow",
+        "unit": "Not reported",
+        "original": "Tubular trickle packed-bed reactor, continuous flow"
+      },
+      "Catalyst loading": {
+        "value": "6.0",
+        "unit": "g",
+        "original": "6.0 g"
+      },
+      "Product": {
+        "value": "7",
+        "unit": "hydrocarbons",
+        "original": "C5-C7 hydrocarbons (gasoline fraction)"
+      },
+      "Conversion rate": {
+        "value": "-99",
+        "unit": "%",
+        "original": "9.82-99% (depending on conditions)"
+      },
+      "Product yield": {
+        "value": "90",
+        "unit": "%",
+        "original": "Liquid yield >90% (82.8-93.3% depending on H₂/n-paraffin ratio)"
+      },
+      "Product Selectivity": {
+        "value": "Kerosene/gasoline ratio: 0.44-2.16",
+        "unit": "Not reported",
+        "original": "Kerosene/gasoline ratio: 0.44-2.16"
+      },
+      "Catalyst stability": {
+        "value": "-41",
+        "unit": "material",
+        "original": "Improved by Al incorporation into MCM-41 material (thicker walls)"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在Pt/Al-MCM-41介孔分子筛催化剂上，对由生物柴油加氢脱氧产生的生物烷烃（n-十六烷和n-十八烷的混合物）进行加氢裂化，以生产生物航煤。系统考察了温度、压力、重时空速(WHSV)和H2/正构烷烃重量比对转化率和产物分布的影响。",
+      "experiment_id": 1,
+      "text_snippet": "The catalysts were tested in the hydrocracking of bio-alkanes, produced from biodiesel hydrodeoxygenation and composed of n-hexadecane and n-octadecane, for the production of bio-jet fuel. The effects of temperature, pressure, weight hourly space velocity (WHSV), and H2/n-paraffin weight ratio on bi..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

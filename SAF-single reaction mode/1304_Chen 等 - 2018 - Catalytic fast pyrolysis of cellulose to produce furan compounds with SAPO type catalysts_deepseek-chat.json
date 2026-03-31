@@ -1,0 +1,247 @@
+{
+  "file": "1304_Chen 等 - 2018 - Catalytic fast pyrolysis of cellulose to produce furan compounds with SAPO type catalysts.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在CDS5250热解器中进行纤维素催化快速热解实验，使用SAPO型催化剂（如ZrCu-18），温度范围为400-800°C，反应时间15秒，产物通过GC-MS分析。",
+        "text_snippet": "The pyrolysis experiment was carried out in a CDS5250 pyrolyzer... For cellulose fast pyrolysis, the cellulose was packed between two layers of quartz wool and put into a quartz sample tube... For catalytic pyrolysis experiments, a mixture of cellulose and catalyst (physically mixed) were added as feedstock into the quartz sample tube... The reaction time (solid residence time) and pyrolysis temperature (set point of the furnace) were 15s and 600°C (when considering the influence of temperature, the set temperature were 400°C, 500°C, 600°C, 700°C and 800°C), respectively.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "催化热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在相同操作条件下热解左旋葡聚糖（LG），以研究其在ZrCu-18催化剂作用下的裂解行为及其对呋喃化合物形成的影响。",
+        "text_snippet": "To reveal the cracking properties of LG in the presence of ZrCu-18 and understand its (the cracking of LG) effect on other products, LG was pyrolysed under the same operating conditions as cellulose... The addition of ZrCu-18 promotes the cracking of LG, and results in the formation of several sugars... and furan compounds including 2-MF, 3(2H)-furanone and FF.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2018",
+        "unit": "year",
+        "original": "2018"
+      },
+      "Feedstock": {
+        "value": "Cellulose",
+        "unit": "Not reported",
+        "original": "Cellulose"
+      },
+      "Catalyst type": {
+        "value": "34",
+        "unit": "SAPO-",
+        "original": "SAPO-34"
+      },
+      "Catalyst composition": {
+        "value": "34",
+        "unit": "H-SAPO-",
+        "original": "H-SAPO-34"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "400",
+        "unit": "°C",
+        "original": "400°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "15",
+        "unit": "s",
+        "original": "15 s"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Catalytic fast pyrolysis",
+        "unit": "Not reported",
+        "original": "Catalytic fast pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "8",
+        "unit": ":",
+        "original": "Catalyst to cellulose mass ratio 8:1"
+      },
+      "Product": {
+        "value": "2-methyl-furan (2-MF)",
+        "unit": "Not reported",
+        "original": "2-methyl-furan (2-MF)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "56.94",
+        "unit": "%",
+        "original": "56.94% furans peak area% for AlCu-SAPO-34"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在CDS5250热解器中进行纤维素催化快速热解实验，使用SAPO型催化剂（如ZrCu-18），温度范围为400-800°C，反应时间15秒，产物通过GC-MS分析。",
+      "experiment_id": 1,
+      "text_snippet": "The pyrolysis experiment was carried out in a CDS5250 pyrolyzer... For cellulose fast pyrolysis, the cellulose was packed between two layers of quartz wool and put into a quartz sample tube... For catalytic pyrolysis experiments, a mixture of cellulose and catalyst (physically mixed) were added as f..."
+    },
+    {
+      "Published year": {
+        "value": "2018",
+        "unit": "year",
+        "original": "2018"
+      },
+      "Feedstock": {
+        "value": "Cellulose",
+        "unit": "Not reported",
+        "original": "Cellulose"
+      },
+      "Catalyst type": {
+        "value": "34",
+        "unit": "SAPO-",
+        "original": "SAPO-34"
+      },
+      "Catalyst composition": {
+        "value": "34",
+        "unit": "H-SAPO-",
+        "original": "H-SAPO-34"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "400",
+        "unit": "°C",
+        "original": "400°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "15",
+        "unit": "s",
+        "original": "15 s"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Catalytic fast pyrolysis",
+        "unit": "Not reported",
+        "original": "Catalytic fast pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "8:1 (catalyst to cellulose mass ratio)",
+        "unit": "wt%",
+        "original": "8:1 (catalyst to cellulose mass ratio)"
+      },
+      "Product": {
+        "value": "2-methyl-furan (2-MF)",
+        "unit": "Not reported",
+        "original": "2-methyl-furan (2-MF)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "56.94",
+        "unit": "%",
+        "original": "56.94% (AlCu-SAPO-34 furans peak area%)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在相同操作条件下热解左旋葡聚糖（LG），以研究其在ZrCu-18催化剂作用下的裂解行为及其对呋喃化合物形成的影响。",
+      "experiment_id": 2,
+      "text_snippet": "To reveal the cracking properties of LG in the presence of ZrCu-18 and understand its (the cracking of LG) effect on other products, LG was pyrolysed under the same operating conditions as cellulose... The addition of ZrCu-18 promotes the cracking of LG, and results in the formation of several sugar..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

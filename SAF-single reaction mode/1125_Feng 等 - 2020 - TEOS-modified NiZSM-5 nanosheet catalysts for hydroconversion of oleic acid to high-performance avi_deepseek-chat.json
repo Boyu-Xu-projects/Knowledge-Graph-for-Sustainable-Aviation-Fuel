@@ -1,0 +1,135 @@
+{
+  "file": "1125_Feng 等 - 2020 - TEOS-modified NiZSM-5 nanosheet catalysts for hydroconversion of oleic acid to high-performance avi.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢转化反应",
+        "reaction_type_english": "Hydroconversion reaction",
+        "description": "在固定床流动反应器中，使用不同Si/Al比和TEOS化学液相沉积(CLD)改性的Ni/ZSM-5纳米片催化剂，在不同反应温度(240°C, 250°C, 260°C)和氢气压力(4.0 bar, 10 bar, 30 bar)下，催化油酸加氢转化为航空燃料范围烷烃(AFRAs)。该过程包含脱氧(加氢脱氧HDO、脱羰DCO、脱羧DCO2)、裂解和异构化等多个子反应。",
+        "text_snippet": "The catalytic hydroconversion of oleic acid to AFRAs over the Ni/ZSM-5 nanosheet catalysts (pellet size of 30–40 mesh) was carried out with a fixed-bed flow reactor... The reaction temperature was controlled... Oleic acid was dissolved in cyclohexane to get a 33.3wt% solution as the feedstock and injected into the reactor at a flow of 0.40 mL/min... The catalytic hydroconversion of oleic acid to AFRAs over the pristine and CLD modified Ni/ZSM-5 nanosheet catalysts was carried out at 260°C and 30 bar... was carried out using NS200(1) as catalyst at 240°C, 250°C, and 260°C... was investigated at 250°C and at 4.0, 10, and 30 bar.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "Oleic acid",
+        "unit": "Not reported",
+        "original": "Oleic acid"
+      },
+      "Catalyst type": {
+        "value": "-5",
+        "unit": "nanosheet",
+        "original": "Ni/ZSM-5 nanosheet catalysts"
+      },
+      "Catalyst composition": {
+        "value": "10",
+        "unit": "wt%",
+        "original": "Ni (10 wt%) supported on ZSM-5 nanosheet zeolites with different Si/Al ratios (100, 200, 300) modified by chemical liquid deposition (CLD) of tetraethoxysilane (TEOS)"
+      },
+      "Solvent": {
+        "value": "Cyclohexane",
+        "unit": "Not reported",
+        "original": "Cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "240",
+        "unit": "°C",
+        "original": "240°C"
+      },
+      "Reaction pressure": {
+        "value": "4.0",
+        "unit": "bar",
+        "original": "4.0 bar"
+      },
+      "Flow rate": {
+        "value": "0.40",
+        "unit": "mL/min",
+        "original": "0.40 mL/min"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed flow reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "2.0",
+        "unit": "g",
+        "original": "2.0 g"
+      },
+      "Product": {
+        "value": "15",
+        "unit": "hydrocarbons",
+        "original": "Aviation-fuel-range-alkanes (AFRAs, C9-C15 hydrocarbons)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% (at 250°C and 260°C, 30 bar); 94.2% (at 250°C, 10 bar); 51.0% (at 250°C, 4.0 bar); 88.9% (at 240°C, 30 bar)"
+      },
+      "Product yield": {
+        "value": "70.8",
+        "unit": "%",
+        "original": "OLP yield: 70.8% (240°C, 30 bar), 78.8% (250°C, 30 bar), 74.3% (260°C, 30 bar); AFRA yield: 39.6% (250°C, 30 bar), 36.3% (260°C, 30 bar over NS200(1))"
+      },
+      "Product Selectivity": {
+        "value": "51.4",
+        "unit": "%",
+        "original": "AFRA selectivity: 51.4% (250°C, 10 bar); HDO selectivity: decreased with increasing temperature; DCO/DCO2 selectivity: increased with increasing temperature; iso/n-alkanes ratio: 1.7 (250°C, 10 bar over NS200(1))"
+      },
+      "Catalyst stability": {
+        "value": "0.8",
+        "unit": "wt%",
+        "original": "Well-maintained structure with slight Ni sintering and coke deposition (0.8 wt%) after 240 min reaction at 250°C and 30 bar"
+      },
+      "reaction_type": "加氢转化反应",
+      "reaction_type_english": "Hydroconversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床流动反应器中，使用不同Si/Al比和TEOS化学液相沉积(CLD)改性的Ni/ZSM-5纳米片催化剂，在不同反应温度(240°C, 250°C, 260°C)和氢气压力(4.0 bar, 10 bar, 30 bar)下，催化油酸加氢转化为航空燃料范围烷烃(AFRAs)。该过程包含脱氧(加氢脱氧HDO、脱羰DCO、脱羧DCO2)、裂解和异构化等多个子反应。",
+      "experiment_id": 1,
+      "text_snippet": "The catalytic hydroconversion of oleic acid to AFRAs over the Ni/ZSM-5 nanosheet catalysts (pellet size of 30–40 mesh) was carried out with a fixed-bed flow reactor... The reaction temperature was controlled... Oleic acid was dissolved in cyclohexane to get a 33.3wt% solution as the feedstock and in..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢转化反应",
+      "reaction_type_english": "Hydroconversion reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

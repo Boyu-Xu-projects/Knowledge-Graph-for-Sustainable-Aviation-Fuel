@@ -1,0 +1,135 @@
+{
+  "file": "1119_Niu 等 - 2022 - Highly dispersed platinum clusters anchored on hollow ZSM-5 zeolite for deep hydrogenation of polycy.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在连续下流式管式固定床反应器中，使用各种制备的Pt催化剂对多环芳烃（萘、苊烯、菲和芴）进行深度加氢反应评估。反应在180-280°C、4.0 MPa压力下进行，使用十氢化萘中的1.0 wt%反应物溶液，重时空速(WHSV)为16.2 h⁻¹，氢油比为500 NmL·mL⁻¹。",
+        "text_snippet": "Naphthalene, acenaphthylene, phenanthrene and fluorene were selected as model compounds to estimate the deep hydrogenation performances of as-prepared catalysts in a down-flow fixed-bed reactor, and the phenanthrene hydrogenation was investigated in detail... The feedstock of 1.0 wt% phenanthrene in decalin was pumped into the reactor via using a plunger pump with a weight hourly space velocity (WHSV) of 16.2 h⁻¹ and a H2/oil of 500 NmL·mL⁻¹.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "naphthalene",
+        "unit": "Not reported",
+        "original": "naphthalene"
+      },
+      "Catalyst type": {
+        "value": "Pt catalysts",
+        "unit": "Not reported",
+        "original": "Pt catalysts"
+      },
+      "Catalyst composition": {
+        "value": "Pt/HZ-SEA",
+        "unit": "Not reported",
+        "original": "Pt/HZ-SEA"
+      },
+      "Solvent": {
+        "value": "decalin (decahydronaphthalene)",
+        "unit": "Not reported",
+        "original": "decalin (decahydronaphthalene)"
+      },
+      "Reaction temperature": {
+        "value": "-280",
+        "unit": "°C",
+        "original": "180-280 °C"
+      },
+      "Reaction pressure": {
+        "value": "4.0",
+        "unit": "MPa",
+        "original": "4.0 MPa"
+      },
+      "Flow rate": {
+        "value": "16.2",
+        "unit": "h",
+        "original": "Weight hourly space velocity (WHSV) = 16.2 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "500",
+        "unit": "NmL",
+        "original": "H₂/oil = 500 NmL·mL⁻¹"
+      },
+      "Operation mode": {
+        "value": "Continuous down-flow fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous down-flow fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1.0",
+        "unit": "wt%",
+        "original": "1.0 wt% Pt"
+      },
+      "Product": {
+        "value": "decalin (from naphthalene)",
+        "unit": "Not reported",
+        "original": "decalin (from naphthalene)"
+      },
+      "Conversion rate": {
+        "value": "88.5",
+        "unit": "%",
+        "original": "Phenanthrene conversion: 88.5% at 180°C, 100% at 220°C over Pt/HZ-SEA"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "100",
+        "unit": "%",
+        "original": "Almost 100% selectivity to deep hydrogenation products (DHPS) at 220°C over Pt/HZ-SEA"
+      },
+      "Catalyst stability": {
+        "value": "600",
+        "unit": "ppm",
+        "original": "Excellent sulfur resistance observed with 600 ppm dibenzothiophene (DBT) for 35 h; DBT conversion stable at ~71% after initial decline"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在连续下流式管式固定床反应器中，使用各种制备的Pt催化剂对多环芳烃（萘、苊烯、菲和芴）进行深度加氢反应评估。反应在180-280°C、4.0 MPa压力下进行，使用十氢化萘中的1.0 wt%反应物溶液，重时空速(WHSV)为16.2 h⁻¹，氢油比为500 NmL·mL⁻¹。",
+      "experiment_id": 1,
+      "text_snippet": "Naphthalene, acenaphthylene, phenanthrene and fluorene were selected as model compounds to estimate the deep hydrogenation performances of as-prepared catalysts in a down-flow fixed-bed reactor, and the phenanthrene hydrogenation was investigated in detail... The feedstock of 1.0 wt% phenanthrene in..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

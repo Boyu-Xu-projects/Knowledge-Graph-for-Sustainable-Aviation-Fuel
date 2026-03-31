@@ -1,0 +1,1591 @@
+{
+  "file": "1266_Duan 等 - 2022 - Corncob pyrolysis Improvement in hydrocarbon group types distribution of bio oil from co-catalysis.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 14,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在500℃下，HZSM-5/AC比例为0:1（仅AC），催化剂/玉米芯比例为1:1的条件下进行玉米芯催化热解",
+        "text_snippet": "Run 1 500 0:1 1:1",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在500℃下，HZSM-5/AC比例为1:2，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解",
+        "text_snippet": "Run 2 500 1:2 1:1",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在500℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解",
+        "text_snippet": "Run 3 500 1:1 1:1",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 4,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在500℃下，HZSM-5/AC比例为2:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解",
+        "text_snippet": "Run 4 500 2:1 1:1",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 5,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在500℃下，HZSM-5/AC比例为1:0（仅HZSM-5），催化剂/玉米芯比例为1:1的条件下进行玉米芯催化热解",
+        "text_snippet": "Run 5 500 1:0 1:1",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 6,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在400℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解",
+        "text_snippet": "Run 6 400 1:1 1:1",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 7,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在450℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解",
+        "text_snippet": "Run 7 450 1:1 1:1",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 8,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在500℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解（重复实验）",
+        "text_snippet": "Run 8 500 1:1 1:1",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 9,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在550℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解",
+        "text_snippet": "Run 9 550 1:1 1:1",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 10,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在600℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解",
+        "text_snippet": "Run 10 600 1:1 1:1",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 11,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在500℃下，HZSM-5/AC比例为1:1，无催化剂（催化剂/玉米芯比例为0:1）的条件下进行玉米芯热解",
+        "text_snippet": "Run 11 500 1:1 0:1",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 12,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在500℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解（再次重复）",
+        "text_snippet": "Run 12 500 1:1 1:1",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 13,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在500℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:2的条件下进行玉米芯共催化热解",
+        "text_snippet": "Run 13 500 1:1 1:2",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 14,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在500℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为2:1的条件下进行玉米芯共催化热解",
+        "text_snippet": "Run 14 500 1:1 2:1",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Corncob",
+        "unit": "Not reported",
+        "original": "Corncob"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/AC",
+        "original": "HZSM-5/AC ratio 0:1 (only AC)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500 ℃",
+        "unit": "°C",
+        "original": "500 ℃"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "75",
+        "unit": "mL/min",
+        "original": "75 mL/min"
+      },
+      "Reaction time": {
+        "value": "40",
+        "unit": "min",
+        "original": "40 min"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": ":",
+        "original": "Catalyst/corncob ratio 1:1"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Bio-oil: Not reported",
+        "unit": "%",
+        "original": "Bio-oil: Not reported"
+      },
+      "Product Selectivity": {
+        "value": "Aromatics: Not reported",
+        "unit": "Not reported",
+        "original": "Aromatics: Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在500℃下，HZSM-5/AC比例为0:1（仅AC），催化剂/玉米芯比例为1:1的条件下进行玉米芯催化热解",
+      "experiment_id": 1,
+      "text_snippet": "Run 1 500 0:1 1:1"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Corncob",
+        "unit": "Not reported",
+        "original": "Corncob"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/AC",
+        "original": "HZSM-5/AC ratio 1:2"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500 ℃",
+        "unit": "°C",
+        "original": "500 ℃"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "75",
+        "unit": "mL/min",
+        "original": "75 mL/min"
+      },
+      "Reaction time": {
+        "value": "40",
+        "unit": "min",
+        "original": "40 min"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": ":",
+        "original": "Catalyst/corncob ratio 1:1"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "39.5",
+        "unit": "wt%",
+        "original": "Bio-oil: 39.5 wt%"
+      },
+      "Product Selectivity": {
+        "value": "44.41",
+        "unit": "%",
+        "original": "Aromatics: 44.41%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在500℃下，HZSM-5/AC比例为1:2，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解",
+      "experiment_id": 2,
+      "text_snippet": "Run 2 500 1:2 1:1"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Corncob",
+        "unit": "Not reported",
+        "original": "Corncob"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/AC",
+        "original": "HZSM-5/AC ratio of 1:1"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500 ℃",
+        "unit": "°C",
+        "original": "500 ℃"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "75",
+        "unit": "mL/min",
+        "original": "75 mL/min"
+      },
+      "Reaction time": {
+        "value": "40",
+        "unit": "min",
+        "original": "40 min"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "of",
+        "original": "Catalyst/corncob ratio of 1:1"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "41.0",
+        "unit": "wt%",
+        "original": "Bio-oil: 41.0 wt%"
+      },
+      "Product Selectivity": {
+        "value": "76.89",
+        "unit": "%",
+        "original": "Aromatics: 76.89%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在500℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解",
+      "experiment_id": 3,
+      "text_snippet": "Run 3 500 1:1 1:1"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Corncob",
+        "unit": "Not reported",
+        "original": "Corncob"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/AC",
+        "original": "HZSM-5/AC ratio of 2:1"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500 ℃",
+        "unit": "°C",
+        "original": "500 ℃"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "75",
+        "unit": "mL/min",
+        "original": "75 mL/min (carrier gas)"
+      },
+      "Reaction time": {
+        "value": "40",
+        "unit": "min",
+        "original": "40 min"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "1:1",
+        "unit": ":",
+        "original": "Catalyst/corncob ratio of 1:1"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "of",
+        "original": "Catalyst/corncob ratio of 1:1"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "43.5",
+        "unit": "wt%",
+        "original": "Bio-oil: 43.5 wt%"
+      },
+      "Product Selectivity": {
+        "value": "96.56",
+        "unit": "%",
+        "original": "Aromatics: 96.56%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在500℃下，HZSM-5/AC比例为2:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解",
+      "experiment_id": 4,
+      "text_snippet": "Run 4 500 2:1 1:1"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Corncob",
+        "unit": "Not reported",
+        "original": "Corncob"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/AC",
+        "original": "HZSM-5/AC ratio 1:0 (only HZSM-5)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500 ℃",
+        "unit": "°C",
+        "original": "500 ℃"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "75",
+        "unit": "mL/min",
+        "original": "75 mL/min (carrier gas)"
+      },
+      "Reaction time": {
+        "value": "40",
+        "unit": "min",
+        "original": "40 min"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": ":",
+        "original": "Catalyst/corncob ratio 1:1"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "44.0",
+        "unit": "wt%",
+        "original": "Bio-oil: 44.0 wt%"
+      },
+      "Product Selectivity": {
+        "value": "82.66",
+        "unit": "%",
+        "original": "Aromatics: 82.66%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在500℃下，HZSM-5/AC比例为1:0（仅HZSM-5），催化剂/玉米芯比例为1:1的条件下进行玉米芯催化热解",
+      "experiment_id": 5,
+      "text_snippet": "Run 5 500 1:0 1:1"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Corncob",
+        "unit": "Not reported",
+        "original": "Corncob"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/AC",
+        "original": "HZSM-5/AC ratio of 1:1"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "400 ℃",
+        "unit": "°C",
+        "original": "400 ℃"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "75",
+        "unit": "mL/min",
+        "original": "75 mL/min"
+      },
+      "Reaction time": {
+        "value": "40",
+        "unit": "min",
+        "original": "40 min"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "of",
+        "original": "Catalyst/corncob ratio of 1:1"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "32.0",
+        "unit": "wt%",
+        "original": "Bio-oil: 32.0 wt%"
+      },
+      "Product Selectivity": {
+        "value": "400",
+        "unit": "at",
+        "original": "Other oxygenates: major components at 400℃"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在400℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解",
+      "experiment_id": 6,
+      "text_snippet": "Run 6 400 1:1 1:1"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Corncob",
+        "unit": "Not reported",
+        "original": "Corncob"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/AC",
+        "original": "HZSM-5/AC ratio of 1:1"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "450 ℃",
+        "unit": "°C",
+        "original": "450 ℃"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "75",
+        "unit": "mL/min",
+        "original": "75 mL/min"
+      },
+      "Reaction time": {
+        "value": "40",
+        "unit": "min",
+        "original": "40 min"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "1:1",
+        "unit": ":",
+        "original": "Catalyst/corncob ratio of 1:1"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "3",
+        "unit": "g",
+        "original": "3 g corncob with catalyst"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "41.0",
+        "unit": "wt%",
+        "original": "Bio-oil: 41.0 wt%"
+      },
+      "Product Selectivity": {
+        "value": "76.89",
+        "unit": "%",
+        "original": "Aromatics: 76.89%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在450℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解",
+      "experiment_id": 7,
+      "text_snippet": "Run 7 450 1:1 1:1"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Corncob",
+        "unit": "Not reported",
+        "original": "Corncob"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/AC",
+        "original": "HZSM-5/AC ratio 1:1"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500 ℃",
+        "unit": "°C",
+        "original": "500 ℃"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "75",
+        "unit": "mL/min",
+        "original": "75 mL/min"
+      },
+      "Reaction time": {
+        "value": "40",
+        "unit": "min",
+        "original": "40 min"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": ":",
+        "original": "Catalyst/corncob ratio 1:1"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "41.0",
+        "unit": "wt%",
+        "original": "Bio-oil: 41.0 wt%"
+      },
+      "Product Selectivity": {
+        "value": "76.89",
+        "unit": "%",
+        "original": "Aromatics: 76.89%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在500℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解（重复实验）",
+      "experiment_id": 8,
+      "text_snippet": "Run 8 500 1:1 1:1"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Corncob",
+        "unit": "Not reported",
+        "original": "Corncob"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/AC",
+        "original": "HZSM-5/AC ratio 1:1"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "550 ℃",
+        "unit": "°C",
+        "original": "550 ℃"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "75",
+        "unit": "mL/min",
+        "original": "75 mL/min"
+      },
+      "Reaction time": {
+        "value": "40",
+        "unit": "min",
+        "original": "40 min"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "1:1",
+        "unit": ":",
+        "original": "Catalyst/corncob ratio 1:1"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "3",
+        "unit": "g",
+        "original": "3 g corncob with catalyst"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "36.0",
+        "unit": "wt%",
+        "original": "Bio-oil: 36.0 wt%"
+      },
+      "Product Selectivity": {
+        "value": "35.34",
+        "unit": "%",
+        "original": "Aromatics: 35.34%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在550℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解",
+      "experiment_id": 9,
+      "text_snippet": "Run 9 550 1:1 1:1"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Corncob",
+        "unit": "Not reported",
+        "original": "Corncob"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/AC",
+        "original": "HZSM-5/AC ratio 1:1"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "600 ℃",
+        "unit": "°C",
+        "original": "600 ℃"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "75",
+        "unit": "mL/min",
+        "original": "75 mL/min"
+      },
+      "Reaction time": {
+        "value": "40",
+        "unit": "min",
+        "original": "40 min"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": ":",
+        "original": "Catalyst/corncob ratio 1:1"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "36.0",
+        "unit": "wt%",
+        "original": "Bio-oil: 36.0 wt%"
+      },
+      "Product Selectivity": {
+        "value": "35.34",
+        "unit": "%",
+        "original": "Aromatics: 35.34%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在600℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解",
+      "experiment_id": 10,
+      "text_snippet": "Run 10 600 1:1 1:1"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Corncob",
+        "unit": "Not reported",
+        "original": "Corncob"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/AC",
+        "original": "HZSM-5/AC ratio 1:1"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500 ℃",
+        "unit": "°C",
+        "original": "500 ℃"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "75",
+        "unit": "mL/min",
+        "original": "75 mL/min"
+      },
+      "Reaction time": {
+        "value": "40",
+        "unit": "min",
+        "original": "40 min"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "0",
+        "unit": ":",
+        "original": "Catalyst/corncob ratio 0:1 (no catalyst)"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "43.0",
+        "unit": "wt%",
+        "original": "Bio-oil: 43.0 wt%"
+      },
+      "Product Selectivity": {
+        "value": "2.98",
+        "unit": "%",
+        "original": "Aromatics: 2.98%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在500℃下，HZSM-5/AC比例为1:1，无催化剂（催化剂/玉米芯比例为0:1）的条件下进行玉米芯热解",
+      "experiment_id": 11,
+      "text_snippet": "Run 11 500 1:1 0:1"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Corncob",
+        "unit": "Not reported",
+        "original": "Corncob"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/AC",
+        "original": "HZSM-5/AC ratio of 1:1"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500 ℃",
+        "unit": "°C",
+        "original": "500 ℃"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "75",
+        "unit": "mL/min",
+        "original": "75 mL/min (nitrogen carrier gas)"
+      },
+      "Reaction time": {
+        "value": "40",
+        "unit": "min",
+        "original": "40 min"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen (oxygen-free)",
+        "unit": "Not reported",
+        "original": "Nitrogen (oxygen-free)"
+      },
+      "Reactant molar ratio": {
+        "value": "1:1",
+        "unit": ":",
+        "original": "Catalyst/corncob ratio of 1:1"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "3",
+        "unit": "g",
+        "original": "3 g corncob with catalyst mixture"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "41.0",
+        "unit": "wt%",
+        "original": "Bio-oil: 41.0 wt%"
+      },
+      "Product Selectivity": {
+        "value": "76.89",
+        "unit": "%",
+        "original": "Aromatics: 76.89%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在500℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:1的条件下进行玉米芯共催化热解（再次重复）",
+      "experiment_id": 12,
+      "text_snippet": "Run 12 500 1:1 1:1"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Corncob",
+        "unit": "Not reported",
+        "original": "Corncob"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "/AC",
+        "original": "HZSM-5/AC ratio of 1:1"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500 ℃",
+        "unit": "°C",
+        "original": "500 ℃"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "75",
+        "unit": "mL/min",
+        "original": "75 mL/min"
+      },
+      "Reaction time": {
+        "value": "40",
+        "unit": "min",
+        "original": "40 min"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "1:2",
+        "unit": ":",
+        "original": "Catalyst/corncob ratio of 1:2"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "-43.5",
+        "unit": "wt%",
+        "original": "Bio-oil: 39.5-43.5 wt%"
+      },
+      "Product Selectivity": {
+        "value": "96.56",
+        "unit": "%",
+        "original": "Aromatics: 96.56%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在500℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为1:2的条件下进行玉米芯共催化热解",
+      "experiment_id": 13,
+      "text_snippet": "Run 13 500 1:1 1:2"
+    },
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Corncob",
+        "unit": "Not reported",
+        "original": "Corncob"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "and",
+        "original": "HZSM-5 and H3PO4-based activated carbon"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500 ℃",
+        "unit": "°C",
+        "original": "500 ℃"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "75",
+        "unit": "mL/min",
+        "original": "75 mL/min"
+      },
+      "Reaction time": {
+        "value": "40",
+        "unit": "min",
+        "original": "40 min"
+      },
+      "Atmosphere": {
+        "value": "Nitrogen",
+        "unit": "Not reported",
+        "original": "Nitrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "-5",
+        "unit": "/AC",
+        "original": "HZSM-5/AC ratio 1:1, Catalyst/corncob ratio 2:1"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "-44.0",
+        "unit": "wt%",
+        "original": "Bio-oil: 36.5-44.0 wt%, Bio-char: 27.5-35.5 wt%"
+      },
+      "Product Selectivity": {
+        "value": "96.56",
+        "unit": "%",
+        "original": "Aromatics: 96.56%, C8-C16 hydrocarbons: 97.47%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在500℃下，HZSM-5/AC比例为1:1，催化剂/玉米芯比例为2:1的条件下进行玉米芯共催化热解",
+      "experiment_id": 14,
+      "text_snippet": "Run 14 500 1:1 2:1"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 4,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 5,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 6,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 7,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 8,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 9,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 10,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 11,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 12,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 13,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 14,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

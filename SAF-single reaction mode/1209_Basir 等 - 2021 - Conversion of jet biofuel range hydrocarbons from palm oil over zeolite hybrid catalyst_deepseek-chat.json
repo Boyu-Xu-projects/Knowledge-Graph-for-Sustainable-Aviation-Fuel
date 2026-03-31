@@ -1,0 +1,135 @@
+{
+  "file": "1209_Basir 等 - 2021 - Conversion of jet biofuel range hydrocarbons from palm oil over zeolite hybrid catalyst.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在390°C和氢气气氛下，使用四种不同的沸石催化剂（Y、ZSM-5、Y-ZSM-5杂化和Y/ZSM-5复合物）催化转化棕榈油生产生物航煤。反应在500 mL间歇式反应器中进行，棕榈油与催化剂的质量比为20:1，搅拌速度为300 rpm，反应时间为2小时。产物通过GC-MS分析。",
+        "text_snippet": "The palm oil conversion experiment was carried out in a 500-mL batch reactor equipped with an external heating mantle. In this process, 200 mL of palm oil and catalyst with a mass ratio of 20:1 was loaded into the reactor, which was then vigorously stirred for 1 min. Thereafter, the reactor was sealed and purged with flowing hydrogen for about 20 min to set the pressure and temperature. The reaction was carried out at 390°C while stirring at 300 r min⁻¹. After the reaction, the liquid-phase products were collected and separated via centrifugation. The liquid products were analyzed using GC-MS.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "Palm oil",
+        "unit": "Not reported",
+        "original": "Palm oil"
+      },
+      "Catalyst type": {
+        "value": "Y",
+        "unit": "Not reported",
+        "original": "Y"
+      },
+      "Catalyst composition": {
+        "value": "Zeolite Y",
+        "unit": "Not reported",
+        "original": "Zeolite Y"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "390",
+        "unit": "°C",
+        "original": "390°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 hours"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "20",
+        "unit": ":",
+        "original": "Palm oil to catalyst mass ratio 20:1"
+      },
+      "Product": {
+        "value": "Jet biofuel range hydrocarbons",
+        "unit": "Not reported",
+        "original": "Jet biofuel range hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "91",
+        "unit": "%",
+        "original": "Y: 91%"
+      },
+      "Product yield": {
+        "value": "42",
+        "unit": "wt%",
+        "original": "Y: 42 wt%"
+      },
+      "Product Selectivity": {
+        "value": "51",
+        "unit": "%",
+        "original": "Y: 51% alkanes, 25% aromatics"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在390°C和氢气气氛下，使用四种不同的沸石催化剂（Y、ZSM-5、Y-ZSM-5杂化和Y/ZSM-5复合物）催化转化棕榈油生产生物航煤。反应在500 mL间歇式反应器中进行，棕榈油与催化剂的质量比为20:1，搅拌速度为300 rpm，反应时间为2小时。产物通过GC-MS分析。",
+      "experiment_id": 1,
+      "text_snippet": "The palm oil conversion experiment was carried out in a 500-mL batch reactor equipped with an external heating mantle. In this process, 200 mL of palm oil and catalyst with a mass ratio of 20:1 was loaded into the reactor, which was then vigorously stirred for 1 min. Thereafter, the reactor was seal..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "file": "1233_Xing 等 - 2019 - Investigation on hydroisomerization and hydrocracking of C15–C18 n-alkanes utilizing a hollow tubula.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢异构化和加氢裂化反应",
+        "reaction_type_english": "Hydroisomerization and Hydrocracking reaction",
+        "description": "使用不同Si/Al摩尔比（0.2, 0.4, 0.6）的Ni-Mo/SAPO-11催化剂，在623K、3MPa氢压、H2/油比800、LHSV为1h⁻¹的条件下，对蓖麻油加氢脱氧（HDO）产物进行加氢异构化和加氢裂化反应评价。",
+        "text_snippet": "As a result, a Ni-Mo/SAPO-11(0.4) catalyst with hollow tubular structure and moderate acidic strength exhibited optimum conversion (97.2%) and jet fuel selectivity (81.6%) in the reaction.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢异构化和加氢裂化反应",
+        "reaction_type_english": "Hydroisomerization and Hydrocracking reaction",
+        "description": "使用筛选出的Ni-Mo/SAPO-11(0.4)催化剂，在3MPa氢压、H2/油比800、LHSV为1h⁻¹的条件下，于不同温度（583K, 603K, 623K）下对C15-C18正构烷烃模型化合物（n-C15, n-C16, n-C17, n-C18）进行了一系列加氢异构化和加氢裂化实验。",
+        "text_snippet": "Subsequently, Ni-Mo/SAPO-11(0.4) was selected to carry out further experiments on studying the hydroisomerization and hydrocracking of long chain n-alkanes (C15–C18). The results show that increasing temperature from 583K to 623K may promote hydroisomerization and hydrocracking.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "HDO product of castor oil",
+        "unit": "Not reported",
+        "original": "HDO product of castor oil"
+      },
+      "Catalyst type": {
+        "value": "11",
+        "unit": "Ni-Mo/SAPO-",
+        "original": "Ni-Mo/SAPO-11"
+      },
+      "Catalyst composition": {
+        "value": "15.0",
+        "unit": "wt%",
+        "original": "15.0 wt.% Ni"
+      },
+      "Solvent": {
+        "value": "cyclohexane",
+        "unit": "Not reported",
+        "original": "cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "583",
+        "unit": "K",
+        "original": "583 K"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "1",
+        "unit": "h",
+        "original": "LHSV = 1 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/oil",
+        "original": "H2/oil ratio = 800"
+      },
+      "Operation mode": {
+        "value": "continuous flow fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "continuous flow fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "iso-alkanes",
+        "unit": "Not reported",
+        "original": "iso-alkanes"
+      },
+      "Conversion rate": {
+        "value": "97.2",
+        "unit": "%",
+        "original": "97.2% (Ni-Mo/SAPO-11(0.4) with HDO product at 623K)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "81.6",
+        "unit": "%",
+        "original": "81.6% jet fuel selectivity (Ni-Mo/SAPO-11(0.4) with HDO product)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢异构化和加氢裂化反应",
+      "reaction_type_english": "Hydroisomerization and Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用不同Si/Al摩尔比（0.2, 0.4, 0.6）的Ni-Mo/SAPO-11催化剂，在623K、3MPa氢压、H2/油比800、LHSV为1h⁻¹的条件下，对蓖麻油加氢脱氧（HDO）产物进行加氢异构化和加氢裂化反应评价。",
+      "experiment_id": 1,
+      "text_snippet": "As a result, a Ni-Mo/SAPO-11(0.4) catalyst with hollow tubular structure and moderate acidic strength exhibited optimum conversion (97.2%) and jet fuel selectivity (81.6%) in the reaction."
+    },
+    {
+      "Published year": {
+        "value": "2019",
+        "unit": "year",
+        "original": "2019"
+      },
+      "Feedstock": {
+        "value": "15",
+        "unit": "n-C",
+        "original": "n-C15"
+      },
+      "Catalyst type": {
+        "value": "11",
+        "unit": "Ni-Mo/SAPO-",
+        "original": "Ni-Mo/SAPO-11"
+      },
+      "Catalyst composition": {
+        "value": "15.0",
+        "unit": "wt%",
+        "original": "15.0 wt.% Ni, 5.0 wt.% Mo"
+      },
+      "Solvent": {
+        "value": "cyclohexane",
+        "unit": "Not reported",
+        "original": "cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "583",
+        "unit": "K",
+        "original": "583K"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "1",
+        "unit": "h",
+        "original": "LHSV = 1 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/oil",
+        "original": "H2/oil ratio = 800"
+      },
+      "Operation mode": {
+        "value": "continuous flow fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "continuous flow fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "isomers",
+        "unit": "Not reported",
+        "original": "isomers"
+      },
+      "Conversion rate": {
+        "value": "-99.97",
+        "unit": "%",
+        "original": "51.39-99.97% (depending on temperature and feedstock)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "-18.2",
+        "unit": "%",
+        "original": "C5-C7: 16.2-18.2%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢异构化和加氢裂化反应",
+      "reaction_type_english": "Hydroisomerization and Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用筛选出的Ni-Mo/SAPO-11(0.4)催化剂，在3MPa氢压、H2/油比800、LHSV为1h⁻¹的条件下，于不同温度（583K, 603K, 623K）下对C15-C18正构烷烃模型化合物（n-C15, n-C16, n-C17, n-C18）进行了一系列加氢异构化和加氢裂化实验。",
+      "experiment_id": 2,
+      "text_snippet": "Subsequently, Ni-Mo/SAPO-11(0.4) was selected to carry out further experiments on studying the hydroisomerization and hydrocracking of long chain n-alkanes (C15–C18). The results show that increasing temperature from 583K to 623K may promote hydroisomerization and hydrocracking."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢异构化和加氢裂化反应",
+      "reaction_type_english": "Hydroisomerization and Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢异构化和加氢裂化反应",
+      "reaction_type_english": "Hydroisomerization and Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

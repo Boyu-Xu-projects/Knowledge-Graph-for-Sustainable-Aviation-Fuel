@@ -1,0 +1,135 @@
+{
+  "file": "1256_Zhao 等 - 2018 - Fast microwave-assisted ex-catalytic co-pyrolysis of bamboo and polypropylene for bio-oil production.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化热解",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在微波辅助下，使用HZSM-5催化剂对竹粉和聚丙烯(PP)混合物进行非原位催化共热解，以生产生物油。研究了催化温度、原料/催化剂比例和竹粉/PP比例对产物分布和生物油化学成分的影响。",
+        "text_snippet": "The ex-catalytic co-pyrolysis of bamboo and polypropylene (PP) with HZSM-5 was investigated with microwave assistance. The influences of catalytic temperature, feedstock/catalyst ratio, and bamboo/PP ratio on the product yields and chemical components of bio-oil from the co-pyrolysis were studied.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2018",
+        "unit": "year",
+        "original": "2018"
+      },
+      "Feedstock": {
+        "value": "Bamboo",
+        "unit": "Not reported",
+        "original": "Bamboo"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "HZSM-",
+        "original": "HZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "/Al",
+        "original": "SiO2/Al2O3 = 50"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "550",
+        "unit": "°C",
+        "original": "Pyrolysis: 550°C"
+      },
+      "Reaction pressure": {
+        "value": "100",
+        "unit": "mmHg",
+        "original": "100 mmHg"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Vacuum",
+        "unit": "Not reported",
+        "original": "Vacuum"
+      },
+      "Reactant molar ratio": {
+        "value": "0:1",
+        "unit": ":",
+        "original": "Bamboo/PP: 0:1, 1:1, 1:2, 2:1, 1:0"
+      },
+      "Operation mode": {
+        "value": "Ex-situ catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Ex-situ catalytic pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "Feedstock/catalyst ratios: 1:0, 4:1, 2:1, 1:1",
+        "unit": "wt%",
+        "original": "Feedstock/catalyst ratios: 1:0, 4:1, 2:1, 1:1"
+      },
+      "Product": {
+        "value": "Bio-oil",
+        "unit": "Not reported",
+        "original": "Bio-oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "-69.80",
+        "unit": "wt%",
+        "original": "Bio-oil: 29.91-69.80 wt%"
+      },
+      "Product Selectivity": {
+        "value": "-24.78",
+        "unit": "%",
+        "original": "Aromatics: 2.33-24.78%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "催化热解",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在微波辅助下，使用HZSM-5催化剂对竹粉和聚丙烯(PP)混合物进行非原位催化共热解，以生产生物油。研究了催化温度、原料/催化剂比例和竹粉/PP比例对产物分布和生物油化学成分的影响。",
+      "experiment_id": 1,
+      "text_snippet": "The ex-catalytic co-pyrolysis of bamboo and polypropylene (PP) with HZSM-5 was investigated with microwave assistance. The influences of catalytic temperature, feedstock/catalyst ratio, and bamboo/PP ratio on the product yields and chemical components of bio-oil from the co-pyrolysis were studied."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化热解",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1332_Chen和Garwood - 1978 - Selective Hydrocracking of n-Paraffins in Jet Fuels.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在高压微反应器中，使用Ni/H-毛沸石、Pt/Ca-A和Ni/RE-X催化剂，在加氢裂化条件下对喷气燃料中的正构烷烃进行选择性转化。实验研究了压力、氢分压和硫含量对反应选择性和产物凝固点的影响。",
+        "text_snippet": "The experiments were conducted in a high-pressure microreactor capable of operating up to 3000 psig... selective hydrocracking of C10 to C16 n-paraffins present in kerosene type jet fuels over nickel/H-erionite and platinum/Ca-A catalysts.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "1978",
+        "unit": "year",
+        "original": "1978"
+      },
+      "Feedstock": {
+        "value": "10",
+        "unit": ":",
+        "original": "Jet fuel (highly paraffinic, containing n-paraffins from C10 to C16)"
+      },
+      "Catalyst type": {
+        "value": "Ni/H-erionite",
+        "unit": "Not reported",
+        "original": "Ni/H-erionite"
+      },
+      "Catalyst composition": {
+        "value": "5.6",
+        "unit": "wt%",
+        "original": "NiO: 5.6 wt%, SiO2: 68.6 wt%, Al2O3: 16.5 wt%"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "750",
+        "unit": "°F",
+        "original": "750 °F"
+      },
+      "Reaction pressure": {
+        "value": "200",
+        "unit": "psig",
+        "original": "200 psig"
+      },
+      "Flow rate": {
+        "value": "14",
+        "unit": "LHSV",
+        "original": "14 LHSV"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "27",
+        "unit": "/",
+        "original": "27/1 H2/hydrocarbon"
+      },
+      "Operation mode": {
+        "value": "Continuous flow in a high-pressure microreactor",
+        "unit": "Not reported",
+        "original": "Continuous flow in a high-pressure microreactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "Jet fuel",
+        "unit": "Not reported",
+        "original": "Jet fuel"
+      },
+      "Conversion rate": {
+        "value": "18.2",
+        "unit": "wt%",
+        "original": "18.2 wt% (to 358 °F minus)"
+      },
+      "Product yield": {
+        "value": "81.8",
+        "unit": "wt%",
+        "original": "81.8 wt% jet fuel"
+      },
+      "Product Selectivity": {
+        "value": "42.3",
+        "unit": "wt%",
+        "original": "n-paraffin converted: 42.3 wt%, non-normals converted: 10.2 wt%"
+      },
+      "Catalyst stability": {
+        "value": "Sensitive to hydrogen partial pressure and sulfur content; activity decreases with low hydrogen pressure or presence of sulfur",
+        "unit": "Not reported",
+        "original": "Sensitive to hydrogen partial pressure and sulfur content; activity decreases with low hydrogen pressure or presence of sulfur"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在高压微反应器中，使用Ni/H-毛沸石、Pt/Ca-A和Ni/RE-X催化剂，在加氢裂化条件下对喷气燃料中的正构烷烃进行选择性转化。实验研究了压力、氢分压和硫含量对反应选择性和产物凝固点的影响。",
+      "experiment_id": 1,
+      "text_snippet": "The experiments were conducted in a high-pressure microreactor capable of operating up to 3000 psig... selective hydrocracking of C10 to C16 n-paraffins present in kerosene type jet fuels over nickel/H-erionite and platinum/Ca-A catalysts."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

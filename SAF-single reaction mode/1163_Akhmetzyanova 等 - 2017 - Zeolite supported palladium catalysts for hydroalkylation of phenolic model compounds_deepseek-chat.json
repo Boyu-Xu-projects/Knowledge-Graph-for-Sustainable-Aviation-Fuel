@@ -1,0 +1,135 @@
+{
+  "file": "1163_Akhmetzyanova 等 - 2017 - Zeolite supported palladium catalysts for hydroalkylation of phenolic model compounds.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢烷基化反应",
+        "reaction_type_english": "Hydroalkylation reaction",
+        "description": "在高压间歇式反应器中，使用负载钯的沸石双功能催化剂（如Pd/Beta, Pd/MCM-22, Pd/MCM-36, Pd/MCM-56），在160°C和50 bar初始氢气压下，将溶解于正癸烷中的苯酚转化为环己基环己烷（CCH）等环烷烃产物。",
+        "text_snippet": "All the synthesized catalysts were tested in a high-pressure 300 ml batch autoclave (Parr Instrument Co.)... 4 g of phenol were dissolved in 100 ml of n-decane... The reactor was loaded with 50 bar of H2. Reaction temperature was set to 160 °C and kept for defined reaction time.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "Phenol",
+        "unit": "Not reported",
+        "original": "Phenol"
+      },
+      "Catalyst type": {
+        "value": "Zeolite supported palladium catalysts",
+        "unit": "Not reported",
+        "original": "Zeolite supported palladium catalysts"
+      },
+      "Catalyst composition": {
+        "value": "Pd/Beta",
+        "unit": "Not reported",
+        "original": "Pd/Beta"
+      },
+      "Solvent": {
+        "value": "n-decane",
+        "unit": "Not reported",
+        "original": "n-decane"
+      },
+      "Reaction temperature": {
+        "value": "160",
+        "unit": "°C",
+        "original": "160°C"
+      },
+      "Reaction pressure": {
+        "value": "50",
+        "unit": "bar",
+        "original": "50 bar initial hydrogen pressure"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "60",
+        "unit": "min",
+        "original": "60 min"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.3",
+        "unit": "wt%",
+        "original": "0.3 wt%"
+      },
+      "Product": {
+        "value": "Cyclohexylcyclohexane (CCH)",
+        "unit": "Not reported",
+        "original": "Cyclohexylcyclohexane (CCH)"
+      },
+      "Conversion rate": {
+        "value": "-100",
+        "unit": "%",
+        "original": "99-100% (Pd/Beta, Pd/MCM-36, Pd/MCM-56)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "57",
+        "unit": "%",
+        "original": "Cyclohexylcyclohexane: Beta (57%) > MCM-36 (42%) ≈ MCM-56 (37%) > MCM-22 (20%)"
+      },
+      "Catalyst stability": {
+        "value": "Sintering effects observed for all catalysts, most pronounced for Beta support",
+        "unit": "Not reported",
+        "original": "Sintering effects observed for all catalysts, most pronounced for Beta support"
+      },
+      "reaction_type": "加氢烷基化反应",
+      "reaction_type_english": "Hydroalkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在高压间歇式反应器中，使用负载钯的沸石双功能催化剂（如Pd/Beta, Pd/MCM-22, Pd/MCM-36, Pd/MCM-56），在160°C和50 bar初始氢气压下，将溶解于正癸烷中的苯酚转化为环己基环己烷（CCH）等环烷烃产物。",
+      "experiment_id": 1,
+      "text_snippet": "All the synthesized catalysts were tested in a high-pressure 300 ml batch autoclave (Parr Instrument Co.)... 4 g of phenol were dissolved in 100 ml of n-decane... The reactor was loaded with 50 bar of H2. Reaction temperature was set to 160 °C and kept for defined reaction time."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢烷基化反应",
+      "reaction_type_english": "Hydroalkylation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

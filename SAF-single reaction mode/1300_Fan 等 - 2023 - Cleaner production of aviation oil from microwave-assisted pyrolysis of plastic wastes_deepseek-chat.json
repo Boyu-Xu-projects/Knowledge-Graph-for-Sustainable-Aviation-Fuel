@@ -1,0 +1,583 @@
+{
+  "file": "1300_Fan 等 - 2023 - Cleaner production of aviation oil from microwave-assisted pyrolysis of plastic wastes.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 5,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在60g碳化硅、650W微波功率、460°C热解温度下，对聚丙烯(PP)进行微波辅助热解，获得78.22 wt%的油产率。",
+        "text_snippet": "The oil yield generated from MAP of PS was higher than that in the study of Suriapparao et al. (2020) (98.78 wt% vs 98.3 wt%). The highest value obtained in the world probably owes to the precise control of reaction parameters and high purity of PS (>95%). Among five kinds of plastics, the oil yield from PC was lowest (39.78 wt%). ... PP was next (78.22 wt%).",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在60g碳化硅、650W微波功率、460°C热解温度下，对聚苯乙烯(PS)进行微波辅助热解，获得98.78 wt%的油产率。",
+        "text_snippet": "The yield of oil prepared from MAP of PS got the maximum (98.78 wt%) at 60 g SiC, 650 W, and 460 °C",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在60g碳化硅、650W微波功率、460°C热解温度下，对高密度聚乙烯(HDPE)进行微波辅助热解，生成难以分离的油和蜡混合物。",
+        "text_snippet": "HDPE and LDPE generated gas and the mixtures of oil and wax, of which the mixtures of oil and wax were difficult to separate completely.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 4,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在60g碳化硅、650W微波功率、460°C热解温度下，对低密度聚乙烯(LDPE)进行微波辅助热解，生成难以分离的油和蜡混合物。",
+        "text_snippet": "HDPE and LDPE generated gas and the mixtures of oil and wax, of which the mixtures of oil and wax were difficult to separate completely.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 5,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在60g碳化硅、650W微波功率、460°C热解温度下，对聚碳酸酯(PC)进行微波辅助热解，获得39.78 wt%的油产率。",
+        "text_snippet": "Among five kinds of plastics, the oil yield from PC was lowest (39.78 wt%).",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "Polypropylene (PP)",
+        "unit": "Not reported",
+        "original": "Polypropylene (PP)"
+      },
+      "Catalyst type": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst composition": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "460",
+        "unit": "°C",
+        "original": "460 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Oxygen-free",
+        "unit": "Not reported",
+        "original": "Oxygen-free"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Microwave-assisted pyrolysis",
+        "unit": "Not reported",
+        "original": "Microwave-assisted pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "Oil",
+        "unit": "Not reported",
+        "original": "Oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "78.22",
+        "unit": "wt%",
+        "original": "78.22 wt% (oil)"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在60g碳化硅、650W微波功率、460°C热解温度下，对聚丙烯(PP)进行微波辅助热解，获得78.22 wt%的油产率。",
+      "experiment_id": 1,
+      "text_snippet": "The oil yield generated from MAP of PS was higher than that in the study of Suriapparao et al. (2020) (98.78 wt% vs 98.3 wt%). The highest value obtained in the world probably owes to the precise control of reaction parameters and high purity of PS (>95%). Among five kinds of plastics, the oil yield..."
+    },
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "polystyrene (PS)",
+        "unit": "Not reported",
+        "original": "polystyrene (PS)"
+      },
+      "Catalyst type": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst composition": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "460",
+        "unit": "°C",
+        "original": "460 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "oxygen-free",
+        "unit": "Not reported",
+        "original": "oxygen-free"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Microwave-assisted pyrolysis",
+        "unit": "Not reported",
+        "original": "Microwave-assisted pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "oil",
+        "unit": "Not reported",
+        "original": "oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "98.78",
+        "unit": "wt%",
+        "original": "98.78 wt% oil"
+      },
+      "Product Selectivity": {
+        "value": "aliphatic hydrocarbons",
+        "unit": "Not reported",
+        "original": "aliphatic hydrocarbons"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在60g碳化硅、650W微波功率、460°C热解温度下，对聚苯乙烯(PS)进行微波辅助热解，获得98.78 wt%的油产率。",
+      "experiment_id": 2,
+      "text_snippet": "The yield of oil prepared from MAP of PS got the maximum (98.78 wt%) at 60 g SiC, 650 W, and 460 °C"
+    },
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "High-density polyethylene (HDPE)",
+        "unit": "Not reported",
+        "original": "High-density polyethylene (HDPE)"
+      },
+      "Catalyst type": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst composition": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "460",
+        "unit": "°C",
+        "original": "460 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Oxygen-free",
+        "unit": "Not reported",
+        "original": "Oxygen-free"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Microwave-assisted pyrolysis",
+        "unit": "Not reported",
+        "original": "Microwave-assisted pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "Oil",
+        "unit": "Not reported",
+        "original": "Oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "Oil and wax mixture (difficult to separate)",
+        "unit": "%",
+        "original": "Oil and wax mixture (difficult to separate)"
+      },
+      "Product Selectivity": {
+        "value": "98.45",
+        "unit": "area%",
+        "original": "Aliphatic hydrocarbons (98.45 area%)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在60g碳化硅、650W微波功率、460°C热解温度下，对高密度聚乙烯(HDPE)进行微波辅助热解，生成难以分离的油和蜡混合物。",
+      "experiment_id": 3,
+      "text_snippet": "HDPE and LDPE generated gas and the mixtures of oil and wax, of which the mixtures of oil and wax were difficult to separate completely."
+    },
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "Low-density polyethylene (LDPE)",
+        "unit": "Not reported",
+        "original": "Low-density polyethylene (LDPE)"
+      },
+      "Catalyst type": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst composition": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "460",
+        "unit": "°C",
+        "original": "460 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Oxygen-free",
+        "unit": "Not reported",
+        "original": "Oxygen-free"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Microwave-assisted pyrolysis",
+        "unit": "Not reported",
+        "original": "Microwave-assisted pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "Oil",
+        "unit": "Not reported",
+        "original": "Oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "98.78",
+        "unit": "wt%",
+        "original": "Oil: 98.78 wt% (for PS)"
+      },
+      "Product Selectivity": {
+        "value": "100",
+        "unit": "area%",
+        "original": "Aliphatic hydrocarbons: 100 area% (for LDPE)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在60g碳化硅、650W微波功率、460°C热解温度下，对低密度聚乙烯(LDPE)进行微波辅助热解，生成难以分离的油和蜡混合物。",
+      "experiment_id": 4,
+      "text_snippet": "HDPE and LDPE generated gas and the mixtures of oil and wax, of which the mixtures of oil and wax were difficult to separate completely."
+    },
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "polycarbonate (PC)",
+        "unit": "Not reported",
+        "original": "polycarbonate (PC)"
+      },
+      "Catalyst type": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst composition": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "460",
+        "unit": "°C",
+        "original": "460 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "oxygen-free",
+        "unit": "Not reported",
+        "original": "oxygen-free"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "microwave-assisted pyrolysis",
+        "unit": "Not reported",
+        "original": "microwave-assisted pyrolysis"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "oil",
+        "unit": "Not reported",
+        "original": "oil"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "39.78",
+        "unit": "wt%",
+        "original": "39.78 wt% oil"
+      },
+      "Product Selectivity": {
+        "value": "87.73",
+        "unit": "area%",
+        "original": "phenols (87.73 area%)"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在60g碳化硅、650W微波功率、460°C热解温度下，对聚碳酸酯(PC)进行微波辅助热解，获得39.78 wt%的油产率。",
+      "experiment_id": 5,
+      "text_snippet": "Among five kinds of plastics, the oil yield from PC was lowest (39.78 wt%)."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 4,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 5,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

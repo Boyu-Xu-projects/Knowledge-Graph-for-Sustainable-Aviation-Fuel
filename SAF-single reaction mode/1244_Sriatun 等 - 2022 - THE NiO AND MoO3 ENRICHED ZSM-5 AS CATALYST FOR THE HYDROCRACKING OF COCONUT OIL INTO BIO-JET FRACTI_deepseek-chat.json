@@ -1,0 +1,135 @@
+{
+  "file": "1244_Sriatun 等 - 2022 - THE NiO AND MoO3 ENRICHED ZSM-5 AS CATALYST FOR THE HYDROCRACKING OF COCONUT OIL INTO BIO-JET FRACTI.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在475°C下，使用NiO或MoO3改性的ZSM-5催化剂，对椰子油进行3小时的加氢裂化反应，以生产生物航空燃料馏分",
+        "text_snippet": "The catalyst activity was observed through a hydrocracking reaction at a temperature of 475 °C for 3 hours, using coconut oil as feed and the catalyst concentration was 2 (wt.%).",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Coconut oil",
+        "unit": "Not reported",
+        "original": "Coconut oil"
+      },
+      "Catalyst type": {
+        "value": "5",
+        "unit": "NiO/ZSM-",
+        "original": "NiO/ZSM-5"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "wt%",
+        "original": "0.5-5 wt.% NiO"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "475",
+        "unit": "°C",
+        "original": "475 °C"
+      },
+      "Reaction pressure": {
+        "value": "Atmospheric pressure",
+        "unit": "MPa",
+        "original": "Atmospheric pressure"
+      },
+      "Flow rate": {
+        "value": "10",
+        "unit": "mL/min",
+        "original": "10 mL/min hydrogen"
+      },
+      "Reaction time": {
+        "value": "3",
+        "unit": "h",
+        "original": "3 hours"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Semi-batch reactor",
+        "unit": "Not reported",
+        "original": "Semi-batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "2",
+        "unit": "wt%",
+        "original": "2 wt.%"
+      },
+      "Product": {
+        "value": "15",
+        "unit": "hydrocarbons",
+        "original": "Bio-jet fuel fraction (C10-C15 hydrocarbons)"
+      },
+      "Conversion rate": {
+        "value": "42.29",
+        "unit": "%",
+        "original": "ZSM-5: 42.29%"
+      },
+      "Product yield": {
+        "value": "-45.09",
+        "unit": "wt%",
+        "original": "Liquid: 24.71-45.09 wt.%"
+      },
+      "Product Selectivity": {
+        "value": "55",
+        "unit": "%",
+        "original": "Ni-1: 55% bio-jet selectivity"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在475°C下，使用NiO或MoO3改性的ZSM-5催化剂，对椰子油进行3小时的加氢裂化反应，以生产生物航空燃料馏分",
+      "experiment_id": 1,
+      "text_snippet": "The catalyst activity was observed through a hydrocracking reaction at a temperature of 475 °C for 3 hours, using coconut oil as feed and the catalyst concentration was 2 (wt.%)."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

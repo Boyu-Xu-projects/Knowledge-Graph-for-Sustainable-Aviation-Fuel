@@ -1,0 +1,583 @@
+{
+  "file": "1173_Dutta 等 - 2017 - Solventless C–C Coupling of Low Carbon Furanics to High Carbon Fuel Precursors Using an Improved Gra.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 5,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "羟烷基化/烷基化反应",
+        "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+        "description": "在60°C无溶剂条件下，使用IGO催化剂催化2-甲基呋喃与糠醛的C-C偶联反应，生成C15燃料前体1a。",
+        "text_snippet": "Synthesis of 5,5′-Bis(2-methylfuranyl)furan-2-ylmethane (1a). Furfural(0.77g,8mmol),2-MF(1.45g,17.6mmol),andIGO(60 mg) were charged in a 4 mL screw-cap vial... stirred for a set reaction time and temperature as listed in Tables1 and2underoil bath heating.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "羟烷基化/烷基化反应",
+        "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+        "description": "在60°C无溶剂条件下，使用IGO催化剂催化2-甲基呋喃与丁醛的C-C偶联反应，生成化合物2a。",
+        "text_snippet": "Synthesis of 5,5′-(Butane-1,1-diyl)bis(2-methylfuran) (2a). Butanal (0.634 g, 8.8 mmol), 2-MF (1.45 g, 17.6 mmol), and IGO(60mg)weremixedina4mLscrew-capvial...",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 3,
+        "reaction_type": "羟烷基化/烷基化反应",
+        "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+        "description": "在50°C无溶剂条件下，使用IGO催化剂催化2-甲基呋喃与丙酮的C-C偶联反应，生成化合物3a。",
+        "text_snippet": "Synthesis of 5,5′-(Propane-2,2-diyl)bis(2-methylfuran) (3a). Acetone (0.232 g, 4 mmol), 2-MF (0.722 g, 8.8 mmol), and IGO (60 mg) were mixed in a 4 mL screw-cap vial... stirred at 50 °C for 12 h",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 4,
+        "reaction_type": "羟烷基化/烷基化反应",
+        "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+        "description": "在63°C无溶剂条件下，使用IGO催化剂催化2-甲基呋喃与5-羟甲基糠醛(HMF)的C-C偶联反应，生成化合物4a。",
+        "text_snippet": "Synthesis of 5,5′((5-((5-Methylfuran-2-yl)methyl)furan-2-yl)methylene)bis(2-methylfuran) (4a). HMF (0.126 g, 1 mmol), 2-MF (0.246 g, 3 mmol), and IGO (50 mg) were mixed in a 4 mL screw-cap vial... stirred at 63 °C for 12 h",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 5,
+        "reaction_type": "羟烷基化/烷基化反应",
+        "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+        "description": "在63°C无溶剂条件下，使用IGO催化剂催化2-甲基呋喃与丙酮醇的C-C偶联反应，生成化合物5a。",
+        "text_snippet": "Synthesis of 5,5′-(1-Hydroxypropane-2,2-diyl)bis(2-methylfuran) (5a). Acetol (0.296 g, 4.0 mmol), 2-MF (0.722 g, 8.8 mmol),andIGO(50mg)weremixedina4mLscrew-capvial... stirred at 63 °C for 12 h",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran",
+        "unit": "Not reported",
+        "original": "2-methylfuran"
+      },
+      "Catalyst type": {
+        "value": "Improved graphene oxide (IGO) carbocatalyst",
+        "unit": "Not reported",
+        "original": "Improved graphene oxide (IGO) carbocatalyst"
+      },
+      "Catalyst composition": {
+        "value": "Graphene oxide with enhanced oxygen functionalities and defect sites",
+        "unit": "Not reported",
+        "original": "Graphene oxide with enhanced oxygen functionalities and defect sites"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "60",
+        "unit": "°C",
+        "original": "60 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "6",
+        "unit": "h",
+        "original": "6 h"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "2.2:1",
+        "unit": ":",
+        "original": "2-methylfuran:furfural = 2.2:1 (17.6 mmol:8 mmol)"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "60",
+        "unit": "mg",
+        "original": "60 mg"
+      },
+      "Product": {
+        "value": "15",
+        "unit": "fuel",
+        "original": "5,5′-Bis(2-methylfuranyl)furan-2-ylmethane (C15 fuel precursor 1a)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "95",
+        "unit": "%",
+        "original": "95%"
+      },
+      "Product Selectivity": {
+        "value": "High selectivity (not quantified)",
+        "unit": "Not reported",
+        "original": "High selectivity (not quantified)"
+      },
+      "Catalyst stability": {
+        "value": "Regains nearly full activity upon regeneration",
+        "unit": "Not reported",
+        "original": "Regains nearly full activity upon regeneration"
+      },
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在60°C无溶剂条件下，使用IGO催化剂催化2-甲基呋喃与糠醛的C-C偶联反应，生成C15燃料前体1a。",
+      "experiment_id": 1,
+      "text_snippet": "Synthesis of 5,5′-Bis(2-methylfuranyl)furan-2-ylmethane (1a). Furfural(0.77g,8mmol),2-MF(1.45g,17.6mmol),andIGO(60 mg) were charged in a 4 mL screw-cap vial... stirred for a set reaction time and temperature as listed in Tables1 and2underoil bath heating."
+    },
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran",
+        "unit": "Not reported",
+        "original": "2-methylfuran"
+      },
+      "Catalyst type": {
+        "value": "Improved graphene oxide (IGO)",
+        "unit": "Not reported",
+        "original": "Improved graphene oxide (IGO)"
+      },
+      "Catalyst composition": {
+        "value": "Graphene oxide with enhanced oxygen functionalities and defect sites",
+        "unit": "Not reported",
+        "original": "Graphene oxide with enhanced oxygen functionalities and defect sites"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "60",
+        "unit": "°C",
+        "original": "60°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "12",
+        "unit": "h",
+        "original": "12 hours"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "2:1",
+        "unit": ":",
+        "original": "2-methylfuran:butanal = 2:1"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "60",
+        "unit": "mg",
+        "original": "60 mg"
+      },
+      "Product": {
+        "value": "2",
+        "unit": "a",
+        "original": "5,5′-(butane-1,1-diyl)bis(2-methylfuran) (2a)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "83",
+        "unit": "%",
+        "original": "83%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Regains nearly full activity upon regeneration",
+        "unit": "Not reported",
+        "original": "Regains nearly full activity upon regeneration"
+      },
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在60°C无溶剂条件下，使用IGO催化剂催化2-甲基呋喃与丁醛的C-C偶联反应，生成化合物2a。",
+      "experiment_id": 2,
+      "text_snippet": "Synthesis of 5,5′-(Butane-1,1-diyl)bis(2-methylfuran) (2a). Butanal (0.634 g, 8.8 mmol), 2-MF (1.45 g, 17.6 mmol), and IGO(60mg)weremixedina4mLscrew-capvial..."
+    },
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran",
+        "unit": "Not reported",
+        "original": "2-methylfuran"
+      },
+      "Catalyst type": {
+        "value": "Improved graphene oxide (IGO) carbocatalyst",
+        "unit": "Not reported",
+        "original": "Improved graphene oxide (IGO) carbocatalyst"
+      },
+      "Catalyst composition": {
+        "value": "IGO",
+        "unit": "Not reported",
+        "original": "IGO"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "50",
+        "unit": "°C",
+        "original": "50 °C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "12",
+        "unit": "h",
+        "original": "12 h"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "2.2:1",
+        "unit": ":",
+        "original": "2-methylfuran:acetone = 2.2:1"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "60",
+        "unit": "mg",
+        "original": "60 mg"
+      },
+      "Product": {
+        "value": "3",
+        "unit": "a",
+        "original": "5,5′-(Propane-2,2-diyl)bis(2-methylfuran) (3a)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "90",
+        "unit": "%",
+        "original": "90%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Regains nearly full activity upon regeneration",
+        "unit": "Not reported",
+        "original": "Regains nearly full activity upon regeneration"
+      },
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在50°C无溶剂条件下，使用IGO催化剂催化2-甲基呋喃与丙酮的C-C偶联反应，生成化合物3a。",
+      "experiment_id": 3,
+      "text_snippet": "Synthesis of 5,5′-(Propane-2,2-diyl)bis(2-methylfuran) (3a). Acetone (0.232 g, 4 mmol), 2-MF (0.722 g, 8.8 mmol), and IGO (60 mg) were mixed in a 4 mL screw-cap vial... stirred at 50 °C for 12 h"
+    },
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran",
+        "unit": "Not reported",
+        "original": "2-methylfuran"
+      },
+      "Catalyst type": {
+        "value": "Improved Graphene Oxide (IGO)",
+        "unit": "Not reported",
+        "original": "Improved Graphene Oxide (IGO)"
+      },
+      "Catalyst composition": {
+        "value": "Graphene oxide with enhanced oxygen functionalities and defect sites",
+        "unit": "Not reported",
+        "original": "Graphene oxide with enhanced oxygen functionalities and defect sites"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "63",
+        "unit": "°C",
+        "original": "63°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "12",
+        "unit": "h",
+        "original": "12 h"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "3:1",
+        "unit": ":",
+        "original": "2-methylfuran:HMF = 3:1"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "50",
+        "unit": "mg",
+        "original": "50 mg"
+      },
+      "Product": {
+        "value": "4",
+        "unit": "a",
+        "original": "5,5′((5-((5-Methylfuran-2-yl)methyl)furan-2-yl)methylene)bis(2-methylfuran) (4a)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "89",
+        "unit": "%",
+        "original": "89%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Regains nearly full activity upon regeneration",
+        "unit": "Not reported",
+        "original": "Regains nearly full activity upon regeneration"
+      },
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在63°C无溶剂条件下，使用IGO催化剂催化2-甲基呋喃与5-羟甲基糠醛(HMF)的C-C偶联反应，生成化合物4a。",
+      "experiment_id": 4,
+      "text_snippet": "Synthesis of 5,5′((5-((5-Methylfuran-2-yl)methyl)furan-2-yl)methylene)bis(2-methylfuran) (4a). HMF (0.126 g, 1 mmol), 2-MF (0.246 g, 3 mmol), and IGO (50 mg) were mixed in a 4 mL screw-cap vial... stirred at 63 °C for 12 h"
+    },
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "2-methylfuran",
+        "unit": "Not reported",
+        "original": "2-methylfuran"
+      },
+      "Catalyst type": {
+        "value": "Improved Graphene Oxide (IGO) carbocatalyst",
+        "unit": "Not reported",
+        "original": "Improved Graphene Oxide (IGO) carbocatalyst"
+      },
+      "Catalyst composition": {
+        "value": "Graphene oxide with enhanced oxygen functionalities and defect sites",
+        "unit": "Not reported",
+        "original": "Graphene oxide with enhanced oxygen functionalities and defect sites"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "63",
+        "unit": "°C",
+        "original": "63°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "12",
+        "unit": "h",
+        "original": "12 h"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "2.2:1",
+        "unit": ":",
+        "original": "2-methylfuran:acetol = 2.2:1 (8.8 mmol:4.0 mmol)"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "50",
+        "unit": "mg",
+        "original": "50 mg"
+      },
+      "Product": {
+        "value": "5",
+        "unit": "a",
+        "original": "5,5′-(1-Hydroxypropane-2,2-diyl)bis(2-methylfuran) (5a)"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "87",
+        "unit": "%",
+        "original": "87%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Regains nearly full activity upon regeneration",
+        "unit": "Not reported",
+        "original": "Regains nearly full activity upon regeneration"
+      },
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在63°C无溶剂条件下，使用IGO催化剂催化2-甲基呋喃与丙酮醇的C-C偶联反应，生成化合物5a。",
+      "experiment_id": 5,
+      "text_snippet": "Synthesis of 5,5′-(1-Hydroxypropane-2,2-diyl)bis(2-methylfuran) (5a). Acetol (0.296 g, 4.0 mmol), 2-MF (0.722 g, 8.8 mmol),andIGO(50mg)weremixedina4mLscrew-capvial... stirred at 63 °C for 12 h"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 3,
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 4,
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 5,
+      "reaction_type": "羟烷基化/烷基化反应",
+      "reaction_type_english": "Hydroxyalkylation/alkylation (HAA) reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1320_Shin 等 - 2024 - An experimental study of the endothermic catalytic cracking of hydrocarbon aviation fuels under extr.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在超临界条件下（550°C; 50 bar）对甲基环己烷（MCH）航空燃料进行吸热催化裂解，使用HZ、AT-HZ、Zn1-AT-HZ、Zn3-AT-HZ和Zn5-AT-HZ沸石催化剂，研究裂解性能和积炭形成。",
+        "text_snippet": "After the endothermic pyrolysis of MCH fuel over the modified zeolite catalysts, the condensed liquid product fraction (%) was analyzed... MCH fuel was supplied to the catalytic cracking reactor at a constant flow rate of 3ml/min... under the constant conditions of 50bar and 550◦C, the fundamental study of the endothermic catalytic cracking phenomena of MCH fuel through the proposed modified zeolites was carried out in a flow-type reactor",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "Methylcyclohexane (MCH)",
+        "unit": "Not reported",
+        "original": "Methylcyclohexane (MCH)"
+      },
+      "Catalyst type": {
+        "value": "-5",
+        "unit": "zeolite",
+        "original": "HZSM-5 zeolite"
+      },
+      "Catalyst composition": {
+        "value": "HZ",
+        "unit": "Not reported",
+        "original": "HZ"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "550",
+        "unit": "°C",
+        "original": "550°C"
+      },
+      "Reaction pressure": {
+        "value": "50",
+        "unit": "bar",
+        "original": "50 bar"
+      },
+      "Flow rate": {
+        "value": "3",
+        "unit": "mL/min",
+        "original": "3 ml/min"
+      },
+      "Reaction time": {
+        "value": "30",
+        "unit": "min",
+        "original": "30 minutes"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Flow reactor",
+        "unit": "Not reported",
+        "original": "Flow reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g"
+      },
+      "Product": {
+        "value": "2",
+        "unit": "n",
+        "original": "Linear hydrocarbons (CnH2n+2/CnH2n)"
+      },
+      "Conversion rate": {
+        "value": "84",
+        "unit": "%",
+        "original": "HZ: 84% to 41% in 30 min"
+      },
+      "Product yield": {
+        "value": "21.6",
+        "unit": "%",
+        "original": "Gas products: HZ (21.6%), AT-HZ (30.8%), Zn1-AT-HZ (35.0%), Zn3-AT-HZ (35.9%), Zn5-AT-HZ (35.0%) at t=0"
+      },
+      "Product Selectivity": {
+        "value": "Linear hydrocarbons: decreased over time",
+        "unit": "Not reported",
+        "original": "Linear hydrocarbons: decreased over time"
+      },
+      "Catalyst stability": {
+        "value": "50",
+        "unit": "%",
+        "original": "Catalytic deactivation: HZ (~50%), AT-HZ (~40%), Zn-treated samples (~30%) in 30 min"
+      },
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在超临界条件下（550°C; 50 bar）对甲基环己烷（MCH）航空燃料进行吸热催化裂解，使用HZ、AT-HZ、Zn1-AT-HZ、Zn3-AT-HZ和Zn5-AT-HZ沸石催化剂，研究裂解性能和积炭形成。",
+      "experiment_id": 1,
+      "text_snippet": "After the endothermic pyrolysis of MCH fuel over the modified zeolite catalysts, the condensed liquid product fraction (%) was analyzed... MCH fuel was supplied to the catalytic cracking reactor at a constant flow rate of 3ml/min... under the constant conditions of 50bar and 550◦C, the fundamental s..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

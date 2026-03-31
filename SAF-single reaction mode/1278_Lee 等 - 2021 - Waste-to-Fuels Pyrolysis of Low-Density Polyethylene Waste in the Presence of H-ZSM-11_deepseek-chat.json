@@ -1,0 +1,247 @@
+{
+  "file": "1278_Lee 等 - 2021 - Waste-to-Fuels Pyrolysis of Low-Density Polyethylene Waste in the Presence of H-ZSM-11.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "热解反应",
+        "reaction_type_english": "Pyrolysis reaction",
+        "description": "在惰性N₂气氛下，对低密度聚乙烯（LDPE）废料进行非催化热解，温度范围为500°C至900°C。",
+        "text_snippet": "both non-catalytic pyrolysis and catalytic pyrolysis were conducted... An inert atmosphere during the pyrolysis was maintained by flowing N₂ gas... The non-catalytic pyrolysis of LDPE",
+        "reaction_type_classify": "Pyrolysis reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "催化热解反应",
+        "reaction_type_english": "Catalytic pyrolysis reaction",
+        "description": "在H-ZSM-11沸石催化剂（1 wt.%）存在下，对低密度聚乙烯（LDPE）废料进行催化热解，温度范围为500°C至900°C，研究催化剂对产物组成和产量的影响。",
+        "text_snippet": "catalytic pyrolysis were conducted... For catalytic pyrolysis, the H-ZSM-11 catalyst (10 mg, equivalent to 1 wt.% of the feedstock) was mixed with the feedstock.",
+        "reaction_type_classify": "Pyrolysis reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "low-density polyethylene (LDPE) scrap",
+        "unit": "Not reported",
+        "original": "low-density polyethylene (LDPE) scrap"
+      },
+      "Catalyst type": {
+        "value": "-11",
+        "unit": "zeolite",
+        "original": "H-ZSM-11 zeolite"
+      },
+      "Catalyst composition": {
+        "value": "11",
+        "unit": "H-ZSM-",
+        "original": "H-ZSM-11"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500",
+        "unit": "°C",
+        "original": "500°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "100",
+        "unit": "mL",
+        "original": "100 mL min⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "N₂",
+        "unit": "Not reported",
+        "original": "N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "10",
+        "unit": "mg",
+        "original": "10 mg"
+      },
+      "Product": {
+        "value": "hydrogen",
+        "unit": "Not reported",
+        "original": "hydrogen"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "700",
+        "unit": "°C",
+        "original": "Non-catalytic pyrolytic gas yield at 700°C: 28.6 wt.%"
+      },
+      "Product Selectivity": {
+        "value": "Increased propylene content in catalytic pyrolysis due to promoted dehydrogenation of propane",
+        "unit": "Not reported",
+        "original": "Increased propylene content in catalytic pyrolysis due to promoted dehydrogenation of propane"
+      },
+      "Catalyst stability": {
+        "value": "8.9",
+        "unit": "wt%",
+        "original": "Coke deposition of 8.9 wt.% after pyrolysis"
+      },
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在惰性N₂气氛下，对低密度聚乙烯（LDPE）废料进行非催化热解，温度范围为500°C至900°C。",
+      "experiment_id": 1,
+      "text_snippet": "both non-catalytic pyrolysis and catalytic pyrolysis were conducted... An inert atmosphere during the pyrolysis was maintained by flowing N₂ gas... The non-catalytic pyrolysis of LDPE"
+    },
+    {
+      "Published year": {
+        "value": "2021",
+        "unit": "year",
+        "original": "2021"
+      },
+      "Feedstock": {
+        "value": "Low-density polyethylene (LDPE) scrap",
+        "unit": "Not reported",
+        "original": "Low-density polyethylene (LDPE) scrap"
+      },
+      "Catalyst type": {
+        "value": "-11",
+        "unit": "zeolite",
+        "original": "H-ZSM-11 zeolite"
+      },
+      "Catalyst composition": {
+        "value": "11",
+        "unit": "H-ZSM-",
+        "original": "H-ZSM-11"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "500",
+        "unit": "°C",
+        "original": "500°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "100",
+        "unit": "mL",
+        "original": "100 mL min⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "N₂",
+        "unit": "Not reported",
+        "original": "N₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "wt%",
+        "original": "1 wt.%"
+      },
+      "Product": {
+        "value": "hydrogen",
+        "unit": "Not reported",
+        "original": "hydrogen"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "28.6",
+        "unit": "wt%",
+        "original": "Pyrolytic gas yield: 28.6 wt.% (non-catalytic at 700°C)"
+      },
+      "Product Selectivity": {
+        "value": "Enhanced propylene content in catalytic pyrolysis",
+        "unit": "Not reported",
+        "original": "Enhanced propylene content in catalytic pyrolysis"
+      },
+      "Catalyst stability": {
+        "value": "8.9",
+        "unit": "wt%",
+        "original": "Coke deposition of 8.9 wt.% after pyrolysis"
+      },
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction",
+      "experiment_description": "在H-ZSM-11沸石催化剂（1 wt.%）存在下，对低密度聚乙烯（LDPE）废料进行催化热解，温度范围为500°C至900°C，研究催化剂对产物组成和产量的影响。",
+      "experiment_id": 2,
+      "text_snippet": "catalytic pyrolysis were conducted... For catalytic pyrolysis, the H-ZSM-11 catalyst (10 mg, equivalent to 1 wt.% of the feedstock) was mixed with the feedstock."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "热解反应",
+      "reaction_type_english": "Pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "催化热解反应",
+      "reaction_type_english": "Catalytic pyrolysis reaction",
+      "reaction_type_classify": "Pyrolysis reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

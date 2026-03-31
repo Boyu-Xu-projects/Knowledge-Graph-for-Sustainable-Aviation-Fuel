@@ -1,0 +1,135 @@
+{
+  "file": "1248_Mabaleha - 2022 - Secondary cracking suppression through PtH-BEA n-Hexadecane hydrocracking.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在20 bar压力、175-235°C温度范围内，使用Pt/H-BEA催化剂对正十六烷进行加氢裂化反应，评估催化剂对二次裂化反应的抑制能力和喷气燃料烃选择性",
+        "text_snippet": "n-Hexadecane hydrocracking was performed using a rig composed of four trickle bed reactors... This was performed at 20 bar and 175–235 °C.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "n-hexadecane",
+        "unit": "Not reported",
+        "original": "n-hexadecane"
+      },
+      "Catalyst type": {
+        "value": "Pt/H-BEA",
+        "unit": "Not reported",
+        "original": "Pt/H-BEA"
+      },
+      "Catalyst composition": {
+        "value": "17",
+        "unit": "Pt/H-BEA",
+        "original": "Pt/H-BEA17 (H)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "175",
+        "unit": "°C",
+        "original": "175°C"
+      },
+      "Reaction pressure": {
+        "value": "20",
+        "unit": "bar",
+        "original": "20 bar"
+      },
+      "Flow rate": {
+        "value": "0.02",
+        "unit": "mL/min",
+        "original": "n-hexadecane: 0.02 mL/min"
+      },
+      "Reaction time": {
+        "value": "12",
+        "unit": "h",
+        "original": "12 hours per temperature"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/n-C",
+        "original": "H2/n-C16 = 10 mol/mol"
+      },
+      "Operation mode": {
+        "value": "Trickle bed fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Trickle bed fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "g",
+        "original": "1 g"
+      },
+      "Product": {
+        "value": "9",
+        "unit": "°C",
+        "original": "Jet fuel hydrocarbons (C9+)"
+      },
+      "Conversion rate": {
+        "value": "10",
+        "unit": "%",
+        "original": "10%"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "81",
+        "unit": "%",
+        "original": "81% jet fuel hydrocarbons selectivity at 50% conversion for Pt/H-BEA23 (H)"
+      },
+      "Catalyst stability": {
+        "value": "72",
+        "unit": "h",
+        "original": "72 hours on stream at maximum conversion"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在20 bar压力、175-235°C温度范围内，使用Pt/H-BEA催化剂对正十六烷进行加氢裂化反应，评估催化剂对二次裂化反应的抑制能力和喷气燃料烃选择性",
+      "experiment_id": 1,
+      "text_snippet": "n-Hexadecane hydrocracking was performed using a rig composed of four trickle bed reactors... This was performed at 20 bar and 175–235 °C."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

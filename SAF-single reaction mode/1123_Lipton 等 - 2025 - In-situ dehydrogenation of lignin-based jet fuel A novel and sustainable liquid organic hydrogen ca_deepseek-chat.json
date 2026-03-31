@@ -1,0 +1,135 @@
+{
+  "file": "1123_Lipton 等 - 2025 - In-situ dehydrogenation of lignin-based jet fuel A novel and sustainable liquid organic hydrogen ca.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "脱氢反应",
+        "reaction_type_english": "Dehydrogenation reaction",
+        "description": "使用沸石负载的铂纳米颗粒催化剂，在250°C条件下对木质素基喷气燃料(LJF)进行原位脱氢反应，将环己烷类化合物转化为芳香族化合物",
+        "text_snippet": "The dehydrogenation of LJF into LJF-HyC revealed a significant presence of unsaturated species... we synthesized Pt nanoparticles (5–10 nm) supported on zeolite for the dehydrogenation of LJF... The reactor was then heated to 250 ◦C to initiate the reaction",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Lignin-based jet fuel (LJF)",
+        "unit": "Not reported",
+        "original": "Lignin-based jet fuel (LJF)"
+      },
+      "Catalyst type": {
+        "value": "Zeolite-supported platinum nanoparticles",
+        "unit": "Not reported",
+        "original": "Zeolite-supported platinum nanoparticles"
+      },
+      "Catalyst composition": {
+        "value": "1.0",
+        "unit": "wt%",
+        "original": "1.0 wt% Pt/Zeolite"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "250",
+        "unit": "°C",
+        "original": "250°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "-20",
+        "unit": "h",
+        "original": "12-20 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "accumulation",
+        "original": "Closed system (H2 accumulation)"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "22.0",
+        "unit": "mg",
+        "original": "22.0 mg catalyst per 25.7 mg LJF"
+      },
+      "Product": {
+        "value": "Alkylbenzenes",
+        "unit": "Not reported",
+        "original": "Alkylbenzenes"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "18.5",
+        "unit": "wt%",
+        "original": "18.5 wt% dehydrogenated products"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "脱氢反应",
+      "reaction_type_english": "Dehydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用沸石负载的铂纳米颗粒催化剂，在250°C条件下对木质素基喷气燃料(LJF)进行原位脱氢反应，将环己烷类化合物转化为芳香族化合物",
+      "experiment_id": 1,
+      "text_snippet": "The dehydrogenation of LJF into LJF-HyC revealed a significant presence of unsaturated species... we synthesized Pt nanoparticles (5–10 nm) supported on zeolite for the dehydrogenation of LJF... The reactor was then heated to 250 ◦C to initiate the reaction"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "脱氢反应",
+      "reaction_type_english": "Dehydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1296_Tanwongwan 等 - 2025 - Potential of advanced microporous zeolites and mesoporous materials derived from natural precursors.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用负载在MCM-22、MCM-36、MCM-41和MCM-48四种不同载体上的磷化铁(FeP)催化剂，在高压反应器中对棕榈油进行加氢裂化反应，生产生物航空燃料。反应条件为400°C、20 bar氢气压力、3小时反应时间，以环己烷为溶剂。",
+        "text_snippet": "The reaction was performed in the high-pressure Parr reactor. Firstly,3.7mlofpalmoiland0.3gofcatalystwereloadedintoanautoclavewhile40mlofcyclohexanewasfilledassolvent.Airwaseliminatedfromasystembyhydrogenpurgesfor5minandahydrogengaswaspressedintoasystemfor20bars.Thereactionwasprocessedat400°Cfor3hwith300rpmofstirring.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Palm oil (Elaeis guineensis)",
+        "unit": "Not reported",
+        "original": "Palm oil (Elaeis guineensis)"
+      },
+      "Catalyst type": {
+        "value": "Iron phosphide (FeP) supported on zeolites and mesoporous materials",
+        "unit": "Not reported",
+        "original": "Iron phosphide (FeP) supported on zeolites and mesoporous materials"
+      },
+      "Catalyst composition": {
+        "value": "22",
+        "unit": "FeP/MCM-",
+        "original": "FeP/MCM-22"
+      },
+      "Solvent": {
+        "value": "Cyclohexane",
+        "unit": "Not reported",
+        "original": "Cyclohexane"
+      },
+      "Reaction temperature": {
+        "value": "400",
+        "unit": "°C",
+        "original": "400°C"
+      },
+      "Reaction pressure": {
+        "value": "20",
+        "unit": "bar",
+        "original": "20 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "3",
+        "unit": "h",
+        "original": "3 hours"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.3",
+        "unit": "g",
+        "original": "0.3 g catalyst per 3.7 ml palm oil"
+      },
+      "Product": {
+        "value": "Liquid hydrocarbons (LHCs)",
+        "unit": "Not reported",
+        "original": "Liquid hydrocarbons (LHCs)"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "33",
+        "unit": "%",
+        "original": "FeP/MCM-22: ~33% LHCs yield"
+      },
+      "Product Selectivity": {
+        "value": "78",
+        "unit": "%",
+        "original": "FeP/MCM-22: ~78% bio-jet selectivity"
+      },
+      "Catalyst stability": {
+        "value": "-22",
+        "unit": "showed",
+        "original": "FeP/MCM-22 showed improved performance over three consecutive reaction cycles: LHCs yield increased to 50% and bio-jet selectivity stabilized at about 83%"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用负载在MCM-22、MCM-36、MCM-41和MCM-48四种不同载体上的磷化铁(FeP)催化剂，在高压反应器中对棕榈油进行加氢裂化反应，生产生物航空燃料。反应条件为400°C、20 bar氢气压力、3小时反应时间，以环己烷为溶剂。",
+      "experiment_id": 1,
+      "text_snippet": "The reaction was performed in the high-pressure Parr reactor. Firstly,3.7mlofpalmoiland0.3gofcatalystwereloadedintoanautoclavewhile40mlofcyclohexanewasfilledassolvent.Airwaseliminatedfromasystembyhydrogenpurgesfor5minandahydrogengaswaspressedintoasystemfor20bars.Thereactionwasprocessedat400°Cfor3hwi..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

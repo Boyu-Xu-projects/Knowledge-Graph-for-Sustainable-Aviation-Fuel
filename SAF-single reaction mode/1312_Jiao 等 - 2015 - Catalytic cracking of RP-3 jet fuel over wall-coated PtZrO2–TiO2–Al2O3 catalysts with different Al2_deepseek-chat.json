@@ -1,0 +1,135 @@
+{
+  "file": "1312_Jiao 等 - 2015 - Catalytic cracking of RP-3 jet fuel over wall-coated PtZrO2–TiO2–Al2O3 catalysts with different Al2.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化裂化",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在高温高压条件下，使用一系列不同Al2O3质量比的Pt/ZrO2-TiO2-Al2O3 (PZTA) 壁涂层催化剂，对RP-3航空煤油进行催化裂化实验。实验评估了气体产率、热沉以及气相产物分布，并与热裂解结果进行了对比。",
+        "text_snippet": "Catalytic cracking of RP-3 over such PZTA-coated catalysts were investigated under high temperature and pressure conditions... The self-designed experimental apparatus was used to evaluate the catalytic cracking of RP-3 under high temperature and pressure conditions... catalytic performance measurement was carried out from 550°C to 750°C (the RP-3 jet fuel temperature) and pressure was kept at 3.5MPa.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "-3",
+        "unit": "jet",
+        "original": "RP-3 jet fuel"
+      },
+      "Catalyst type": {
+        "value": "2",
+        "unit": "O",
+        "original": "Pt/ZrO2-TiO2-Al2O3 (PZTA) wall-coated catalyst"
+      },
+      "Catalyst composition": {
+        "value": "2",
+        "unit": "O",
+        "original": "Pt/ZrO2-TiO2-Al2O3 with mass ratio ZrO2:TiO2:Al2O3=1:1:1"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "550",
+        "unit": "°C",
+        "original": "550°C"
+      },
+      "Reaction pressure": {
+        "value": "3.5",
+        "unit": "MPa",
+        "original": "3.5 MPa"
+      },
+      "Flow rate": {
+        "value": "76",
+        "unit": "mL/min",
+        "original": "76 mL/min"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous flow",
+        "unit": "Not reported",
+        "original": "Continuous flow"
+      },
+      "Catalyst loading": {
+        "value": "0.005",
+        "unit": "g/",
+        "original": "0.2 ± 0.005 g/80 cm"
+      },
+      "Product": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "{'Gas yield': 'Reported in Fig.2 (percentage values)'}",
+        "unit": "%",
+        "original": "{'Gas yield': 'Reported in Fig.2 (percentage values)'}"
+      },
+      "Product Selectivity": {
+        "value": "1",
+        "unit": "Table",
+        "original": "{'Alkene to alkane ratio': 'Reported in Table 1 (ene/ane values)'}"
+      },
+      "Catalyst stability": {
+        "value": "700",
+        "unit": "°C",
+        "original": "Deactivation observed at 700°C due to carbon deposition and pore collapse"
+      },
+      "reaction_type": "催化裂化",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在高温高压条件下，使用一系列不同Al2O3质量比的Pt/ZrO2-TiO2-Al2O3 (PZTA) 壁涂层催化剂，对RP-3航空煤油进行催化裂化实验。实验评估了气体产率、热沉以及气相产物分布，并与热裂解结果进行了对比。",
+      "experiment_id": 1,
+      "text_snippet": "Catalytic cracking of RP-3 over such PZTA-coated catalysts were investigated under high temperature and pressure conditions... The self-designed experimental apparatus was used to evaluate the catalytic cracking of RP-3 under high temperature and pressure conditions... catalytic performance measurem..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化裂化",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

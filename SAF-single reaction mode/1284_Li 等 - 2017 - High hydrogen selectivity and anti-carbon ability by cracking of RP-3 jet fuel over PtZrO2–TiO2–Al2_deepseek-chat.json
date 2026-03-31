@@ -1,0 +1,135 @@
+{
+  "file": "1284_Li 等 - 2017 - High hydrogen selectivity and anti-carbon ability by cracking of RP-3 jet fuel over PtZrO2–TiO2–Al2.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "裂解反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在高温高压条件下，使用Pt/ZrO₂-TiO₂-Al₂O₃催化剂及其经BaO、SrO、CeO₂改性的版本，对RP-3航空煤油进行催化裂解反应，以评估催化剂的活性、氢选择性和抗积碳性能。",
+        "text_snippet": "Catalytic cracking of RP-3 jet fuel was used to evaluate the activity of the catalysts... RP-3 jet fuel was fed at a constant liquid flow rate of 1.0 g/s... The temperature of these two thermocouples were kept at 650°C for 30 min. The pressure of the system was controlled at 3.5 MPa.",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2017",
+        "unit": "year",
+        "original": "2017"
+      },
+      "Feedstock": {
+        "value": "-3",
+        "unit": "jet",
+        "original": "RP-3 jet fuel"
+      },
+      "Catalyst type": {
+        "value": "Pt/ZrO₂-TiO₂-Al₂O₃",
+        "unit": "Not reported",
+        "original": "Pt/ZrO₂-TiO₂-Al₂O₃"
+      },
+      "Catalyst composition": {
+        "value": "0.71",
+        "unit": "wt%",
+        "original": "Pt (0.71 wt%) on ZrO₂-TiO₂-Al₂O₃ (mass ratio ZrO₂:TiO₂:Al₂O₃=1:1:3)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "650",
+        "unit": "°C",
+        "original": "650 °C"
+      },
+      "Reaction pressure": {
+        "value": "3.5",
+        "unit": "MPa",
+        "original": "3.5 MPa"
+      },
+      "Flow rate": {
+        "value": "1.0",
+        "unit": "g/s",
+        "original": "1.0 g/s"
+      },
+      "Reaction time": {
+        "value": "30",
+        "unit": "min",
+        "original": "30 min"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Continuous flow",
+        "unit": "Not reported",
+        "original": "Continuous flow"
+      },
+      "Catalyst loading": {
+        "value": "Wall-coated catalyst on stainless steel microchannels",
+        "unit": "wt%",
+        "original": "Wall-coated catalyst on stainless steel microchannels"
+      },
+      "Product": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "5.34",
+        "unit": "%",
+        "original": "{'Hydrogen': ['ZTA: 5.34%', 'Pt/ZTA: 8.61%', 'Pt-Ba/ZTA: 10.43%', 'Pt-Sr/ZTA: 9.70%', 'Pt-Ce/ZTA: 11.68%'], 'Gas yield': ['Pt/ZTA ≈ ZTA > Pt-Sr/ZTA ≈ Pt-Ce/ZTA > Pt-Ba/ZTA']}"
+      },
+      "Product Selectivity": {
+        "value": "{'Hydrogen selectivity': 'Improved with promoters (BaO, SrO, CeO₂)', 'Olefins selectivity': 'Higher over Pt-Sr/ZTA and Pt-Ce/ZTA'}",
+        "unit": "Not reported",
+        "original": "{'Hydrogen selectivity': 'Improved with promoters (BaO, SrO, CeO₂)', 'Olefins selectivity': 'Higher over Pt-Sr/ZTA and Pt-Ce/ZTA'}"
+      },
+      "Catalyst stability": {
+        "value": "5.89",
+        "unit": "mg/cm",
+        "original": "{'Anti-carbon performance': ['Carbon deposit amount: ZTA (5.89 mg/cm²)', 'Pt/ZTA (5.86 mg/cm²)', 'Pt-Ba/ZTA (4.00 mg/cm², decreased by 31.7%)', 'Pt-Sr/ZTA (5.00 mg/cm², decreased by 15.1%)', 'Pt-Ce/ZTA (5.22 mg/cm², decreased by 11.4%)'], 'Carbon deposit type': 'Spherical carbon', 'Stability improvement': 'Promoters (BaO, SrO, CeO₂) enhanced anti-carbon property and hydrogen selectivity'}"
+      },
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在高温高压条件下，使用Pt/ZrO₂-TiO₂-Al₂O₃催化剂及其经BaO、SrO、CeO₂改性的版本，对RP-3航空煤油进行催化裂解反应，以评估催化剂的活性、氢选择性和抗积碳性能。",
+      "experiment_id": 1,
+      "text_snippet": "Catalytic cracking of RP-3 jet fuel was used to evaluate the activity of the catalysts... RP-3 jet fuel was fed at a constant liquid flow rate of 1.0 g/s... The temperature of these two thermocouples were kept at 650°C for 30 min. The pressure of the system was controlled at 3.5 MPa."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "裂解反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1113_Li 等 - 2022 - Synthesis of Pt-based TS-1 catalysts for selective hydrogenation to produce C15–C18 alkanes from the.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢脱氧反应",
+        "reaction_type_english": "Hydrodeoxygenation reaction",
+        "description": "在固定床反应器中，使用一系列稀土金属（La, Ce, Pr, Y）改性的Pt/TS-1催化剂，对脂肪酸甲酯（FAME）进行加氢处理，以生产C15-C18烷烃。反应在360°C、3 MPa氢压、氢/酯比800 NmL·mL⁻¹、液时空速0.8 h⁻¹的条件下进行8小时。",
+        "text_snippet": "The hydrotreatment of FAME was conducted to evaluate the catalytic performance of preparing catalysts... Conditions: T: 360 °C, P: 3 MPa, H/E: 800 NmL·mL⁻¹, LHSV: 0.8 h⁻¹, and RT: 8 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Fatty acid methyl ester (FAME)",
+        "unit": "Not reported",
+        "original": "Fatty acid methyl ester (FAME)"
+      },
+      "Catalyst type": {
+        "value": "-1",
+        "unit": "catalysts",
+        "original": "Pt-based TS-1 catalysts modified with rare-earth metals"
+      },
+      "Catalyst composition": {
+        "value": "1",
+        "unit": "Pt/TS-",
+        "original": "Pt/TS-1"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "360",
+        "unit": "°C",
+        "original": "360°C"
+      },
+      "Reaction pressure": {
+        "value": "3",
+        "unit": "MPa",
+        "original": "3 MPa"
+      },
+      "Flow rate": {
+        "value": "0.8",
+        "unit": "h",
+        "original": "LHSV: 0.8 h⁻¹, H₂/ester ratio: 800 NmL·mL⁻¹"
+      },
+      "Reaction time": {
+        "value": "8",
+        "unit": "h",
+        "original": "8 hours"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "2",
+        "unit": "wt%",
+        "original": "Pt: 2 wt%, Rare-earth metals: 1 wt%"
+      },
+      "Product": {
+        "value": "18",
+        "unit": "alkanes",
+        "original": "C15–C18 alkanes"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "75.7",
+        "unit": "%",
+        "original": "Liquid yield: 75.7%"
+      },
+      "Product Selectivity": {
+        "value": "15",
+        "unit": "alkanes",
+        "original": "C15 alkanes: 15.1%"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在固定床反应器中，使用一系列稀土金属（La, Ce, Pr, Y）改性的Pt/TS-1催化剂，对脂肪酸甲酯（FAME）进行加氢处理，以生产C15-C18烷烃。反应在360°C、3 MPa氢压、氢/酯比800 NmL·mL⁻¹、液时空速0.8 h⁻¹的条件下进行8小时。",
+      "experiment_id": 1,
+      "text_snippet": "The hydrotreatment of FAME was conducted to evaluate the catalytic performance of preparing catalysts... Conditions: T: 360 °C, P: 3 MPa, H/E: 800 NmL·mL⁻¹, LHSV: 0.8 h⁻¹, and RT: 8 h."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢脱氧反应",
+      "reaction_type_english": "Hydrodeoxygenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "file": "1217_Dutta 等 - 2022 - A separations and purification process for improving yields and meeting fuel contaminant specificati.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用Cu/BEA催化剂将二甲醚(DME)转化为高辛烷值汽油组分，涉及加氢、同系化和异构化等多种反应",
+        "text_snippet": "Dimethyl-ether can be further deoxygenated and converted to higher molecular weight hydrocarbons for drop-in blending with gasoline... Research from our laboratory demonstrated the performance benefits of Cu modification of the BEA catalyst,6 with the Cu/BEA catalyst exhibiting enhanced hydrogenation and higher productivity toward C5+ gasoline-compatible hydrocarbons",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Dimethyl-ether (DME)",
+        "unit": "Not reported",
+        "original": "Dimethyl-ether (DME)"
+      },
+      "Catalyst type": {
+        "value": "Cu/BEA",
+        "unit": "Not reported",
+        "original": "Cu/BEA"
+      },
+      "Catalyst composition": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "225",
+        "unit": "°C",
+        "original": "225°C"
+      },
+      "Reaction pressure": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "1.0",
+        "unit": "of",
+        "original": "H₂ to DME molar ratio of 1.0"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "Branched alkanes",
+        "unit": "Not reported",
+        "original": "Branched alkanes"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "97.1",
+        "unit": "wt%",
+        "original": "C5+ content: 97.1 wt%"
+      },
+      "Product Selectivity": {
+        "value": "1",
+        "unit": "for",
+        "original": "See Table 1 for detailed carbon number and species selectivity"
+      },
+      "Catalyst stability": {
+        "value": "Maintained via offline regeneration with parallel reactors",
+        "unit": "Not reported",
+        "original": "Maintained via offline regeneration with parallel reactors"
+      },
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用Cu/BEA催化剂将二甲醚(DME)转化为高辛烷值汽油组分，涉及加氢、同系化和异构化等多种反应",
+      "experiment_id": 1,
+      "text_snippet": "Dimethyl-ether can be further deoxygenated and converted to higher molecular weight hydrocarbons for drop-in blending with gasoline... Research from our laboratory demonstrated the performance benefits of Cu modification of the BEA catalyst,6 with the Cu/BEA catalyst exhibiting enhanced hydrogenatio..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

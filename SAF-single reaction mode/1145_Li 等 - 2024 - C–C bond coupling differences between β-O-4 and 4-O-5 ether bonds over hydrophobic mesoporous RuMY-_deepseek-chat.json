@@ -1,0 +1,247 @@
+{
+  "file": "1145_Li 等 - 2024 - C–C bond coupling differences between β-O-4 and 4-O-5 ether bonds over hydrophobic mesoporous RuMY-.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化加氢转化",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在Ru3/MY-O催化剂上，于160°C、4 MPa初始氢压、2小时条件下，催化加氢转化2-苯氧基-1-苯乙醇(PP-ol)，得到环己烷、乙基环己烷和1,2-二环己基乙烷等产物",
+        "text_snippet": "Under the optimized reaction conditions (160 ◦C, IHP 4 MPa, 2 h), PP-ol was completely converted. 18.5 mol% of cyclohexane, 24.6 mol% of ethylcyclohexane and 41.8 mol% of 1,2-dicyclohexylethane were obtained.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "催化加氢转化",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在Ru3/MY-O催化剂上，于160°C、4 MPa初始氢压、2小时条件下，催化加氢转化氧化二苯(ODB)，得到环己烷、双环己烷和(环戊基甲基)环己烷等产物",
+        "text_snippet": "Under the optimized reaction conditions (160 ◦C, IHP 4 MPa, 2 h), ODB was completely converted. 18.5 mol% cyclohexane, 13.2 mol% bicyclohexane and 8.3 mol% (cyclopentylmethyl)cyclohexane were obtained.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "1",
+        "unit": "phenoxy-",
+        "original": "2-phenoxy-1-phenylethanol (PP-ol)"
+      },
+      "Catalyst type": {
+        "value": "bifunctional metal–acid catalyst",
+        "unit": "Not reported",
+        "original": "bifunctional metal–acid catalyst"
+      },
+      "Catalyst composition": {
+        "value": "Ru/MY-O",
+        "unit": "Not reported",
+        "original": "Ru/MY-O"
+      },
+      "Solvent": {
+        "value": "n-hexane",
+        "unit": "Not reported",
+        "original": "n-hexane"
+      },
+      "Reaction temperature": {
+        "value": "160",
+        "unit": "°C",
+        "original": "160°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa initial hydrogen pressure"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 hours"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "batch",
+        "unit": "Not reported",
+        "original": "batch"
+      },
+      "Catalyst loading": {
+        "value": "30",
+        "unit": "mg",
+        "original": "30 mg catalyst per 0.5 mmol LRMCs in 10 mL n-hexane"
+      },
+      "Product": {
+        "value": "cyclohexane",
+        "unit": "Not reported",
+        "original": "cyclohexane"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100% for PP-ol and ODB under optimized conditions"
+      },
+      "Product yield": {
+        "value": "18.5",
+        "unit": "mol%",
+        "original": "18.5 mol% cyclohexane"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "3",
+        "unit": "/MY-O",
+        "original": "Ru3/MY-O conversion improved by nearly 10% compared to Ru3/Y in the fifth cycle reaction"
+      },
+      "reaction_type": "催化加氢转化",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Ru3/MY-O催化剂上，于160°C、4 MPa初始氢压、2小时条件下，催化加氢转化2-苯氧基-1-苯乙醇(PP-ol)，得到环己烷、乙基环己烷和1,2-二环己基乙烷等产物",
+      "experiment_id": 1,
+      "text_snippet": "Under the optimized reaction conditions (160 ◦C, IHP 4 MPa, 2 h), PP-ol was completely converted. 18.5 mol% of cyclohexane, 24.6 mol% of ethylcyclohexane and 41.8 mol% of 1,2-dicyclohexylethane were obtained."
+    },
+    {
+      "Published year": {
+        "value": "2024",
+        "unit": "year",
+        "original": "2024"
+      },
+      "Feedstock": {
+        "value": "oxydibenzene (ODB)",
+        "unit": "Not reported",
+        "original": "oxydibenzene (ODB)"
+      },
+      "Catalyst type": {
+        "value": "bifunctional metal–acid catalyst",
+        "unit": "Not reported",
+        "original": "bifunctional metal–acid catalyst"
+      },
+      "Catalyst composition": {
+        "value": "3",
+        "unit": "/MY-O",
+        "original": "Ru3/MY-O"
+      },
+      "Solvent": {
+        "value": "n-hexane",
+        "unit": "Not reported",
+        "original": "n-hexane"
+      },
+      "Reaction temperature": {
+        "value": "160",
+        "unit": "°C",
+        "original": "160°C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa initial hydrogen pressure"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "2",
+        "unit": "h",
+        "original": "2 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "h",
+        "original": "H2"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "30",
+        "unit": "mg",
+        "original": "30 mg"
+      },
+      "Product": {
+        "value": "cyclohexane",
+        "unit": "Not reported",
+        "original": "cyclohexane"
+      },
+      "Conversion rate": {
+        "value": "100",
+        "unit": "%",
+        "original": "100%"
+      },
+      "Product yield": {
+        "value": "18.5",
+        "unit": "mol%",
+        "original": "18.5 mol% cyclohexane"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "3",
+        "unit": "/MY-O",
+        "original": "Ru3/MY-O conversion improved by nearly 10% compared to Ru3/Y in the fifth cycle reaction"
+      },
+      "reaction_type": "催化加氢转化",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在Ru3/MY-O催化剂上，于160°C、4 MPa初始氢压、2小时条件下，催化加氢转化氧化二苯(ODB)，得到环己烷、双环己烷和(环戊基甲基)环己烷等产物",
+      "experiment_id": 2,
+      "text_snippet": "Under the optimized reaction conditions (160 ◦C, IHP 4 MPa, 2 h), ODB was completely converted. 18.5 mol% cyclohexane, 13.2 mol% bicyclohexane and 8.3 mol% (cyclopentylmethyl)cyclohexane were obtained."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化加氢转化",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "催化加氢转化",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

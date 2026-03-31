@@ -1,0 +1,247 @@
+{
+  "file": "1342_Hanaoka 等 - 2015 - Jet fuel synthesis in hydrocracking of Fischer–Tropsch product over Pt-loaded zeolite catalysts prep.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用不同Pt/沸石催化剂，在250°C、1 MPa初始H₂压力下，对模型化合物n-C₂₈H₅₈（二十八烷）进行1小时的加氢裂化筛选实验。",
+        "text_snippet": "First, a screening study was performed to determine the hydrocracking performance on n-C28H58 and n-C36H74 of various Pt-loaded zeolite catalysts prepared using an impregnation method... Hydrocracking tests were performed... Temperatures and inner pressures were recorded... The hydrocracking reaction started when the temperature reached 250°C. The reaction time was 1 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用不同Pt/沸石催化剂，在250°C、1 MPa初始H₂压力下，对模型化合物n-C₃₆H₇₄（三十六烷）进行1小时的加氢裂化筛选实验。",
+        "text_snippet": "First, a screening study was performed to determine the hydrocracking performance on n-C28H58 and n-C36H74 of various Pt-loaded zeolite catalysts prepared using an impregnation method... Hydrocracking tests were performed... Temperatures and inner pressures were recorded... The hydrocracking reaction started when the temperature reached 250°C. The reaction time was 1 h.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "n-C₂₈H₅₈ (octacosane)",
+        "unit": "Not reported",
+        "original": "n-C₂₈H₅₈ (octacosane)"
+      },
+      "Catalyst type": {
+        "value": "Pt-loaded zeolite catalysts",
+        "unit": "Not reported",
+        "original": "Pt-loaded zeolite catalysts"
+      },
+      "Catalyst composition": {
+        "value": "0.1",
+        "unit": "wt%",
+        "original": "Pt (0.1 wt.%) on various zeolite supports (β-type, mordenite-type, Y-type)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "250",
+        "unit": "°C",
+        "original": "250°C"
+      },
+      "Reaction pressure": {
+        "value": "1",
+        "unit": "MPa",
+        "original": "1 MPa initial H₂ pressure"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch (autoclave)",
+        "unit": "Not reported",
+        "original": "Batch (autoclave)"
+      },
+      "Catalyst loading": {
+        "value": "0.2",
+        "unit": "g",
+        "original": "0.2 g catalyst, 5 g feedstock"
+      },
+      "Product": {
+        "value": "C₁–C₈ hydrocarbons",
+        "unit": "Not reported",
+        "original": "C₁–C₈ hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "84.3",
+        "unit": "%",
+        "original": "Reported for specific catalysts and feedstocks (e.g., 84.3% for n-C₂₈H₅₈ over Cat. K, 99.1% for n-C₃₆H₇₄ over Cat. K)"
+      },
+      "Product yield": {
+        "value": "29.1",
+        "unit": "C-mol%",
+        "original": "Reported as C-mol% for various product ranges (e.g., 29.1 C-mol% jet fuel yield maximum)"
+      },
+      "Product Selectivity": {
+        "value": "Not explicitly reported as selectivity, but yields for specific carbon ranges are provided",
+        "unit": "Not reported",
+        "original": "Not explicitly reported as selectivity, but yields for specific carbon ranges are provided"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用不同Pt/沸石催化剂，在250°C、1 MPa初始H₂压力下，对模型化合物n-C₂₈H₅₈（二十八烷）进行1小时的加氢裂化筛选实验。",
+      "experiment_id": 1,
+      "text_snippet": "First, a screening study was performed to determine the hydrocracking performance on n-C28H58 and n-C36H74 of various Pt-loaded zeolite catalysts prepared using an impregnation method... Hydrocracking tests were performed... Temperatures and inner pressures were recorded... The hydrocracking reactio..."
+    },
+    {
+      "Published year": {
+        "value": "2015",
+        "unit": "year",
+        "original": "2015"
+      },
+      "Feedstock": {
+        "value": "n-C₃₆H₇₄ (hexatriacontane)",
+        "unit": "Not reported",
+        "original": "n-C₃₆H₇₄ (hexatriacontane)"
+      },
+      "Catalyst type": {
+        "value": "Pt-loaded zeolite catalysts",
+        "unit": "Not reported",
+        "original": "Pt-loaded zeolite catalysts"
+      },
+      "Catalyst composition": {
+        "value": "0.1",
+        "unit": "wt%",
+        "original": "Pt (0.1 wt.%) on various zeolite supports (β-type, mordenite-type, Y-type)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "250",
+        "unit": "°C",
+        "original": "250°C"
+      },
+      "Reaction pressure": {
+        "value": "1",
+        "unit": "MPa",
+        "original": "1 MPa (initial H₂ pressure)"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "1",
+        "unit": "h",
+        "original": "1 h"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch",
+        "unit": "Not reported",
+        "original": "Batch"
+      },
+      "Catalyst loading": {
+        "value": "0.2",
+        "unit": "g",
+        "original": "0.2 g catalyst / 5 g feedstock"
+      },
+      "Product": {
+        "value": "C₁–C₈",
+        "unit": "Not reported",
+        "original": "C₁–C₈"
+      },
+      "Conversion rate": {
+        "value": "99.1",
+        "unit": "%",
+        "original": "Reported for specific catalysts and feedstocks (e.g., 99.1% for n-C₃₆H₇₄ over Cat. K)"
+      },
+      "Product yield": {
+        "value": "Reported as C-mol% for specific catalysts and feedstocks",
+        "unit": "%",
+        "original": "Reported as C-mol% for specific catalysts and feedstocks"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用不同Pt/沸石催化剂，在250°C、1 MPa初始H₂压力下，对模型化合物n-C₃₆H₇₄（三十六烷）进行1小时的加氢裂化筛选实验。",
+      "experiment_id": 2,
+      "text_snippet": "First, a screening study was performed to determine the hydrocracking performance on n-C28H58 and n-C36H74 of various Pt-loaded zeolite catalysts prepared using an impregnation method... Hydrocracking tests were performed... Temperatures and inner pressures were recorded... The hydrocracking reactio..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

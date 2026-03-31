@@ -1,0 +1,247 @@
+{
+  "file": "1231_Bai 等 - 2025 - Direct Jet Fuel Synthesis Over CoM-TUD-1 Catalysts by the Integration of Mesopore Confinement Effec.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 2,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "氢化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "使用Co/Al-TUD-1催化剂，在固定床反应器中进行费托合成反应，将合成气（CO/H₂）转化为C₈-C₁₆烃类（航空燃油范围）。反应条件：240°C，2 MPa压力，H₂/CO摩尔比=1，空速2400 mL g⁻¹ h⁻¹。",
+        "text_snippet": "The Fischer−Tropsch synthesis reaction was performed in a fixed-bed reactor... syngas(CO/H₂/N₂=47.5:47.5:5) was introduced into the reactor... reaction temperature=240°C, total pressure=20 bar",
+        "reaction_type_classify": "Hydrogenation reaction"
+      },
+      {
+        "experiment_id": 2,
+        "reaction_type": "氢化裂解反应",
+        "reaction_type_english": "Hydrocracking reaction",
+        "description": "在费托合成过程中，Co/Al-TUD-1催化剂上的布朗斯特酸位点促进了长链烃类的加氢裂解反应，将C₁₇⁺蜡质产物裂解为C₈-C₁₆航空燃油范围的烃类。",
+        "text_snippet": "the hydrocracking activity of the support’s acidic sites enable the selective production of jet fuel... long-chain hydrocarbons were adsorbed and protonated at Brønsted acid sites, where subsequent C−C bond cleavage or isomerization to form iso-paraffins occurs",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "Synthesis gas (CO/H₂)",
+        "unit": "Not reported",
+        "original": "Synthesis gas (CO/H₂)"
+      },
+      "Catalyst type": {
+        "value": "1",
+        "unit": "Co/Al-TUD-",
+        "original": "Co/Al-TUD-1"
+      },
+      "Catalyst composition": {
+        "value": "15",
+        "unit": "wt%",
+        "original": "15 wt % Co on Al-TUD-1 support (Si/Al = 25)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "240",
+        "unit": "°C",
+        "original": "240 °C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "2400",
+        "unit": "mL",
+        "original": "2400 mL g⁻¹ h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "Syngas (CO/H₂/N₂ = 47.5:47.5:5)",
+        "unit": "Not reported",
+        "original": "Syngas (CO/H₂/N₂ = 47.5:47.5:5)"
+      },
+      "Reactant molar ratio": {
+        "value": "H₂/CO = 1",
+        "unit": "Not reported",
+        "original": "H₂/CO = 1"
+      },
+      "Operation mode": {
+        "value": "Fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g catalyst mixed with 2 g quartz sand"
+      },
+      "Product": {
+        "value": "C₈-C₁₆ hydrocarbons (jet fuel range)",
+        "unit": "Not reported",
+        "original": "C₈-C₁₆ hydrocarbons (jet fuel range)"
+      },
+      "Conversion rate": {
+        "value": "47.2",
+        "unit": "%",
+        "original": "47.2%"
+      },
+      "Product yield": {
+        "value": "174.7",
+        "unit": "g",
+        "original": "174.7 g kgₐₜ⁻¹ h⁻¹"
+      },
+      "Product Selectivity": {
+        "value": "51.3",
+        "unit": "%",
+        "original": "51.3%"
+      },
+      "Catalyst stability": {
+        "value": "240",
+        "unit": "h",
+        "original": "Stable for 240 h (CO conversion >39%, C₅₊ selectivity >80%)"
+      },
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "使用Co/Al-TUD-1催化剂，在固定床反应器中进行费托合成反应，将合成气（CO/H₂）转化为C₈-C₁₆烃类（航空燃油范围）。反应条件：240°C，2 MPa压力，H₂/CO摩尔比=1，空速2400 mL g⁻¹ h⁻¹。",
+      "experiment_id": 1,
+      "text_snippet": "The Fischer−Tropsch synthesis reaction was performed in a fixed-bed reactor... syngas(CO/H₂/N₂=47.5:47.5:5) was introduced into the reactor... reaction temperature=240°C, total pressure=20 bar"
+    },
+    {
+      "Published year": {
+        "value": "2025",
+        "unit": "year",
+        "original": "2025"
+      },
+      "Feedstock": {
+        "value": "2",
+        "unit": "/N",
+        "original": "syngas (CO/H2/N2 = 47.5:47.5:5)"
+      },
+      "Catalyst type": {
+        "value": "1",
+        "unit": "Co/Al-TUD-",
+        "original": "Co/Al-TUD-1"
+      },
+      "Catalyst composition": {
+        "value": "15",
+        "unit": "wt%",
+        "original": "15 wt % Co on Al-TUD-1 support (Si/Al = 25)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "240",
+        "unit": "°C",
+        "original": "240 °C"
+      },
+      "Reaction pressure": {
+        "value": "2",
+        "unit": "MPa",
+        "original": "2 MPa"
+      },
+      "Flow rate": {
+        "value": "20",
+        "unit": "mL/min",
+        "original": "20 mL/min syngas flow rate (GHSV = 2400 mL g⁻¹ cat h⁻¹)"
+      },
+      "Reaction time": {
+        "value": "48",
+        "unit": "h",
+        "original": "48 hours"
+      },
+      "Atmosphere": {
+        "value": "2",
+        "unit": "/N",
+        "original": "syngas (CO/H2/N2 = 47.5:47.5:5)"
+      },
+      "Reactant molar ratio": {
+        "value": "2",
+        "unit": "/CO",
+        "original": "H2/CO = 1"
+      },
+      "Operation mode": {
+        "value": "fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "0.5",
+        "unit": "g",
+        "original": "0.5 g catalyst mixed with 2 g quartz sand"
+      },
+      "Product": {
+        "value": "16",
+        "unit": "hydrocarbons",
+        "original": "C8-C16 hydrocarbons (jet fuel range)"
+      },
+      "Conversion rate": {
+        "value": "47.2",
+        "unit": "%",
+        "original": "47.2% CO conversion"
+      },
+      "Product yield": {
+        "value": "174.7",
+        "unit": "g",
+        "original": "174.7 g kg⁻¹ cat h⁻¹ jet fuel productivity"
+      },
+      "Product Selectivity": {
+        "value": "51.3",
+        "unit": "%",
+        "original": "51.3% C8-C16 selectivity"
+      },
+      "Catalyst stability": {
+        "value": "240",
+        "unit": "h",
+        "original": "Stable for 240 hours with CO conversion >39% and C5+ selectivity >80%"
+      },
+      "reaction_type": "氢化裂解反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在费托合成过程中，Co/Al-TUD-1催化剂上的布朗斯特酸位点促进了长链烃类的加氢裂解反应，将C₁₇⁺蜡质产物裂解为C₈-C₁₆航空燃油范围的烃类。",
+      "experiment_id": 2,
+      "text_snippet": "the hydrocracking activity of the support’s acidic sites enable the selective production of jet fuel... long-chain hydrocarbons were adsorbed and protonated at Brønsted acid sites, where subsequent C−C bond cleavage or isomerization to form iso-paraffins occurs"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "氢化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    },
+    {
+      "experiment_id": 2,
+      "reaction_type": "氢化裂解反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

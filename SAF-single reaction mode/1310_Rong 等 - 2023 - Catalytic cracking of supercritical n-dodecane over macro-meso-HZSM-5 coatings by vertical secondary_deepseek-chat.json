@@ -1,0 +1,135 @@
+{
+  "file": "1310_Rong 等 - 2023 - Catalytic cracking of supercritical n-dodecane over macro-meso-HZSM-5 coatings by vertical secondary.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "催化裂化反应",
+        "reaction_type_english": "Cracking reaction",
+        "description": "在550°C和4MPa的超临界条件下，在宏观-介观-HZSM-5涂层上催化裂解正十二烷",
+        "text_snippet": "Catalytic cracking of the supercritical n-dodecane under 550◦C and 4 MPa was carried out in a flowing reactor to evaluate the catalytic performance of the coatings",
+        "reaction_type_classify": "Cracking reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2023",
+        "unit": "year",
+        "original": "2023"
+      },
+      "Feedstock": {
+        "value": "n-dodecane",
+        "unit": "Not reported",
+        "original": "n-dodecane"
+      },
+      "Catalyst type": {
+        "value": "-5",
+        "unit": "coating",
+        "original": "macro-meso-HZSM-5 coating"
+      },
+      "Catalyst composition": {
+        "value": "-5",
+        "unit": "zeolite",
+        "original": "HZSM-5 zeolite with hierarchical pore structure (macro-meso-microporous)"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "550",
+        "unit": "°C",
+        "original": "550 °C"
+      },
+      "Reaction pressure": {
+        "value": "4",
+        "unit": "MPa",
+        "original": "4 MPa"
+      },
+      "Flow rate": {
+        "value": "10",
+        "unit": "mL/min",
+        "original": "10 mL/min"
+      },
+      "Reaction time": {
+        "value": "60",
+        "unit": "min",
+        "original": "60 min"
+      },
+      "Atmosphere": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "flowing reactor",
+        "unit": "Not reported",
+        "original": "flowing reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "light hydrocarbons",
+        "unit": "Not reported",
+        "original": "light hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "64.09",
+        "unit": "%",
+        "original": "64.09% (MZC-Al-2N), 61.21% (MZC-Ga-2N), 51.64% (MZC-2N), 42.85% (ZC-2N), 33.39% (ZC-1N), 25.88% (ZC-0N)"
+      },
+      "Product yield": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product Selectivity": {
+        "value": "3",
+        "unit": "olefin/paraffin",
+        "original": "{'C3 olefin/paraffin ratio': '2.25-2.55', 'i-C4 olefin/paraffin ratio': '4.56-6.58', 'Aromatics selectivity': '0.61-0.75%', 'Cyclic hydrocarbons selectivity': '2.03-2.37%'}"
+      },
+      "Catalyst stability": {
+        "value": "14.64",
+        "unit": "%",
+        "original": "{'Deactivation rate': '14.64% (MZC-Al-2N), 13.71% (MZC-Ga-2N), 11.94% (MZC-2N), 25.17% (ZC-2N), 30.54% (ZC-1N), 41.08% (ZC-0N)', 'Coke amount': '1.21 mg (MZC-Al-2N), 1.17 mg (MZC-Ga-2N), 1.09 mg (MZC-2N), 1.05 mg (ZC-2N), 0.94 mg (ZC-1N), 0.87 mg (ZC-0N)'}"
+      },
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction",
+      "experiment_description": "在550°C和4MPa的超临界条件下，在宏观-介观-HZSM-5涂层上催化裂解正十二烷",
+      "experiment_id": 1,
+      "text_snippet": "Catalytic cracking of the supercritical n-dodecane under 550◦C and 4 MPa was carried out in a flowing reactor to evaluate the catalytic performance of the coatings"
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "催化裂化反应",
+      "reaction_type_english": "Cracking reaction",
+      "reaction_type_classify": "Cracking reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

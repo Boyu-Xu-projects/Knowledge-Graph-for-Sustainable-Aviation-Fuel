@@ -1,0 +1,135 @@
+{
+  "file": "1117_Azkaar 等 - 2020 - Hydrocracking of hexadecane to jet fuel components over hierarchical Ru-modified faujasite zeolite.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrocracking reaction",
+        "description": "在间歇反应器中，于250°C和45 bar氢气压力下，使用含钌（Ru）的微孔和介孔USY沸石催化剂对十六烷（Hexadecane）进行加氢裂化，以生产喷气燃料组分（C9-C15烃）。",
+        "text_snippet": "Hexadecane hydrocracking was investigated over bifunctional Ru-containing micro- and mesoporous USY zeolites at 250°C under 45 bar in the presence of hydrogen in a batch reactor.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2020",
+        "unit": "year",
+        "original": "2020"
+      },
+      "Feedstock": {
+        "value": "Hexadecane",
+        "unit": "Not reported",
+        "original": "Hexadecane"
+      },
+      "Catalyst type": {
+        "value": "USY zeolite",
+        "unit": "Not reported",
+        "original": "USY zeolite"
+      },
+      "Catalyst composition": {
+        "value": "Ru",
+        "unit": "Not reported",
+        "original": "Ru"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "250",
+        "unit": "°C",
+        "original": "250°C"
+      },
+      "Reaction pressure": {
+        "value": "45",
+        "unit": "bar",
+        "original": "45 bar"
+      },
+      "Flow rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction time": {
+        "value": "4",
+        "unit": "h",
+        "original": "4 h"
+      },
+      "Atmosphere": {
+        "value": "Hydrogen",
+        "unit": "Not reported",
+        "original": "Hydrogen"
+      },
+      "Reactant molar ratio": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Operation mode": {
+        "value": "Batch reactor",
+        "unit": "Not reported",
+        "original": "Batch reactor"
+      },
+      "Catalyst loading": {
+        "value": "1",
+        "unit": "g",
+        "original": "1 g"
+      },
+      "Product": {
+        "value": "15",
+        "unit": "hydrocarbons",
+        "original": "C9-C15 hydrocarbons"
+      },
+      "Conversion rate": {
+        "value": "71",
+        "unit": "%",
+        "original": "71%"
+      },
+      "Product yield": {
+        "value": "26",
+        "unit": "%",
+        "original": "26%"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "-11.6",
+        "unit": "wt%",
+        "original": "Carbon content 9.8-11.6 wt%"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在间歇反应器中，于250°C和45 bar氢气压力下，使用含钌（Ru）的微孔和介孔USY沸石催化剂对十六烷（Hexadecane）进行加氢裂化，以生产喷气燃料组分（C9-C15烃）。",
+      "experiment_id": 1,
+      "text_snippet": "Hexadecane hydrocracking was investigated over bifunctional Ru-containing micro- and mesoporous USY zeolites at 250°C under 45 bar in the presence of hydrogen in a batch reactor."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrocracking reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

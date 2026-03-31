@@ -1,0 +1,135 @@
+{
+  "file": "1111_Cao 等 - 2022 - Hydrocracking Straight-Run Diesel into High-Value Chemical Materials The Effect of Acidity and Kine.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 1,
+    "experiments": [
+      {
+        "experiment_id": 1,
+        "reaction_type": "加氢裂化反应",
+        "reaction_type_english": "Hydrogenation reaction",
+        "description": "在双功能催化剂（NiW/AY-15、NiW/AY-25、NiW/AY-35）上对直馏柴油进行加氢裂化，生产轻石脑油、重石脑油、喷气燃料和升级柴油等化学品。",
+        "text_snippet": "The hydrocracking performances of straight-run diesel for all of the catalysts were evaluated on a pilot unit with two reactors... The first reactor was applied to hydrotreating feedstock for saturating aromatics and removing heteroatoms of S, N, and O. The second reactor was used to crack heavy fractions into light fractions, which included gas, light naphtha, heavy naphtha, jet fuel, and upgraded diesel.",
+        "reaction_type_classify": "Hydrogenation reaction"
+      }
+    ]
+  },
+  "experiments": [
+    {
+      "Published year": {
+        "value": "2022",
+        "unit": "year",
+        "original": "2022"
+      },
+      "Feedstock": {
+        "value": "Straight-run diesel",
+        "unit": "Not reported",
+        "original": "Straight-run diesel"
+      },
+      "Catalyst type": {
+        "value": "Bifunctional catalysts",
+        "unit": "Not reported",
+        "original": "Bifunctional catalysts"
+      },
+      "Catalyst composition": {
+        "value": "15",
+        "unit": "NiW/AY-",
+        "original": "NiW/AY-15"
+      },
+      "Solvent": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Reaction temperature": {
+        "value": "350",
+        "unit": "°C",
+        "original": "350 °C"
+      },
+      "Reaction pressure": {
+        "value": "8",
+        "unit": "MPa",
+        "original": "8 MPa"
+      },
+      "Flow rate": {
+        "value": "2.0",
+        "unit": "h",
+        "original": "LHSV = 2.0 h⁻¹"
+      },
+      "Reaction time": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Atmosphere": {
+        "value": "H₂",
+        "unit": "Not reported",
+        "original": "H₂"
+      },
+      "Reactant molar ratio": {
+        "value": "800",
+        "unit": "/",
+        "original": "H₂/Oil = 800/1200 (v/v)"
+      },
+      "Operation mode": {
+        "value": "Continuous fixed-bed reactor",
+        "unit": "Not reported",
+        "original": "Continuous fixed-bed reactor"
+      },
+      "Catalyst loading": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product": {
+        "value": "Light naphtha",
+        "unit": "Not reported",
+        "original": "Light naphtha"
+      },
+      "Conversion rate": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Product yield": {
+        "value": "4",
+        "unit": "gas",
+        "original": "{'C1-C4 gas': ['1.05%', '1.20%', '1.40%'], '<65°C light naphtha': ['2.35%', '3.30%', '4.11%'], '65-165°C heavy naphtha': ['10.63%', '15.55%', '19.48%'], '165-260°C jet fuel': ['41.57%', '35.75%', '31.00%'], '>260°C diesel': ['44.70%', '44.40%', '44.14%']}"
+      },
+      "Product Selectivity": {
+        "value": "Not reported",
+        "unit": "Not reported",
+        "original": "Not reported"
+      },
+      "Catalyst stability": {
+        "value": "0.014",
+        "unit": "°C/day",
+        "original": "Deactivation rate: 0.014 °C/day (hydrocracking catalyst), 0.026 °C/day (hydrotreating catalyst)"
+      },
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction",
+      "experiment_description": "在双功能催化剂（NiW/AY-15、NiW/AY-25、NiW/AY-35）上对直馏柴油进行加氢裂化，生产轻石脑油、重石脑油、喷气燃料和升级柴油等化学品。",
+      "experiment_id": 1,
+      "text_snippet": "The hydrocracking performances of straight-run diesel for all of the catalysts were evaluated on a pilot unit with two reactors... The first reactor was applied to hydrotreating feedstock for saturating aromatics and removing heteroatoms of S, N, and O. The second reactor was used to crack heavy fra..."
+    }
+  ],
+  "reaction_types_summary": [
+    {
+      "experiment_id": 1,
+      "reaction_type": "加氢裂化反应",
+      "reaction_type_english": "Hydrogenation reaction",
+      "reaction_type_classify": "Hydrogenation reaction"
+    }
+  ],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}

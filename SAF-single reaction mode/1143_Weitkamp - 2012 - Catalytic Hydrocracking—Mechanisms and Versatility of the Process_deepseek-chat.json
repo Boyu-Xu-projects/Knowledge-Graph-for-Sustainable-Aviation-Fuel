@@ -1,0 +1,20 @@
+{
+  "file": "1143_Weitkamp - 2012 - Catalytic Hydrocracking—Mechanisms and Versatility of the Process.txt",
+  "model": "deepseek-chat",
+  "experiment_info": {
+    "experiment_count": 0,
+    "experiments": []
+  },
+  "experiments": [],
+  "reaction_types_summary": [],
+  "field_units_reference": {
+    "Reaction temperature": "°C",
+    "Reaction pressure": "MPa",
+    "Flow rate": "mL/min",
+    "Reaction time": "h",
+    "Catalyst loading": "wt%",
+    "Conversion rate": "%",
+    "Product yield": "%",
+    "Selectivity": "%"
+  }
+}
